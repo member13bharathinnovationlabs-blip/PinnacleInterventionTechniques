@@ -3,7 +3,7 @@
 
   "metaTags": [
     {"tag": "meta", "name": "mobile-web-app-capable", "content": "yes"},
-    {"tag": "meta", "name": "application-name", "content": "Pinnacle Therapy Materials"},
+    {"tag": "meta", "name": "application-name", "content": "Pinnacle Intervention Techniques"},
     {"tag": "meta", "name": "format-detection", "content": "telephone=yes"},
     {"tag": "meta", "name": "format-detection", "content": "address=yes"},
     
@@ -44,7 +44,7 @@
     {"tag": "meta", "name": "slack-app-id", "content": "YOUR_SLACK_APP_ID"},
     
     {"tag": "meta", "name": "msapplication-config", "content": "/browserconfig.xml"},
-    {"tag": "meta", "name": "msapplication-tooltip", "content": "Pinnacle Blooms - Autism Therapy Materials"},
+    {"tag": "meta", "name": "msapplication-tooltip", "content": "Pinnacle Blooms - Autism Intervention Techniques"},
     {"tag": "meta", "name": "msapplication-starturl", "content": "https://pinnacleblooms.org"},
     {"tag": "meta", "name": "msapplication-navbutton-color", "content": "#0066cc"},
     {"tag": "meta", "name": "msapplication-task", "content": "name=Call Helpline;action-uri=tel:+919100181181;icon-uri=/favicon.ico"},
