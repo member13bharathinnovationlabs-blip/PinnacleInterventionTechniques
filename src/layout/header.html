@@ -1,0 +1,892 @@
+<!-- ========================================
+     PINNACLE BLOOMS HEADER
+     Copy everything inside the <header> tag
+     ======================================== -->
+
+<style>
+  :root {
+    --background: #fbf7f4;
+    --foreground: #2b2b2b;
+
+    --primary: #5b2aad;
+    --primary-light: #efe9f6;
+    --primary-dark: #4a1d6d;
+
+    --muted: #f3f1f7;
+    --muted-foreground: #6b7280;
+
+    --border: #e6dff2;
+
+    --whatsapp: #25d366;
+    --phone: #6b5cff;
+
+    --header-height: 64px;
+    --header-height-mobile: 56px;
+
+    --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  /* Header */
+  .pb-header {
+    position: fixed;
+    inset: 0 0 auto 0;
+    z-index: 1000;
+    background: rgba(251, 247, 244, 0.98);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .pb-header-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .pb-header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: var(--header-height-mobile);
+    font-family: var(--font-sans);
+  }
+
+  .pb-header-left {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  /* Icon buttons */
+  .pb-icon-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+  }
+
+  /* Menu button */
+  .pb-menu-btn {
+    background: var(--primary-light);
+    color: var(--primary);
+  }
+
+  .pb-menu-btn:hover {
+    background: #e6dcf5;
+  }
+
+  /* Logo */
+  .pb-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    flex-direction: column;
+  }
+
+  .pb-logo-img {
+    height: 28px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+  }
+
+  .pb-logo-tagline {
+    font-size: 0.7rem;
+    color: var(--muted-foreground);
+    line-height: 1.1;
+    margin-top: 0;
+    display: block;
+  }
+
+  /* Desktop nav */
+  .pb-nav-center {
+    display: none;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .pb-nav-link,
+  .pb-dropdown-trigger {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #3a2a4d;
+    padding: 0.5rem 0.75rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    text-decoration: none;position: relative;
+  }
+
+  .pb-nav-link:hover,
+  .pb-dropdown-trigger:hover {
+    color: var(--primary);
+  }
+
+  .pb-dropdown {
+    position: relative;
+  }
+
+  .pb-dropdown-trigger svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  /* Mega menu */
+  .pb-mega-menu {
+
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 820px;
+    margin-top: 0.5rem;
+    background: #ffffff;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.08);
+    padding: 0.5rem;
+  }
+  .pb-mega-menu.sec {
+    left: 350px;
+    text-transform: uppercase;
+  }
+  .magamenu a.pb-dropdown-trigger {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    padding-left: 0px;
+    padding-right: 14px;
+    margin-right: 37px;
+  }
+nav.pb-nav-center.magamenu {
+    margin-bottom: 10px;
+}
+  
+  /* .pb-dropdown:hover .pb-mega-menu {
+    display: block;
+  } */
+
+
+  .pb-mega-menu {
+    opacity: 0;
+    transform: translateX(-50%) translateY(8px);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .pb-dropdown:hover .pb-mega-menu,.pb-mega-menu:hover {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
+  }
+
+  /* Right icons */
+  .pb-header-right {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .pb-action-whatsapp {
+    background: rgba(37, 211, 102, 0.12);
+    color: var(--whatsapp);
+  }
+
+  .pb-action-whatsapp:hover {
+    background: rgba(37, 211, 102, 0.18);
+  }
+
+  .pb-action-phone {
+    background: rgba(107, 92, 255, 0.12);
+    color: var(--phone);
+  }
+
+  .pb-action-phone:hover {
+    background: rgba(107, 92, 255, 0.18);
+  }
+
+  /* Mobile menu */
+  .pb-mobile-menu {
+    display: none;
+    position: fixed;
+    inset: var(--header-height-mobile) 0 0 0;
+    background: #ffffff;
+    z-index: 999;
+    overflow-y: auto;
+    height: 100vh
+  }
+
+  .pb-mobile-menu.active {
+    display: block;
+  }
+
+  .pb-dropdown:hover .pb-mega-menu {
+    display: block;
+  }
+
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateX(-50%) translateY(-8px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  }
+
+  .pb-mega-grid {
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(205px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .pb-mega-group-title {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted-foreground);
+    margin-bottom: 0.5rem;
+  }
+
+  .pb-mega-list {
+    list-style: none;
+  }
+
+  .pb-mega-link {
+    display: block;
+    font-size: 0.875rem;
+    color: hsla(200, 25%, 15%, 0.8);
+    text-decoration: none;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+  }
+
+  .pb-mega-link:hover {
+    color: var(--primary);
+    background: var(--primary-light);
+  }
+
+  @media (min-width: 1024px) {
+    .pb-header-inner {
+      height: var(--header-height);
+    }
+
+    .pb-menu-btn {
+      display: none;
+    }
+
+    .pb-logo-img {
+      height: 36px;
+    }
+
+    .pb-nav-center {
+      display: flex;
+    }
+  }
+
+  .pb-mobile-menu.active {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  .pb-mobile-nav {
+    padding: 1rem 0;
+  }
+
+  .pb-mobile-section-title {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted-foreground);
+    padding: 0 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .pb-mobile-categories {
+    max-height: 40vh;
+    overflow-y: auto;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .pb-mobile-link {
+    display: block;
+    padding: 0.75rem 1rem;
+    color: hsla(200, 25%, 15%, 0.8);
+    text-decoration: none;
+    border-bottom: 1px solid hsla(180, 15%, 88%, 0.5);
+    transition: all 0.2s ease;
+  }
+
+  .pb-mobile-link:hover {
+    color: var(--primary);
+    background: hsla(174, 45%, 92%, 0.5);
+  }
+
+  .pb-mobile-link.primary {
+    font-weight: 500;
+  }
+
+  .pb-mobile-link.footer-link {
+    color: var(--primary);
+    font-weight: 500;
+  }
+
+  /* Scrollbar Hide */
+  .pb-scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .pb-scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .pb-dropdown-trigger:hover {
+    color: var(--primary);
+  }
+
+  .pb-dropdown-trigger svg {
+    width: 12px;
+    height: 10px;
+    transition: transform 0.2s ease;
+        position: absolute;
+    top: 9px;
+    right: 0px;
+  }
+
+  .pb-dropdown:hover .pb-dropdown-trigger svg {
+    transform: rotate(180deg);
+  }
+
+  /* Desktop Styles */
+  @media (min-width: 1024px) {
+    .pb-header-inner {
+      height: var(--header-height);
+    }
+
+    .pb-menu-btn {
+      display: none;
+    }
+
+    .pb-logo-brand {
+      font-size: 1.25rem;
+    }
+
+    .pb-logo-tagline {
+      font-size: 0.75rem;
+    }
+
+    .pb-nav-center {
+      display: flex;
+    }
+
+    .pb-mobile-menu {
+      display: none !important;
+    }
+
+  }
+
+  .pdf-viewer {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  align-items: flex-start;
+}
+  .page {min-width: 45vw;display: flex;justify-content: center;overflow: visible;}
+  .page img {max-width: 100%;height: auto;display: block;}
+   @media (max-width: 768px) { .page { min-width: 85vw; } }
+</style>
+<!-- <link rel="icon" type="image/x-icon" href="../assets/favicon.ico"> -->
+<link rel="icon" type="image/x-icon" href="https://www.pinnacleblooms.org/favicon.ico">
+<header class="pb-header" id="pinnacle-top">
+  <div class="pb-header-container">
+    <div class="pb-header-inner">
+
+      <div class="pb-header-left">
+        <button class="pb-icon-btn pb-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
+          <svg id="menu-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            style="display: block;">
+            <line x1="4" x2="20" y1="12" y2="12"></line>
+            <line x1="4" x2="20" y1="6" y2="6"></line>
+            <line x1="4" x2="20" y1="18" y2="18"></line>
+          </svg>
+          <svg id="close-icon" style="display: none;" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <path d="M18 6 6 18"></path>
+            <path d="m6 6 12 12"></path>
+          </svg>
+        </button>
+
+        <a href="/" class="pb-logo">
+          <img src="https://www.pinnacleblooms.org/cdn-cgi/image/height=28,quality=60/images/pb-logo.png?v=3"
+            height="28" fetchpriority=high alt="Pinnacle Blooms Logo" class="pb-logo-img" loading="eager"
+            decoding="async">
+          <span class="pb-logo-tagline">Therapy Materials Library</span>
+        </a>
+      </div>
+
+      <nav class="pb-nav-center">
+        <!-- <div class="pb-dropdown">
+          <button class="pb-dropdown-trigger">
+            Materials
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </button>
+          <div class="pb-mega-menu">
+            <div class="pb-mega-grid">
+             
+              <div>
+                <h4 class="pb-mega-group-title">Sensory &amp; Motor</h4>
+                <ul class="pb-mega-list">
+                  <li><a href="#sensory-regulation" class="pb-mega-link">Sensory Regulation</a></li>
+                  <li><a href="#motor-praxis" class="pb-mega-link">Motor &amp; Praxis</a></li>
+                  <li><a href="#auditory-processing" class="pb-mega-link">Auditory Processing &amp; Discrimination</a>
+                  </li>
+                  <li><a href="#visual-processing" class="pb-mega-link">Visual Processing &amp; Perception</a></li>
+                  <li><a href="#body-awareness" class="pb-mega-link">Body Awareness &amp; Body Parts Identification</a>
+                  </li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="pb-mega-group-title">Communication</h4>
+                <ul class="pb-mega-list">
+                  <li><a href="#speech-language" class="pb-mega-link">Speech &amp; Language</a></li>
+                  <li><a href="#social-communication" class="pb-mega-link">Social Communication</a></li>
+                  <li><a href="#communication-repair" class="pb-mega-link">Communication Repair &amp; Pragmatics</a>
+                  </li>
+                  <li><a href="#joint-attention" class="pb-mega-link">Joint Attention &amp; Engagement</a></li>
+                  <li><a href="#imitation-mirroring" class="pb-mega-link">Imitation &amp; Mirroring</a></li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="pb-mega-group-title">Cognitive &amp; Behavioral</h4>
+                <ul class="pb-mega-list">
+                  <li><a href="#cognitive-play" class="pb-mega-link">Cognitive &amp; Play</a></li>
+                  <li><a href="#behavior-self-regulation" class="pb-mega-link">Behavior &amp; Self-Regulation</a></li>
+                  <li><a href="#emotional-regulation" class="pb-mega-link">Emotional Regulation &amp; Interoception</a>
+                  </li>
+                  <li><a href="#executive-function" class="pb-mega-link">Executive Function &amp; Attention</a></li>
+                  <li><a href="#functional-object" class="pb-mega-link">Functional Object &amp; Tool Use</a></li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="pb-mega-group-title">Learning &amp; Support</h4>
+                <ul class="pb-mega-list">
+                  <li><a href="#special-education" class="pb-mega-link">Special Education &amp; Learning Readiness</a>
+                  </li>
+                  <li><a href="#daily-living" class="pb-mega-link">Daily Living &amp; Independence</a></li>
+                  <li><a href="#transitions-routine" class="pb-mega-link">Transitions &amp; Routine Support</a></li>
+                  <li><a href="#parent-training" class="pb-mega-link">Parent Training &amp; Home Programs</a></li>
+                  <li><a href="#therapist-assessment" class="pb-mega-link">Therapist Assessment &amp; Tracking Tools</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <a href="https://pinnacleblooms.org/pinnacle-global-autism-framework" title="Pinnacle Global Framework" class="pb-nav-link">Pinnacle Global Framework</a>
+        <a href="https://pinnacleblooms.org/research-studies" title="Research Studies" class="pb-nav-link">Research Studies</a>
+        <a href="https://pinnacleblooms.org/global-research-whitebook" title="Whitebook" class="pb-nav-link">Whitebook</a>
+        <a href="https://pinnacleblooms.org/services" title="Services" class="pb-nav-link">Services</a>
+        <a href="https://pinnacleblooms.org/careers" title="Careers" class="pb-nav-link">Careers</a>
+        <a href="https://pinnacleblooms.org/contact" title="Contact" class="pb-nav-link">Contact</a>
+      </nav>
+
+      
+    
+      <div class="pb-header-right">
+        <a href="https://wa.me/919100181181" class="pb-icon-btn pb-action-whatsapp" aria-label="WhatsApp">
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path
+              d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z">
+            </path>
+          </svg>
+        </a>
+
+        <a href="tel:+919100181181" class="pb-icon-btn pb-action-phone" aria-label="Call">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path
+              d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+            </path>
+          </svg>
+        </a>
+      </div>
+
+    </div>
+   
+    <!-- second row nav for desktop -->
+    <nav class="pb-nav-center magamenu ">
+
+    
+<div class="pb-dropdown">
+  <a class="pb-dropdown-trigger">
+    Materials
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="m6 9 6 6 6-6"></path>
+    </svg>
+  </a>
+
+  <div class="pb-mega-menu sec">
+    <div class="pb-mega-grid">
+
+      <!-- Movement & Sensory -->
+      <div>
+        <h4 class="pb-mega-group-title">Movement &amp; Sensory</h4>
+        <ul class="pb-mega-list">
+          <li><a href="https://materials.pinnacleblooms.org/gross-motor-movement-tools" class="pb-mega-link">Gross Motor &amp; Movement</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/fine-motor-hand-skills" class="pb-mega-link">Fine Motor &amp; Hand Skills</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/sensory-regulation-tools" class="pb-mega-link">Sensory Regulation &amp; Nervous System Modulation</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/positioning-seating-tools" class="pb-mega-link">Positioning &amp; Seating</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/oral-motor-feeding-tools" class="pb-mega-link">Oral Motor &amp; Feeding</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/sleep-tools" class="pb-mega-link">Sleep</a></li>
+        </ul>
+      </div>
+
+      <!-- Communication & Social -->
+      <div>
+        <h4 class="pb-mega-group-title">Communication &amp; Social</h4>
+        <ul class="pb-mega-list">
+          <li><a href="https://materials.pinnacleblooms.org/communication-language-tools" class="pb-mega-link">Communication &amp; Language</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/social-skills-development" class="pb-mega-link">Social Skills Development</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/emotional-regulation-coping-tools" class="pb-mega-link">Emotional Regulation &amp; Coping</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/behavior-support-tools" class="pb-mega-link">Behavior Support</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/visual-supports-schedules" class="pb-mega-link">Visual Supports &amp; Schedules</a></li>
+        </ul>
+      </div>
+
+      <!-- Daily Living & Learning -->
+      <div>
+        <h4 class="pb-mega-group-title">Daily Living &amp; Learning</h4>
+        <ul class="pb-mega-list">
+          <li><a href="https://materials.pinnacleblooms.org/daily-living-skills" class="pb-mega-link">Daily Living Skills</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/cognitive-learning-tools" class="pb-mega-link">Cognitive &amp; Learning</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/school-supplies-accommodations-tools" class="pb-mega-link">School Supplies &amp; Accommodations</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/travel-transitions-tools" class="pb-mega-link">Travel &amp; Transitions</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/safety-tools" class="pb-mega-link">Safety</a></li>
+        </ul>
+      </div>
+
+      <!-- Support & Resources -->
+      <div>
+        <h4 class="pb-mega-group-title">Support &amp; Resources</h4>
+        <ul class="pb-mega-list">
+          <li><a href="https://materials.pinnacleblooms.org/parent-caregiver-resources-tools" class="pb-mega-link">Parent &amp; Caregiver Resources</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/technology-apps-tools" class="pb-mega-link">Technology &amp; Apps</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/outdoor-nature-tools" class="pb-mega-link">Outdoor &amp; Nature</a></li>
+          <li><a href="https://materials.pinnacleblooms.org/therapy-equipment-clinic-tools" class="pb-mega-link">Therapy Equipment (Clinic)</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+        <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/autism-therapy">
+            Autism Therapy
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#what-section" class="pb-mega-link">What</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#Advantages-section" aria-label="Advantages of Autism" class="pb-mega-link">Autism Therapy @ Pinnacle</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#assessment-section" aria-label="Autism Therapy assessment" class="pb-mega-link">assessment</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#procedure-section" aria-label="Autism Therapy procedure"  class="pb-mega-link">procedure</a></li>
+                 </ul>
+              </div>
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#why-section" aria-label="why Autism Redf lags" class="pb-mega-link">Autism Redflags ?</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#ChildrenServices-section" aria-label="Autism Therapy Services" class="pb-mega-link">Autism Therapy Services</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#admission-section" aria-label="Autism Therapy admission"  class="pb-mega-link">admission</a></li>
+                  <li><a href="https://pinnacleblooms.org/autism-therapy#Cost-section" aria-label="Autism Therapy cost"  class="pb-mega-link">cost / fee</a></li>
+                 </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/best-occupational-therapy-center-india-proven-improvement-rate">
+            Occupational
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#what-section" aria-label="what is occupational Therapy" class="pb-mega-link">What</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#why-section" aria-label="Why occupational Therapy" class="pb-mega-link">Why</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#Importance-section" aria-label="Importance of occupational Therapy" class="pb-mega-link">Importance</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#Advantages-section" aria-label="Advantages of occupational Therapy" class="pb-mega-link">Advantages</a></li>
+                  
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#ChildrenServices-section" aria-label="Children Services of occupational Therapy" class="pb-mega-link">Children Services</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#assessment-section" aria-label="occupational Therapy Assessment" class="pb-mega-link">Assessment</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#admission-section" aria-label="occupational Therapy Admission" class="pb-mega-link">Admission</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#procedure-section" aria-label="occupational Therapy Procedure" class="pb-mega-link">Procedure</a></li>
+                  <li><a href="https://pinnacleblooms.org/occupational-therapy#Cost-section" aria-label="occupational Therapy Cost" class="pb-mega-link">Cost / Fee</a></li>
+                 </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+         <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/top-speech-therapy-center-india-proven-improvement-rate">
+            Speech Therapy
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#what-section" aria-label="what is speech Therapy" class="pb-mega-link">What</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#Advantages-section" aria-label="Advantages of speech Therapy" class="pb-mega-link">Advantages</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#adultservices-section" aria-label="Adult services of speech Therapy" class="pb-mega-link">Adult Services</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#admission-section" aria-label="speech Therapy Admission" class="pb-mega-link">Admission</a></li>
+                  <li><a href="https://pinnacleblooms.org /speech-therapy#Cost-section" aria-label="speech Therapy Cost" class="pb-mega-link">Fee / Cost</a></li>
+                </ul>
+              </div>
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#why-section" aria-label="Why speech Therapy" class="pb-mega-link">Why</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#ChildrenServices-section" aria-label="Child services of speech Therapy" class="pb-mega-link">Child services</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#assessment-section" aria-label="speech Therapy Assessment" class="pb-mega-link">Assessment</a></li>
+                  <li><a href="https://pinnacleblooms.org/speech-therapy#procedure-section" aria-label="speech Therapy Procedure" class="pb-mega-link">Procedure</a></li>
+                 </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+         <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/child-psychological-counseling">
+            Psychological 
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/child-psychological-counseling#what-section" aria-label="what is psychological counseling" class="pb-mega-link">What</a></li>
+                  <li><a href="https://pinnacleblooms.org/child-psychological-counseling#who-avail-section" aria-label="who can avail psychological counseling" class="pb-mega-link">Who can avail</a></li>
+                  <li><a href="https://pinnacleblooms.org/child-psychological-counseling#ChildrenServices-section" aria-label="Children Services of psychological counseling" class="pb-mega-link">Services</a></li>
+                 
+                </ul>
+              </div>
+              <div>
+                <ul class="pb-mega-list">
+                <li><a href="https://pinnacleblooms.org/child-psychological-counseling#why-section" aria-label="why psychological counseling" class="pb-mega-link">Why</a></li>
+                 <li><a href="https://pinnacleblooms.org/child-psychological-counseling#Advantages-section" aria-label="Advantages of psychological counseling" class="pb-mega-link">Advantages</a></li>
+                  <li><a href="https://pinnacleblooms.org/child-psychological-counseling#Cost-section" aria-label="psychological counseling cost" class="pb-mega-link">Fee / cost</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/best-special-education-center-call-9100181181">
+           Special Ed
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/special-education#what-section" class="pb-mega-link" aria-label="speech-therapy service">What</a></li>
+                  <li><a href="https://pinnacleblooms.org/special-education#Advantages-section" class="pb-mega-link" aria-label="Occupational-therapy service">Process</a></li>
+                  <li><a href="https://pinnacleblooms.org/special-education#admission-section" class="pb-mega-link" aria-label="speech therapy spl service">Admission</a></li>
+                  <li><a href="https://pinnacleblooms.org/special-education#Cost-section" class="pb-mega-link" aria-label="Autism-therapy service">Fee</a></li>
+                </ul>
+              </div>
+              <div>
+                <ul class="pb-mega-list">
+                <li><a href="https://pinnacleblooms.org/special-education#why-section" class="pb-mega-link" aria-label="Special-Ed service">Why</a></li>
+                <li><a href="https://pinnacleblooms.org/special-education#assessment-section" class="pb-mega-link" aria-label="Autism-therapy service">Assessment</a></li>
+                <li><a href="https://pinnacleblooms.org/special-education#procedure-section" class="pb-mega-link" aria-label="Occupational-therapy service">Procedure</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="pb-dropdown">
+          <a class="pb-dropdown-trigger" href="https://pinnacleblooms.org/best-aba-therapy-center-india-proven-improvement-rate">
+           Behavioral
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </a>
+          <div class="pb-mega-menu sec">
+            <div class="pb-mega-grid">
+              <div>
+                <ul class="pb-mega-list">
+                  <li><a href="https://pinnacleblooms.org/aba-therapy#what-section" class="pb-mega-link" aria-label="What is Behavioral Modification">What</a> </li>
+                  <li><a href="https://pinnacleblooms.org/aba-therapy#Advantages-section" class="pb-mega-link" aria-label="What Intensive Behavioral Intervention">Intensive Behavioral Intervention</a></li>
+                  <li><a href="https://pinnacleblooms.org/aba-therapy#adultservices-section" class="pb-mega-link" aria-label="services of Behavioral Modification">services</a></li>
+                </ul>
+              </div>
+              <div>
+                <ul class="pb-mega-list">
+                 <li><a href="https://pinnacleblooms.org/aba-therapy#why-section" class="pb-mega-link" aria-label="Why Behavioral Modification">Why</a></li>
+                 <li><a href="https://pinnacleblooms.org/aba-therapy#ChildrenServices-section" class="pb-mega-link" aria-label="Importance of Behavioral Modification">Importance</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+  </div>
+  
+
+  <!-- Mobile Menu Overlay -->
+  <div id="mobile-menu" class="pb-mobile-menu">
+    
+  <nav class="pb-mobile-nav">
+
+    <!-- MATERIALS -->
+    <div style="border-bottom:1px solid var(--border);padding-bottom:1rem;margin-bottom:1rem;">
+      <h3 class="pb-mobile-section-title">Materials</h3>
+
+      <div class="pb-mobile-categories pb-scrollbar-hide">
+        <a href="https://materials.pinnacleblooms.org/gross-motor-movement-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Gross Motor & Movement</a>
+        <a href="https://materials.pinnacleblooms.org/fine-motor-hand-skills" class="pb-mobile-link" onclick="closeMobileMenu()">Fine Motor & Hand Skills</a>
+        <a href="https://materials.pinnacleblooms.org/sensory-regulation-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Sensory Regulation</a>
+        <a href="https://materials.pinnacleblooms.org/positioning-seating-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Positioning & Seating</a>
+        <a href="https://materials.pinnacleblooms.org/oral-motor-feeding-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Oral Motor & Feeding</a>
+        <a href="https://materials.pinnacleblooms.org/sleep-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Sleep</a>
+
+        <a href="https://materials.pinnacleblooms.org/communication-language-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Communication & Language</a>
+        <a href="https://materials.pinnacleblooms.org/social-skills-development" class="pb-mobile-link" onclick="closeMobileMenu()">Social Skills Development</a>
+        <a href="https://materials.pinnacleblooms.org/emotional-regulation-coping-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Emotional Regulation & Coping</a>
+        <a href="https://materials.pinnacleblooms.org/behavior-support-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Behavior Support</a>
+        <a href="https://materials.pinnacleblooms.org/visual-supports-schedules" class="pb-mobile-link" onclick="closeMobileMenu()">Visual Supports & Schedules</a>
+
+        <a href="https://materials.pinnacleblooms.org/daily-living-skills" class="pb-mobile-link" onclick="closeMobileMenu()">Daily Living Skills</a>
+        <a href="https://materials.pinnacleblooms.org/cognitive-learning-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Cognitive & Learning</a>
+        <a href="https://materials.pinnacleblooms.org/school-supplies-accommodations-tools" class="pb-mobile-link" onclick="closeMobileMenu()">School Supplies & Accommodations</a>
+        <a href="https://materials.pinnacleblooms.org/travel-transitions-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Travel & Transitions</a>
+        <a href="https://materials.pinnacleblooms.org/safety-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Safety</a>
+
+        <a href="https://materials.pinnacleblooms.org/parent-caregiver-resources-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Parent & Caregiver Resources</a>
+        <a href="https://materials.pinnacleblooms.org/technology-apps-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Technology & Apps</a>
+        <a href="https://materials.pinnacleblooms.org/outdoor-nature-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Outdoor & Nature</a>
+        <a href="https://materials.pinnacleblooms.org/therapy-equipment-clinic-tools" class="pb-mobile-link" onclick="closeMobileMenu()">Therapy Equipment (Clinic)</a>
+      </div>
+    </div>
+
+    <!-- SERVICES -->
+    <h3 class="pb-mobile-section-title">Services</h3>
+
+    <a href="https://pinnacleblooms.org/autism-therapy" class="pb-mobile-link primary" onclick="closeMobileMenu()">Autism Therapy</a>
+    <a href="https://pinnacleblooms.org/best-occupational-therapy-center-india-proven-improvement-rate" class="pb-mobile-link primary" onclick="closeMobileMenu()">Occupational Therapy</a>
+    <a href="https://pinnacleblooms.org/top-speech-therapy-center-india-proven-improvement-rate" class="pb-mobile-link primary" onclick="closeMobileMenu()">Speech Therapy</a>
+    <a href="https://pinnacleblooms.org/child-psychological-counseling" class="pb-mobile-link primary" onclick="closeMobileMenu()">Psychological</a>
+    <a href="https://pinnacleblooms.org/best-special-education-center-call-9100181181" class="pb-mobile-link primary" onclick="closeMobileMenu()">Special Education</a>
+    <a href="https://pinnacleblooms.org/best-aba-therapy-center-india-proven-improvement-rate" class="pb-mobile-link primary" onclick="closeMobileMenu()">Behavioral (ABA)</a>
+
+    <!-- Navigation Links -->
+    <!-- <a href="#how-to-use" class="pb-mobile-link primary" onclick="closeMobileMenu()">How to Use</a>
+    <a href="#for-parents" class="pb-mobile-link primary" onclick="closeMobileMenu()">For Parents</a>
+    <a href="#for-therapists" class="pb-mobile-link primary" onclick="closeMobileMenu()">For Therapists</a>
+    <a href="#research" class="pb-mobile-link primary" onclick="closeMobileMenu()">Research &amp; Safety</a> -->
+    <!-- FOOTER -->
+    <a href="#footer" class="pb-mobile-link footer-link" onclick="scrollToFooter()">More Options & Legal Info ↓</a>
+
+  </nav>
+
+
+  </div>
+</header>
+
+<!-- Header Spacer (add this after header in your pages) -->
+<div style="height: 56px;"></div>
+<!-- For desktop, use: <div style="height: 64px;"></div> or use media query -->
+
+<script>
+  // Mobile Menu Toggle
+  function toggleMobileMenu() {
+    const menu = document.getElementById('mobile-menu');
+    const menuIcon = document.getElementById('menu-icon');
+    const closeIcon = document.getElementById('close-icon');
+
+    if (menu.classList.contains('active')) {
+      menu.classList.remove('active');
+      menuIcon.style.display = 'block';
+      closeIcon.style.display = 'none';
+    } else {
+      menu.classList.add('active');
+      menuIcon.style.display = 'none';
+      closeIcon.style.display = 'block';
+    }
+  }
+
+  function closeMobileMenu() {
+    const menu = document.getElementById('mobile-menu');
+    const menuIcon = document.getElementById('menu-icon');
+    const closeIcon = document.getElementById('close-icon');
+
+    menu.classList.remove('active');
+    menuIcon.style.display = 'block';
+    closeIcon.style.display = 'none';
+  }
+
+  function scrollToFooter() {
+    closeMobileMenu();
+    const footer = document.getElementById('footer');
+    if (footer) {
+      footer.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
+</script>

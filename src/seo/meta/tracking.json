@@ -1,0 +1,40 @@
+{
+  "metaPixel": {
+    "headScript": "!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','YOUR_PIXEL_ID');fbq('track','PageView');",
+    "noscript": "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=YOUR_PIXEL_ID&ev=PageView&noscript=1\"/>"
+  },
+
+  "linkedIn": {
+    "initScript": "_linkedin_partner_id=\"YOUR_LINKEDIN_PARTNER_ID\";window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[];window._linkedin_data_partner_ids.push(_linkedin_partner_id);",
+    "trackingScript": "(function(l){if(!l){window.lintrk=function(a,b){window.lintrk.q.push([a,b])};window.lintrk.q=[]}var s=document.getElementsByTagName(\"script\")[0];var b=document.createElement(\"script\");b.type=\"text/javascript\";b.async=true;b.src=\"https://snap.licdn.com/li.lms-analytics/insight.min.js\";s.parentNode.insertBefore(b,s);})(window.lintrk);",
+    "noscript": "<img height=\"1\" width=\"1\" style=\"display:none;\" alt=\"\" src=\"https://px.ads.linkedin.com/collect/?pid=YOUR_LINKEDIN_PARTNER_ID&fmt=gif\"/>"
+  },
+
+  "clarity": {
+    "script": "(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src=\"https://www.clarity.ms/tag/\"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,\"clarity\",\"script\",\"YOUR_CLARITY_ID\");"
+  },
+
+  "gtm": {
+    "headScript": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-XXXXXXX');",
+    "noscript": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>"
+  },
+
+  "dataLayerInit": "window.dataLayer = window.dataLayer || [];",
+
+  "conversionFunctions": {
+    "trackAddToCart": "function trackAddToCart(variantId, variantName, price) { dataLayer.push({'event': 'add_to_cart', 'ecommerce': {'currency': 'INR', 'value': price, 'items': [{'item_id': variantId, 'item_name': variantName, 'item_brand': 'Pinnacle Therapy Materials', 'item_category': 'Sensory Regulation', 'price': price, 'quantity': 1}]}}); fbq('track', 'AddToCart', {content_ids: [variantId], content_name: variantName, content_type: 'product', value: price, currency: 'INR'}); if(typeof lintrk !== 'undefined') lintrk('track', { conversion_id: 'ADD_TO_CART_CONVERSION_ID' }); }",
+    "trackPurchase": "function trackPurchase(transactionId, value, items) { dataLayer.push({'event': 'purchase', 'ecommerce': {'transaction_id': transactionId, 'value': value, 'currency': 'INR', 'items': items}}); fbq('track', 'Purchase', {value: value, currency: 'INR', content_ids: items.map(i => i.item_id), content_type: 'product'}); if(typeof lintrk !== 'undefined') lintrk('track', { conversion_id: 'PURCHASE_CONVERSION_ID' }); }",
+    "trackLead": "function trackLead(leadType) { dataLayer.push({'event': 'generate_lead', 'lead_type': leadType, 'currency': 'INR', 'value': 500}); fbq('track', 'Lead', {content_category: leadType}); if(typeof lintrk !== 'undefined') lintrk('track', { conversion_id: 'LEAD_CONVERSION_ID' }); }",
+    "trackHelplineCall": "function trackHelplineCall() { dataLayer.push({'event': 'contact', 'contact_method': 'phone', 'contact_value': '9100181181'}); fbq('track', 'Contact'); }",
+    "trackAppDownload": "function trackAppDownload(platform) { dataLayer.push({'event': 'app_download', 'app_platform': platform, 'app_name': 'Pinnacle Blooms Network'}); fbq('track', 'CompleteRegistration', {content_name: 'App Download', status: platform}); }",
+    "trackFAQInteraction": "function trackFAQInteraction(question) { dataLayer.push({'event': 'faq_interaction', 'faq_question': question}); }",
+    "trackVideoPlay": "function trackVideoPlay(videoTitle, duration) { dataLayer.push({'event': 'video_start', 'video_title': videoTitle, 'video_duration': duration}); fbq('track', 'ViewContent', {content_name: videoTitle, content_type: 'video'}); }",
+    "trackShare": "function trackShare(platform) { dataLayer.push({'event': 'share', 'method': platform, 'content_type': 'product', 'item_id': 'PTM-1.1'}); }"
+  },
+
+  "engagementTracking": {
+    "scrollDepth": "var scrollTracked = {}; window.addEventListener('scroll', function() { var scrollPercent = Math.round((window.scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100); [25, 50, 75, 90, 100].forEach(function(threshold) { if (scrollPercent >= threshold && !scrollTracked[threshold]) { scrollTracked[threshold] = true; dataLayer.push({'event': 'scroll_depth', 'scroll_threshold': threshold, 'page_path': window.location.pathname}); } }); });",
+    "timeOnPage": "var pageLoadTime = Date.now(); window.addEventListener('beforeunload', function() { var timeOnPage = Math.round((Date.now() - pageLoadTime) / 1000); dataLayer.push({'event': 'time_on_page', 'engagement_time': timeOnPage}); });",
+    "printTracking": "window.addEventListener('beforeprint', function() { dataLayer.push({'event': 'print_page', 'page_path': window.location.pathname}); });"
+  }
+}

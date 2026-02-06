@@ -1,0 +1,11 @@
+{
+  "title": "Premium Steel | Pinnacle Intervention Techniques",
+  "description": "Construction grade steel products.",
+  "keywords": "steel, construction steel",
+  "canonical": "https://www.pinnaclematerials.com/steel",
+  "schema": { "@context": "https://schema.org", "@type": "Product", "name": "Steel" },
+  "breadcrumbs": [
+    { "name": "Home", "url": "/" },
+    { "name": "Steel", "url": "/steel" }
+  ]
+}

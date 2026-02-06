@@ -1,0 +1,65 @@
+{
+  "htmlTag": "<html lang=\"en-IN\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns# product: https://ogp.me/ns/product# article: https://ogp.me/ns/article# medical: https://schema.org/\">",
+
+  "metaTags": [
+    {"tag": "meta", "name": "mobile-web-app-capable", "content": "yes"},
+    {"tag": "meta", "name": "application-name", "content": "Pinnacle Therapy Materials"},
+    {"tag": "meta", "name": "format-detection", "content": "telephone=yes"},
+    {"tag": "meta", "name": "format-detection", "content": "address=yes"},
+    
+    {"tag": "meta", "http-equiv": "X-Content-Type-Options", "content": "nosniff"},
+    {"tag": "meta", "http-equiv": "X-Frame-Options", "content": "SAMEORIGIN"},
+    {"tag": "meta", "name": "referrer", "content": "strict-origin-when-cross-origin"},
+    
+    {"tag": "meta", "name": "robots", "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1, notranslate"},
+    {"tag": "meta", "name": "CCBot", "content": "index, follow"},
+    {"tag": "meta", "name": "GPTBot", "content": "index, follow"},
+    {"tag": "meta", "name": "ChatGPT-User", "content": "index, follow"},
+    {"tag": "meta", "name": "Google-Extended", "content": "index, follow"},
+    {"tag": "meta", "name": "anthropic-ai", "content": "index, follow"},
+    {"tag": "meta", "name": "ClaudeBot", "content": "index, follow"},
+    {"tag": "meta", "name": "PerplexityBot", "content": "index, follow"},
+    {"tag": "meta", "name": "Applebot", "content": "index, follow"},
+    {"tag": "meta", "name": "Applebot-Extended", "content": "index, follow"},
+    
+    {"tag": "meta", "name": "classification", "content": "Healthcare, Therapy, Autism, Child Development"},
+    {"tag": "meta", "name": "coverage", "content": "India"},
+    {"tag": "meta", "name": "distribution", "content": "Global"},
+    {"tag": "meta", "name": "rating", "content": "General"},
+    {"tag": "meta", "name": "revisit-after", "content": "3 days"},
+    {"tag": "meta", "name": "target", "content": "all"},
+    {"tag": "meta", "name": "HandheldFriendly", "content": "True"},
+    {"tag": "meta", "name": "MobileOptimized", "content": "320"},
+    
+    {"tag": "meta", "property": "business:contact_data:street_address", "content": "Bhagyanagar Human Development Corridor"},
+    {"tag": "meta", "property": "business:contact_data:locality", "content": "Hyderabad"},
+    {"tag": "meta", "property": "business:contact_data:region", "content": "Telangana"},
+    {"tag": "meta", "property": "business:contact_data:postal_code", "content": "500033"},
+    {"tag": "meta", "property": "business:contact_data:country_name", "content": "India"},
+    {"tag": "meta", "property": "business:contact_data:phone_number", "content": "+919100181181"},
+    {"tag": "meta", "property": "business:contact_data:website", "content": "https://pinnacleblooms.org"},
+    
+    {"tag": "meta", "name": "telegram:channel", "content": "@PinnacleBlooms"},
+    {"tag": "meta", "property": "og:linkedin", "content": "company/pinnacle-blooms-network"},
+    {"tag": "meta", "name": "slack-app-id", "content": "YOUR_SLACK_APP_ID"},
+    
+    {"tag": "meta", "name": "msapplication-config", "content": "/browserconfig.xml"},
+    {"tag": "meta", "name": "msapplication-tooltip", "content": "Pinnacle Blooms - Autism Therapy Materials"},
+    {"tag": "meta", "name": "msapplication-starturl", "content": "https://pinnacleblooms.org"},
+    {"tag": "meta", "name": "msapplication-navbutton-color", "content": "#0066cc"},
+    {"tag": "meta", "name": "msapplication-task", "content": "name=Call Helpline;action-uri=tel:+919100181181;icon-uri=/favicon.ico"},
+    {"tag": "meta", "name": "msapplication-task", "content": "name=Book Assessment;action-uri=https://pinnacleblooms.org/book-assessment;icon-uri=/favicon.ico"}
+  ],
+
+  "linkTags": [
+    {"rel": "alternate", "type": "application/rss+xml", "title": "Pinnacle Blooms Blog RSS", "href": "https://pinnacleblooms.org/blog/feed.xml"},
+    {"rel": "alternate", "type": "application/atom+xml", "title": "Pinnacle Blooms Blog Atom", "href": "https://pinnacleblooms.org/blog/atom.xml"},
+    {"rel": "alternate", "type": "application/json", "title": "Pinnacle Blooms JSON Feed", "href": "https://pinnacleblooms.org/blog/feed.json"},
+    {"rel": "indexnow", "href": "https://pinnacleblooms.org/indexnow-key.txt"},
+    {"rel": "sitemap", "type": "application/xml", "title": "Sitemap", "href": "https://pinnacleblooms.org/sitemap.xml"},
+    {"rel": "author", "href": "https://pinnacleblooms.org/humans.txt"},
+    {"rel": "search", "type": "application/opensearchdescription+xml", "title": "Pinnacle Blooms Search", "href": "https://pinnacleblooms.org/opensearch.xml"},
+    {"rel": "hub", "href": "https://pubsubhubbub.appspot.com/"},
+    {"rel": "pingback", "href": "https://pinnacleblooms.org/xmlrpc.php"}
+  ]
+}
