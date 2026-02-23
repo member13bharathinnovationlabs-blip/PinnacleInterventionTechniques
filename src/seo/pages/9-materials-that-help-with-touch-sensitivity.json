@@ -1,0 +1,1040 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity",
+    "title": "9 Materials That Help With Touch Sensitivity | Pinnacle Blooms",
+    "description": "My child flinches or pulls away from normal touch? Tactile hypersensitivity / Tactile defensiveness is neurological, not behavioral. 9 evidence-based materia...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-23",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-001",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 1,
+    "domain": "Sensory",
+    "subDomain": "Tactile",
+    "domainCode": "SEN-TAC",
+    "ageBand": "2–6 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "TAC-SENS-01",
+    "clusterName": "Tactile Sensitivity Series",
+    "clusterPosition": 1,
+    "totalInCluster": 30
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity",
+        "name": "9 Materials That Help With Touch Sensitivity | Pinnacle Blooms",
+        "description": "My child flinches or pulls away from normal touch? Tactile hypersensitivity / Tactile defensiveness is neurological, not behavioral. 9 evidence-based materia...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-23",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "tactile defensiveness treatment",
+          "child hates being touched",
+          "sensory sensitivity to touch",
+          "tactile hypersensitivity therapy",
+          "weighted lap pad for sensory",
+          "therapy brush sensory",
+          "child flinches from touch",
+          "touch sensitivity child"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tactile",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Touch Sensitivity"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-001-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-001-hero.webp",
+        "caption": "Young child pulling away from parent's gentle touch on arm, showing discomfort but not distress. Soft, empathetic lighting in home setting.",
+        "description": "Child withdrawing from light touch, showing tactile sensitivity",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#video",
+        "name": "9 Materials That Help With Touch Sensitivity",
+        "description": "If your child pulls away from gentle touch — even yours — they're not rejecting you. Their nervous system is saying 'that's too much.' Here are 9 materials that help calm touch sensitivity.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-001-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-001.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-001/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#TouchSensitivity",
+          "#TactileDefensiveness",
+          "#SensoryProcessing",
+          "#SPD",
+          "#SensoryProcessingDisorder",
+          "#OccupationalTherapy",
+          "#SensoryIntegration",
+          "#TactileHypersensitivity",
+          "#SensoryKids",
+          "#PinnacleBlooms"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile hypersensitivity / Tactile defensiveness",
+          "alternateName": [
+            "child sensitive to touch",
+            "toddler hates being touched",
+            "child flinches from touch"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Flinches Or Pulls Away From No",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "If your child pulls away from gentle touch — even yours — they're not rejecting you. Their nervou..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Weighted Lap Pad",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Deep pressure calms the nervous system and reduces touch reactivity."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Therapy Brush (Wilbarger Protocol)",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Specific brushing technique desensitizes the tactile system over time."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Seamless Socks and Tagless Clothing",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Eliminates common tactile irritants that trigger the defensive response."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Compression Clothing",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Constant deep pressure input helps regulate the tactile system throughout the day."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Fidget Tools with Varied Textures",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Controlled texture exploration builds tolerance on child's terms."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Body Sock / Lycra Tunnel",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Full-body deep pressure with proprioceptive input in a fun, playful way."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Vibrating Massager / Vibrating Pillow",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Vibration provides organizing sensory input that can reduce tactile defensiveness."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Firm Touch Practice Cards",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Visual cues help adults learn to use firm, predictable touch that feels safer."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Sensory Bin with Gradual Texture Exposure",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Controlled, playful exploration builds texture tolerance over time."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Built on GPT-OS Therapy Intelligence"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real World Evidence",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Real Results. Real Families."
+          },
+          {
+            "@type": "Clip",
+            "name": "About Pinnacle Blooms Network",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child flinches or pulls away from normal touch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "TACTILE HYPERSENSITIVITY / TACTILE DEFENSIVENESS! An over-responsiveness to touch input where ordinary tactile sensations are perceived as irritating, uncomfortable, or threatening. The nervous system interprets light touch as a danger signal. Per SPD Foundation: Tactile defensiveness is one of the most common forms of sensory over-responsivity. The brain's threat detection system activates inappropriately, treating safe touch as dangerous. This is neurological, not behavioral — the child genuinely experiences discomfort or distress from sensations that others barely notice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Tactile hypersensitivity / Tactile defensiveness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An over-responsiveness to touch input where ordinary tactile sensations are perceived as irritating, uncomfortable, or threatening. The nervous system interprets light touch as a danger signal. Common signs include: Flinches or pulls away from light touch, Dislikes being hugged or cuddled, Avoids standing close to others, Bothered by clothing textures, tags, or seams, Distressed during grooming (hair brushing, nail cutting)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Weighted Lap Pad help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Deep pressure calms the nervous system and reduces touch reactivity. Price: ₹800–1500. DIY option: Fill a pillowcase with rice, sew shut. Aim for 5–10% of child's body weight. Safety: Never exceed 10% of body weight. Do not use during sleep. Supervise use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Therapy Brush (Wilbarger Protocol) help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Specific brushing technique desensitizes the tactile system over time. Price: ₹200–400. Safety: Requires training from OT. Never use on face, stomach, or without guidance. Follow specific protocol."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Seamless Socks and Tagless Clothing help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eliminates common tactile irritants that trigger the defensive response. Price: ₹300–600 per item. DIY option: Remove all tags. Turn seamed socks inside out. Choose soft, consistent fabrics."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Compression Clothing help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Constant deep pressure input helps regulate the tactile system throughout the day. Price: ₹600–1200. DIY option: Fitted lycra undershirt worn under regular clothes. Safety: Should be snug but not restrictive. Child should be able to breathe normally. Remove if child shows distress."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Fidget Tools with Varied Textures help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Controlled texture exploration builds tolerance on child's terms. Price: ₹150–400. DIY option: Collect items with different textures: smooth stones, bumpy balls, velvet fabric scraps. Safety: Ensure all items are non-toxic and large enough to prevent choking."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Body Sock / Lycra Tunnel help with tactile hypersensitivity?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Full-body deep pressure with proprioceptive input in a fun, playful way. Price: ₹600–1000. DIY option: Use a fitted lycra pillowcase. Cut opening for head if needed. Safety: Always supervise. Ensure child can breathe freely. Stop if child shows distress."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Sensitivity worsening despite intervention. Sensitivity interfering with all daily activities. Extreme distress even from firm, predictable touch. Self-injury to avoid touch. Complete avoidance of all physical contact. Consult OT if: no progress after 6–8 weeks of consistent intervention, sensitivity generalizing to more situations, or significant impact on feeding/dressing/relationships."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 15,000+ Children Served. 89% Goal Achievement Rate. 4.8/5 Parent Satisfaction. Data collected through standardized sensory assessments (Sensory Profile, SPM) administered at intake, 3-month, and 6-month intervals."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#howto",
+        "name": "How to Help a Child with Tactile Hypersensitivity",
+        "description": "A graded approach using evidence-based materials. Deep pressure calms; light touch activates. The goal is to regulate the nervous system, not 'fix' the child.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 3000,
+          "maxValue": 6500
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Weighted Lap Pad",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 800,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Therapy Brush (Wilbarger Protocol)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Seamless Socks and Tagless Clothing",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "An over-responsiveness to touch input where ordinary tactile sensations are perceived as irritating, uncomfortable, or threatening. The nervous system interprets light touch as a danger signal. Deep pressure calms; light touch activates. The goal is to regulate the nervous system, not 'fix' the child."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Weighted Lap Pad, Therapy Brush (Wilbarger Protocol), Seamless Socks and Tagless Clothing."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Sensitivity worsening despite intervention, Sensitivity interfering with all daily activities, Extreme distress even from firm, predictable touch."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult OT if: no progress after 6–8 weeks of consistent intervention, sensitivity generalizing to more situations, or significant impact on feeding/dressing/relationships."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#medicalpage",
+        "name": "Tactile hypersensitivity / Tactile defensiveness Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile hypersensitivity / Tactile defensiveness",
+          "alternateName": [
+            "child sensitive to touch",
+            "toddler hates being touched",
+            "child flinches from touch"
+          ],
+          "description": "An over-responsiveness to touch input where ordinary tactile sensations are perceived as irritating, uncomfortable, or threatening. The nervous system interprets light touch as a danger signal.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Flinches or pulls away from light touch"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Dislikes being hugged or cuddled"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Avoids standing close to others"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Bothered by clothing textures, tags, or seams"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Distressed during grooming (hair brushing, nail cutting)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Avoids touching certain textures"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Prefers to touch others rather than be touched"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Overreacts to unexpected touch"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-23"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#article",
+        "headline": "9 Materials That Help With Touch Sensitivity",
+        "alternativeHeadline": "When every touch feels like too much",
+        "description": "My child flinches or pulls away from normal touch? Tactile hypersensitivity / Tactile defensiveness is neurological, not behavioral. 9 evidence-based materia...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-23T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "tactile defensiveness treatment",
+          "child hates being touched",
+          "sensory sensitivity to touch",
+          "tactile hypersensitivity therapy",
+          "weighted lap pad for sensory"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Tactile over-responsivity is characterized by negative reactions to touch sensations that most people would consider non-noxious."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wilbarger, P. & Wilbarger, J.",
+            "url": "",
+            "description": "Sensory Defensiveness in Children Aged 2–12: An Intervention Guide for Parents and Other Caretakers (1991)"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "AOTA",
+            "url": "https://www.aota.org",
+            "description": "American Occupational Therapy Association guidelines on sensory integration intervention"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#healthcontent",
+        "name": "Tactile hypersensitivity / Tactile defensiveness Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Tactile hypersensitivity / Tactile defensiveness"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile challenges"
+        },
+        "keywords": [
+          "tactile defensiveness treatment",
+          "child hates being touched",
+          "sensory sensitivity to touch",
+          "tactile hypersensitivity therapy",
+          "weighted lap pad for sensory"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#evidence",
+        "claimReviewed": "Deep pressure calms; light touch activates. The goal is to regulate the nervous system, not 'fix' the child. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 87% Tactile Sensitivity Improvement. Data collected through standardized sensory assessments (Sensory Profile, SPM) administered at intake, 3-month, and 6-month intervals.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Tactile Hypersensitivity Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile#collection",
+        "name": "Tactile Sensitivity Series",
+        "description": "Complete series of 30 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-001: Touch Sensitivity (THIS REEL)",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-002: Hates Being Touched",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-003: Clothing Tag Sensitivity",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-004: Fabric Refusal",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-005: Seam Sensitivity in Socks",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 30,
+        "collectionSize": 30
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#materials",
+        "name": "9 Materials for Tactile Hypersensitivity",
+        "description": "Evidence-based materials for ages 2–6 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Weighted Lap Pad",
+              "description": "Deep pressure calms the nervous system and reduces touch reactivity.",
+              "category": "Deeppressure",
+              "offers": {
+                "@type": "Offer",
+                "price": "800",
+                "priceCurrency": "INR",
+                "priceRange": "₹800–1500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Fill a pillowcase with rice, sew shut. Aim for 5–10% of child's body weight."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Never exceed 10% of body weight. Do not use during sleep. Supervise use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Therapy Brush (Wilbarger Protocol)",
+              "description": "Specific brushing technique desensitizes the tactile system over time.",
+              "category": "Desensitization",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Requires training from OT. Never use on face, stomach, or without guidance. Follow specific protocol."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Seamless Socks and Tagless Clothing",
+              "description": "Eliminates common tactile irritants that trigger the defensive response.",
+              "category": "Elimination",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–600 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Remove all tags. Turn seamed socks inside out. Choose soft, consistent fabrics."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Compression Clothing",
+              "description": "Constant deep pressure input helps regulate the tactile system throughout the day.",
+              "category": "Deeppressure",
+              "offers": {
+                "@type": "Offer",
+                "price": "600",
+                "priceCurrency": "INR",
+                "priceRange": "₹600–1200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Fitted lycra undershirt worn under regular clothes."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should be snug but not restrictive. Child should be able to breathe normally. Remove if child shows distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Fidget Tools with Varied Textures",
+              "description": "Controlled texture exploration builds tolerance on child's terms.",
+              "category": "Desensitization",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Collect items with different textures: smooth stones, bumpy balls, velvet fabric scraps."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure all items are non-toxic and large enough to prevent choking."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Body Sock / Lycra Tunnel",
+              "description": "Full-body deep pressure with proprioceptive input in a fun, playful way.",
+              "category": "Deeppressure",
+              "offers": {
+                "@type": "Offer",
+                "price": "600",
+                "priceCurrency": "INR",
+                "priceRange": "₹600–1000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use a fitted lycra pillowcase. Cut opening for head if needed."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Always supervise. Ensure child can breathe freely. Stop if child shows distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Vibrating Massager / Vibrating Pillow",
+              "description": "Vibration provides organizing sensory input that can reduce tactile defensiveness.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use a standard handheld massager on lowest setting."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start on lowest setting. Let child control the tool. Avoid face and head."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Firm Touch Practice Cards",
+              "description": "Visual cues help adults learn to use firm, predictable touch that feels safer.",
+              "category": "Educational",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards with photos/drawings showing firm touch zones and techniques."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Sensory Bin with Gradual Texture Exposure",
+              "description": "Controlled, playful exploration builds texture tolerance over time.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Plastic container with dried rice, beans, or pasta. Add tools for indirect exploration first."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise for mouthing. Replace contents if contaminated. Start with dry textures."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-with-touch-sensitivity#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Touch Sensitivity | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "tactile defensiveness treatment, child hates being touched, sensory sensitivity to touch, tactile hypersensitivity therapy, weighted lap pad for sensory"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-001.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-001-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-001.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Touch Sensitivity",
+      "content_category": "Intervention Techniques > Sensory > Tactile",
+      "content_ids": [
+        "A-001"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-001",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Tactile",
+        "domain_code": "SEN-TAC",
+        "series": "Sensory Solutions",
+        "episode": 1,
+        "age_band": "2–6 years",
+        "setting": "Home",
+        "cluster_id": "TAC-SENS-01",
+        "cluster_position": 1,
+        "materials_count": 9,
+        "total_cost_range": "₹3,000–6,500 for full set"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#TouchSensitivity",
+      "#TactileDefensiveness",
+      "#SensoryProcessing",
+      "#SPD",
+      "#SensoryProcessingDisorder",
+      "#OccupationalTherapy",
+      "#SensoryIntegration",
+      "#TactileHypersensitivity",
+      "#SensoryKids",
+      "#PinnacleBlooms"
+    ],
+    "caption": "Does your child pull away from gentle touch? 🤲 It's not rejection — their nervous system is overwhelmed. Here are 9 materials that help calm touch sensitivity and make physical connection possible again. Save this! #TouchSensitivity #SensoryProcessing #TactileDefensiveness #OccupationalTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-002",
+    "prevInSeries": null,
+    "relatedTechniques": [
+      "A-002",
+      "A-021",
+      "A-024",
+      "A-025"
+    ],
+    "deepDives": [
+      "A-001-DD-01",
+      "A-001-DD-02"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903"
+    ]
+  }
+}
