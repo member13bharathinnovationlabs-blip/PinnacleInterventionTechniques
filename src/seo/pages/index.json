@@ -1,0 +1,1143 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+    "title": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms",
+    "description": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600.",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-30",
+    "language": "en-IN",
+    "type": "product"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#webpage",
+        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "name": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms",
+        "description": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600.",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/#primaryimage"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-30",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#breadcrumb"
+        },
+        "inLanguage": "en-IN",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            "h1",
+            ".product-description",
+            ".price-display",
+            ".faq-answer"
+          ]
+        },
+        "mainEntity": {
+          "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Therapy Materials",
+            "item": "https://pinnacleblooms.org/therapy-materials"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory Regulation",
+            "item": "https://pinnacleblooms.org/therapy-materials/sensory-regulation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Weighted Blanket / Lap Pad"
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#product",
+        "name": "Weighted Blanket / Lap Pad Set for Sensory Regulation",
+        "alternateName": [
+          "Sensory Weighted Blanket",
+          "Deep Pressure Blanket",
+          "Autism Calming Blanket",
+          "Therapy Weighted Blanket"
+        ],
+        "description": "Therapy-grade weighted blanket and lap pad system providing deep pressure proprioceptive input for sensory regulation. Designed for children with autism, ADHD, and sensory processing needs.",
+        "sku": "PTM-1.1",
+        "mpn": "PINNACLE-THERAPY-MAT-001",
+        "gtin13": "8901234567890",
+        "brand": {
+          "@type": "Brand",
+          "name": "Pinnacle Therapy Materials",
+          "logo": "https://pinnacleblooms.org/images/brand/logo.png"
+        },
+        "manufacturer": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "category": "Sensory Regulation > Deep Pressure Therapy",
+        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "image": [
+          "https://pinnacleblooms.org/images/products/weighted-blanket-lap-pad-hero.jpg",
+          "https://pinnacleblooms.org/images/products/weighted-lap-pad-homework.jpg",
+          "https://pinnacleblooms.org/images/products/weighted-blanket-bedtime.jpg",
+          "https://pinnacleblooms.org/images/products/all-variants-lineup.jpg"
+        ],
+        "material": [
+          "Glass beads (non-toxic)",
+          "100% Cotton fabric",
+          "Minky plush cover",
+          "Hypoallergenic filling"
+        ],
+        "color": [
+          "Grey",
+          "Blue",
+          "Pink",
+          "Navy",
+          "Lavender"
+        ],
+        "size": [
+          "Small (30x40cm)",
+          "Medium (90x120cm)",
+          "Large (120x180cm)"
+        ],
+        "weight": {
+          "@type": "QuantitativeValue",
+          "minValue": 1,
+          "maxValue": 7,
+          "unitCode": "KGM"
+        },
+        "audience": {
+          "@type": "PeopleAudience",
+          "suggestedMinAge": 1,
+          "suggestedMaxAge": 9,
+          "audienceType": "Children with autism, ADHD, sensory processing needs, anxiety"
+        },
+        "isFamilyFriendly": true,
+        "isAccessoryOrSparePartFor": {
+          "@type": "Product",
+          "name": "Sensory Regulation Toolkit"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Therapy Type",
+            "value": "Deep Pressure / Proprioceptive"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Usage Settings",
+            "value": "Home, School, Clinic, Travel"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Clinical Use",
+            "value": "Occupational Therapy"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Kit Level",
+            "value": "Core Kit"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Evidence Level",
+            "value": "Strong"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Weight Guide",
+            "value": "5-10% of child's body weight"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Washable",
+            "value": "Yes - Machine washable cover"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Certification",
+            "value": "OEKO-TEX Standard 100"
+          }
+        ],
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "name": "Weighted Lap Pad",
+            "sku": "PTM-1.1.1",
+            "description": "Portable lap pad for school, homework, travel. 30x40cm, 1-2kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-lap-pad.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "600",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Weighted Blanket Small",
+            "sku": "PTM-1.1.2",
+            "description": "Small blanket for toddlers. 90x120cm, 2-3kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-blanket-small.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1200",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Weighted Blanket Medium",
+            "sku": "PTM-1.1.3",
+            "description": "Medium blanket for older children. 120x180cm, 3-5kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-blanket-medium.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Weighted Shoulder Wrap",
+            "sku": "PTM-1.1.4",
+            "description": "Shoulder wrap for desk work. Adjustable, 1-2kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-shoulder-wrap.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "800",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Weighted Stuffed Animal",
+            "sku": "PTM-1.1.5",
+            "description": "Child-friendly weighted plush. Various animals, 1-2kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-stuffed-animal.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "1000",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Weighted Snake/Tube",
+            "sku": "PTM-1.1.6",
+            "description": "Flexible weighted tube. Wraps around body, 1-3kg.",
+            "image": "https://pinnacleblooms.org/images/products/weighted-snake-tube.jpg",
+            "offers": {
+              "@type": "Offer",
+              "price": "700",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "priceValidUntil": "2026-12-31",
+              "itemCondition": "https://schema.org/NewCondition",
+              "seller": {
+                "@id": "https://pinnacleblooms.org/#organization"
+              }
+            }
+          }
+        ],
+        "offers": {
+          "@type": "AggregateOffer",
+          "lowPrice": "600",
+          "highPrice": "4000",
+          "priceCurrency": "INR",
+          "offerCount": "6",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "seller": {
+            "@id": "https://pinnacleblooms.org/#organization"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "IN"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 2,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 7,
+                "unitCode": "DAY"
+              }
+            },
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "INR"
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "IN",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 30,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+          }
+        },
+        "isRelatedTo": [
+          {
+            "@type": "Product",
+            "name": "Compression Vest / Body Sock",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/compression-vest-body-sock"
+          },
+          {
+            "@type": "Product",
+            "name": "Ear Defenders / Headphones",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/noise-reducing-headphones-ear-defenders"
+          },
+          {
+            "@type": "Product",
+            "name": "Fidget Tool Set",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/fidget-tool-set"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is a weighted blanket safe for children with autism?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, when used correctly. Key safety rules: Child must be over 12 months old, able to remove blanket independently, weight should be 5-10% of body weight, never cover face, and supervise young children. Avoid if child has respiratory conditions or low muscle tone. Always consult your occupational therapist."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What weight should a weighted blanket be for my child?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The standard guideline is 5-10% of the child's body weight. For a 20kg child, choose a 1-2kg blanket. Start at the lower end and increase if needed. For lap pads, 1-2kg is typically sufficient regardless of body weight."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do weighted blankets help children with autism?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Weighted blankets provide deep pressure proprioceptive input. This pressure may help activate the parasympathetic nervous system (rest and digest), potentially promoting calmer states. Many children with autism seek deep pressure naturally through tight hugs, crashing, or squeezing into tight spaces."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can my child use a weighted blanket at school?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes! Weighted lap pads are ideal for classroom use. They are portable, discreet, and can be used during desk work, circle time, or transitions. Many teachers report improved focus. Talk to your child's teacher and include it in the IEP if applicable."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will a weighted blanket work for my child?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Children who calm with tight hugs, constantly seek movement/jumping/crashing, have difficulty sitting still, or have trouble sleeping may benefit from deep pressure input. Most children who need it gravitate naturally to weighted items. Look for products with 15-30 day return policies to test."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long should my child use a weighted blanket?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Typical use is 5-30 minutes for activities like homework. Bedtime use can be longer if the child is comfortable. Start with 5-10 minutes and increase gradually. Let the child request it rather than imposing. Watch for signs of discomfort."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I make a DIY weighted blanket?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, DIY is feasible with materials like cotton fabric and rice or poly pellets. Time required: 2-3 hours. Trade-offs: rice cannot be washed, less durable, weight may shift unevenly. Good for testing before buying a commercial version."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where can I buy weighted blankets in India?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Available on Amazon.in (₹600-4000), Flipkart, and FirstCry. Tips: Check for 15-30 day return policy, verify even weight distribution in reviews, prefer glass beads over plastic pellets, ensure removable washable cover. For guidance, call the FREE Pinnacle Helpline: 9100 181 181."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect from using a weighted blanket?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Results vary by child. Parents commonly report: calmer homework sessions (1-2 weeks), faster bedtime routines (2-3 weeks), child requesting blanket when overwhelmed (3-4 weeks). Individual results depend on the child's sensory needs and consistent use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Pinnacle Blooms have an app for therapy tracking?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, the Pinnacle Blooms Network app (MIRRACLE) is available on both Google Play Store and Apple App Store. It allows parents to track therapy progress, view session feedback, and communicate with therapists. Download free: Android (com.mirracle) or iOS (App Store). Rating: 4.1 with 303+ reviews."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#howto",
+        "name": "How to Use a Weighted Blanket for Sensory Regulation",
+        "description": "Complete step-by-step guide to safely and effectively use weighted blankets for children with autism, ADHD, and sensory processing needs.",
+        "totalTime": "PT30M",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "value": "2300"
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Weighted blanket or lap pad (5-10% of child's body weight)"
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Comfortable seating or lying area"
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Timer (optional)"
+          }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Pinnacle Blooms App for tracking"
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Select Right Weight",
+            "text": "Choose a weighted item that is 5-10% of your child's body weight. For a 20kg child, start with 1-2kg.",
+            "image": "https://pinnacleblooms.org/images/howto/step1-weight.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Check Safety Requirements",
+            "text": "Ensure child is over 12 months old, can remove the blanket independently, and has no respiratory conditions or low muscle tone.",
+            "image": "https://pinnacleblooms.org/images/howto/step2-safety.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Introduce During Preferred Activities",
+            "text": "First introduce the weighted blanket during activities your child already enjoys to build positive association.",
+            "image": "https://pinnacleblooms.org/images/howto/step3-introduce.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Start with Short Sessions",
+            "text": "Begin with 5-10 minute sessions. Observe your child's response. Gradually increase to 15-30 minutes.",
+            "image": "https://pinnacleblooms.org/images/howto/step4-duration.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Use Proactively, Not Reactively",
+            "text": "Apply BEFORE challenging activities, during transitions, or at early signs of dysregulation.",
+            "image": "https://pinnacleblooms.org/images/howto/step5-proactive.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor Child's Response",
+            "text": "Watch for positive signs: calming, focusing, requesting more. Remove immediately if you see distress.",
+            "image": "https://pinnacleblooms.org/images/howto/step6-monitor.jpg"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Track Progress and Adjust",
+            "text": "Use the Pinnacle Blooms app to track usage, responses, and improvements over time.",
+            "image": "https://pinnacleblooms.org/images/howto/step7-track.jpg"
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#medicalpage",
+        "name": "Weighted Blanket Therapy Guide - Clinical Information",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Sensory Processing Disorder",
+          "alternateName": [
+            "SPD",
+            "Sensory Integration Dysfunction"
+          ],
+          "associatedAnatomy": {
+            "@type": "AnatomicalStructure",
+            "name": "Nervous System"
+          },
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Deep Pressure Therapy",
+            "howPerformed": "Application of weighted items to provide proprioceptive input through sustained deep pressure"
+          },
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Sensory seeking behavior"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty with self-regulation"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Sleep difficulties"
+            }
+          ]
+        },
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Clinician",
+          "healthCondition": {
+            "@type": "MedicalCondition",
+            "name": "Autism Spectrum Disorder"
+          }
+        },
+        "specialty": {
+          "@type": "MedicalSpecialty",
+          "name": "Occupational Therapy"
+        },
+        "lastReviewed": "2025-01-01",
+        "reviewedBy": {
+          "@id": "https://pinnacleblooms.org/#founder"
+        }
+      },
+      {
+        "@type": "NewsArticle",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#news",
+        "mainEntityOfPage": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "headline": "Complete Guide to Weighted Blankets for Autism - 2025 Edition",
+        "alternativeHeadline": "Therapy-Grade Weighted Blankets: Selection, Safety & Usage for Children with Sensory Needs",
+        "description": "Comprehensive expert guide to selecting and using weighted blankets for children with autism, ADHD, and sensory processing disorders.",
+        "image": [
+          "https://pinnacleblooms.org/images/products/weighted-blanket-lap-pad-hero-1x1.jpg",
+          "https://pinnacleblooms.org/images/products/weighted-blanket-lap-pad-hero-4x3.jpg",
+          "https://pinnacleblooms.org/images/products/weighted-blanket-lap-pad-hero-16x9.jpg"
+        ],
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-30T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#founder"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "articleSection": "Therapy Materials",
+        "keywords": "weighted blanket, autism, sensory regulation, occupational therapy, deep pressure, ADHD",
+        "wordCount": 3500,
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            "h1",
+            ".article-summary",
+            ".key-points"
+          ]
+        },
+        "isAccessibleForFree": true,
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#video",
+        "name": "How to Use Weighted Blankets for Sensory Regulation - Complete Guide",
+        "description": "Step-by-step video guide showing proper weighted blanket selection, safety guidelines, and usage techniques.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/video/weighted-blanket-thumb.jpg",
+        "uploadDate": "2025-01-01T00:00:00+05:30",
+        "duration": "PT5M30S",
+        "contentUrl": "https://pinnacleblooms.org/videos/weighted-blanket-guide.mp4",
+        "embedUrl": "https://www.youtube.com/embed/VIDEO_ID",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 15000
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "transcript": "https://pinnacleblooms.org/videos/weighted-blanket-guide-transcript.txt",
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Selecting the Right Weight",
+            "startOffset": 30,
+            "endOffset": 90,
+            "url": "https://pinnacleblooms.org/videos/weighted-blanket-guide.mp4#t=30,90"
+          },
+          {
+            "@type": "Clip",
+            "name": "Safety Guidelines",
+            "startOffset": 90,
+            "endOffset": 150,
+            "url": "https://pinnacleblooms.org/videos/weighted-blanket-guide.mp4#t=90,150"
+          },
+          {
+            "@type": "Clip",
+            "name": "Usage Techniques",
+            "startOffset": 150,
+            "endOffset": 240,
+            "url": "https://pinnacleblooms.org/videos/weighted-blanket-guide.mp4#t=150,240"
+          }
+        ]
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#healthcontent",
+        "name": "Deep Pressure Therapy for Sensory Regulation",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Deep Pressure Therapy"
+        },
+        "audience": "Parents of children with autism, ADHD, sensory processing needs; Occupational Therapists; Special Educators",
+        "keywords": "weighted blanket, deep pressure, sensory regulation, autism therapy, occupational therapy, proprioceptive input",
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#founder"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewedBy": {
+          "@type": "Organization",
+          "name": "Pinnacle Clinical Review Team",
+          "parentOrganization": {
+            "@id": "https://pinnacleblooms.org/#organization"
+          }
+        },
+        "lastReviewed": "2025-01-01"
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#evidence",
+        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#evidence",
+        "claimReviewed": "Weighted blankets provide deep pressure that may help activate the parasympathetic nervous system, promoting calmer states in children with sensory processing needs",
+        "itemReviewed": {
+          "@type": "Claim",
+          "appearance": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "datePublished": "2025-01-01",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Mostly supported by evidence - Moderate to Strong"
+        }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation#collection",
+        "name": "Sensory Regulation Therapy Materials Collection",
+        "description": "Complete collection of sensory regulation tools including weighted blankets, compression vests, ear defenders, fidget tools.",
+        "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 10,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Weighted Blanket / Lap Pad",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Compression Vest / Body Sock",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/compression-vest-body-sock"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ear Defenders / Headphones",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/noise-reducing-headphones-ear-defenders"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Fidget Tool Set",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/fidget-tool-set"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Sunglasses / Light Filtering",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/sunglasses-light-filtering-glasses"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Therapy Putty",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/therapy-putty"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Sensory Brushes",
+              "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/sensory-brushes"
+            }
+          ]
+        }
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#announcement",
+        "name": "Free Shipping on All Therapy Materials",
+        "text": "Free shipping across India on all therapy materials. Same-day dispatch for orders placed before 2 PM IST. 30-day hassle-free returns.",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "category": "https://www.wikidata.org/wiki/Q7188",
+        "announcementLocation": {
+          "@type": "Country",
+          "name": "India"
+        },
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#variants",
+        "name": "Weighted Blanket Product Variants",
+        "description": "Complete range of weighted blanket and lap pad variants for different ages and use cases",
+        "numberOfItems": 6,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Weighted Lap Pad (₹600-1500)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#lap-pad"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Weighted Blanket Small (₹1200-2500)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#blanket-small"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Weighted Blanket Medium (₹1800-4000)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#blanket-medium"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Weighted Shoulder Wrap (₹800-2000)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#shoulder-wrap"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Weighted Stuffed Animal (₹1000-2500)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#stuffed-animal"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Weighted Snake/Tube (₹700-1800)",
+            "url": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad#snake-tube"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "Weighted Blanket & Lap Pad for Autism | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.subject",
+        "content": "Autism therapy materials, Sensory regulation, Weighted blanket, Occupational therapy"
+      },
+      {
+        "name": "DC.description",
+        "content": "Therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs"
+      },
+      {
+        "name": "DC.publisher",
+        "content": "Pinnacle Blooms Network Pvt. Ltd."
+      },
+      {
+        "name": "DC.contributor",
+        "content": "Dr. Koti Reddy Saripalli"
+      },
+      {
+        "name": "DC.date",
+        "content": "2025-01-01"
+      },
+      {
+        "name": "DC.type",
+        "content": "Product"
+      },
+      {
+        "name": "DC.format",
+        "content": "text/html"
+      },
+      {
+        "name": "DC.identifier",
+        "content": "https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad"
+      },
+      {
+        "name": "DC.language",
+        "content": "en-IN"
+      },
+      {
+        "name": "DC.coverage",
+        "content": "India"
+      },
+      {
+        "name": "DC.rights",
+        "content": "© 2025 Pinnacle Blooms Network Pvt. Ltd."
+      }
+    ],
+    "openGraph": [
+      {
+        "property": "og:title",
+        "content": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms"
+      },
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:url",
+        "content": "https://materials.pinnacleblooms.org/index"
+      },
+      {
+        "property": "og:description",
+        "content": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600."
+      },
+      {
+        "property": "og:site_name",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "property": "og:locale",
+        "content": "en_IN"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "te_IN"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "hi_IN"
+      },
+      {
+        "property": "og:determiner",
+        "content": "the"
+      },
+      {
+        "property": "og:image",
+        "content": "https://materials.pinnacleblooms.org/cdn-cgi/image/width=1200,quality=60/assets/index-bg-1-001.png"
+      },
+      {
+        "property": "og:image:secure_url",
+        "content": "https://materials.pinnacleblooms.org/cdn-cgi/image/width=1200,quality=60/assets/index-bg-1-001.png"
+      },
+      {
+        "property": "og:image:type",
+        "content": "image/png"
+      },
+      {
+        "property": "og:image:width",
+        "content": "1200"
+      },
+      {
+        "property": "og:image:height",
+        "content": "630"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "Weighted Blanket & Lap Pad for Sensory Regulation"
+      },
+      {
+        "property": "og:logo",
+        "content": "https://www.pinnacleblooms.org/media/image/Pinnacle-blooms-Logo.jpg"
+      },
+      {
+        "property": "og:see_also",
+        "content": "https://pinnacleblooms.org/therapy-materials"
+      },
+      {
+        "property": "og:see_also",
+        "content": "https://www.facebook.com/PinnacleBlooms"
+      },
+      {
+        "property": "og:see_also",
+        "content": "https://www.instagram.com/pinnacleblooms"
+      },
+      {
+        "property": "og:see_also",
+        "content": "https://www.youtube.com/@PinnacleBlooms"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@PinnacleBlooms"
+      },
+      {
+        "name": "twitter:creator",
+        "content": "@PinnacleBlooms"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Weighted Blanket & Lap Pad for Sensory Regulation | Pinnacle Blooms"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Complete guide to therapy-grade weighted blankets for children with autism, ADHD, and sensory processing needs. 6 variants from ₹600."
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://materials.pinnacleblooms.org/cdn-cgi/image/width=1200,quality=60/assets/index-bg-1-001.png"
+      },
+      {
+        "name": "twitter:image:alt",
+        "content": "Weighted Blanket & Lap Pad for Sensory Regulation"
+      },
+      {
+        "property": "fb:app_id",
+        "content": "412600300040061"
+      },
+      {
+        "property": "fb:pages",
+        "content": "770757919790599"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "googlebot",
+        "content": "index, follow"
+      },
+      {
+        "name": "theme-color",
+        "content": "#6B2D8B"
+      },
+      {
+        "name": "msapplication-TileColor",
+        "content": "#6B2D8B"
+      }
+    ]
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "Weighted Blanket / Lap Pad",
+      "content_category": "Therapy Materials > Sensory Regulation",
+      "content_ids": [
+        "PTM-1.1"
+      ],
+      "content_type": "product",
+      "value": 2300,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "userData": {
+        "user_data": {
+          "user_id": "",
+          "logged_in": false
+        }
+      },
+      "viewItemList": {
+        "event": "view_item_list",
+        "ecommerce": {
+          "item_list_id": "sensory_regulation",
+          "item_list_name": "Sensory Regulation Products",
+          "items": [
+            {
+              "item_id": "PTM-1.1",
+              "item_name": "Weighted Blanket / Lap Pad",
+              "affiliation": "Pinnacle Therapy Materials",
+              "item_brand": "Pinnacle Therapy Materials",
+              "item_category": "Sensory Regulation",
+              "item_category2": "Deep Pressure",
+              "item_category3": "Core Kit",
+              "item_variant": "6 Variants",
+              "price": 2300,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "contentGroup": {
+        "content_group": "Product Page",
+        "content_type": "Therapy Material",
+        "content_id": "PTM-1.1",
+        "author": "Pinnacle Blooms Network",
+        "publish_date": "2025-01-01",
+        "page_language": "en-IN"
+      },
+      "customDimensions": {
+        "therapy_category": "Sensory Regulation",
+        "product_type": "Weighted Item",
+        "target_condition": [
+          "Autism",
+          "ADHD",
+          "Sensory Processing"
+        ],
+        "age_range": "1-9 years",
+        "kit_level": "Core",
+        "evidence_level": "Strong"
+      }
+    }
+  },
+  "components": {
+    "criticalCSS": "*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1a1a1a}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0)}.skip-link{position:absolute;left:-9999px}.skip-link:focus{position:fixed;top:0;left:0;padding:1rem;background:#0066cc;color:#fff}:focus-visible{outline:3px solid #0066cc;outline-offset:2px}@media(prefers-reduced-motion:reduce){*{animation-duration:0.01ms!important;transition-duration:0.01ms!important}}@media print{.no-print{display:none!important}}",
+    "skipLinks": [
+      {
+        "href": "#main-content",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "#product-info",
+        "text": "Skip to product information"
+      },
+      {
+        "href": "#variants",
+        "text": "Skip to variants"
+      },
+      {
+        "href": "#faq",
+        "text": "Skip to FAQ"
+      },
+      {
+        "href": "#contact",
+        "text": "Skip to contact"
+      }
+    ],
+    "shareButtons": [
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "label": "Share on Facebook",
+        "onclick": "trackShare('facebook')"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/intent/tweet?url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad&text=Weighted%20Blanket%20for%20Autism",
+        "label": "Share on X",
+        "onclick": "trackShare('twitter')"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "label": "Share on LinkedIn",
+        "onclick": "trackShare('linkedin')"
+      },
+      {
+        "platform": "whatsapp",
+        "url": "https://api.whatsapp.com/send?text=Weighted%20Blanket%20for%20Autism%20https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad",
+        "label": "Share on WhatsApp",
+        "onclick": "trackShare('whatsapp')"
+      },
+      {
+        "platform": "telegram",
+        "url": "https://t.me/share/url?url=https://pinnacleblooms.org/therapy-materials/sensory-regulation/weighted-blanket-lap-pad&text=Weighted%20Blanket%20for%20Autism",
+        "label": "Share on Telegram",
+        "onclick": "trackShare('telegram')"
+      }
+    ],
+    "microdataBreadcrumb": "<nav aria-label=\"Breadcrumb\" itemscope itemtype=\"https://schema.org/BreadcrumbList\"><ol><li itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><a itemprop=\"item\" href=\"https://pinnacleblooms.org\"><span itemprop=\"name\">Home</span></a><meta itemprop=\"position\" content=\"1\"/></li><li itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><a itemprop=\"item\" href=\"https://pinnacleblooms.org/therapy-materials\"><span itemprop=\"name\">Therapy Materials</span></a><meta itemprop=\"position\" content=\"2\"/></li><li itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><a itemprop=\"item\" href=\"https://pinnacleblooms.org/therapy-materials/sensory-regulation\"><span itemprop=\"name\">Sensory Regulation</span></a><meta itemprop=\"position\" content=\"3\"/></li><li itemprop=\"itemListElement\" itemscope itemtype=\"https://schema.org/ListItem\"><span itemprop=\"name\">Weighted Blanket / Lap Pad</span><meta itemprop=\"position\" content=\"4\"/></li></ol></nav>"
+  }
+}
