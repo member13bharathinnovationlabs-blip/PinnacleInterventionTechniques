@@ -133,8 +133,12 @@ function buildSEO(page = "index") {
     out += `<meta name="${m.name}" content="${m.content}">\n`;
   });
 
-  pageData.meta?.openGraph?.forEach(m => {
-    out += `<meta property="${m.property}" content="${m.content}">\n`;
+  // pageData.meta?.openGraph?.forEach(m => {
+  //   out += `<meta property="${m.property}" content="${m.content}">\n`;
+  // });
+
+  Object.entries(pageData.meta?.openGraph || {}).forEach(([property, content]) => {
+    out += `<meta property="${property}" content="${content}">\n`;
   });
 
   if (pageData.meta) {
