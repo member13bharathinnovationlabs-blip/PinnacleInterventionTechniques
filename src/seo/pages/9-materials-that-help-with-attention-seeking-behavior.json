@@ -1,0 +1,1084 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior",
+    "title": "9 Materials That Help With Attention-Seeking Behavior | Pinnacle Blooms",
+    "description": "My child constantly interrupts and acts out to get my attention? Attention-maintained challenging behavior is neurological, not behavioral. 9 evidence-based ...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-21",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "D-347",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Behavior Function Solutions",
+    "episodeInSeries": 347,
+    "domain": "Behavioral",
+    "subDomain": "Function-Based Intervention",
+    "domainCode": "BEH-ATT",
+    "ageBand": "2–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "BEH-FUNC-01",
+    "clusterName": "Behavior Function Intervention Series",
+    "clusterPosition": 347,
+    "totalInCluster": 400
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior",
+        "name": "9 Materials That Help With Attention-Seeking Behavior | Pinnacle Blooms",
+        "description": "My child constantly interrupts and acts out to get my attention? Attention-maintained challenging behavior is neurological, not behavioral. 9 evidence-based ...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-21",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "child demands constant attention",
+          "attention-seeking autism",
+          "positive attention strategies",
+          "child interrupts constantly",
+          "handling attention-seeking behavior",
+          "functional communication training",
+          "Special Time with child",
+          "positive attention ratio",
+          "child needs too much attention",
+          "connection over correction",
+          "attention-seeking behavior child"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Function-Based Intervention challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Behavioral",
+            "item": "https://pinnacleblooms.org/intervention-techniques/behavioral"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Function-Based Intervention",
+            "item": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Attention-Seeking Behavior"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/D-347-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/D-347-hero.webp",
+        "caption": "Parent and child in positive connected interaction. Child appropriately gaining attention through communication. Warm family engagement. Transformation from demanding behavior to appropriate requesting. Connection and warmth visible.",
+        "description": "Parent giving positive attention to child who requested appropriately, showing healthy connection",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#video",
+        "name": "9 Materials That Help With Attention-Seeking Behavior",
+        "description": "They interrupt, act out, tantrum when you're busy—and everyone says 'they just want attention.' Yes! Exactly! Attention is a real need. The question isn't how to stop them from wanting it—it's how to help them get it appropriately. Here are nine materials that transform attention-seeking into connection.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/D-347-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/D-347.mp4",
+        "embedUrl": "https://www.instagram.com/reel/D-347/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#AttentionSeekingBehavior",
+          "#PositiveAttention",
+          "#ConnectionNotCorrection",
+          "#FunctionalCommunication",
+          "#AutismSupport",
+          "#BehaviorFunction",
+          "#ParentChildConnection",
+          "#SpecialTime",
+          "#PositiveParenting",
+          "#PinnacleBlooms",
+          "#ABATherapy",
+          "#AttentionNeeds",
+          "#ChildBehavior",
+          "#RelationshipBuilding",
+          "#FamilyConnection"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Attention-maintained challenging behavior",
+          "alternateName": [
+            "child attention-seeking behavior",
+            "child interrupts constantly",
+            "toddler demands attention all the time"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Constantly Interrupts And Acts",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "They interrupt, act out, tantrum when you're busy—and everyone says 'they just want attention.' Y..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Attention Request Communication Cards",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Teaches children to ask for attention appropriately instead of demanding it through challenging b..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Special Time Visual Schedules",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Shows children when they'll have guaranteed one-on-one attention—reducing the need to seek attent..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Attention Signal Systems",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Gives children subtle, appropriate ways to request attention without interrupting or being disrup..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Positive Attention Tracking Systems",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Helps parents give more positive than negative attention—reversing cycles where challenging behav..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Independent Activity Kits",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Gives children engaging, structured activities for times when parent attention isn't available—bu..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Social Stories About Attention",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Teaches children about waiting for attention, asking appropriately, and sharing caregiver time th..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Waiting and Patience Visual Supports",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Makes wait time concrete and manageable—turning abstract 'wait' into something children can see a..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Connection Ritual Materials",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Creates predictable moments of positive attention throughout the day—small rituals that meet conn..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Positive Behavior Attention Charts",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Directs attention toward appropriate behavior—catching children being good and making positive at..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child constantly interrupts and acts out to get my attention?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ATTENTION-MAINTAINED CHALLENGING BEHAVIOR! Attention-seeking behavior occurs when a child engages in actions specifically to obtain social attention from others. In behavioral terms, these behaviors are maintained by positive social reinforcement. All humans seek attention—it's a fundamental social need. Children with autism may seek attention through challenging behaviors because they haven't learned appropriate ways to get attention, inappropriate behaviors get more reliable or intense responses, or they've learned that negative attention is more predictable than positive attention. The key insight is that attention-seeking indicates a need for connection—the child wants social engagement. The solution isn't to eliminate the need but to teach appropriate ways to meet it while providing proactive positive attention. Per SPD Foundation: Children with sensory processing differences may seek attention more intensely due to difficulty reading social cues about attention availability, challenges with self-regulation during wait times, or heightened need for co-regulation through caregiver presence. Understanding the sensory and developmental context of attention-seeking helps caregivers respond with connection rather than punishment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Attention-seeking behavior occurs when a child engages in actions specifically to obtain social attention from others. In behavioral terms, these behaviors are maintained by positive social reinforcement. All humans seek attention—it's a fundamental social need. Children with autism may seek attention through challenging behaviors because they haven't learned appropriate ways to get attention, inappropriate behaviors get more reliable or intense responses, or they've learned that negative attention is more predictable than positive attention. The key insight is that attention-seeking indicates a need for connection—the child wants social engagement. The solution isn't to eliminate the need but to teach appropriate ways to meet it while providing proactive positive attention. Common signs include: Interrupts when parent is on phone or busy, Tantrums when attention shifts to sibling, Acts out during conversations between adults, Engages in disruptive behavior when ignored, Physical behaviors (poking, pulling) to get response."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Attention Request Communication Cards help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches children to ask for attention appropriately instead of demanding it through challenging behavior. Price: ₹100–300. DIY option: Create cards with images and text: 'Play with me,' 'Look!' 'I need you.' Laminate for durability. Keep accessible. Safety: Cards must work—when child uses card, attention must follow immediately. Ignoring card use will extinguish appropriate requesting."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Special Time Visual Schedules help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows children when they'll have guaranteed one-on-one attention—reducing the need to seek attention through behavior. Price: ₹0–200. DIY option: Add 'Special Time' to daily visual schedule with clear time. Use picture of parent and child together. Protect this time—never cancel as punishment. Safety: Special Time must be protected. Canceling teaches unreliability and increases attention-seeking. Keep it child-led, not parent's agenda."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Attention Signal Systems help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Gives children subtle, appropriate ways to request attention without interrupting or being disruptive. Price: ₹200–600. DIY option: Use colored cards, special hand signals, or a bell. Establish clear meaning: signal = 'I see you, I'll be there soon.' Always respond to signals. Safety: Signals must be responded to promptly initially. Ignoring signals will extinguish appropriate behavior and increase challenging behavior."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Positive Attention Tracking Systems help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Helps parents give more positive than negative attention—reversing cycles where challenging behavior gets the most response. Price: ₹0–150. DIY option: Use two jars or tally sheet—one for positive comments, one for corrections. Aim for 5:1 ratio. Move a bead between jars for each interaction type. Safety: Goal is ratio improvement, not elimination of all correction. Some negative attention is necessary for safety. Focus on increasing positives."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Independent Activity Kits help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Gives children engaging, structured activities for times when parent attention isn't available—building self-occupation skills. Price: ₹300–800. DIY option: Create activity boxes with preferred, engaging materials. Structure clearly: what to do, how to know when done. Rotate activities to maintain interest. Safety: Start with very short independent times—30 seconds to 1 minute. Build gradually. Always provide positive attention after independent activity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Social Stories About Attention help with attention-maintained challenging behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches children about waiting for attention, asking appropriately, and sharing caregiver time through narrative. Price: ₹100–400. DIY option: Create simple story with photos: 'Sometimes Mom is busy. I can wait or use my card. Mom will give me attention soon. Waiting is okay.' Safety: Read stories during calm times—not during or after challenging behavior. Stories are teaching tools, not punishments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Behavior maintained by multiple functions (escape AND attention). Extremely dangerous attention-seeking behavior. Attention-seeking that doesn't decrease with appropriate attention. Complete inability to tolerate any wait for attention. Aggression specifically targeting others for reaction. Consult BCBA or psychologist if: functional assessment needed to confirm function, behavior is dangerous, interventions aren't working after 4–6 weeks, or behavior serves multiple functions requiring complex intervention."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#howto",
+        "name": "How to Help a Child with Attention Maintained Challenging Behavior",
+        "description": "A graded approach using evidence-based materials. Attention is a fundamental human need—not manipulation. The goal is meeting attention needs through appropriate channels, not eliminating the need.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1000,
+          "maxValue": 3500
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Attention Request Communication Cards",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 300
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Special Time Visual Schedules",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 0,
+              "maxValue": 200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Attention Signal Systems",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Attention-seeking behavior occurs when a child engages in actions specifically to obtain social attention from others. In behavioral terms, these behaviors are maintained by positive social reinforcement. All humans seek attention—it's a fundamental social need. Children with autism may seek attention through challenging behaviors because they haven't learned appropriate ways to get attention, inappropriate behaviors get more reliable or intense responses, or they've learned that negative attention is more predictable than positive attention. The key insight is that attention-seeking indicates a need for connection—the child wants social engagement. The solution isn't to eliminate the need but to teach appropriate ways to meet it while providing proactive positive attention. Attention is a fundamental human need—not manipulation. The goal is meeting attention needs through appropriate channels, not eliminating the need."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Attention Request Communication Cards, Special Time Visual Schedules, Attention Signal Systems."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Behavior maintained by multiple functions (escape AND attention), Extremely dangerous attention-seeking behavior, Attention-seeking that doesn't decrease with appropriate attention."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult BCBA or psychologist if: functional assessment needed to confirm function, behavior is dangerous, interventions aren't working after 4–6 weeks, or behavior serves multiple functions requiring complex intervention."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#medicalpage",
+        "name": "Attention-maintained challenging behavior Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Attention-maintained challenging behavior",
+          "alternateName": [
+            "child attention-seeking behavior",
+            "child interrupts constantly",
+            "toddler demands attention all the time"
+          ],
+          "description": "Attention-seeking behavior occurs when a child engages in actions specifically to obtain social attention from others. In behavioral terms, these behaviors are maintained by positive social reinforcement. All humans seek attention—it's a fundamental social need. Children with autism may seek attention through challenging behaviors because they haven't learned appropriate ways to get attention, inappropriate behaviors get more reliable or intense responses, or they've learned that negative attention is more predictable than positive attention. The key insight is that attention-seeking indicates a need for connection—the child wants social engagement. The solution isn't to eliminate the need but to teach appropriate ways to meet it while providing proactive positive attention.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Interrupts when parent is on phone or busy"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Tantrums when attention shifts to sibling"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Acts out during conversations between adults"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Engages in disruptive behavior when ignored"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Physical behaviors (poking, pulling) to get response"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Repetitive questions even after answers given"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Escalating behavior until attention received"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Calms immediately when attention provided"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-21"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#article",
+        "headline": "9 Materials That Help With Attention-Seeking Behavior",
+        "alternativeHeadline": "When they just want you to notice them",
+        "description": "My child constantly interrupts and acts out to get my attention? Attention-maintained challenging behavior is neurological, not behavioral. 9 evidence-based ...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-21T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#primaryimage"
+        },
+        "articleSection": "Behavioral",
+        "wordCount": 3500,
+        "keywords": [
+          "child demands constant attention",
+          "attention-seeking autism",
+          "positive attention strategies",
+          "child interrupts constantly",
+          "handling attention-seeking behavior"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Children with sensory processing differences may seek attention more intensely due to difficulty reading social cues about attention availability, challenges with self-regulation during wait times, or heightened need for co-regulation through caregiver presence."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across behavioral interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Carr & Durand",
+            "url": "",
+            "description": "Reducing behavior problems through functional communication training (1985). Journal of Applied Behavior Analysis. Foundational FCT research for attention-maintained behavior."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Iwata et al.",
+            "url": "",
+            "description": "Toward a functional analysis of self-injury (1994). Journal of Applied Behavior Analysis. Seminal research on behavior functions including attention."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Gray, C.",
+            "url": "",
+            "description": "The New Social Story Book (2010). Future Horizons. Social Story intervention for attention-related situations."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#healthcontent",
+        "name": "Attention-maintained challenging behavior Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Attention-maintained challenging behavior"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Function-Based Intervention challenges"
+        },
+        "keywords": [
+          "child demands constant attention",
+          "attention-seeking autism",
+          "positive attention strategies",
+          "child interrupts constantly",
+          "handling attention-seeking behavior"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#evidence",
+        "claimReviewed": "Attention is a fundamental human need—not manipulation. The goal is meeting attention needs through appropriate channels, not eliminating the need. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Attention Maintained Challenging Behavior Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention#collection",
+        "name": "Behavior Function Intervention Series",
+        "description": "Complete series of 400 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "D-345: Finding Behavior Patterns",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-346: Sensory-Driven Behavior",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-347: Attention-Seeking Behavior (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-348: Escape-Maintained Behavior",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-349: Tangible-Maintained Behavior",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 400,
+        "collectionSize": 400
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#materials",
+        "name": "9 Materials for Attention Maintained Challenging Behavior",
+        "description": "Evidence-based materials for ages 2–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Attention Request Communication Cards",
+              "description": "Teaches children to ask for attention appropriately instead of demanding it through challenging behavior.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards with images and text: 'Play with me,' 'Look!' 'I need you.' Laminate for durability. Keep accessible."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Cards must work—when child uses card, attention must follow immediately. Ignoring card use will extinguish appropriate requesting."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Special Time Visual Schedules",
+              "description": "Shows children when they'll have guaranteed one-on-one attention—reducing the need to seek attention through behavior.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Add 'Special Time' to daily visual schedule with clear time. Use picture of parent and child together. Protect this time—never cancel as punishment."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Special Time must be protected. Canceling teaches unreliability and increases attention-seeking. Keep it child-led, not parent's agenda."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Attention Signal Systems",
+              "description": "Gives children subtle, appropriate ways to request attention without interrupting or being disruptive.",
+              "category": "Communicationskills",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use colored cards, special hand signals, or a bell. Establish clear meaning: signal = 'I see you, I'll be there soon.' Always respond to signals."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Signals must be responded to promptly initially. Ignoring signals will extinguish appropriate behavior and increase challenging behavior."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Positive Attention Tracking Systems",
+              "description": "Helps parents give more positive than negative attention—reversing cycles where challenging behavior gets the most response.",
+              "category": "Attentionpatterns",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–150"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use two jars or tally sheet—one for positive comments, one for corrections. Aim for 5:1 ratio. Move a bead between jars for each interaction type."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Goal is ratio improvement, not elimination of all correction. Some negative attention is necessary for safety. Focus on increasing positives."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Independent Activity Kits",
+              "description": "Gives children engaging, structured activities for times when parent attention isn't available—building self-occupation skills.",
+              "category": "Independencebuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create activity boxes with preferred, engaging materials. Structure clearly: what to do, how to know when done. Rotate activities to maintain interest."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with very short independent times—30 seconds to 1 minute. Build gradually. Always provide positive attention after independent activity."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Social Stories About Attention",
+              "description": "Teaches children about waiting for attention, asking appropriately, and sharing caregiver time through narrative.",
+              "category": "Understandingsupports",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple story with photos: 'Sometimes Mom is busy. I can wait or use my card. Mom will give me attention soon. Waiting is okay.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Read stories during calm times—not during or after challenging behavior. Stories are teaching tools, not punishments."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Waiting and Patience Visual Supports",
+              "description": "Makes wait time concrete and manageable—turning abstract 'wait' into something children can see and understand.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use sand timer or visual countdown. Create First-Then board: 'First wait, then attention.' Define what 'waiting' looks like with picture cards."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with very short waits—success builds skill. Always follow through when timer ends. Never set timers longer than child can manage."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Connection Ritual Materials",
+              "description": "Creates predictable moments of positive attention throughout the day—small rituals that meet connection needs proactively.",
+              "category": "Proactiveattention",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–100"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple rituals: special morning greeting, unique handshake, brief hello song, transition rituals. Keep them brief (30 seconds–2 minutes) and consistent."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Rituals should be sustainable—don't create elaborate ones that can't be maintained. Protect ritual time; don't skip due to rushing."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Positive Behavior Attention Charts",
+              "description": "Directs attention toward appropriate behavior—catching children being good and making positive attention contingent on positive behavior.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create chart with 3–5 positive behaviors related to attention: 'waits patiently,' 'asks with words.' Add sticker WITH positive attention for each success."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Chart should be achievable—set child up for success. Focus on behaviors child CAN do. Never remove stickers. The attention is the reinforcer—chart tracks it."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavioral/function-based intervention/9-materials-that-help-with-attention-seeking-behavior#course",
+        "name": "Behavior Function Solutions",
+        "description": "Parent education video series on Behavioral interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Attention-Seeking Behavior | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "child demands constant attention, attention-seeking autism, positive attention strategies, child interrupts constantly, handling attention-seeking behavior"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/D-347.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/D-347-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/D-347.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Attention-Seeking Behavior",
+      "content_category": "Intervention Techniques > Behavioral > Function-Based Intervention",
+      "content_ids": [
+        "D-347"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "D-347",
+        "technique_theme": "9MAT",
+        "domain": "Behavioral",
+        "sub_domain": "Function-Based Intervention",
+        "domain_code": "BEH-ATT",
+        "series": "Behavior Function Solutions",
+        "episode": 347,
+        "age_band": "2–12 years",
+        "setting": "Home",
+        "cluster_id": "BEH-FUNC-01",
+        "cluster_position": 347,
+        "materials_count": 9,
+        "total_cost_range": "₹1,000–3,500 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#AttentionSeekingBehavior",
+      "#PositiveAttention",
+      "#ConnectionNotCorrection",
+      "#FunctionalCommunication",
+      "#AutismSupport",
+      "#BehaviorFunction",
+      "#ParentChildConnection",
+      "#SpecialTime",
+      "#PositiveParenting",
+      "#PinnacleBlooms",
+      "#ABATherapy",
+      "#AttentionNeeds",
+      "#ChildBehavior",
+      "#RelationshipBuilding",
+      "#FamilyConnection"
+    ],
+    "caption": "They just want attention. Yes. EXACTLY. 💛 Attention is a real need—not manipulation. The question isn't how to stop them from wanting it—it's how to help them get it appropriately. Here are 9 materials that transform attention-seeking into connection. Teach appropriate requesting, provide proactive attention, and build positive patterns. Save this! #AttentionSeekingBehavior #PositiveAttention #ConnectionNotCorrection #AutismSupport #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "D-348",
+    "prevInSeries": "D-346",
+    "relatedTechniques": [
+      "D-346",
+      "D-348",
+      "D-349",
+      "D-352",
+      "D-360"
+    ],
+    "deepDives": [
+      "D-347-DD-01",
+      "D-347-DD-02",
+      "D-347-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-925",
+      "K-930"
+    ]
+  }
+}

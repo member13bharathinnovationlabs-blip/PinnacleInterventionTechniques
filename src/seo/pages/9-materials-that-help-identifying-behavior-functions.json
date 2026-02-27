@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions",
+    "title": "9 Materials That Help Identifying Behavior Functions | Pinnacle Blooms",
+    "description": "I don't know why my child keeps doing this – nothing I try works? Functional Behavior Assessment – identifying the maintaining function (purpose) of challeng...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-21",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "D-342",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Behavior Understanding & Support",
+    "episodeInSeries": 342,
+    "domain": "Behavior",
+    "subDomain": "Functional Assessment",
+    "domainCode": "BEH-FBA",
+    "ageBand": "2–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "BEH-FBA-01",
+    "clusterName": "Behavior Function & Assessment Series",
+    "clusterPosition": 342,
+    "totalInCluster": 400
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions",
+        "name": "9 Materials That Help Identifying Behavior Functions | Pinnacle Blooms",
+        "description": "I don't know why my child keeps doing this – nothing I try works? Functional Behavior Assessment – identifying the maintaining function (purpose) of challeng...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-21",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "why does my child behave this way",
+          "functional behavior assessment parents",
+          "escape function autism",
+          "attention seeking behavior",
+          "ABC data collection",
+          "function of behavior",
+          "behavior intervention not working",
+          "four functions of behavior",
+          "automatic function behavior",
+          "behavior function identification"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Functional Assessment challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Behavior",
+            "item": "https://pinnacleblooms.org/intervention-techniques/behavior"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Functional Assessment",
+            "item": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help Identifying Behavior Functions"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/D-342-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/D-342-hero.webp",
+        "caption": "Detective/investigator metaphor—magnifying glass revealing the 'function' hidden within behavior. Same behavior (hitting) shown four times with different colored 'function tags': escape (running figure), attention (speech bubble), tangible (object), sensory (wave pattern). Parent equipped with function-finding tools.",
+        "description": "Magnifying glass revealing four different functions behind the same challenging behavior",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#video",
+        "name": "9 Materials That Help Identifying Behavior Functions",
+        "description": "One child screams to escape demands. Another screams for attention. The intervention that works for one makes the other WORSE. Here are nine materials that help you identify WHY behaviors happen—so your response actually works.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/D-342-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/D-342.mp4",
+        "embedUrl": "https://www.instagram.com/reel/D-342/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#BehaviorFunction",
+          "#FBA",
+          "#FunctionalBehaviorAssessment",
+          "#WhyNotWhat",
+          "#EscapeFunction",
+          "#AttentionFunction",
+          "#ABCData",
+          "#BehaviorAnalysis",
+          "#AutismBehavior",
+          "#BehaviorSupport",
+          "#PinnacleBlooms",
+          "#FunctionBasedIntervention",
+          "#ParentTraining",
+          "#BehaviorDetective",
+          "#UnderstandingBehavior"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors",
+          "alternateName": [
+            "why does my child behave this way",
+            "behavior function autism",
+            "functional behavior assessment"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - I Don't Know Why My Child Keep",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "One child screams to escape demands. Another screams for attention. The intervention that works f..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Function Identification Flowcharts and Decision Trees",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Guides systematic function discovery through key questions about when behavior occurs and what ha..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Four Functions Visual Reference Cards and Posters",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides quick-access reminders of the E-A-T-A framework: Escape, Attention, Tangible, Automatic."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Contextual ABC Analysis Worksheets",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Captures rich contextual information beyond basic ABC to reveal function patterns."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Function-Specific Indicator Checklists",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Provides observable criteria for each function—check what you see, function emerges."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Consequence Mapping Tools and Reinforcement Trackers",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Focuses on what happens AFTER behavior—revealing the reinforcement maintaining it."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Setting Event and Establishing Operation Trackers",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Captures background conditions that make behavior more likely—poor sleep, hunger, transitions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Multiple Function Analysis Tools",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Identifies when ONE behavior serves DIFFERENT functions in different contexts."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Automatic Function Identification Guides",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Helps recognize behaviors that are self-reinforcing—the behavior itself provides the reward."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Function-to-Intervention Matching Guides",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Connects identified function to appropriate interventions—because function determines solution."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does i don't know why my child keeps doing this – nothing i try works?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "FUNCTIONAL BEHAVIOR ASSESSMENT – IDENTIFYING THE MAINTAINING FUNCTION (PURPOSE) OF CHALLENGING BEHAVIORS! The systematic process of determining WHY a behavior occurs by identifying its function—what the behavior achieves for the child. The four primary functions are: Escape (avoiding something aversive), Attention (gaining social interaction), Tangible (accessing items or activities), and Automatic/Sensory (internal reinforcement from the behavior itself). Interventions matched to function are significantly more effective than generic approaches. Per SPD Foundation and behavior research: All behavior serves a function—it achieves something for the child. The same behavior (hitting, screaming, running away) can serve completely different functions for different children, or even for the same child in different contexts. An intervention that works for escape-maintained behavior will fail—or make things worse—for attention-maintained behavior. Function identification is the bridge between observing behavior and intervening effectively."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The systematic process of determining WHY a behavior occurs by identifying its function—what the behavior achieves for the child. The four primary functions are: Escape (avoiding something aversive), Attention (gaining social interaction), Tangible (accessing items or activities), and Automatic/Sensory (internal reinforcement from the behavior itself). Interventions matched to function are significantly more effective than generic approaches. Common signs include: Same consequences applied but behavior doesn't change, Intervention seems to make behavior worse, Parent doesn't understand why behavior keeps happening, Different people get different behaviors from the child, Behavior occurs predictably in certain situations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Function Identification Flowcharts and Decision Trees help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Guides systematic function discovery through key questions about when behavior occurs and what happens after. Price: ₹0–300. DIY option: Create a simple decision tree: When does it happen? What happens after? Who is present? Does it happen when alone? Safety: Flowcharts provide hypotheses, not certainties. Complex behaviors may require professional FBA."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Four Functions Visual Reference Cards and Posters help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides quick-access reminders of the E-A-T-A framework: Escape, Attention, Tangible, Automatic. Price: ₹100–400. DIY option: Create four-quadrant poster with examples from your child's specific behaviors for each function. Safety: Same behavior can have different functions in different contexts. Use as guide, not rigid categories."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Contextual ABC Analysis Worksheets help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Captures rich contextual information beyond basic ABC to reveal function patterns. Price: ₹0–200. DIY option: Add columns to basic ABC sheets: time, location, people present, child's state, activity. Track 10+ instances. Safety: More detail requires more effort—balance thoroughness with sustainability. Focus on specific behaviors of concern."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Function-Specific Indicator Checklists help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides observable criteria for each function—check what you see, function emerges. Price: ₹100–300. DIY option: List indicators for each function. Check only what you've directly observed across multiple instances. Safety: Checklists are screening tools, not assessments. Multiple functions may show elevated indicators."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Consequence Mapping Tools and Reinforcement Trackers help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Focuses on what happens AFTER behavior—revealing the reinforcement maintaining it. Price: ₹0–200. DIY option: For each behavior instance, document: What did child GET? What did child AVOID? Look for consistent patterns. Safety: Some reinforcement is internal (automatic function). Consequences may be subtle or unintentional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Setting Event and Establishing Operation Trackers help with functional behavior assessment – identifying the maintaining function (purpose) of challenging behaviors?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Captures background conditions that make behavior more likely—poor sleep, hunger, transitions. Price: ₹0–200. DIY option: Create daily checklist: sleep quality, meals, health, routine changes, sensory load. Track correlation with behaviors. Safety: Not all setting events are controllable. Use for understanding and prevention, not excuse."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Behavior causing injury to self or others. Function unclear after systematic observation. Multiple functions operating. Behavior escalating despite function-matched intervention. Complex or dangerous behaviors. Consult BCBA or behavior specialist if: function is unclear after tracking, behavior is dangerous, professional Functional Behavior Assessment is needed, or interventions aren't working despite function matching."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#howto",
+        "name": "How to Help a Child with Functional Behavior Assessment – Identifying The Maintaining Function (purpose) Of Challenging Behaviors",
+        "description": "A graded approach using evidence-based materials. Interventions matched to behavior function are significantly more effective than generic approaches. Find the function to find the solution.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 500,
+          "maxValue": 2200
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Function Identification Flowcharts and Decision Trees",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 0,
+              "maxValue": 300
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Four Functions Visual Reference Cards and Posters",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Contextual ABC Analysis Worksheets",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 0,
+              "maxValue": 200
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "The systematic process of determining WHY a behavior occurs by identifying its function—what the behavior achieves for the child. The four primary functions are: Escape (avoiding something aversive), Attention (gaining social interaction), Tangible (accessing items or activities), and Automatic/Sensory (internal reinforcement from the behavior itself). Interventions matched to function are significantly more effective than generic approaches. Interventions matched to behavior function are significantly more effective than generic approaches. Find the function to find the solution."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Function Identification Flowcharts and Decision Trees, Four Functions Visual Reference Cards and Posters, Contextual ABC Analysis Worksheets."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Behavior causing injury to self or others, Function unclear after systematic observation, Multiple functions operating."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult BCBA or behavior specialist if: function is unclear after tracking, behavior is dangerous, professional Functional Behavior Assessment is needed, or interventions aren't working despite function matching."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#medicalpage",
+        "name": "Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors",
+          "alternateName": [
+            "why does my child behave this way",
+            "behavior function autism",
+            "functional behavior assessment"
+          ],
+          "description": "The systematic process of determining WHY a behavior occurs by identifying its function—what the behavior achieves for the child. The four primary functions are: Escape (avoiding something aversive), Attention (gaining social interaction), Tangible (accessing items or activities), and Automatic/Sensory (internal reinforcement from the behavior itself). Interventions matched to function are significantly more effective than generic approaches.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Same consequences applied but behavior doesn't change"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Intervention seems to make behavior worse"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Parent doesn't understand why behavior keeps happening"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Different people get different behaviors from the child"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Behavior occurs predictably in certain situations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Time-outs or punishments aren't working"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Child seems to 'want' to get in trouble"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Behavior stops when demands are removed"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-21"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#article",
+        "headline": "9 Materials That Help Identifying Behavior Functions",
+        "alternativeHeadline": "When you need to know WHY the behavior is happening",
+        "description": "I don't know why my child keeps doing this – nothing I try works? Functional Behavior Assessment – identifying the maintaining function (purpose) of challeng...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-21T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#primaryimage"
+        },
+        "articleSection": "Behavior",
+        "wordCount": 3500,
+        "keywords": [
+          "why does my child behave this way",
+          "functional behavior assessment parents",
+          "escape function autism",
+          "attention seeking behavior",
+          "ABC data collection"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: All behavior serves a function. The same behavior can serve completely different functions for different children, or even for the same child in different contexts. Understanding function is essential for effective intervention."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across function-based behavior interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Iwata BA, Dorsey MF, Slifer KJ, Bauman KE, Richman GS",
+            "url": "",
+            "description": "Toward a functional analysis of self-injury (1994). Journal of Applied Behavior Analysis. Foundational research establishing four-function model."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cooper JO, Heron TE, Heward WL",
+            "url": "",
+            "description": "Applied Behavior Analysis (3rd ed., 2020). Comprehensive text on functional behavior assessment and function-based intervention."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Hanley GP, Iwata BA, McCord BE",
+            "url": "",
+            "description": "Functional analysis of problem behavior: A review (2003). Research demonstrating function-matched intervention effectiveness."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#healthcontent",
+        "name": "Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Functional Behavior Assessment – identifying the maintaining function (purpose) of challenging behaviors"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Functional Assessment challenges"
+        },
+        "keywords": [
+          "why does my child behave this way",
+          "functional behavior assessment parents",
+          "escape function autism",
+          "attention seeking behavior",
+          "ABC data collection"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#evidence",
+        "claimReviewed": "Interventions matched to behavior function are significantly more effective than generic approaches. Find the function to find the solution. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Functional Behavior Assessment – Identifying The Maintaining Function (purpose) Of Challenging Behaviors Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment#collection",
+        "name": "Behavior Function & Assessment Series",
+        "description": "Complete series of 400 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "D-340: Celebrating Strengths",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-341: Understanding Why Behaviors Happen",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-342: Identifying Behavior Functions (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-343: Teaching Replacement Behaviors",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "D-344: Creating Behavior Support Plans",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 400,
+        "collectionSize": 400
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#materials",
+        "name": "9 Materials for Functional Behavior Assessment – Identifying The Maintaining Function (purpose) Of Challenging Behaviors",
+        "description": "Evidence-based materials for ages 2–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Function Identification Flowcharts and Decision Trees",
+              "description": "Guides systematic function discovery through key questions about when behavior occurs and what happens after.",
+              "category": "Systematicidentification",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a simple decision tree: When does it happen? What happens after? Who is present? Does it happen when alone?"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Flowcharts provide hypotheses, not certainties. Complex behaviors may require professional FBA."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Four Functions Visual Reference Cards and Posters",
+              "description": "Provides quick-access reminders of the E-A-T-A framework: Escape, Attention, Tangible, Automatic.",
+              "category": "Quickreference",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create four-quadrant poster with examples from your child's specific behaviors for each function."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Same behavior can have different functions in different contexts. Use as guide, not rigid categories."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Contextual ABC Analysis Worksheets",
+              "description": "Captures rich contextual information beyond basic ABC to reveal function patterns.",
+              "category": "Datacollection",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Add columns to basic ABC sheets: time, location, people present, child's state, activity. Track 10+ instances."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "More detail requires more effort—balance thoroughness with sustainability. Focus on specific behaviors of concern."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Function-Specific Indicator Checklists",
+              "description": "Provides observable criteria for each function—check what you see, function emerges.",
+              "category": "Systematicidentification",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "List indicators for each function. Check only what you've directly observed across multiple instances."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Checklists are screening tools, not assessments. Multiple functions may show elevated indicators."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Consequence Mapping Tools and Reinforcement Trackers",
+              "description": "Focuses on what happens AFTER behavior—revealing the reinforcement maintaining it.",
+              "category": "Datacollection",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "For each behavior instance, document: What did child GET? What did child AVOID? Look for consistent patterns."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some reinforcement is internal (automatic function). Consequences may be subtle or unintentional."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Setting Event and Establishing Operation Trackers",
+              "description": "Captures background conditions that make behavior more likely—poor sleep, hunger, transitions.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create daily checklist: sleep quality, meals, health, routine changes, sensory load. Track correlation with behaviors."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Not all setting events are controllable. Use for understanding and prevention, not excuse."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Multiple Function Analysis Tools",
+              "description": "Identifies when ONE behavior serves DIFFERENT functions in different contexts.",
+              "category": "Advancedanalysis",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create context-by-function matrix. Collect ABC data within each context separately. Compare functions across settings."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Multiple function analysis requires substantial data. Focus on most problematic contexts first."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Automatic Function Identification Guides",
+              "description": "Helps recognize behaviors that are self-reinforcing—the behavior itself provides the reward.",
+              "category": "Advancedanalysis",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Screen for: Does it happen alone? Is form consistent? Does it produce sensory feedback? Do social consequences not affect it?"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Automatic function is often under-identified. Some behaviors have both automatic and social functions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Function-to-Intervention Matching Guides",
+              "description": "Connects identified function to appropriate interventions—because function determines solution.",
+              "category": "Interventionplanning",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create function-intervention chart: For each function, list what TO do and what NOT to do."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Matching guides are general—individualize for each child. Complex behaviors may need professional planning."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/behavior/functional assessment/9-materials-that-help-identifying-behavior-functions#course",
+        "name": "Behavior Understanding & Support",
+        "description": "Parent education video series on Behavior interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help Identifying Behavior Functions | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "why does my child behave this way, functional behavior assessment parents, escape function autism, attention seeking behavior, ABC data collection"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/D-342.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/D-342-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/D-342.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help Identifying Behavior Functions",
+      "content_category": "Intervention Techniques > Behavior > Functional Assessment",
+      "content_ids": [
+        "D-342"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "D-342",
+        "technique_theme": "9MAT",
+        "domain": "Behavior",
+        "sub_domain": "Functional Assessment",
+        "domain_code": "BEH-FBA",
+        "series": "Behavior Understanding & Support",
+        "episode": 342,
+        "age_band": "2–12 years",
+        "setting": "Home",
+        "cluster_id": "BEH-FBA-01",
+        "cluster_position": 342,
+        "materials_count": 9,
+        "total_cost_range": "₹500–2,200 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#BehaviorFunction",
+      "#FBA",
+      "#FunctionalBehaviorAssessment",
+      "#WhyNotWhat",
+      "#EscapeFunction",
+      "#AttentionFunction",
+      "#ABCData",
+      "#BehaviorAnalysis",
+      "#AutismBehavior",
+      "#BehaviorSupport",
+      "#PinnacleBlooms",
+      "#FunctionBasedIntervention",
+      "#ParentTraining",
+      "#BehaviorDetective",
+      "#UnderstandingBehavior"
+    ],
+    "caption": "Same behavior. Different reasons. Different solutions. 🔍 One child screams to escape demands. Another screams for attention. The intervention that works for one makes the other WORSE. That's why function matters. Here are 9 materials that help you identify WHY behaviors happen—so your response actually works. Function-based interventions are twice as effective. Find the function, find the solution. Save this! #BehaviorFunction #FBA #WhyNotWhat #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "D-343",
+    "prevInSeries": "D-341",
+    "relatedTechniques": [
+      "D-341",
+      "D-343",
+      "D-344",
+      "D-346",
+      "D-347"
+    ],
+    "deepDives": [
+      "D-342-DD-01",
+      "D-342-DD-02",
+      "D-342-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920",
+      "K-950"
+    ]
+  }
+}

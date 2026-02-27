@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs",
+    "title": "9 Materials That Help When Child Avoids Hugs | Pinnacle Blooms",
+    "description": "My child pulls away from hugs, goes stiff when held, or avoids physical affection entirely. Family members think he doesn't love them. But I know he does – h...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-24",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-021",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 21,
+    "domain": "Sensory",
+    "subDomain": "Tactile Processing / Social-Emotional Connection",
+    "domainCode": "SEN-TAC-SOC",
+    "ageBand": "2–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "CONN-SENS-01",
+    "clusterName": "Connection & Affection Sensory Series",
+    "clusterPosition": 21,
+    "totalInCluster": 25
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs",
+        "name": "9 Materials That Help When Child Avoids Hugs | Pinnacle Blooms",
+        "description": "My child pulls away from hugs, goes stiff when held, or avoids physical affection entirely. Family members think he doesn't love them. But I know he does – h...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-24",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "child doesn't like hugs",
+          "autism hugging",
+          "tactile defensiveness affection",
+          "child pulls away from hugs",
+          "sensory issues physical affection",
+          "child won't cuddle",
+          "touch avoidance child",
+          "SPD hugging",
+          "sensory sensitive touch",
+          "child goes stiff when hugged",
+          "child avoids hugs sensory"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing / Social-Emotional Connection challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tactile Processing / Social-Emotional Connection",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Avoids Hugs"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-021-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-021-hero.webp",
+        "caption": "Parent with arms slightly open, offering hug. Child standing nearby, body language showing desire to connect but physical hesitation – perhaps leaning slightly toward parent but arms crossed or hands up. Both faces showing love but the physical barrier visible. Not rejection – more like longing with a barrier.",
+        "description": "Parent offering hug to child who shows love but physical hesitation due to tactile sensitivity",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#video",
+        "name": "9 Materials That Help When Child Avoids Hugs",
+        "description": "When your child avoids hugs – pulls away, goes stiff, or can't tolerate being held – it's not about love. For tactile-sensitive children, the sensation of hugging can feel genuinely overwhelming, even from people they adore. Here are 9 materials that help bridge the gap.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-021-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-021.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-021/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#ChildAvoidsHugs",
+          "#SensoryProcessing",
+          "#TactileDefensiveness",
+          "#AutismParenting",
+          "#SensoryFriendly",
+          "#TouchSensitivity",
+          "#OccupationalTherapy",
+          "#SensoryIntegration",
+          "#PinnacleBlooms",
+          "#SensoryKids",
+          "#ParentingTips",
+          "#ChildDevelopment",
+          "#AlternativeAffection",
+          "#ConnectionDifferently",
+          "#SpecialNeedsParenting"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile over-responsivity affecting affectionate touch tolerance",
+          "alternateName": [
+            "child doesn't like hugs",
+            "toddler avoids physical affection",
+            "autism hugging problems"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Understanding Touch Aversion",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When your child avoids hugs – pulls away, goes stiff, or can't tolerate being held – it's not abo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Weighted Blanket (Shared)",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides deep pressure input that many touch-avoidant children actually crave, while creating phy..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Body Sock / Lycra Tunnel",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides full-body deep pressure input through stretchy fabric that the child controls. Child can..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Compression Vest / Deep Pressure Clothing",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Provides the deep pressure component of hugs continuously and predictably, without the unpredicta..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Large Stuffed Animal / Body Pillow",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Allows child to practice and experience hugging on their own terms with predictable, non-responsi..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Firm Pressure Hugs (Deep Pressure Technique)",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Light, tentative hugs are often more aversive than firm, deep pressure hugs for tactile-defensive..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Side-by-Side Seating (Pressure Contact)",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Full frontal hugs involve the most triggering elements: face proximity, bilateral arm pressure, c..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Massage / Firm Rubbing",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Transforms physical touch from 'receiving contact passively' to 'receiving organized, predictable..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Alternative Affection Rituals",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Creates personalized ways to express love that don't involve full body contact. Handshakes, high-..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Gradual Desensitization Protocol",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Systematically builds tolerance for physical affection starting from child's current comfort leve..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child pulls away from hugs, goes stiff when held, or avoids physical affection entirely. family members think he doesn't love them. but i know he does – he just can't tolerate the sensation of being hugged or touched?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "TACTILE OVER-RESPONSIVITY AFFECTING AFFECTIONATE TOUCH TOLERANCE! A manifestation of tactile defensiveness where the sensory properties of hugging and cuddling – the pressure, the envelopment, the unpredictability, the heat from another body, the restriction of movement, the proximity of faces, and the duration of contact – trigger defensive responses despite the child's genuine emotional connection to the person. The child may deeply love the family member but find the physical sensation of hugging overwhelming, uncomfortable, or even painful. This creates a heartbreaking disconnect between the child's emotional feelings and their ability to express or receive affection through typical physical means. Per SPD Foundation: Tactile over-responsivity can make light touch, unexpected touch, and prolonged physical contact feel threatening or painful to the nervous system. This includes affectionate touch like hugging and cuddling. Children with this pattern often deeply want connection but cannot tolerate the sensory experience of typical physical affection. Alternative forms of showing and receiving love become essential."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A manifestation of tactile defensiveness where the sensory properties of hugging and cuddling – the pressure, the envelopment, the unpredictability, the heat from another body, the restriction of movement, the proximity of faces, and the duration of contact – trigger defensive responses despite the child's genuine emotional connection to the person. The child may deeply love the family member but find the physical sensation of hugging overwhelming, uncomfortable, or even painful. This creates a heartbreaking disconnect between the child's emotional feelings and their ability to express or receive affection through typical physical means. Common signs include: Pulls away, arches back, or squirms when hugged, Goes stiff or rigid when embraced, Tolerates brief touch but not sustained holding, Initiates physical contact on own terms but rejects others' initiations, Prefers side hugs or brief pats to full embraces."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Weighted Blanket (Shared) help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides deep pressure input that many touch-avoidant children actually crave, while creating physical closeness without direct body-to-body contact. Parent and child can sit under the same weighted blanket, experiencing togetherness and shared sensory input without the overwhelming sensation of direct hugging. The blanket becomes a 'buffer' that allows proximity. Price: ₹2,500–8,000. DIY option: Create weighted lap pad by filling fabric pockets with rice, beans, or poly pellets. Sew into quilted pattern. Aim for 5-10% of child's body weight for lap pad. For full blanket, professional products recommended. Safety: Weighted blanket should be 10% of child's body weight (not combined parent-child weight when sharing). Child must be able to remove blanket independently. Never use weighted blankets with infants or children who cannot move them. Supervise shared blanket use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Body Sock / Lycra Tunnel help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides full-body deep pressure input through stretchy fabric that the child controls. Child can receive the pressure input they may actually crave (which hugs provide) without the unpredictability and heat of another person's body. Can be used for 'pressure play' with parent nearby, maintaining connection through interaction rather than direct embrace. Price: ₹800–2,500. DIY option: Use stretchy Lycra fabric sewn into a large pillowcase shape with opening for head. Ensure fabric is breathable and child can exit easily. Reinforce seams for durability. Safety: Always supervise body sock use. Ensure head opening is adequate for breathing. Child must be able to exit independently. Do not use if child becomes distressed. Avoid if child has claustrophobia."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Compression Vest / Deep Pressure Clothing help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides the deep pressure component of hugs continuously and predictably, without the unpredictability and social demand of actual hugs. When child's pressure needs are met through clothing, they may have more tolerance for brief physical affection because their sensory system is already regulated. Price: ₹1,500–5,000. DIY option: Tight-fitting athletic wear (compression shirts, bike shorts) can provide similar input. Layer snug undershirts. For more pressure, wear slightly smaller size (but not restrictive). Safety: Compression should be firm but comfortable – not restrictive. Watch for signs of discomfort (redness, marks, complaints). Do not use continuously – typically 20-30 minute intervals with breaks. Ensure child can breathe comfortably."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Large Stuffed Animal / Body Pillow help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Allows child to practice and experience hugging on their own terms with predictable, non-responsive object. Large stuffed animals and body pillows don't have body heat, don't move unpredictably, don't squeeze back, and don't have expectations. Child can hug, squeeze, and cuddle without the overwhelming elements of human embrace. Price: ₹500–3,000. DIY option: Large body pillow from home goods store. Oversized stuffed animals from toy stores. Create 'hug buddy' by stuffing large pillowcase with soft materials. Safety: Ensure stuffed animals are age-appropriate and don't have small parts that could detach. Wash regularly. For weighted versions, ensure weight is distributed evenly and appropriate for child's age."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Firm Pressure Hugs (Deep Pressure Technique) help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Light, tentative hugs are often more aversive than firm, deep pressure hugs for tactile-defensive children. Teaching family members to use firm, consistent pressure rather than light squeezing can make hugs tolerable or even pleasant. The difference between light touch (alarming) and deep pressure (calming) is crucial. Price: ₹0 (technique only). DIY option: Practice on yourself first: notice difference between light touch on arm vs. firm squeeze. Teach family members: firm, steady pressure throughout hug rather than light patting or tentative holding. Ask child about pressure preference. Safety: Firm pressure doesn't mean painful or restrictive. Watch child's response – if they tense or pull away, adjust. Never force hugs even with 'correct' technique. Child's consent is essential."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Side-by-Side Seating (Pressure Contact) help with tactile over-responsivity affecting affectionate touch tolerance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Full frontal hugs involve the most triggering elements: face proximity, bilateral arm pressure, chest-to-chest contact, and no escape route. Side-by-side sitting allows physical contact (pressed together at shoulder, arm, hip) with lower sensory demand. Child can experience closeness without the enveloping overwhelm of full embrace. Price: ₹0 (seating arrangement). DIY option: Create cozy corner with cushions that naturally push you together. Use love seat or narrow bench that requires sitting close. Bean bag big enough for two encourages close proximity. Safety: Let child choose whether to sit close. Don't force proximity. Some children may prefer a small gap initially – let them gradually close it on their own terms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Touch avoidance that is new or sudden (not lifelong pattern). Touch avoidance specific to certain people (may indicate trauma). Touch avoidance accompanied by fearfulness, anxiety, or distress beyond sensory. Complete absence of any desire for connection or proximity. Touch avoidance that doesn't respond to any accommodation. Signs of physical pain with touch. Regression in touch tolerance previously established. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#howto",
+        "name": "How to Help a Child with Tactile Over Responsivity Affecting Affectionate Touch Tolerance",
+        "description": "A graded approach using evidence-based materials. Hug avoidance in tactile-sensitive children reflects genuine sensory overwhelm, not lack of love or attachment. The child may deeply love family members but find the sensory experience of hugging – the pressure, heat, restriction, proximity, unpredictability, and duration – intolerable. The therapeutic approach focuses on meeting the child's need for connection through forms they can tolerate while gradually building tolerance for physical affection when appropriate.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 0,
+          "maxValue": 8000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Weighted Blanket (Shared)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 2500,
+              "maxValue": 8000
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Body Sock / Lycra Tunnel",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 800,
+              "maxValue": 2500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Compression Vest / Deep Pressure Clothing",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 1500,
+              "maxValue": 5000
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A manifestation of tactile defensiveness where the sensory properties of hugging and cuddling – the pressure, the envelopment, the unpredictability, the heat from another body, the restriction of movement, the proximity of faces, and the duration of contact – trigger defensive responses despite the child's genuine emotional connection to the person. The child may deeply love the family member but find the physical sensation of hugging overwhelming, uncomfortable, or even painful. This creates a heartbreaking disconnect between the child's emotional feelings and their ability to express or receive affection through typical physical means. Hug avoidance in tactile-sensitive children reflects genuine sensory overwhelm, not lack of love or attachment. The child may deeply love family members but find the sensory experience of hugging – the pressure, heat, restriction, proximity, unpredictability, and duration – intolerable. The therapeutic approach focuses on meeting the child's need for connection through forms they can tolerate while gradually building tolerance for physical affection when appropriate."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Weighted Blanket (Shared), Body Sock / Lycra Tunnel, Compression Vest / Deep Pressure Clothing."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Touch avoidance that is new or sudden (not lifelong pattern), Touch avoidance specific to certain people (may indicate trauma), Touch avoidance accompanied by fearfulness, anxiety, or distress beyond sensory."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#medicalpage",
+        "name": "Tactile over-responsivity affecting affectionate touch tolerance Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile over-responsivity affecting affectionate touch tolerance",
+          "alternateName": [
+            "child doesn't like hugs",
+            "toddler avoids physical affection",
+            "autism hugging problems"
+          ],
+          "description": "A manifestation of tactile defensiveness where the sensory properties of hugging and cuddling – the pressure, the envelopment, the unpredictability, the heat from another body, the restriction of movement, the proximity of faces, and the duration of contact – trigger defensive responses despite the child's genuine emotional connection to the person. The child may deeply love the family member but find the physical sensation of hugging overwhelming, uncomfortable, or even painful. This creates a heartbreaking disconnect between the child's emotional feelings and their ability to express or receive affection through typical physical means.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Pulls away, arches back, or squirms when hugged"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Goes stiff or rigid when embraced"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Tolerates brief touch but not sustained holding"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Initiates physical contact on own terms but rejects others' initiations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Prefers side hugs or brief pats to full embraces"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Avoids cuddling, sitting on laps, or being held"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Shows distress when hugged even by loved ones"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Wipes off kisses or touches immediately after"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-24"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#article",
+        "headline": "9 Materials That Help When Child Avoids Hugs",
+        "alternativeHeadline": "When your child loves you but can't tolerate your touch",
+        "description": "My child pulls away from hugs, goes stiff when held, or avoids physical affection entirely. Family members think he doesn't love them. But I know he does – h...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-24T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "child doesn't like hugs",
+          "autism hugging",
+          "tactile defensiveness affection",
+          "child pulls away from hugs",
+          "sensory issues physical affection"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Tactile over-responsivity can make light touch, unexpected touch, and prolonged physical contact feel threatening or painful to the nervous system. Children with this pattern often deeply want connection but cannot tolerate the sensory experience of typical physical affection."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory integration and social connection interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "AOTA",
+            "url": "https://www.aota.org",
+            "description": "American Occupational Therapy Association guidelines on sensory modulation and social participation"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dunn, W.",
+            "url": "",
+            "description": "Sensory Profile 2 research on tactile sensitivity patterns and social-emotional impact in children with sensory processing differences."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kranowitz, C.S.",
+            "url": "",
+            "description": "The Out-of-Sync Child – guidance on supporting physical affection needs in sensory-sensitive children."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#healthcontent",
+        "name": "Tactile over-responsivity affecting affectionate touch tolerance Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Tactile over-responsivity affecting affectionate touch tolerance"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing / Social-Emotional Connection challenges"
+        },
+        "keywords": [
+          "child doesn't like hugs",
+          "autism hugging",
+          "tactile defensiveness affection",
+          "child pulls away from hugs",
+          "sensory issues physical affection"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#evidence",
+        "claimReviewed": "Hug avoidance in tactile-sensitive children reflects genuine sensory overwhelm, not lack of love or attachment. The child may deeply love family members but find the sensory experience of hugging – the pressure, heat, restriction, proximity, unpredictability, and duration – intolerable. The therapeutic approach focuses on meeting the child's need for connection through forms they can tolerate while gradually building tolerance for physical affection when appropriate. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Tactile Over Responsivity Affecting Affectionate Touch Tolerance Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection#collection",
+        "name": "Connection & Affection Sensory Series",
+        "description": "Complete series of 25 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-019: Sunscreen Application",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-020: Lotion/Moisturizer Resistance",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-021: Hug Avoidance (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-022: Overwhelmed by Noise",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-023: Won't Wear Certain Clothes",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 25,
+        "collectionSize": 25
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#materials",
+        "name": "9 Materials for Tactile Over Responsivity Affecting Affectionate Touch Tolerance",
+        "description": "Evidence-based materials for ages 2–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Weighted Blanket (Shared)",
+              "description": "Provides deep pressure input that many touch-avoidant children actually crave, while creating physical closeness without direct body-to-body contact. Parent and child can sit under the same weighted blanket, experiencing togetherness and shared sensory input without the overwhelming sensation of direct hugging. The blanket becomes a 'buffer' that allows proximity.",
+              "category": "Pressurealternatives",
+              "offers": {
+                "@type": "Offer",
+                "price": "2500",
+                "priceCurrency": "INR",
+                "priceRange": "₹2,500–8,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create weighted lap pad by filling fabric pockets with rice, beans, or poly pellets. Sew into quilted pattern. Aim for 5-10% of child's body weight for lap pad. For full blanket, professional products recommended."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Weighted blanket should be 10% of child's body weight (not combined parent-child weight when sharing). Child must be able to remove blanket independently. Never use weighted blankets with infants or children who cannot move them. Supervise shared blanket use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Body Sock / Lycra Tunnel",
+              "description": "Provides full-body deep pressure input through stretchy fabric that the child controls. Child can receive the pressure input they may actually crave (which hugs provide) without the unpredictability and heat of another person's body. Can be used for 'pressure play' with parent nearby, maintaining connection through interaction rather than direct embrace.",
+              "category": "Pressurealternatives",
+              "offers": {
+                "@type": "Offer",
+                "price": "800",
+                "priceCurrency": "INR",
+                "priceRange": "₹800–2,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use stretchy Lycra fabric sewn into a large pillowcase shape with opening for head. Ensure fabric is breathable and child can exit easily. Reinforce seams for durability."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Always supervise body sock use. Ensure head opening is adequate for breathing. Child must be able to exit independently. Do not use if child becomes distressed. Avoid if child has claustrophobia."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Compression Vest / Deep Pressure Clothing",
+              "description": "Provides the deep pressure component of hugs continuously and predictably, without the unpredictability and social demand of actual hugs. When child's pressure needs are met through clothing, they may have more tolerance for brief physical affection because their sensory system is already regulated.",
+              "category": "Pressurealternatives",
+              "offers": {
+                "@type": "Offer",
+                "price": "1500",
+                "priceCurrency": "INR",
+                "priceRange": "₹1,500–5,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Tight-fitting athletic wear (compression shirts, bike shorts) can provide similar input. Layer snug undershirts. For more pressure, wear slightly smaller size (but not restrictive)."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Compression should be firm but comfortable – not restrictive. Watch for signs of discomfort (redness, marks, complaints). Do not use continuously – typically 20-30 minute intervals with breaks. Ensure child can breathe comfortably."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Large Stuffed Animal / Body Pillow",
+              "description": "Allows child to practice and experience hugging on their own terms with predictable, non-responsive object. Large stuffed animals and body pillows don't have body heat, don't move unpredictably, don't squeeze back, and don't have expectations. Child can hug, squeeze, and cuddle without the overwhelming elements of human embrace.",
+              "category": "Hugsubstitutes",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–3,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Large body pillow from home goods store. Oversized stuffed animals from toy stores. Create 'hug buddy' by stuffing large pillowcase with soft materials."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure stuffed animals are age-appropriate and don't have small parts that could detach. Wash regularly. For weighted versions, ensure weight is distributed evenly and appropriate for child's age."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Firm Pressure Hugs (Deep Pressure Technique)",
+              "description": "Light, tentative hugs are often more aversive than firm, deep pressure hugs for tactile-defensive children. Teaching family members to use firm, consistent pressure rather than light squeezing can make hugs tolerable or even pleasant. The difference between light touch (alarming) and deep pressure (calming) is crucial.",
+              "category": "Modifiedcontact",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (technique only)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Practice on yourself first: notice difference between light touch on arm vs. firm squeeze. Teach family members: firm, steady pressure throughout hug rather than light patting or tentative holding. Ask child about pressure preference."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Firm pressure doesn't mean painful or restrictive. Watch child's response – if they tense or pull away, adjust. Never force hugs even with 'correct' technique. Child's consent is essential."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Side-by-Side Seating (Pressure Contact)",
+              "description": "Full frontal hugs involve the most triggering elements: face proximity, bilateral arm pressure, chest-to-chest contact, and no escape route. Side-by-side sitting allows physical contact (pressed together at shoulder, arm, hip) with lower sensory demand. Child can experience closeness without the enveloping overwhelm of full embrace.",
+              "category": "Modifiedcontact",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (seating arrangement)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cozy corner with cushions that naturally push you together. Use love seat or narrow bench that requires sitting close. Bean bag big enough for two encourages close proximity."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Let child choose whether to sit close. Don't force proximity. Some children may prefer a small gap initially – let them gradually close it on their own terms."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Massage / Firm Rubbing",
+              "description": "Transforms physical touch from 'receiving contact passively' to 'receiving organized, predictable input.' Massage with firm pressure is often tolerable or enjoyable for children who can't tolerate hugs because it's predictable, controlled, and provides deep pressure input. Can be a substitute for hugging as a physical connection activity.",
+              "category": "Modifiedcontact",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Learn firm, slow massage strokes (not light tickly touch). Ask child where they like pressure. Use lotion or oil if tolerated. Make it routine – predictability helps."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Use firm pressure, not light touch (light touch is more aversive). Ask child about preferences. Stop immediately if child shows discomfort. Never force."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Alternative Affection Rituals",
+              "description": "Creates personalized ways to express love that don't involve full body contact. Handshakes, high-fives, fist bumps, specific hand squeezes, foot-to-foot touch, or other personalized rituals can communicate connection and affection while respecting the child's sensory limits. The ritual becomes 'our way of hugging.'",
+              "category": "Hugsubstitutes",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (ritual creation)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Work with child to create special greeting/affection ritual. Options: special handshake sequence, fist bump with 'explosion,' high-five patterns, thumb squeezes (3 squeezes = I love you), butterfly kisses (eyelashes on cheek), foot-to-foot touch, air hugs with matching motions."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Let child participate in creating the ritual – ownership increases acceptance. Keep it consistent. Teach extended family the child's special greeting so everyone can use it."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Gradual Desensitization Protocol",
+              "description": "Systematically builds tolerance for physical affection starting from child's current comfort level. Starts with whatever touch is tolerated (perhaps brief hand on shoulder) and very gradually increases duration, pressure, and area over weeks or months. Creates new neural pathways for accepting affectionate touch.",
+              "category": "Tolerancebuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (technique only)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "1. Identify current tolerance level. 2. Practice current level frequently without pushing. 3. Very gradually increase one element (duration OR pressure OR area) while keeping others constant. 4. Never push past distress. 5. Celebrate every small gain."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "This is a months-long process, not days. Never force progression. If child shows distress, back up to previous comfortable level. Progress should feel gentle, not forced. Work with OT for guidance."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / social-emotional connection/9-materials-that-help-when-child-avoids-hugs#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Avoids Hugs | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "child doesn't like hugs, autism hugging, tactile defensiveness affection, child pulls away from hugs, sensory issues physical affection"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-021.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-021-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-021.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Avoids Hugs",
+      "content_category": "Intervention Techniques > Sensory > Tactile Processing / Social-Emotional Connection",
+      "content_ids": [
+        "A-021"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-021",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Tactile Processing / Social-Emotional Connection",
+        "domain_code": "SEN-TAC-SOC",
+        "series": "Sensory Solutions",
+        "episode": 21,
+        "age_band": "2–12 years",
+        "setting": "Home",
+        "cluster_id": "CONN-SENS-01",
+        "cluster_position": 21,
+        "materials_count": 9,
+        "total_cost_range": "₹0–8,000 (mostly low-cost or free)"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#ChildAvoidsHugs",
+      "#SensoryProcessing",
+      "#TactileDefensiveness",
+      "#AutismParenting",
+      "#SensoryFriendly",
+      "#TouchSensitivity",
+      "#OccupationalTherapy",
+      "#SensoryIntegration",
+      "#PinnacleBlooms",
+      "#SensoryKids",
+      "#ParentingTips",
+      "#ChildDevelopment",
+      "#AlternativeAffection",
+      "#ConnectionDifferently",
+      "#SpecialNeedsParenting"
+    ],
+    "caption": "I just want to hug my own child. But every time I try, he pulls away. 💔 If your child avoids hugs, goes stiff when held, or pulls away from physical affection – it's not about love. For tactile-sensitive children, hugging can feel genuinely overwhelming. Here are 9 materials that help: weighted blankets for shared closeness, body socks for pressure they control, compression clothing, large stuffed animals, firm pressure technique, side-by-side contact, massage, alternative affection rituals, and gradual desensitization. Love shows up in many ways. Save for families who need this! 🔖 #ChildAvoidsHugs #SensoryProcessing #ConnectionDifferently #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-022",
+    "prevInSeries": "A-020",
+    "relatedTechniques": [
+      "A-020",
+      "A-022",
+      "A-025",
+      "A-030",
+      "A-045"
+    ],
+    "deepDives": [
+      "A-021-DD-01",
+      "A-021-DD-02",
+      "A-021-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-890",
+      "K-925"
+    ]
+  }
+}

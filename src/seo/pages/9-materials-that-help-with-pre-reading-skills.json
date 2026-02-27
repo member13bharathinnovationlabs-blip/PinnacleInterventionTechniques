@@ -1,0 +1,1082 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills",
+    "title": "9 Materials That Help With Pre-Reading Skills | Pinnacle Blooms",
+    "description": "My child is approaching kindergarten, and I'm starting to panic. While other children are recognizing letters and even starting to read simple words, my chil...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-04",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "G-683",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Early Literacy Development",
+    "episodeInSeries": 683,
+    "domain": "Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness",
+    "subDomain": "Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition",
+    "domainCode": "LIT-PREREAD",
+    "ageBand": "2–6 years",
+    "setting": "Home Environment + Preschool/Daycare + Speech Therapy + Early Childhood Education",
+    "audience": "Parents + Caregivers + Speech-Language Pathologists + Early Childhood Educators + Special Education Teachers",
+    "clusterId": "LIT-01",
+    "clusterName": "Early Literacy Development",
+    "clusterPosition": 683,
+    "totalInCluster": 750
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills",
+        "name": "9 Materials That Help With Pre-Reading Skills | Pinnacle Blooms",
+        "description": "My child is approaching kindergarten, and I'm starting to panic. While other children are recognizing letters and even starting to read simple words, my chil...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-04",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "child not ready to read",
+          "phonological awareness activities",
+          "emergent literacy",
+          "kindergarten reading readiness",
+          "letter recognition help",
+          "can't rhyme words child",
+          "print awareness activities",
+          "pre-reading intervention",
+          "reading foundations toddler",
+          "phonemic awareness materials",
+          "literacy building blocks",
+          "before phonics skills",
+          "letter learning difficulties",
+          "pre-kindergarten literacy",
+          "reading readiness delay",
+          "pre-reading skills materials"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness",
+            "item": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition",
+            "item": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Pre-Reading Skills"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/G-683-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/G-683-hero.webp",
+        "caption": "Child engaged with pre-reading materials — perhaps exploring textured letters, looking at a picture book with interest, or playing with letter manipulatives. Shows curiosity and engagement rather than frustration.",
+        "description": "Young child joyfully exploring early literacy materials",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#video",
+        "name": "9 Materials That Help With Pre-Reading Skills",
+        "description": "Flashcards aren't working. Apps aren't helping. Because reading has foundations — and those come first. Here are 9 materials that build what must exist before reading can happen.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/G-683-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/G-683.mp4",
+        "embedUrl": "https://www.instagram.com/reel/G-683/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#PreReadingSkills",
+          "#EmergentLiteracy",
+          "#PhonologicalAwareness",
+          "#LetterRecognition",
+          "#KindergartenReadiness",
+          "#EarlyLiteracy",
+          "#ReadingFoundations",
+          "#PrintAwareness",
+          "#PhonicsReadiness",
+          "#LanguageDevelopment",
+          "#SpeechTherapy",
+          "#ReadingReadiness",
+          "#PreK",
+          "#EarlyChildhood",
+          "#PinnacleBlooms"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns",
+          "alternateName": [
+            "child not ready to read",
+            "pre-reading skills activities",
+            "doesn't recognize letters"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Is Approaching Kindergarten, A",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Flashcards aren't working. Apps aren't helping. Because reading has foundations — and those come ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Rhyming Books and Games",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Rhyme recognition is one of the earliest and most important phonological awareness skills. When c..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Sound Sorting Materials",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Phonemic awareness — the ability to hear and manipulate individual sounds in words — is the stron..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Alphabet Manipulatives",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Letter knowledge — recognizing letter shapes and connecting them to sounds — develops best throug..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Environmental Print Materials",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Environmental print — logos, signs, labels, and packaging that children see daily — is often the ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Picture-Word Matching Cards",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Picture-word matching cards connect images to their printed word representations, building the un..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Syllable Clapping Materials",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Syllable awareness — understanding that words can be broken into beats or chunks — is a key phono..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Wordless Picture Books",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Narrative skills — understanding story structure, sequence, cause-and-effect, character motivatio..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Alphabet Arc and Letter Sequence Materials",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Understanding alphabetical order and the position of letters in the sequence is important for lat..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Concept of Word Materials",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Concept of word in print — understanding that spoken words map to written words in one-to-one cor..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child is approaching kindergarten, and i'm starting to panic. while other children are recognizing letters and even starting to read simple words, my child shows no interest in anything related to letters or reading. books get flipped through quickly for pictures only — the words might as well be invisible. when i point to letters, she looks away. when i try alphabet songs, she wanders off. she can't tell you what sound a letter makes. she doesn't notice that words are made of separate sounds. she can't rhyme — when i say 'cat, hat, bat,' she doesn't recognize the pattern. print awareness is nonexistent — she doesn't know we read left to right, top to bottom, or that those symbols represent language. i've tried everything parents try: flashcards, alphabet apps, letter workbooks, pointing out letters everywhere we go. nothing sticks. nothing engages her. i watch her classmates already sounding out 'c-a-t' while my daughter can't pick the letter c out of a lineup. i know reading readiness varies, but we're running out of time before school. i don't want her to start kindergarten already behind. i don't want her first school experience to be struggling while others succeed. what are the actual building blocks she needs? what materials actually work to build pre-reading skills in a child who doesn't respond to traditional letter-learning approaches?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PRE-READING SKILLS DELAY / EMERGENT LITERACY DIFFICULTIES / PHONOLOGICAL AWARENESS WEAKNESS / PRINT AWARENESS DELAY / EARLY LITERACY READINESS CONCERNS! Pre-reading skills are the foundational competencies that must be in place before formal reading instruction can succeed. These include phonological awareness (understanding that spoken language is made of sounds), phonemic awareness (manipulating individual sounds in words), print awareness (understanding that print carries meaning and follows conventions), letter knowledge (recognizing letters and their sounds), vocabulary and oral language (understanding word meanings and sentence structures), and narrative skills (following and understanding stories). Children who struggle with pre-reading skills often have underlying difficulties in auditory processing, visual discrimination, working memory, or language development. Without these foundations, formal reading instruction fails to 'stick' — the child lacks the scaffolding onto which reading skills build. Intervention focuses on building these foundations through multisensory, engaging, developmentally appropriate activities rather than pushing formal reading instruction prematurely. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pre-reading skills are the foundational competencies that must be in place before formal reading instruction can succeed. These include phonological awareness (understanding that spoken language is made of sounds), phonemic awareness (manipulating individual sounds in words), print awareness (understanding that print carries meaning and follows conventions), letter knowledge (recognizing letters and their sounds), vocabulary and oral language (understanding word meanings and sentence structures), and narrative skills (following and understanding stories). Children who struggle with pre-reading skills often have underlying difficulties in auditory processing, visual discrimination, working memory, or language development. Without these foundations, formal reading instruction fails to 'stick' — the child lacks the scaffolding onto which reading skills build. Intervention focuses on building these foundations through multisensory, engaging, developmentally appropriate activities rather than pushing formal reading instruction prematurely. Common signs include: No recognition of common letters by age 4-5, Cannot identify rhyming words, Difficulty hearing individual sounds in words, No interest in books or being read to, Doesn't understand that print represents spoken words."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Rhyming Books and Games help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Rhyme recognition is one of the earliest and most important phonological awareness skills. When children notice that 'cat,' 'hat,' and 'bat' share a sound pattern, they're demonstrating understanding that words are made of smaller sound units — a crucial insight for later decoding. Rhyming books with predictable patterns (like Dr. Seuss) make rhymes memorable and fun. Rhyming games — finishing rhymes, identifying 'which word doesn't rhyme,' generating rhymes — build active rhyme awareness. This skill predicts later reading success more reliably than letter knowledge. Children who can't rhyme often struggle significantly with reading because they haven't grasped the fundamental concept that words can be broken into sound parts. Price: ₹200–800. DIY option: Building rhyme awareness: 1) Books: Dr. Seuss, Julia Donaldson, nursery rhyme collections — read daily with emphasis on rhymes, 2) Rhyme completion: 'I see a cat wearing a ____' (hat), 3) Rhyme identification: 'Do cat and hat rhyme? Do cat and dog rhyme?', 4) Odd one out: 'Cat, hat, sun — which doesn't rhyme?', 5) Rhyme generation: 'What rhymes with ball?' — accept nonsense words!, 6) Rhyme songs: nursery rhymes, finger plays, action songs with rhymes, 7) Throughout-day rhyming: 'We're going to the store, let's think of words that rhyme with store.' Key: Rhyme exposure should be joyful, playful, and pressure-free. Safety: Choose age-appropriate books. Avoid frustration — keep rhyme games playful and pressure-free."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sound Sorting Materials help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Phonemic awareness — the ability to hear and manipulate individual sounds in words — is the strongest predictor of reading success. Sound sorting activities (sorting pictures by beginning sound, middle sound, or ending sound) make abstract sounds concrete. When a child puts a picture of a 'sun,' 'sock,' and 'snake' together because they all start with /s/, they're demonstrating phonemic awareness. This skill transfers directly to reading and spelling — understanding that the letter 's' represents the sound /s/ builds on already knowing that /s/ is a distinct, identifiable sound. Sound sorting materials include picture cards, sorting mats, and objects grouped by phoneme. Price: ₹300–700. DIY option: Creating sound sorting activities: 1) Picture cards: print or cut magazine pictures of common objects, sort by beginning sound, 2) Sorting mats: paper divided into sections with letter cue for each, 3) Object sorting: miniature objects (toy sun, sock, snake) sorted into sound groups, 4) Beginning sound focus first: 'Find all pictures that start like 'mmm'', 5) Later add ending sounds: 'Which words end with /t/?', 6) Finally middle sounds: 'Which words have /a/ in the middle?' Key principle: Use sounds, not letter names. We're building sound awareness, not letter knowledge yet. Safety: Small objects require supervision for young children. Ensure picture cards are clear and unambiguous."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Alphabet Manipulatives help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Letter knowledge — recognizing letter shapes and connecting them to sounds — develops best through multisensory, hands-on manipulation rather than visual-only flashcards. Alphabet manipulatives include magnetic letters, letter tiles, foam letters, wooden letters, and sandpaper letters. Children can touch, move, sort, match, and build with these materials, creating motor memory alongside visual memory. The tactile experience of tracing a textured letter while saying its sound creates multiple neural pathways for letter learning. Manipulatives allow for play-based letter exploration — building names, sorting by shape, matching uppercase to lowercase — without the pressure of worksheets. Price: ₹300–900. DIY option: Multisensory letter materials: 1) Magnetic letters: on fridge, cookie sheet, or magnetic board, 2) Sandpaper letters: cut letters from sandpaper for tactile tracing, 3) Letter tiles: Scrabble tiles or similar for building words, 4) Foam letters: bath letters, puzzle letters, sponge letters, 5) Playdough letters: form letters from playdough, 6) Salt/sand tray: write letters in shallow tray of salt or sand, 7) Wikki Stix letters: bendable wax sticks to form letters. Activities: name building, letter matching, alphabetical order, letter hunts. Key: Emphasize sound, not just name ('This is /b/, buh' not just 'This is B'). Safety: Check for choking hazards with small letters. Supervise young children with manipulatives."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Environmental Print Materials help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Environmental print — logos, signs, labels, and packaging that children see daily — is often the first print children 'read.' When a child recognizes the McDonald's arches or the STOP sign, they're demonstrating print awareness: understanding that those symbols carry meaning. Environmental print materials bridge familiar visual logos to understanding that all print carries meaning. Activities include matching logos to products, 'reading' familiar signs, creating environmental print books, and pointing out print during daily routines. This builds the crucial concept that squiggles on a page represent real words and ideas — the foundation of print awareness. Price: ₹0–200. DIY option: Using environmental print: 1) Logo matching: cut logos from packaging, match to products or pictures, 2) Environmental print walks: point out signs, store names, street signs during outings, 3) Create print books: paste familiar logos in a book — child 'reads' it, 4) Packaging labels: keep familiar packaging (cereal boxes, snack wrappers) for 'reading', 5) Menu 'reading': let child 'read' restaurant menus by recognizing logos, 6) Sign recognition: STOP, EXIT, OPEN/CLOSED, restroom signs, 7) Own name everywhere: their name on door, belongings, charts. Key: Celebrate that they're 'reading' — build confidence that print is accessible. Safety: Ensure packaging is clean and safe. Avoid packaging with sharp edges."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Picture-Word Matching Cards help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Picture-word matching cards connect images to their printed word representations, building the understanding that specific letter combinations represent specific objects. Children match a picture of a 'cat' to the word 'cat,' beginning to associate the visual word pattern with meaning. This develops sight word recognition and reinforces that print represents language. For pre-readers, picture-word cards build vocabulary alongside print awareness. The matching format makes learning interactive and self-correcting — children can see if their match is correct. This bridges purely oral vocabulary to printed vocabulary. Price: ₹200–500. DIY option: Creating picture-word matching: 1) Simple cards: picture on one card, word on another — match pairs, 2) Three-part cards (Montessori): picture only, picture with word, word only — progression of support, 3) Start with names: photos of family members with printed names, 4) Functional words: pictures of household items with labels, 5) Color-coded sets: color-code backs for self-checking, 6) Categories: animals, foods, clothing — build vocabulary in themes, 7) Child's world: pictures of their toys, their room, their pets. Key: Start with personally meaningful words. Their name, their dog, their favorite toy. Safety: Cards should be sturdy enough for handling. Laminate homemade cards for durability."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Syllable Clapping Materials help with pre-reading skills delay?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Syllable awareness — understanding that words can be broken into beats or chunks — is a key phonological awareness skill that bridges between word-level and sound-level awareness. Clapping, tapping, or drumming syllables makes this invisible structure tangible. 'El-e-phant' has three beats. 'Cat' has one. Materials that support syllable work include drums, rhythm sticks, picture cards of objects with varying syllable counts, and sorting activities by syllable number. Children who can reliably count syllables are developing the analytical orientation toward language that reading requires — understanding that spoken words have internal structure. Price: ₹150–400. DIY option: Syllable awareness activities: 1) Body percussion: clap, stomp, tap syllables in words, 2) Drums/instruments: tap syllables on drum, rhythm sticks, or table, 3) Picture sorting: sort pictures by syllable count (1-syllable, 2-syllable, 3-syllable piles), 4) Name syllables: clap everyone's name in family — who has most syllables?, 5) Syllable robots: speak like a robot — 'wa-ter-mel-on', 6) Jumping syllables: jump once per syllable, 7) Syllable towers: stack one block per syllable. Key: Make it physical. The body learns what the ear struggles to isolate. Safety: Supervise use of rhythm sticks. Ensure drums are age-appropriate volume."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: . "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#howto",
+        "name": "How to Help a Child with Pre Reading Skills Delay",
+        "description": "A graded approach using evidence-based materials. Reading is not a natural process like speaking — it must be taught. But before teaching can succeed, developmental foundations must be in place. Attempting formal reading instruction before phonological awareness, print concepts, and oral language foundations are solid typically results in frustration, failure, and reading aversion. Building these foundations through play-based, developmentally appropriate activities prepares the brain for formal instruction. The goal is reading readiness, not reading performance, in preschool-age children.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1450,
+          "maxValue": 4600
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Rhyming Books and Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Sound Sorting Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 700
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Alphabet Manipulatives",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 900
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Pre-reading skills are the foundational competencies that must be in place before formal reading instruction can succeed. These include phonological awareness (understanding that spoken language is made of sounds), phonemic awareness (manipulating individual sounds in words), print awareness (understanding that print carries meaning and follows conventions), letter knowledge (recognizing letters and their sounds), vocabulary and oral language (understanding word meanings and sentence structures), and narrative skills (following and understanding stories). Children who struggle with pre-reading skills often have underlying difficulties in auditory processing, visual discrimination, working memory, or language development. Without these foundations, formal reading instruction fails to 'stick' — the child lacks the scaffolding onto which reading skills build. Intervention focuses on building these foundations through multisensory, engaging, developmentally appropriate activities rather than pushing formal reading instruction prematurely. Reading is not a natural process like speaking — it must be taught. But before teaching can succeed, developmental foundations must be in place. Attempting formal reading instruction before phonological awareness, print concepts, and oral language foundations are solid typically results in frustration, failure, and reading aversion. Building these foundations through play-based, developmentally appropriate activities prepares the brain for formal instruction. The goal is reading readiness, not reading performance, in preschool-age children."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Rhyming Books and Games, Sound Sorting Materials, Alphabet Manipulatives."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: ."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#medicalpage",
+        "name": "Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns",
+          "alternateName": [
+            "child not ready to read",
+            "pre-reading skills activities",
+            "doesn't recognize letters"
+          ],
+          "description": "Pre-reading skills are the foundational competencies that must be in place before formal reading instruction can succeed. These include phonological awareness (understanding that spoken language is made of sounds), phonemic awareness (manipulating individual sounds in words), print awareness (understanding that print carries meaning and follows conventions), letter knowledge (recognizing letters and their sounds), vocabulary and oral language (understanding word meanings and sentence structures), and narrative skills (following and understanding stories). Children who struggle with pre-reading skills often have underlying difficulties in auditory processing, visual discrimination, working memory, or language development. Without these foundations, formal reading instruction fails to 'stick' — the child lacks the scaffolding onto which reading skills build. Intervention focuses on building these foundations through multisensory, engaging, developmentally appropriate activities rather than pushing formal reading instruction prematurely.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No recognition of common letters by age 4-5"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Cannot identify rhyming words"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty hearing individual sounds in words"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No interest in books or being read to"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't understand that print represents spoken words"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Holds books incorrectly or flips pages randomly"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Can't identify own name in print"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Struggles to learn alphabet despite exposure"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-04"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#article",
+        "headline": "9 Materials That Help With Pre-Reading Skills",
+        "alternativeHeadline": "Before reading comes... everything else",
+        "description": "My child is approaching kindergarten, and I'm starting to panic. While other children are recognizing letters and even starting to read simple words, my chil...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-04T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#primaryimage"
+        },
+        "articleSection": "Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness",
+        "wordCount": 3500,
+        "keywords": [
+          "child not ready to read",
+          "phonological awareness activities",
+          "emergent literacy",
+          "kindergarten reading readiness",
+          "letter recognition help"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "National Reading Panel and Emergent Literacy Research",
+            "url": "https://www.nichd.nih.gov/publications/pubs/nrp/smallbook",
+            "description": "Evidence-based frameworks on pre-reading skill development and early literacy foundations."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "International Literacy Association",
+            "url": "",
+            "description": "Position statements on developmentally appropriate early literacy practices"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "American Speech-Language-Hearing Association",
+            "url": "",
+            "description": "Evidence-based guidelines on language and literacy intervention"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#healthcontent",
+        "name": "Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Pre-Reading Skills Delay / Emergent Literacy Difficulties / Phonological Awareness Weakness / Print Awareness Delay / Early Literacy Readiness Concerns"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition challenges"
+        },
+        "keywords": [
+          "child not ready to read",
+          "phonological awareness activities",
+          "emergent literacy",
+          "kindergarten reading readiness",
+          "letter recognition help"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#evidence",
+        "claimReviewed": "Reading is not a natural process like speaking — it must be taught. But before teaching can succeed, developmental foundations must be in place. Attempting formal reading instruction before phonological awareness, print concepts, and oral language foundations are solid typically results in frustration, failure, and reading aversion. Building these foundations through play-based, developmentally appropriate activities prepares the brain for formal instruction. The goal is reading readiness, not reading performance, in preschool-age children. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Pre Reading Skills Delay Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition#collection",
+        "name": "Early Literacy Development",
+        "description": "Complete series of 750 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "G-681: Oral Language Development",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "G-682: Vocabulary Building",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "G-683: Pre-Reading Skills (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "G-684: Phonemic Awareness",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "G-685: Early Writing Skills",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 750,
+        "collectionSize": 750
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#materials",
+        "name": "9 Materials for Pre Reading Skills Delay",
+        "description": "Evidence-based materials for ages 2–6 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Rhyming Books and Games",
+              "description": "Rhyme recognition is one of the earliest and most important phonological awareness skills. When children notice that 'cat,' 'hat,' and 'bat' share a sound pattern, they're demonstrating understanding that words are made of smaller sound units — a crucial insight for later decoding. Rhyming books with predictable patterns (like Dr. Seuss) make rhymes memorable and fun. Rhyming games — finishing rhymes, identifying 'which word doesn't rhyme,' generating rhymes — build active rhyme awareness. This skill predicts later reading success more reliably than letter knowledge. Children who can't rhyme often struggle significantly with reading because they haven't grasped the fundamental concept that words can be broken into sound parts.",
+              "category": "Phonologicalawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Building rhyme awareness: 1) Books: Dr. Seuss, Julia Donaldson, nursery rhyme collections — read daily with emphasis on rhymes, 2) Rhyme completion: 'I see a cat wearing a ____' (hat), 3) Rhyme identification: 'Do cat and hat rhyme? Do cat and dog rhyme?', 4) Odd one out: 'Cat, hat, sun — which doesn't rhyme?', 5) Rhyme generation: 'What rhymes with ball?' — accept nonsense words!, 6) Rhyme songs: nursery rhymes, finger plays, action songs with rhymes, 7) Throughout-day rhyming: 'We're going to the store, let's think of words that rhyme with store.' Key: Rhyme exposure should be joyful, playful, and pressure-free."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose age-appropriate books. Avoid frustration — keep rhyme games playful and pressure-free."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Sound Sorting Materials",
+              "description": "Phonemic awareness — the ability to hear and manipulate individual sounds in words — is the strongest predictor of reading success. Sound sorting activities (sorting pictures by beginning sound, middle sound, or ending sound) make abstract sounds concrete. When a child puts a picture of a 'sun,' 'sock,' and 'snake' together because they all start with /s/, they're demonstrating phonemic awareness. This skill transfers directly to reading and spelling — understanding that the letter 's' represents the sound /s/ builds on already knowing that /s/ is a distinct, identifiable sound. Sound sorting materials include picture cards, sorting mats, and objects grouped by phoneme.",
+              "category": "Phonologicalawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating sound sorting activities: 1) Picture cards: print or cut magazine pictures of common objects, sort by beginning sound, 2) Sorting mats: paper divided into sections with letter cue for each, 3) Object sorting: miniature objects (toy sun, sock, snake) sorted into sound groups, 4) Beginning sound focus first: 'Find all pictures that start like 'mmm'', 5) Later add ending sounds: 'Which words end with /t/?', 6) Finally middle sounds: 'Which words have /a/ in the middle?' Key principle: Use sounds, not letter names. We're building sound awareness, not letter knowledge yet."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Small objects require supervision for young children. Ensure picture cards are clear and unambiguous."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Alphabet Manipulatives",
+              "description": "Letter knowledge — recognizing letter shapes and connecting them to sounds — develops best through multisensory, hands-on manipulation rather than visual-only flashcards. Alphabet manipulatives include magnetic letters, letter tiles, foam letters, wooden letters, and sandpaper letters. Children can touch, move, sort, match, and build with these materials, creating motor memory alongside visual memory. The tactile experience of tracing a textured letter while saying its sound creates multiple neural pathways for letter learning. Manipulatives allow for play-based letter exploration — building names, sorting by shape, matching uppercase to lowercase — without the pressure of worksheets.",
+              "category": "Letterknowledge",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Multisensory letter materials: 1) Magnetic letters: on fridge, cookie sheet, or magnetic board, 2) Sandpaper letters: cut letters from sandpaper for tactile tracing, 3) Letter tiles: Scrabble tiles or similar for building words, 4) Foam letters: bath letters, puzzle letters, sponge letters, 5) Playdough letters: form letters from playdough, 6) Salt/sand tray: write letters in shallow tray of salt or sand, 7) Wikki Stix letters: bendable wax sticks to form letters. Activities: name building, letter matching, alphabetical order, letter hunts. Key: Emphasize sound, not just name ('This is /b/, buh' not just 'This is B')."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Check for choking hazards with small letters. Supervise young children with manipulatives."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Environmental Print Materials",
+              "description": "Environmental print — logos, signs, labels, and packaging that children see daily — is often the first print children 'read.' When a child recognizes the McDonald's arches or the STOP sign, they're demonstrating print awareness: understanding that those symbols carry meaning. Environmental print materials bridge familiar visual logos to understanding that all print carries meaning. Activities include matching logos to products, 'reading' familiar signs, creating environmental print books, and pointing out print during daily routines. This builds the crucial concept that squiggles on a page represent real words and ideas — the foundation of print awareness.",
+              "category": "Printawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Using environmental print: 1) Logo matching: cut logos from packaging, match to products or pictures, 2) Environmental print walks: point out signs, store names, street signs during outings, 3) Create print books: paste familiar logos in a book — child 'reads' it, 4) Packaging labels: keep familiar packaging (cereal boxes, snack wrappers) for 'reading', 5) Menu 'reading': let child 'read' restaurant menus by recognizing logos, 6) Sign recognition: STOP, EXIT, OPEN/CLOSED, restroom signs, 7) Own name everywhere: their name on door, belongings, charts. Key: Celebrate that they're 'reading' — build confidence that print is accessible."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure packaging is clean and safe. Avoid packaging with sharp edges."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Picture-Word Matching Cards",
+              "description": "Picture-word matching cards connect images to their printed word representations, building the understanding that specific letter combinations represent specific objects. Children match a picture of a 'cat' to the word 'cat,' beginning to associate the visual word pattern with meaning. This develops sight word recognition and reinforces that print represents language. For pre-readers, picture-word cards build vocabulary alongside print awareness. The matching format makes learning interactive and self-correcting — children can see if their match is correct. This bridges purely oral vocabulary to printed vocabulary.",
+              "category": "Printawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating picture-word matching: 1) Simple cards: picture on one card, word on another — match pairs, 2) Three-part cards (Montessori): picture only, picture with word, word only — progression of support, 3) Start with names: photos of family members with printed names, 4) Functional words: pictures of household items with labels, 5) Color-coded sets: color-code backs for self-checking, 6) Categories: animals, foods, clothing — build vocabulary in themes, 7) Child's world: pictures of their toys, their room, their pets. Key: Start with personally meaningful words. Their name, their dog, their favorite toy."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Cards should be sturdy enough for handling. Laminate homemade cards for durability."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Syllable Clapping Materials",
+              "description": "Syllable awareness — understanding that words can be broken into beats or chunks — is a key phonological awareness skill that bridges between word-level and sound-level awareness. Clapping, tapping, or drumming syllables makes this invisible structure tangible. 'El-e-phant' has three beats. 'Cat' has one. Materials that support syllable work include drums, rhythm sticks, picture cards of objects with varying syllable counts, and sorting activities by syllable number. Children who can reliably count syllables are developing the analytical orientation toward language that reading requires — understanding that spoken words have internal structure.",
+              "category": "Phonologicalawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Syllable awareness activities: 1) Body percussion: clap, stomp, tap syllables in words, 2) Drums/instruments: tap syllables on drum, rhythm sticks, or table, 3) Picture sorting: sort pictures by syllable count (1-syllable, 2-syllable, 3-syllable piles), 4) Name syllables: clap everyone's name in family — who has most syllables?, 5) Syllable robots: speak like a robot — 'wa-ter-mel-on', 6) Jumping syllables: jump once per syllable, 7) Syllable towers: stack one block per syllable. Key: Make it physical. The body learns what the ear struggles to isolate."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise use of rhythm sticks. Ensure drums are age-appropriate volume."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Wordless Picture Books",
+              "description": "Narrative skills — understanding story structure, sequence, cause-and-effect, character motivation — are essential pre-reading foundations that develop through storytelling. Wordless picture books invite children to create and tell the story, building narrative language without decoding demands. Children practice sequencing (what happens first, next, last), inferencing (why did that happen?), and expressive language — all skills that support reading comprehension later. These books level the playing field: children who can't decode can still fully participate in storytelling, building confidence and story sense that transfers to reading comprehension when decoding develops.",
+              "category": "Narrativelanguage",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Using wordless books effectively: 1) Classic titles: 'Pancakes for Breakfast', 'Good Dog Carl', 'A Ball for Daisy', 'Flotsam', 'Tuesday', 2) Let child lead: 'Tell me what's happening', not 'This is what happens', 3) Ask open questions: 'What do you think will happen next?', 'How does she feel?', 4) Retell together: take turns adding to the story, 5) Sequence focus: 'First... then... finally...', 6) Create own wordless books: take photos of an outing, print without words, have child narrate, 7) Compare tellings: tell same book on different days — watch narrative complexity grow. Key: They are the reader. Build confidence that they can 'read.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose age-appropriate content. Ensure books are sturdy for young hands."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Alphabet Arc and Letter Sequence Materials",
+              "description": "Understanding alphabetical order and the position of letters in the sequence is important for later dictionary skills, filing, and letter recognition fluency. The alphabet arc — a half-circle mat with 26 letter positions — helps children learn letter sequence through physical placement. Children place letter tiles in order, building motor memory of the alphabet sequence. Related materials include alphabet puzzles, letter sequence games, and alphabet floor mats. This also builds letter recognition through repeated exposure and placement. The arc format is particularly effective because children can see the whole alphabet at once and feel where each letter 'belongs.'",
+              "category": "Letterknowledge",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating alphabet sequence materials: 1) Alphabet arc: draw arc on poster board or felt, mark 26 positions, use with letter tiles, 2) Floor alphabet: tape letters in sequence on floor — walk the alphabet, 3) Alphabet puzzles: wooden puzzles with letters in sequence, 4) Alphabet train: each car has a letter in order, 5) Alphabet song with pointing: point to each letter while singing, 6) Missing letter games: 'A, B, _, D — what's missing?', 7) Before/after games: 'What comes after G? What comes before M?' Key: Start with familiar chunks (A-B-C, X-Y-Z) and build middle knowledge gradually."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure letter pieces are not choking hazards. Supervise younger children with small tiles."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Concept of Word Materials",
+              "description": "Concept of word in print — understanding that spoken words map to written words in one-to-one correspondence — is a crucial print awareness skill. Many pre-readers don't understand that each spoken word has a corresponding written word: they think writing is undifferentiated symbols. Materials that build this concept include pointer tools for tracking print, books with large text and clear word spacing, and activities where children point to each word as text is read aloud. Finger-point reading (pointing to each word while reciting memorized text) is particularly powerful because children can check their finger-pointing against known language, discovering the word-by-word nature of print.",
+              "category": "Printawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Building concept of word: 1) Pointer tools: wiki stick, craft stick, finger puppet — for tracking print, 2) Memorized text pointing: write out familiar rhymes, have child point to each word while reciting, 3) Big books: large-print books with clear word spacing, 4) Sentence strips: single sentences on strips, point to each word, 5) Cut-up sentences: cut familiar sentences into words, rebuild in order, 6) Voice-to-print match: you read slowly, child points to each word you say, 7) Word counting: 'How many words in this sentence?' (point to count). Key: Memorized text is essential — children can only learn concept of word with text they already know orally."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Pointer tools should be smooth and safe. Avoid pointed objects for young children."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/early literacy / language development / cognitive development / visual processing / phonological awareness/pre-reading readiness / emergent literacy / phonemic awareness / print awareness / letter recognition/9-materials-that-help-with-pre-reading-skills#course",
+        "name": "Early Literacy Development",
+        "description": "Parent education video series on Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Pre-Reading Skills | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "child not ready to read, phonological awareness activities, emergent literacy, kindergarten reading readiness, letter recognition help"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/G-683.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/G-683-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/G-683.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Pre-Reading Skills",
+      "content_category": "Intervention Techniques > Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness > Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition",
+      "content_ids": [
+        "G-683"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "G-683",
+        "technique_theme": "9MAT",
+        "domain": "Early Literacy / Language Development / Cognitive Development / Visual Processing / Phonological Awareness",
+        "sub_domain": "Pre-Reading Readiness / Emergent Literacy / Phonemic Awareness / Print Awareness / Letter Recognition",
+        "domain_code": "LIT-PREREAD",
+        "series": "Early Literacy Development",
+        "episode": 683,
+        "age_band": "2–6 years",
+        "setting": "Home Environment + Preschool/Daycare + Speech Therapy + Early Childhood Education",
+        "cluster_id": "LIT-01",
+        "cluster_position": 683,
+        "materials_count": 9,
+        "total_cost_range": "₹1,450–4,600 for comprehensive starter set"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#PreReadingSkills",
+      "#EmergentLiteracy",
+      "#PhonologicalAwareness",
+      "#LetterRecognition",
+      "#KindergartenReadiness",
+      "#EarlyLiteracy",
+      "#ReadingFoundations",
+      "#PrintAwareness",
+      "#PhonicsReadiness",
+      "#LanguageDevelopment",
+      "#SpeechTherapy",
+      "#ReadingReadiness",
+      "#PreK",
+      "#EarlyChildhood",
+      "#PinnacleBlooms"
+    ],
+    "caption": "Flashcards aren't working because reading has foundations — and those come first. Before letters: phonological awareness. Before decoding: print concepts. Before reading: stories, sounds, and language play. These 9 materials build what must exist before reading can happen: rhyming books and games, sound sorting materials, alphabet manipulatives, environmental print, picture-word matching, syllable clapping materials, wordless picture books, alphabet arc, and concept of word materials. Build the foundation. Reading will follow. 📚 #PreReadingSkills #EmergentLiteracy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "G-684",
+    "prevInSeries": "G-682",
+    "relatedTechniques": [
+      "G-681",
+      "G-684",
+      "G-685",
+      "G-690",
+      "G-695",
+      "G-698"
+    ],
+    "deepDives": [
+      "G-683-DD-01",
+      "G-683-DD-02"
+    ],
+    "parentSupport": [
+      "K-6830",
+      "K-6835",
+      "K-6840"
+    ]
+  }
+}
