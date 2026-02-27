@@ -231,17 +231,17 @@ for (const file of fs.readdirSync(PAGES)) {
 
   //fs.writeFileSync(path.join(BUILD, file), finalHtml);
   const minifiedHtml = minifyHTML(finalHtml);
-//fs.writeFileSync(path.join(BUILD, file), minifiedHtml);
-const cleanName = pageName; // without .desktop/.mobile
-const pageDir = path.join(BUILD, cleanName);
+fs.writeFileSync(path.join(BUILD, file), minifiedHtml);
+//const cleanName = pageName; // without .desktop/.mobile
+////const pageDir = path.join(BUILD, cleanName);
 
-fs.mkdirSync(pageDir, { recursive: true });
+//fs.mkdirSync(pageDir, { recursive: true });
 
 // Always write as index.html inside folder
-fs.writeFileSync(
-  path.join(pageDir, "index.html"),
-  minifiedHtml
-);
+// fs.writeFileSync(
+//   path.join(pageDir, "index.html"),
+//   minifiedHtml
+// );
   console.log(`✔ Built ${file}`);
 }
 
