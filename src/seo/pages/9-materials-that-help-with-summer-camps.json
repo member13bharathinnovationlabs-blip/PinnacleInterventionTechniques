@@ -1,0 +1,1038 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps",
+    "title": "9 Materials That Help With Summer Camps | Pinnacle Blooms",
+    "description": "My daughter is ten and has never experienced summer camp. Every year I look at the brochures and imagine her there – making crafts, playing games, having adv...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-05",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "J-878",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Community Participation and Recreational Access",
+    "episodeInSeries": 878,
+    "domain": "Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement",
+    "subDomain": "Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization",
+    "domainCode": "CP-SC",
+    "ageBand": "All ages (materials adapted to developmental level and camp type)",
+    "setting": "Home Preparation + Camp Environment",
+    "audience": "Parents + Caregivers + Camp Staff + Therapy Teams",
+    "clusterId": "CP-01",
+    "clusterName": "Community Participation and Recreational Access",
+    "clusterPosition": 878,
+    "totalInCluster": 920
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps",
+        "name": "9 Materials That Help With Summer Camps | Pinnacle Blooms",
+        "description": "My daughter is ten and has never experienced summer camp. Every year I look at the brochures and imagine her there – making crafts, playing games, having adv...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-05",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "autistic child camp anxiety",
+          "sensory friendly summer camp",
+          "special needs camp preparation",
+          "autism camp readiness",
+          "preparing autistic child for camp",
+          "sensory issues summer camp",
+          "autism separation anxiety camp",
+          "camp social stories autism",
+          "visual schedule camp",
+          "sensory kit summer camp",
+          "autism camp counselor tips",
+          "special needs summer activities",
+          "inclusive summer camp",
+          "camp for kids with autism",
+          "autism community participation",
+          "autism summer camp preparation tips"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement",
+            "item": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization",
+            "item": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Summer Camps"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/J-878-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/J-878-hero.webp",
+        "caption": "Child happily participating in summer camp activity with peers – success, joy, inclusion, connection.",
+        "description": "Child at summer camp with support materials, engaging with activities and peers",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#video",
+        "name": "9 Materials That Help With Summer Camps",
+        "description": "New environment. Long days. Social demands. But camp offers so much growth. These 9 materials help make summer camp possible.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/J-878-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/J-878.mp4",
+        "embedUrl": "https://www.instagram.com/reel/J-878/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#AutismSummerCamp",
+          "#SensoryFriendlyCamp",
+          "#SpecialNeedsCamp",
+          "#CampReadiness",
+          "#AutismParenting",
+          "#SensoryProcessing",
+          "#SummerCampTips",
+          "#InclusiveCamp",
+          "#CampPreparation",
+          "#AutismSupport",
+          "#CommunityParticipation",
+          "#SpecialNeedsParenting",
+          "#SummerActivities",
+          "#CampSuccess",
+          "#PinnacleBlooms"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments",
+          "alternateName": [
+            "autism summer camp preparation",
+            "special needs camp tips",
+            "sensory issues summer camp"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - My Daughter Is Ten And Has Nev",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "New environment. Long days. Social demands. But camp offers so much growth. These 9 materials hel..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Camp Preview Social Story Book",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Social stories transform the unknown into the expected. A camp social story walks your child thro..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Visual Schedule for Camp Day",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Camp days are long and filled with transitions. Children with autism often struggle with not know..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Portable Sensory Calm-Down Kit",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Camp environments are sensory-intensive: heat, outdoor sounds, group noise, physical activities, ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Camp Staff Communication Card",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Camp counselors meet dozens of children and need quick access to essential information about your..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Transition Object from Home",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Extended separation from parents is challenging, especially in novel environments. A transition o..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Break Card and Designated Safe Space",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Camp is stimulating and intense. Children need a way to request breaks before they reach crisis, ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Social Skills Cue Cards for Peer Interaction",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Camp involves constant peer interaction, but social situations are often confusing and fast-movin..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Countdown Calendar for Camp Days",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Children with autism often have difficulty with time concepts. A week of camp can feel endless, o..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Parent-Child Connection Routine",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Separation from parents during camp is more manageable when there's a predictable connection poin..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Community Participation",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Skills for Camp. Skills for Community. Skills for Life."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my daughter is ten and has never experienced summer camp. every year i look at the brochures and imagine her there – making crafts, playing games, having adventures with other kids. and every year i put them down because i can't see how it would work. the camp day is long and unpredictable. transitions happen constantly. social dynamics are complex and fast-moving. there's nowhere to escape when she's overwhelmed. staff don't know her, don't know her signals, might not understand her needs. and she'll be away from me, her safe person, for hours at a time. she's never done that successfully. i've tried modified approaches – taking her to camp-like activities with me present, signing her up for one-hour programs. they've been mixed. sometimes she enjoys parts but melts down at others. sometimes she refuses to participate at all, clinging to me while other kids play. i want her to have the camp experiences other kids have. i want her to swim and hike and make friendship bracelets and roast marshmallows. i want her to discover she can be away from me and be okay – even have fun. but i don't know how to bridge the gap between where she is and what camp requires. what materials and tools actually help children like mine access summer camp experiences?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "COMMUNITY RECREATION ACCESS / CAMP READINESS SKILLS / EXTENDED SEPARATION TOLERANCE / GROUP ACTIVITY PARTICIPATION / SOCIAL SKILLS GENERALIZATION IN NOVEL ENVIRONMENTS! Summer camps present a concentration of challenges for children with autism and sensory processing differences: novel environments, unfamiliar people (staff and peers), extended separation from caregivers, unpredictable schedules, constant transitions, group activities with complex social dynamics, sensory-rich outdoor environments (heat, sounds, textures), unstructured social time, and demands for flexibility throughout long days. Successful camp participation requires preparation (social stories, visiting the site, meeting staff), portable supports (sensory kits, visual schedules, comfort items), staff communication (about needs, signals, strategies), and gradual exposure when possible. The goal is not merely surviving camp but genuinely accessing the joy, growth, and connection that camp experiences offer. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Summer camps present a concentration of challenges for children with autism and sensory processing differences: novel environments, unfamiliar people (staff and peers), extended separation from caregivers, unpredictable schedules, constant transitions, group activities with complex social dynamics, sensory-rich outdoor environments (heat, sounds, textures), unstructured social time, and demands for flexibility throughout long days. Successful camp participation requires preparation (social stories, visiting the site, meeting staff), portable supports (sensory kits, visual schedules, comfort items), staff communication (about needs, signals, strategies), and gradual exposure when possible. The goal is not merely surviving camp but genuinely accessing the joy, growth, and connection that camp experiences offer. Common signs include: ."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Camp Preview Social Story Book help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Social stories transform the unknown into the expected. A camp social story walks your child through the entire camp experience before it happens: what the camp location looks like, how drop-off works, who the counselors are, what activities happen, where lunch is eaten, where bathrooms are, what pickup looks like, and how they'll feel (including that nervous feelings are normal and will get easier). Include actual photos from your specific camp when possible – contact them in advance for pictures or schedule a preview visit. Reading the story daily for weeks before camp creates mental familiarity with an unfamiliar experience. When camp day arrives, nothing is a complete surprise. Price: ₹200–800 (custom printed) or Free (homemade). DIY option: Creating a camp social story: GATHER MATERIALS: Contact your camp weeks before start date. Request photos of: the entrance, check-in area, main activity spaces, counselors who will work with your child, cafeteria/snack area, bathrooms, pickup location, any specialty areas (pool, art room, sports field). Many camps will accommodate these requests, especially if you explain the need. If photos aren't available, visit the site and take your own. STRUCTURE THE STORY: Cover page ('My Camp Adventure at [Camp Name]'), Introduction ('This summer I'm going to [Camp Name]. This story helps me know what to expect.'), then sequential pages covering each phase. KEY PAGES TO INCLUDE: Getting ready in the morning; Driving to camp; Arrival and check-in ('Mommy will sign me in and say goodbye. I might feel nervous, but that's okay.'); Meeting my counselor ('My counselor is named [Name]. They will help me all day.'); Morning activities; Snack time; More activities; Lunch ('I will eat lunch at camp. I might eat food from home or food from camp.'); Afternoon activities; Pickup ('At [time], Mommy will pick me up. I'll tell her about my day.'); Coming back ('I go to camp every day this week. Each day will get easier.'). EMOTIONAL ACKNOWLEDGMENT: Include pages that acknowledge feelings: 'Sometimes I might feel overwhelmed. That's okay. I can ask for help or use my calm-down tools.' FORMAT: Print on cardstock, laminate pages, bind with rings or in a small binder. READING SCHEDULE: Begin reading 2-3 weeks before camp starts. Read daily. Increase to twice daily the week before camp. Read the morning of camp. PERSONALIZATION: Use your child's specific interests and concerns to add relevant pages. Safety: Social stories prepare but don't prevent all challenges. Still communicate with camp staff about your child's needs and potential difficulties."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Visual Schedule for Camp Day help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Camp days are long and filled with transitions. Children with autism often struggle with not knowing what comes next or how much longer until they see their parent again. A visual schedule shows the sequence of the camp day with pictures or icons: arrival, morning circle, first activity, snack, second activity, lunch, rest time, afternoon activity, pickup. Your child can carry the schedule, reference it throughout the day, and mark off completed activities. This shows concrete progress and, crucially, shows that pickup is coming. The schedule transforms an endless-seeming day into a series of manageable segments with a clear endpoint. Work with camp staff to get the actual daily schedule and build your visual around it. Price: ₹100–400 (laminated board) or Free (homemade). DIY option: Creating a camp visual schedule: GET THE ACTUAL SCHEDULE: Contact camp before start date. Request their daily schedule with approximate times. Many camps follow a consistent structure: arrival/check-in → morning meeting → activity blocks → snack → more activities → lunch → rest/quiet time → afternoon activities → pickup. GET SPECIFIC: If possible, get your child's specific group schedule. Will they swim Monday and Wednesday? Art on Tuesday? Build the schedule around their actual experience. VISUAL FORMAT: Photos or simple icons for each activity/time block; Velcro pieces that can be moved or removed; Or checkboxes to mark off; Clock faces showing approximate times (for children learning to tell time); 'Pickup' at the bottom as the endpoint. SIZE AND DURABILITY: Approximately A5 size – portable but visible; Laminated heavily for outdoor durability; Consider water-resistant cover in case of pool/sprinklers; Attach to lanyard or clip to backpack for accessibility. USING THE SCHEDULE: Review at home before leaving; Reference at drop-off – 'Here's your day!'; Child and/or counselor mark off completed activities; Child can check schedule whenever needed to see what's coming. COUNSELOR INVOLVEMENT: Brief counselors on the schedule tool; Show them how to help child reference it; Some camps will actively help with this. PICKUP VISIBILITY: Key feature: child can see pickup approaching; 'Look, only two more things until Mommy comes!' FLEXIBILITY NOTE: Camp schedules sometimes change (weather, etc.). Prepare child that schedule shows the plan, but plans can change. Have a 'surprise activity' icon available. Safety: Camp schedules can change unexpectedly. Prepare your child for flexibility and ensure counselors know to help if schedule changes cause distress."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Portable Sensory Calm-Down Kit help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Camp environments are sensory-intensive: heat, outdoor sounds, group noise, physical activities, new textures, strong smells. Your child needs portable regulation tools for the moments when sensory input becomes overwhelming. A sensory calm-down kit is a small bag or pouch containing items that help your child regulate: fidgets, stress balls, noise-reducing earplugs, a small weighted item, calming scent cloth, chewy tube, and anything else that specifically helps your child calm down. The kit travels with your child throughout the camp day, providing instant access to sensory regulation. Practice using the kit at home so your child knows exactly how each item helps and can use them independently at camp. Price: ₹300–1,500. DIY option: Building a camp sensory kit: CONTAINER: Small, durable, water-resistant pouch or bag; Easy to open (consider zipper, velcro, or drawstring based on child's skills); Size: fits in backpack pocket but holds essential items; Label with child's name and 'Calm-Down Kit'. ITEMS TO INCLUDE (choose 5-8 based on your child's specific sensory profile): TACTILE: Stress ball, squishy toy, textured fabric square, putty or therapy dough; AUDITORY: Noise-reducing earplugs, small earbuds for calming music (if allowed); PROPRIOCEPTIVE: Small weighted item, resistance band for squeezing; ORAL: Chewy tube, gum (if allowed), hard candy (if allowed); OLFACTORY: Small cloth with calming scent (lavender, preferred scent), sealed to maintain smell; VISUAL: Calming glitter jar (mini version), photos of family, fidget with visual component; COMFORT: Small comfort item, fabric from home, mini stuffed animal. PERSONALIZATION: Only include items your child already finds calming; Don't add new/unfamiliar items – camp is not the time to try new tools; Consider what specifically dysregulates your child at camp (heat → cooling cloth; noise → earplugs). PRACTICE AT HOME: Use the kit regularly before camp; Child should automatically reach for it when stressed; Practice using each item until it's habitual. CAMP STAFF BRIEFING: Show counselors the kit; Explain what each item is for; Ask them to prompt child to use kit when dysregulation is noticed. SIZE CONSTRAINTS: Kit should be small enough to carry easily; Can be clipped to belt loop, worn as fanny pack, or kept in backpack. REPLENISHMENT: Putty dries out, scent fades, batteries die; Check and replenish kit regularly during camp. Safety: All items should be safe for your child's age and the camp setting. Check camp policies about specific items. No items that could be choking hazards for younger campers who might access them."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Camp Staff Communication Card help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Camp counselors meet dozens of children and need quick access to essential information about your child. A communication card is a one-page laminated reference that stays with your child's counselor, providing critical information at a glance: your child's name and photo, key strengths, specific challenges, sensory triggers, early warning signs of dysregulation, what helps when overwhelmed, communication style, any safety concerns, and what to do in crisis. This isn't a long report – it's a practical reference that a busy counselor can check in moments. Include what works (not just what doesn't), and phrase things positively. This card helps counselors support your child effectively even when they don't know your child well. Price: ₹50–200 or Free (homemade). DIY option: Creating a camp staff communication card: FORMAT: One page, laminated, approximately A5 size; Front side: essential information; Back side: additional details if needed; Photo of your child prominently displayed. ESSENTIAL SECTIONS: CHILD'S NAME AND PHOTO: Large, clear identification; NAME PRONUNCIATION: If name is unusual; STRENGTHS: Start positive – what your child does well, enjoys, what motivates them; COMMUNICATION STYLE: How your child communicates (verbal, limited verbal, AAC device, etc.), how to best communicate with them; SENSORY PROFILE: Quick summary – 'Sensitive to loud sounds and heat' or 'Seeks movement, needs activity breaks'; TRIGGERS: Specific things that cause distress at camp – 'Unexpected schedule changes,' 'Being touched unexpectedly,' 'Waiting with nothing to do'; EARLY WARNING SIGNS: What does escalation look like? 'Covers ears,' 'Stops talking,' 'Starts pacing'; WHAT HELPS: Specific strategies that work – 'Offer quiet space,' 'Reference visual schedule,' 'Sensory kit in backpack,' 'One-on-one attention for transitions'; BREAK SIGNALS: How child will indicate needing a break; SPECIAL INTERESTS: Topics that can be used to connect, calm, or motivate; FOOD/ALLERGY NOTES: Critical safety information; PARENT CONTACT: Emergency contact with cell phone. TONE: Positive, practical, solution-focused; Avoid clinical language – use everyday words; Focus on 'what works' not just 'what's hard'. LENGTH: Keep brief – counselors won't read pages; Essential information only; Can provide longer document separately if needed. DISTRIBUTION: Give to lead counselor; Request it stay with child's group; Provide extra copies in case of staff changes. Safety: Include all critical safety information (allergies, elopement risk, medical needs). Make sure emergency contact information is current."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Transition Object from Home help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Extended separation from parents is challenging, especially in novel environments. A transition object is something tangible from home that your child carries at camp, providing comfort and connection to family when you're apart. This might be a small photo of family, a bracelet that matches one you're wearing, a piece of fabric with a familiar scent, a small stuffed animal, or a smooth stone that was 'charged with love.' The object serves as a physical reminder that home exists, parents are coming back, and love continues even when separated. During hard moments, your child can hold or look at the object and feel connected. Choose something small, durable, and impossible to lose. Price: ₹50–500 (depends on item) or Free (existing meaningful item). DIY option: Creating and using transition objects: CHOOSING THE OBJECT: Small enough to fit in pocket or clip to belt; Durable – will survive camp activities; Not irreplaceable in case of loss; Something the child already finds comforting; Connected to home/family in meaningful way. EFFECTIVE OPTIONS: Small framed or laminated family photo; Matching bracelets – child wears one, parent wears matching; Small stuffed animal or character from home; Smooth stone or crystal (can be 'charged with love' ritual); Piece of fabric with parent's scent (perfume, lotion); Small toy that represents family (LEGO minifig of family, etc.); Heart locket with tiny photos; Small sensory item from home (familiar texture). CREATING CONNECTION RITUAL: Before camp, establish ritual around the object; 'This stone holds all my love for you. When you hold it, you're holding my love.'; 'Look at this photo and remember I'm thinking about you too.'; 'We're both wearing our bracelets, so we're always connected.' PRACTICE WITH THE OBJECT: Use it during other separations before camp; Child should already associate it with comfort and connection; Not a new item introduced at camp. PREVENTING LOSS: Attach to lanyard or keychain; Keep in secure pocket; Have backup transition object at home in case of loss. COUNSELOR AWARENESS: Brief staff on the transition object; Prompt child to use it during hard moments; 'Do you want to look at your family photo?' AVOIDING DEPENDENCY: Transition objects are healthy and appropriate; They reduce anxiety and enable separation; As comfort with camp grows, dependence on object naturally decreases. MATCHING OBJECTS: Some children benefit from knowing parent has the same/matching item; 'I have the same bracelet and I'm wearing it while you're at camp.' Safety: Choose objects that are safe for the camp environment and can't become hazards. Nothing with small parts that could detach for younger children."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Break Card and Designated Safe Space help with community recreation access?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Camp is stimulating and intense. Children need a way to request breaks before they reach crisis, and they need a place to go. A break card is a simple visual (card with 'BREAK' written on it, or a specific signal) that your child can show to counselors to request time away from the group. Before camp starts, work with staff to identify a designated safe space – a quiet corner, a counselor's office, a shaded area – where your child can go for breaks. When your child uses the break card, they're taken to the safe space for a few minutes of quiet regulation before returning to activities. This prevents meltdowns by providing escape before overload, and teaches self-advocacy skills. Price: ₹50–100 or Free (homemade). DIY option: Creating break card and safe space system: BREAK CARD DESIGN: Simple, clear, durable; Word 'BREAK' or 'I need a break' with picture; Laminated for durability; Size: credit card size, easy to carry; Attached to lanyard or kept in accessible pocket. ALTERNATIVE SIGNALS: Some children prefer non-verbal signals instead of cards; Hand signal (like 'timeout' sign); Specific word or phrase ('I need my space'); Removing themselves to a specific location; Work with what your child can do. ESTABLISHING SAFE SPACE – WITH CAMP: Contact camp before start date to request this accommodation; Explain your child needs access to a quiet space; Ask where this can be (counselor office, corner of room, outdoor shaded area); Some camps have established calm-down spaces already. SAFE SPACE CHARACTERISTICS: Away from main activity noise; Low stimulation (not bright, loud, busy); Not isolating or punitive; Supervised but with space; Contains sensory tools if possible. PRACTICE BEFORE CAMP: Practice using the break card at home; Practice at other settings before camp; Child should understand: show card → get break; Child should understand break is positive, not punishment. STAFF BRIEFING: Explain the break card system to counselors; Show them the card your child will use; Discuss where the safe space will be; Clarify: always honor the break card; Explain how long breaks typically are (5-10 minutes usually sufficient). TEACHING SELF-RECOGNITION: Help child notice warning signs before overwhelm; 'When you feel your body getting hot/tense/fast, that's when to use the card.'; The goal is breaks BEFORE meltdown, not after. RETURN TO ACTIVITY: After break, child returns to group; Some children need help with this transition; Consider visual timer for break length. Safety: Safe space should always be supervised for safety. Breaks should be honored promptly – delayed breaks lose effectiveness and trust."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: . "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ 1:1 Therapy Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#howto",
+        "name": "How to Help a Child with Community Recreation Access",
+        "description": "A graded approach using evidence-based materials. Summer camps represent a concentration of challenges (novel environment, extended separation, unpredictable schedule, peer demands, sensory intensity) but also profound opportunities for growth, independence, peer connection, and joy. The goal is not forcing children into overwhelming situations, but systematically building skills, providing appropriate supports, choosing suitable camps, and partnering with camp staff to enable genuine participation. Many children who 'can't do camp' can, with the right approach.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 950,
+          "maxValue": 3700
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Camp Preview Social Story Book",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Visual Schedule for Camp Day",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Portable Sensory Calm-Down Kit",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Summer camps present a concentration of challenges for children with autism and sensory processing differences: novel environments, unfamiliar people (staff and peers), extended separation from caregivers, unpredictable schedules, constant transitions, group activities with complex social dynamics, sensory-rich outdoor environments (heat, sounds, textures), unstructured social time, and demands for flexibility throughout long days. Successful camp participation requires preparation (social stories, visiting the site, meeting staff), portable supports (sensory kits, visual schedules, comfort items), staff communication (about needs, signals, strategies), and gradual exposure when possible. The goal is not merely surviving camp but genuinely accessing the joy, growth, and connection that camp experiences offer. Summer camps represent a concentration of challenges (novel environment, extended separation, unpredictable schedule, peer demands, sensory intensity) but also profound opportunities for growth, independence, peer connection, and joy. The goal is not forcing children into overwhelming situations, but systematically building skills, providing appropriate supports, choosing suitable camps, and partnering with camp staff to enable genuine participation. Many children who 'can't do camp' can, with the right approach."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Camp Preview Social Story Book, Visual Schedule for Camp Day, Portable Sensory Calm-Down Kit."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: ."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#medicalpage",
+        "name": "Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments",
+          "alternateName": [
+            "autism summer camp preparation",
+            "special needs camp tips",
+            "sensory issues summer camp"
+          ],
+          "description": "Summer camps present a concentration of challenges for children with autism and sensory processing differences: novel environments, unfamiliar people (staff and peers), extended separation from caregivers, unpredictable schedules, constant transitions, group activities with complex social dynamics, sensory-rich outdoor environments (heat, sounds, textures), unstructured social time, and demands for flexibility throughout long days. Successful camp participation requires preparation (social stories, visiting the site, meeting staff), portable supports (sensory kits, visual schedules, comfort items), staff communication (about needs, signals, strategies), and gradual exposure when possible. The goal is not merely surviving camp but genuinely accessing the joy, growth, and connection that camp experiences offer.",
+          "signOrSymptom": [],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-05"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#article",
+        "headline": "9 Materials That Help With Summer Camps",
+        "alternativeHeadline": "When your child deserves summer adventures but needs the right supports",
+        "description": "My daughter is ten and has never experienced summer camp. Every year I look at the brochures and imagine her there – making crafts, playing games, having adv...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-05T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#primaryimage"
+        },
+        "articleSection": "Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement",
+        "wordCount": 3500,
+        "keywords": [
+          "autistic child camp anxiety",
+          "sensory friendly summer camp",
+          "special needs camp preparation",
+          "autism camp readiness",
+          "preparing autistic child for camp"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Community Participation and Recreation Access Literature",
+            "url": "Various peer-reviewed sources on recreation access for children with autism and developmental differences",
+            "description": "Synthesis of evidence-based strategies for supporting camp and community activity participation in children with autism and sensory processing differences."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Community Participation Protocols",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "GPT-OS® community access and recreation participation frameworks"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "American Camp Association",
+            "url": "https://www.acacamps.org/",
+            "description": "Standards for camp inclusion and accessibility"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Autism Science Foundation",
+            "url": "https://autismsciencefoundation.org/",
+            "description": "Resources for recreation and community participation in autism"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#healthcontent",
+        "name": "Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Community Recreation Access / Camp Readiness Skills / Extended Separation Tolerance / Group Activity Participation / Social Skills Generalization in Novel Environments"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization challenges"
+        },
+        "keywords": [
+          "autistic child camp anxiety",
+          "sensory friendly summer camp",
+          "special needs camp preparation",
+          "autism camp readiness",
+          "preparing autistic child for camp"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#evidence",
+        "claimReviewed": "Summer camps represent a concentration of challenges (novel environment, extended separation, unpredictable schedule, peer demands, sensory intensity) but also profound opportunities for growth, independence, peer connection, and joy. The goal is not forcing children into overwhelming situations, but systematically building skills, providing appropriate supports, choosing suitable camps, and partnering with camp staff to enable genuine participation. Many children who 'can't do camp' can, with the right approach. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Community Recreation Access Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization#collection",
+        "name": "Community Participation and Recreational Access",
+        "description": "Complete series of 920 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "J-876: Playground and Park Visits",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "J-877: Sports Lessons and Teams",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "J-878: Summer Camps (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "J-879: Birthday Parties",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "J-880: Religious and Community Events",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 920,
+        "collectionSize": 920
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#materials",
+        "name": "9 Materials for Community Recreation Access",
+        "description": "Evidence-based materials for ages All ages (materials adapted to developmental level and camp type)",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Camp Preview Social Story Book",
+              "description": "Social stories transform the unknown into the expected. A camp social story walks your child through the entire camp experience before it happens: what the camp location looks like, how drop-off works, who the counselors are, what activities happen, where lunch is eaten, where bathrooms are, what pickup looks like, and how they'll feel (including that nervous feelings are normal and will get easier). Include actual photos from your specific camp when possible – contact them in advance for pictures or schedule a preview visit. Reading the story daily for weeks before camp creates mental familiarity with an unfamiliar experience. When camp day arrives, nothing is a complete surprise.",
+              "category": "Preparationmaterials",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800 (custom printed) or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a camp social story: GATHER MATERIALS: Contact your camp weeks before start date. Request photos of: the entrance, check-in area, main activity spaces, counselors who will work with your child, cafeteria/snack area, bathrooms, pickup location, any specialty areas (pool, art room, sports field). Many camps will accommodate these requests, especially if you explain the need. If photos aren't available, visit the site and take your own. STRUCTURE THE STORY: Cover page ('My Camp Adventure at [Camp Name]'), Introduction ('This summer I'm going to [Camp Name]. This story helps me know what to expect.'), then sequential pages covering each phase. KEY PAGES TO INCLUDE: Getting ready in the morning; Driving to camp; Arrival and check-in ('Mommy will sign me in and say goodbye. I might feel nervous, but that's okay.'); Meeting my counselor ('My counselor is named [Name]. They will help me all day.'); Morning activities; Snack time; More activities; Lunch ('I will eat lunch at camp. I might eat food from home or food from camp.'); Afternoon activities; Pickup ('At [time], Mommy will pick me up. I'll tell her about my day.'); Coming back ('I go to camp every day this week. Each day will get easier.'). EMOTIONAL ACKNOWLEDGMENT: Include pages that acknowledge feelings: 'Sometimes I might feel overwhelmed. That's okay. I can ask for help or use my calm-down tools.' FORMAT: Print on cardstock, laminate pages, bind with rings or in a small binder. READING SCHEDULE: Begin reading 2-3 weeks before camp starts. Read daily. Increase to twice daily the week before camp. Read the morning of camp. PERSONALIZATION: Use your child's specific interests and concerns to add relevant pages."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Social stories prepare but don't prevent all challenges. Still communicate with camp staff about your child's needs and potential difficulties."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Schedule for Camp Day",
+              "description": "Camp days are long and filled with transitions. Children with autism often struggle with not knowing what comes next or how much longer until they see their parent again. A visual schedule shows the sequence of the camp day with pictures or icons: arrival, morning circle, first activity, snack, second activity, lunch, rest time, afternoon activity, pickup. Your child can carry the schedule, reference it throughout the day, and mark off completed activities. This shows concrete progress and, crucially, shows that pickup is coming. The schedule transforms an endless-seeming day into a series of manageable segments with a clear endpoint. Work with camp staff to get the actual daily schedule and build your visual around it.",
+              "category": "Structureandpredictability",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400 (laminated board) or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a camp visual schedule: GET THE ACTUAL SCHEDULE: Contact camp before start date. Request their daily schedule with approximate times. Many camps follow a consistent structure: arrival/check-in → morning meeting → activity blocks → snack → more activities → lunch → rest/quiet time → afternoon activities → pickup. GET SPECIFIC: If possible, get your child's specific group schedule. Will they swim Monday and Wednesday? Art on Tuesday? Build the schedule around their actual experience. VISUAL FORMAT: Photos or simple icons for each activity/time block; Velcro pieces that can be moved or removed; Or checkboxes to mark off; Clock faces showing approximate times (for children learning to tell time); 'Pickup' at the bottom as the endpoint. SIZE AND DURABILITY: Approximately A5 size – portable but visible; Laminated heavily for outdoor durability; Consider water-resistant cover in case of pool/sprinklers; Attach to lanyard or clip to backpack for accessibility. USING THE SCHEDULE: Review at home before leaving; Reference at drop-off – 'Here's your day!'; Child and/or counselor mark off completed activities; Child can check schedule whenever needed to see what's coming. COUNSELOR INVOLVEMENT: Brief counselors on the schedule tool; Show them how to help child reference it; Some camps will actively help with this. PICKUP VISIBILITY: Key feature: child can see pickup approaching; 'Look, only two more things until Mommy comes!' FLEXIBILITY NOTE: Camp schedules sometimes change (weather, etc.). Prepare child that schedule shows the plan, but plans can change. Have a 'surprise activity' icon available."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Camp schedules can change unexpectedly. Prepare your child for flexibility and ensure counselors know to help if schedule changes cause distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Portable Sensory Calm-Down Kit",
+              "description": "Camp environments are sensory-intensive: heat, outdoor sounds, group noise, physical activities, new textures, strong smells. Your child needs portable regulation tools for the moments when sensory input becomes overwhelming. A sensory calm-down kit is a small bag or pouch containing items that help your child regulate: fidgets, stress balls, noise-reducing earplugs, a small weighted item, calming scent cloth, chewy tube, and anything else that specifically helps your child calm down. The kit travels with your child throughout the camp day, providing instant access to sensory regulation. Practice using the kit at home so your child knows exactly how each item helps and can use them independently at camp.",
+              "category": "Sensorysupports",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Building a camp sensory kit: CONTAINER: Small, durable, water-resistant pouch or bag; Easy to open (consider zipper, velcro, or drawstring based on child's skills); Size: fits in backpack pocket but holds essential items; Label with child's name and 'Calm-Down Kit'. ITEMS TO INCLUDE (choose 5-8 based on your child's specific sensory profile): TACTILE: Stress ball, squishy toy, textured fabric square, putty or therapy dough; AUDITORY: Noise-reducing earplugs, small earbuds for calming music (if allowed); PROPRIOCEPTIVE: Small weighted item, resistance band for squeezing; ORAL: Chewy tube, gum (if allowed), hard candy (if allowed); OLFACTORY: Small cloth with calming scent (lavender, preferred scent), sealed to maintain smell; VISUAL: Calming glitter jar (mini version), photos of family, fidget with visual component; COMFORT: Small comfort item, fabric from home, mini stuffed animal. PERSONALIZATION: Only include items your child already finds calming; Don't add new/unfamiliar items – camp is not the time to try new tools; Consider what specifically dysregulates your child at camp (heat → cooling cloth; noise → earplugs). PRACTICE AT HOME: Use the kit regularly before camp; Child should automatically reach for it when stressed; Practice using each item until it's habitual. CAMP STAFF BRIEFING: Show counselors the kit; Explain what each item is for; Ask them to prompt child to use kit when dysregulation is noticed. SIZE CONSTRAINTS: Kit should be small enough to carry easily; Can be clipped to belt loop, worn as fanny pack, or kept in backpack. REPLENISHMENT: Putty dries out, scent fades, batteries die; Check and replenish kit regularly during camp."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "All items should be safe for your child's age and the camp setting. Check camp policies about specific items. No items that could be choking hazards for younger campers who might access them."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Camp Staff Communication Card",
+              "description": "Camp counselors meet dozens of children and need quick access to essential information about your child. A communication card is a one-page laminated reference that stays with your child's counselor, providing critical information at a glance: your child's name and photo, key strengths, specific challenges, sensory triggers, early warning signs of dysregulation, what helps when overwhelmed, communication style, any safety concerns, and what to do in crisis. This isn't a long report – it's a practical reference that a busy counselor can check in moments. Include what works (not just what doesn't), and phrase things positively. This card helps counselors support your child effectively even when they don't know your child well.",
+              "category": "Communicationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–200 or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a camp staff communication card: FORMAT: One page, laminated, approximately A5 size; Front side: essential information; Back side: additional details if needed; Photo of your child prominently displayed. ESSENTIAL SECTIONS: CHILD'S NAME AND PHOTO: Large, clear identification; NAME PRONUNCIATION: If name is unusual; STRENGTHS: Start positive – what your child does well, enjoys, what motivates them; COMMUNICATION STYLE: How your child communicates (verbal, limited verbal, AAC device, etc.), how to best communicate with them; SENSORY PROFILE: Quick summary – 'Sensitive to loud sounds and heat' or 'Seeks movement, needs activity breaks'; TRIGGERS: Specific things that cause distress at camp – 'Unexpected schedule changes,' 'Being touched unexpectedly,' 'Waiting with nothing to do'; EARLY WARNING SIGNS: What does escalation look like? 'Covers ears,' 'Stops talking,' 'Starts pacing'; WHAT HELPS: Specific strategies that work – 'Offer quiet space,' 'Reference visual schedule,' 'Sensory kit in backpack,' 'One-on-one attention for transitions'; BREAK SIGNALS: How child will indicate needing a break; SPECIAL INTERESTS: Topics that can be used to connect, calm, or motivate; FOOD/ALLERGY NOTES: Critical safety information; PARENT CONTACT: Emergency contact with cell phone. TONE: Positive, practical, solution-focused; Avoid clinical language – use everyday words; Focus on 'what works' not just 'what's hard'. LENGTH: Keep brief – counselors won't read pages; Essential information only; Can provide longer document separately if needed. DISTRIBUTION: Give to lead counselor; Request it stay with child's group; Provide extra copies in case of staff changes."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Include all critical safety information (allergies, elopement risk, medical needs). Make sure emergency contact information is current."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Transition Object from Home",
+              "description": "Extended separation from parents is challenging, especially in novel environments. A transition object is something tangible from home that your child carries at camp, providing comfort and connection to family when you're apart. This might be a small photo of family, a bracelet that matches one you're wearing, a piece of fabric with a familiar scent, a small stuffed animal, or a smooth stone that was 'charged with love.' The object serves as a physical reminder that home exists, parents are coming back, and love continues even when separated. During hard moments, your child can hold or look at the object and feel connected. Choose something small, durable, and impossible to lose.",
+              "category": "Separationandcomfort",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–500 (depends on item) or Free (existing meaningful item)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating and using transition objects: CHOOSING THE OBJECT: Small enough to fit in pocket or clip to belt; Durable – will survive camp activities; Not irreplaceable in case of loss; Something the child already finds comforting; Connected to home/family in meaningful way. EFFECTIVE OPTIONS: Small framed or laminated family photo; Matching bracelets – child wears one, parent wears matching; Small stuffed animal or character from home; Smooth stone or crystal (can be 'charged with love' ritual); Piece of fabric with parent's scent (perfume, lotion); Small toy that represents family (LEGO minifig of family, etc.); Heart locket with tiny photos; Small sensory item from home (familiar texture). CREATING CONNECTION RITUAL: Before camp, establish ritual around the object; 'This stone holds all my love for you. When you hold it, you're holding my love.'; 'Look at this photo and remember I'm thinking about you too.'; 'We're both wearing our bracelets, so we're always connected.' PRACTICE WITH THE OBJECT: Use it during other separations before camp; Child should already associate it with comfort and connection; Not a new item introduced at camp. PREVENTING LOSS: Attach to lanyard or keychain; Keep in secure pocket; Have backup transition object at home in case of loss. COUNSELOR AWARENESS: Brief staff on the transition object; Prompt child to use it during hard moments; 'Do you want to look at your family photo?' AVOIDING DEPENDENCY: Transition objects are healthy and appropriate; They reduce anxiety and enable separation; As comfort with camp grows, dependence on object naturally decreases. MATCHING OBJECTS: Some children benefit from knowing parent has the same/matching item; 'I have the same bracelet and I'm wearing it while you're at camp.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose objects that are safe for the camp environment and can't become hazards. Nothing with small parts that could detach for younger children."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Break Card and Designated Safe Space",
+              "description": "Camp is stimulating and intense. Children need a way to request breaks before they reach crisis, and they need a place to go. A break card is a simple visual (card with 'BREAK' written on it, or a specific signal) that your child can show to counselors to request time away from the group. Before camp starts, work with staff to identify a designated safe space – a quiet corner, a counselor's office, a shaded area – where your child can go for breaks. When your child uses the break card, they're taken to the safe space for a few minutes of quiet regulation before returning to activities. This prevents meltdowns by providing escape before overload, and teaches self-advocacy skills.",
+              "category": "Communicationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–100 or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating break card and safe space system: BREAK CARD DESIGN: Simple, clear, durable; Word 'BREAK' or 'I need a break' with picture; Laminated for durability; Size: credit card size, easy to carry; Attached to lanyard or kept in accessible pocket. ALTERNATIVE SIGNALS: Some children prefer non-verbal signals instead of cards; Hand signal (like 'timeout' sign); Specific word or phrase ('I need my space'); Removing themselves to a specific location; Work with what your child can do. ESTABLISHING SAFE SPACE – WITH CAMP: Contact camp before start date to request this accommodation; Explain your child needs access to a quiet space; Ask where this can be (counselor office, corner of room, outdoor shaded area); Some camps have established calm-down spaces already. SAFE SPACE CHARACTERISTICS: Away from main activity noise; Low stimulation (not bright, loud, busy); Not isolating or punitive; Supervised but with space; Contains sensory tools if possible. PRACTICE BEFORE CAMP: Practice using the break card at home; Practice at other settings before camp; Child should understand: show card → get break; Child should understand break is positive, not punishment. STAFF BRIEFING: Explain the break card system to counselors; Show them the card your child will use; Discuss where the safe space will be; Clarify: always honor the break card; Explain how long breaks typically are (5-10 minutes usually sufficient). TEACHING SELF-RECOGNITION: Help child notice warning signs before overwhelm; 'When you feel your body getting hot/tense/fast, that's when to use the card.'; The goal is breaks BEFORE meltdown, not after. RETURN TO ACTIVITY: After break, child returns to group; Some children need help with this transition; Consider visual timer for break length."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Safe space should always be supervised for safety. Breaks should be honored promptly – delayed breaks lose effectiveness and trust."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Social Skills Cue Cards for Peer Interaction",
+              "description": "Camp involves constant peer interaction, but social situations are often confusing and fast-moving for children with autism. Social skills cue cards provide portable reminders of how to navigate common camp social situations. Cards might include: 'How to join a game' (walk up, watch, ask 'Can I play?'), 'How to make a friend' (say hi, ask their name, find something in common), 'What to do during free time' (choose an activity, ask someone to join), 'When someone is unkind' (walk away, tell a counselor). These aren't scripts to follow rigidly – they're reference points for children who struggle to generate social responses in the moment. Practice using the cards before camp so they're familiar when needed.",
+              "category": "Socialsupports",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300 or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating social skills cue cards for camp: IDENTIFY KEY SITUATIONS: What social situations will occur at camp that challenge your child?; Common ones: joining games, handling free time, making friends, managing conflict, asking for help, sharing, waiting turns, dealing with losing. CREATE CARDS FOR EACH: Keep each card simple – one situation, 1-3 steps; Use pictures when possible; Language should match your child's level. EXAMPLE CARDS: 'HOW TO JOIN A GAME': Picture of children playing. Steps: 1) Watch the game first. 2) Walk up close. 3) Ask 'Can I play?' 4) Wait for answer.; 'MAKING A FRIEND': Picture of two children talking. Steps: 1) Say 'Hi, I'm [name].' 2) Ask 'What's your name?' 3) Ask about their favorite things.; 'WHAT TO DO IN FREE TIME': Picture of child looking at activities. Steps: 1) Look at the choices. 2) Pick one. 3) Ask someone 'Want to do this with me?' or start alone.; 'IF SOMEONE IS MEAN': Picture of upset child. Steps: 1) Walk away. 2) Find a counselor. 3) Tell them what happened. FORMAT: Small cards – about the size of playing cards; Laminated for durability; On a ring so they stay together and can be flipped through; In pocket or clipped to lanyard. PRACTICE BEFORE CAMP: Role-play scenarios at home using the cards; Make it a game – 'Let's practice joining games!'; Child should be familiar with cards before needing them. COUNSELOR INVOLVEMENT: Brief counselors on the cards; They can prompt 'Do you want to look at your cards?' in social moments; Can also use cards to teach after social challenges. AVOID OVERWHELM: Start with 3-5 most essential cards; Add more only if child uses and benefits from initial set. FLEXIBILITY: Cards are guides, not scripts to follow rigidly; Social situations vary – cards provide a starting point."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Cards are supports, not rules. Help your child understand they're guides for when they're unsure, not rigid scripts they must follow."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Countdown Calendar for Camp Days",
+              "description": "Children with autism often have difficulty with time concepts. A week of camp can feel endless, or the prospect of multiple days can create overwhelming anticipation. A countdown calendar makes time visible and manageable. Before camp starts, show the number of camp days (e.g., 5 boxes). Each evening after camp, your child marks off or removes that day. The calendar shows concrete progress ('3 days done, only 2 more!') and makes the endpoint visible. This works for daily camp and especially for overnight camp or longer programs. The calendar can also build toward a reward after successfully completing camp. Visible time is less scary than invisible time.",
+              "category": "Structureandpredictability",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–200 or Free (homemade)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a camp countdown calendar: FORMAT OPTIONS: Paper calendar with stickers to place each evening; Velcro board with removable day markers; Chain links that are removed each day; Jar of items (marbles, pom poms) that are moved from one jar to another; Digital app if child prefers screens. VISUAL DESIGN: One space for each camp day; Clear numbering or visual marking; 'Done' section where completed days go; Endpoint clearly visible (last day has special marking, reward, celebration); Pictures of camp activities on each day if helpful. HOW TO USE: Show calendar before camp starts – 'This is all the camp days.'; Each evening after camp: marking ritual; Child marks, removes, or moves the day's marker; Count how many done, how many left; Celebrate progress – 'You did three days already!'; Discuss what happened that day (positive focus). REWARD CONNECTION: Consider having a special reward visible at the end; 'When all five days are marked, we're going to [special activity]'; Makes the endpoint motivating, not just ending. OVERNIGHT CAMP ADAPTATION: For overnight camps, the calendar becomes even more important; Can include 'days until I come home' countdown; Include days until phone call/visit if allowed; Send matching calendar – child marks their copy, you mark yours at home. MORNING USE: Can also reference in morning – 'Today is day 3. Only 2 more after today!'; Helps child frame the day within larger context. BEDTIME RITUAL: Making the calendar part of bedtime routine after camp; Discuss the day while marking; Predict tomorrow; This becomes a positive daily ritual."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid using the calendar as pressure ('Only 2 more days, you can do it!'). Use it as information and acknowledgment of effort."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Parent-Child Connection Routine",
+              "description": "Separation from parents during camp is more manageable when there's a predictable connection point each day. A parent-child connection routine is a special ritual for reunification at pickup that your child can anticipate and count on. This might be a specific greeting ('Tell me one great thing and one hard thing'), a physical ritual (special handshake, long hug), or an immediate small activity (stopping for ice cream on the way home). The routine provides a guaranteed positive endpoint to the camp day that your child can hold in mind during difficult moments. 'After camp, Mommy and I always [routine].' This isn't just pickup – it's reconnection, processing, and the consistent loving response your child can count on.",
+              "category": "Separationandcomfort",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "Free"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Building a parent-child connection routine for camp: ELEMENTS OF THE ROUTINE: Physical connection: long hug, special handshake, forehead touch; Verbal check-in: predictable questions about the day; Immediate small reward: snack, drink, music in car; Activity: playground stop on the way home, reading together; Processing time: dedicated time to talk about the day. EXAMPLE ROUTINES: 'At pickup, we hug for 10 full seconds. Then you tell me one awesome thing and one hard thing. Then we go get ice cream together.'; 'I pick you up and immediately give you your favorite snack. We listen to your favorite music in the car. When we get home, we read one book together before anything else.'; 'Special handshake at pickup. Then you get to play on the playground for 10 minutes. Then we talk about camp on the drive home.' CONSISTENCY IS KEY: Same routine every single day; Routine should feel guaranteed and reliable; Even on hard days, the routine happens; This predictability provides security. BUILDING THE ROUTINE BEFORE CAMP: Practice the routine during other separations before camp; Use it after school, after short outings, after therapy; By camp time, it's automatic and associated with reunion. WHAT TO AVOID: Long debriefing right at pickup if child is dysregulated; Overwhelming questions ('How was it? What did you do? Who did you play with?'); Criticism or disappointment in the reunion moment; Rushing – the routine should feel spacious and special. DIFFICULT DAY PROTOCOL: If camp day was hard, routine still happens; Might add extra comfort element; Still process, but with extra gentleness; Routine isn't dependent on 'good day.' ANTICIPATION DURING CAMP DAY: Child can think about the routine when struggling; 'Soon Mommy will pick me up and we'll do our hug and get ice cream.'; Counselors can remind: 'Your special time with Mommy is coming!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Be prepared for different emotional states at pickup. Some children hold it together at camp and fall apart when they see their parent (this is healthy release). Meet them where they are."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/community participation / recreational access / social inclusion / independence skills / peer engagement/camp readiness / group activity participation / extended separation / structured recreation / social skills generalization/9-materials-that-help-with-summer-camps#course",
+        "name": "Community Participation and Recreational Access",
+        "description": "Parent education video series on Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Summer Camps | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "autistic child camp anxiety, sensory friendly summer camp, special needs camp preparation, autism camp readiness, preparing autistic child for camp"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/J-878.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/J-878-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/J-878.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Summer Camps",
+      "content_category": "Intervention Techniques > Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement > Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization",
+      "content_ids": [
+        "J-878"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "J-878",
+        "technique_theme": "9MAT",
+        "domain": "Community Participation / Recreational Access / Social Inclusion / Independence Skills / Peer Engagement",
+        "sub_domain": "Camp Readiness / Group Activity Participation / Extended Separation / Structured Recreation / Social Skills Generalization",
+        "domain_code": "CP-SC",
+        "series": "Community Participation and Recreational Access",
+        "episode": 878,
+        "age_band": "All ages (materials adapted to developmental level and camp type)",
+        "setting": "Home Preparation + Camp Environment",
+        "cluster_id": "CP-01",
+        "cluster_position": 878,
+        "materials_count": 9,
+        "total_cost_range": "₹950–3,700 for full set (much can be DIY/free)"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#AutismSummerCamp",
+      "#SensoryFriendlyCamp",
+      "#SpecialNeedsCamp",
+      "#CampReadiness",
+      "#AutismParenting",
+      "#SensoryProcessing",
+      "#SummerCampTips",
+      "#InclusiveCamp",
+      "#CampPreparation",
+      "#AutismSupport",
+      "#CommunityParticipation",
+      "#SpecialNeedsParenting",
+      "#SummerActivities",
+      "#CampSuccess",
+      "#PinnacleBlooms"
+    ],
+    "caption": "Summer camp can happen for your child. Yes, the environment is new. Yes, the day is long. Yes, separation is hard. But with the right preparation and tools, camp becomes possible. These 9 materials help: social stories for preview, visual schedules for the day, sensory kits for regulation, staff cards for communication, transition objects for comfort, break cards for escape, social cue cards for peers, countdown calendars for time, and connection routines for reunion. Not forcing participation – building access. Because your child deserves summer adventures too. 🏕️💚 #AutismSummerCamp #CommunityParticipation #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "J-879",
+    "prevInSeries": "J-877",
+    "relatedTechniques": [],
+    "deepDives": [
+      "J-878-DD-01",
+      "J-878-DD-02"
+    ],
+    "parentSupport": []
+  }
+}

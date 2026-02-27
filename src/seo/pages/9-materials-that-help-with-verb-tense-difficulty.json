@@ -1,0 +1,1082 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty",
+    "title": "9 Materials That Help With Verb Tense Difficulty | Pinnacle Blooms",
+    "description": "My child says 'Yesterday I go' and 'He runned' – the grammar is always off? Verb tense marking difficulty – morphological deficit affecting temporal markers ...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-188",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Language Foundations",
+    "episodeInSeries": 188,
+    "domain": "Speech-Language",
+    "subDomain": "Grammar & Morphology",
+    "domainCode": "SLP-GRM",
+    "ageBand": "3–8 years",
+    "setting": "Home & Therapy",
+    "audience": "Parents",
+    "clusterId": "SLP-GRM-04",
+    "clusterName": "Grammar & Morphology Development Series",
+    "clusterPosition": 188,
+    "totalInCluster": 250
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty",
+        "name": "9 Materials That Help With Verb Tense Difficulty | Pinnacle Blooms",
+        "description": "My child says 'Yesterday I go' and 'He runned' – the grammar is always off? Verb tense marking difficulty – morphological deficit affecting temporal markers ...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "toddler grammar errors",
+          "child says runned goed",
+          "past tense speech therapy",
+          "irregular verb errors child",
+          "developmental language disorder",
+          "grammar delay child",
+          "verb tense activities",
+          "speech therapy materials grammar",
+          "child confuses past present",
+          "child verb tense difficulty"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Grammar & Morphology challenges",
+          "suggestedMinAge": 3,
+          "suggestedMaxAge": 8
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Speech-Language",
+            "item": "https://pinnacleblooms.org/intervention-techniques/speech-language"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Grammar & Morphology",
+            "item": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Verb Tense Difficulty"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-188-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-188-hero.webp",
+        "caption": "Timeline visual showing past-present-future with verbs transforming: 'walked-walk-will walk.' Child pointing at timeline, learning to place actions in correct time. Speech therapist guiding. Warm, educational setting.",
+        "description": "Child learning verb tenses using visual timeline with speech therapist",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#video",
+        "name": "9 Materials That Help With Verb Tense Difficulty",
+        "description": "Your child is working hard to tell you when things happen – but the grammar isn't clicking yet. Verb tense isn't just about rules – it's about making time visible in language. Here are 9 materials that help tenses fall into place.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-188-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-188.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-188/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#VerbTense",
+          "#GrammarDevelopment",
+          "#SpeechTherapy",
+          "#LanguageDelay",
+          "#PastTense",
+          "#IrregularVerbs",
+          "#DLD",
+          "#LanguageLearning",
+          "#SpeechLanguagePathology",
+          "#PinnacleBlooms",
+          "#ChildDevelopment",
+          "#GrammarHelp",
+          "#ToddlerTalk",
+          "#LanguageMilestones",
+          "#SLPMaterials"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Verb tense marking difficulty – morphological deficit affecting temporal markers",
+          "alternateName": [
+            "child verb tense errors",
+            "toddler grammar problems",
+            "child says runned goed"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Says 'yesterday I Go' And 'he",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Your child is working hard to tell you when things happen – but the grammar isn't clicking yet. V..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Visual Timeline Mats and Boards",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Makes abstract time concepts concrete and visible – past is here, present is here, future is ther..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Irregular Verb Matching Games",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Targets the verbs that don't follow rules – run/ran, go/went, eat/ate – through engaging matching..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Before and After Picture Sequences",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Shows actions in different states – happening now vs. already happened – creating natural context..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Verb Tense Sorting Activities",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Builds explicit awareness of tense as a category – children learn to identify and categorize verb..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Daily Routine Schedule Cards",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Embeds tense practice into real, meaningful daily contexts – what you did, what you're doing, wha..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Action Verb Cards with Tense Variations",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Shows the same verb transforming across time – jump, jumped, will jump – making verb conjugation ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Fill-in-the-Blank Tense Activities",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Develops context-based tense selection – time words (yesterday, tomorrow) signal which form to us..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Story Retelling Kits",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Provides extended practice with past tense in meaningful narrative contexts – stories naturally r..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Verb Tense Board Games and Apps",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Transforms repetitive grammar practice into engaging play – games create motivation for the high ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child says 'yesterday i go' and 'he runned' – the grammar is always off?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "VERB TENSE MARKING DIFFICULTY – MORPHOLOGICAL DEFICIT AFFECTING TEMPORAL MARKERS! A grammatical difficulty where children struggle to consistently mark verbs for time – past, present, or future. This includes omitting tense markers entirely ('Yesterday I go'), overgeneralizing regular patterns to irregular verbs ('runned,' 'goed,' 'eated'), or inconsistently applying tense rules. The child understands when events happen but struggles to encode this grammatically, making narratives temporally confusing. Per SPD Foundation and speech-language research: Verb morphology difficulties are a hallmark feature of Developmental Language Disorder (DLD), but also occur during typical development. The English tense system is particularly challenging due to numerous irregular verbs that don't follow the regular -ed pattern. Overgeneralization errors ('runned,' 'goed') actually show grammatical learning – the child has learned the rule but not yet the exceptions. Intervention requires explicit teaching of both regular patterns and high-frequency irregular forms, with visual supports making the abstract concept of time concrete."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A grammatical difficulty where children struggle to consistently mark verbs for time – past, present, or future. This includes omitting tense markers entirely ('Yesterday I go'), overgeneralizing regular patterns to irregular verbs ('runned,' 'goed,' 'eated'), or inconsistently applying tense rules. The child understands when events happen but struggles to encode this grammatically, making narratives temporally confusing. Common signs include: Omits past tense markers: 'Yesterday I walk to school', Overgeneralizes -ed rule: 'He runned,' 'She goed,' 'I eated', Inconsistent tense use within same story, Confuses was/were, is/are, has/have, Drops auxiliary verbs: 'He going' instead of 'He is going'."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Visual Timeline Mats and Boards help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Makes abstract time concepts concrete and visible – past is here, present is here, future is there – giving children a spatial anchor for verb forms. Price: ₹300–800. DIY option: Create mat with three sections: Yesterday (red), Today (yellow), Tomorrow (green). Use pictures of actions. Practice placing cards and saying matching verb forms. Safety: Start with clear, unambiguous time markers. Use personally relevant events first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Irregular Verb Matching Games help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Targets the verbs that don't follow rules – run/ran, go/went, eat/ate – through engaging matching that builds strong present-past associations. Price: ₹200–500. DIY option: Make matching cards for 10-15 common irregular verbs. Play memory/matching games. Always say both forms when matching. Safety: Start with 5-10 most common irregulars. Add new verbs only as pairs are mastered."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Before and After Picture Sequences help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows actions in different states – happening now vs. already happened – creating natural contexts for different tense forms. Price: ₹250–600. DIY option: Take photos of actions in progress and completed. Create simple two-card sequences. Discuss each: 'What's happening? What happened?' Safety: Use clear, unambiguous action changes. Start with familiar everyday actions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Verb Tense Sorting Activities help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Builds explicit awareness of tense as a category – children learn to identify and categorize verb forms, strengthening metalinguistic knowledge. Price: ₹150–400. DIY option: Three containers labeled Past/Present/Future. Write verbs on cards. Sort together, explaining: 'Walked has -ed, that's past tense.' Safety: Start with regular verbs for clear patterns. Add irregulars gradually. Focus on high-frequency verbs."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Daily Routine Schedule Cards help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Embeds tense practice into real, meaningful daily contexts – what you did, what you're doing, what you will do becomes natural tense practice. Price: ₹200–500. DIY option: Create visual schedule with child's activities. Review morning (future), during (present), evening (past). Use consistent verb forms. Safety: Keep it natural and conversational. Don't over-drill. Connect grammar to real meaning."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Action Verb Cards with Tense Variations help with verb tense marking difficulty – morphological deficit affecting temporal markers?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows the same verb transforming across time – jump, jumped, will jump – making verb conjugation visual and systematic. Price: ₹300–700. DIY option: Take photos showing action about to happen, happening, and completed. Label with verb forms. Practice transforming: 'Now make it past tense.' Safety: Start with regular verbs to establish the pattern. Add high-frequency irregulars once pattern is understood."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No tense marking by age 4-5. Persistent overgeneralization past age 6-7. Tense errors significantly impacting communication. Tense difficulty alongside other language concerns. No improvement with modeling and exposure. Consult SLP if: tense marking is absent by age 4, overgeneralization persists past age 6-7, tense errors are part of broader language difficulties, or errors significantly impact academic performance and peer communication."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#howto",
+        "name": "How to Help a Child with Verb Tense Marking Difficulty – Morphological Deficit Affecting Temporal Markers",
+        "description": "A graded approach using evidence-based materials. Temporal concept understanding must precede verb form teaching – ensure child understands past/present/future before targeting morphology.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1750,
+          "maxValue": 5300
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Visual Timeline Mats and Boards",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Irregular Verb Matching Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Before and After Picture Sequences",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 250,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A grammatical difficulty where children struggle to consistently mark verbs for time – past, present, or future. This includes omitting tense markers entirely ('Yesterday I go'), overgeneralizing regular patterns to irregular verbs ('runned,' 'goed,' 'eated'), or inconsistently applying tense rules. The child understands when events happen but struggles to encode this grammatically, making narratives temporally confusing. Temporal concept understanding must precede verb form teaching – ensure child understands past/present/future before targeting morphology."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Visual Timeline Mats and Boards, Irregular Verb Matching Games, Before and After Picture Sequences."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No tense marking by age 4-5, Persistent overgeneralization past age 6-7, Tense errors significantly impacting communication."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult SLP if: tense marking is absent by age 4, overgeneralization persists past age 6-7, tense errors are part of broader language difficulties, or errors significantly impact academic performance and peer communication."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#medicalpage",
+        "name": "Verb tense marking difficulty – morphological deficit affecting temporal markers Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Verb tense marking difficulty – morphological deficit affecting temporal markers",
+          "alternateName": [
+            "child verb tense errors",
+            "toddler grammar problems",
+            "child says runned goed"
+          ],
+          "description": "A grammatical difficulty where children struggle to consistently mark verbs for time – past, present, or future. This includes omitting tense markers entirely ('Yesterday I go'), overgeneralizing regular patterns to irregular verbs ('runned,' 'goed,' 'eated'), or inconsistently applying tense rules. The child understands when events happen but struggles to encode this grammatically, making narratives temporally confusing.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Omits past tense markers: 'Yesterday I walk to school'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Overgeneralizes -ed rule: 'He runned,' 'She goed,' 'I eated'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Inconsistent tense use within same story"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Confuses was/were, is/are, has/have"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Drops auxiliary verbs: 'He going' instead of 'He is going'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty with irregular past tense forms"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Stories lack clear temporal structure"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Present tense used for past events"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#article",
+        "headline": "9 Materials That Help With Verb Tense Difficulty",
+        "alternativeHeadline": "When yesterday, today, and tomorrow all sound the same",
+        "description": "My child says 'Yesterday I go' and 'He runned' – the grammar is always off? Verb tense marking difficulty – morphological deficit affecting temporal markers ...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#primaryimage"
+        },
+        "articleSection": "Speech-Language",
+        "wordCount": 3500,
+        "keywords": [
+          "toddler grammar errors",
+          "child says runned goed",
+          "past tense speech therapy",
+          "irregular verb errors child",
+          "developmental language disorder"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation provides accessible, evidence-based information on sensory processing and related developmental conditions including language development challenges."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across speech-language interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Rice ML & Wexler K",
+            "url": "",
+            "description": "Toward tense as a clinical marker of specific language impairment in English-speaking children (1996). Journal of Speech and Hearing Research."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Leonard LB",
+            "url": "",
+            "description": "Children with Specific Language Impairment, 2nd Edition (2014). MIT Press. Comprehensive resource on grammatical morphology in DLD."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ASHA",
+            "url": "https://www.asha.org",
+            "description": "American Speech-Language-Hearing Association guidelines on language intervention and grammatical development."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#healthcontent",
+        "name": "Verb tense marking difficulty – morphological deficit affecting temporal markers Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Verb tense marking difficulty – morphological deficit affecting temporal markers"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Grammar & Morphology challenges"
+        },
+        "keywords": [
+          "toddler grammar errors",
+          "child says runned goed",
+          "past tense speech therapy",
+          "irregular verb errors child",
+          "developmental language disorder"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#evidence",
+        "claimReviewed": "Temporal concept understanding must precede verb form teaching – ensure child understands past/present/future before targeting morphology. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Verb Tense Marking Difficulty – Morphological Deficit Affecting Temporal Markers Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology#collection",
+        "name": "Grammar & Morphology Development Series",
+        "description": "Complete series of 250 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-185: Pronoun Confusion",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-186: Plural Marking Difficulty",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-187: Article Omission",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-188: Verb Tense Difficulty (THIS REEL)",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-189: Subject-Verb Agreement Errors",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 250,
+        "collectionSize": 250
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#materials",
+        "name": "9 Materials for Verb Tense Marking Difficulty – Morphological Deficit Affecting Temporal Markers",
+        "description": "Evidence-based materials for ages 3–8 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Timeline Mats and Boards",
+              "description": "Makes abstract time concepts concrete and visible – past is here, present is here, future is there – giving children a spatial anchor for verb forms.",
+              "category": "Conceptfoundation",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create mat with three sections: Yesterday (red), Today (yellow), Tomorrow (green). Use pictures of actions. Practice placing cards and saying matching verb forms."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with clear, unambiguous time markers. Use personally relevant events first."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Irregular Verb Matching Games",
+              "description": "Targets the verbs that don't follow rules – run/ran, go/went, eat/ate – through engaging matching that builds strong present-past associations.",
+              "category": "Irregularverbtargeting",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Make matching cards for 10-15 common irregular verbs. Play memory/matching games. Always say both forms when matching."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with 5-10 most common irregulars. Add new verbs only as pairs are mastered."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Before and After Picture Sequences",
+              "description": "Shows actions in different states – happening now vs. already happened – creating natural contexts for different tense forms.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Take photos of actions in progress and completed. Create simple two-card sequences. Discuss each: 'What's happening? What happened?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Use clear, unambiguous action changes. Start with familiar everyday actions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Verb Tense Sorting Activities",
+              "description": "Builds explicit awareness of tense as a category – children learn to identify and categorize verb forms, strengthening metalinguistic knowledge.",
+              "category": "Metalinguisticawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Three containers labeled Past/Present/Future. Write verbs on cards. Sort together, explaining: 'Walked has -ed, that's past tense.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with regular verbs for clear patterns. Add irregulars gradually. Focus on high-frequency verbs."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Daily Routine Schedule Cards",
+              "description": "Embeds tense practice into real, meaningful daily contexts – what you did, what you're doing, what you will do becomes natural tense practice.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create visual schedule with child's activities. Review morning (future), during (present), evening (past). Use consistent verb forms."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep it natural and conversational. Don't over-drill. Connect grammar to real meaning."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Action Verb Cards with Tense Variations",
+              "description": "Shows the same verb transforming across time – jump, jumped, will jump – making verb conjugation visual and systematic.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Take photos showing action about to happen, happening, and completed. Label with verb forms. Practice transforming: 'Now make it past tense.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with regular verbs to establish the pattern. Add high-frequency irregulars once pattern is understood."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Fill-in-the-Blank Tense Activities",
+              "description": "Develops context-based tense selection – time words (yesterday, tomorrow) signal which form to use, building the time-to-tense connection.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple sentences with blanks and time markers. 'Tomorrow I will ___.' 'Yesterday she ___.' Practice together first."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure basic tense knowledge before written exercises. Provide models first. Connect to speaking practice."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Story Retelling Kits",
+              "description": "Provides extended practice with past tense in meaningful narrative contexts – stories naturally require sustained, consistent tense use.",
+              "category": "Meaningfulcontext",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use favorite picture books. Retell stories together using consistent past tense. Sequence cards from stories support retelling structure."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with simple, familiar stories. Model correct forms. Recast errors without interrupting flow."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Verb Tense Board Games and Apps",
+              "description": "Transforms repetitive grammar practice into engaging play – games create motivation for the high repetition needed to master verb forms.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Adapt any board game: draw a verb card at each turn, say past/present/future form correctly to move. Use game apps with grammar focus."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Balance digital and physical practice. Don't let competition create anxiety. Connect game learning to real conversation."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech-language/grammar & morphology/9-materials-that-help-with-verb-tense-difficulty#course",
+        "name": "Language Foundations",
+        "description": "Parent education video series on Speech-Language interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Verb Tense Difficulty | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "toddler grammar errors, child says runned goed, past tense speech therapy, irregular verb errors child, developmental language disorder"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-188.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-188-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-188.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Verb Tense Difficulty",
+      "content_category": "Intervention Techniques > Speech-Language > Grammar & Morphology",
+      "content_ids": [
+        "B-188"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-188",
+        "technique_theme": "9MAT",
+        "domain": "Speech-Language",
+        "sub_domain": "Grammar & Morphology",
+        "domain_code": "SLP-GRM",
+        "series": "Language Foundations",
+        "episode": 188,
+        "age_band": "3–8 years",
+        "setting": "Home & Therapy",
+        "cluster_id": "SLP-GRM-04",
+        "cluster_position": 188,
+        "materials_count": 9,
+        "total_cost_range": "₹1,750–5,300 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#VerbTense",
+      "#GrammarDevelopment",
+      "#SpeechTherapy",
+      "#LanguageDelay",
+      "#PastTense",
+      "#IrregularVerbs",
+      "#DLD",
+      "#LanguageLearning",
+      "#SpeechLanguagePathology",
+      "#PinnacleBlooms",
+      "#ChildDevelopment",
+      "#GrammarHelp",
+      "#ToddlerTalk",
+      "#LanguageMilestones",
+      "#SLPMaterials"
+    ],
+    "caption": "Yesterday I go. He runned. Tomorrow she eat. 🗓️ Sound familiar? Your child is learning the grammar of time – but verb tense is tricky! Regular patterns (-ed for past) get overgeneralized to irregular verbs (hence 'runned' and 'goed'). This actually shows learning! Here are 9 materials that help verb tenses click: timelines, matching games, stories, and more. Grammar foundations matter for clear communication. Save this! #VerbTense #GrammarDevelopment #SpeechTherapy #LanguageLearning #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-189",
+    "prevInSeries": "B-187",
+    "relatedTechniques": [
+      "B-185",
+      "B-186",
+      "B-189",
+      "B-195",
+      "B-210"
+    ],
+    "deepDives": [
+      "B-188-DD-01",
+      "B-188-DD-02",
+      "B-188-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920"
+    ]
+  }
+}

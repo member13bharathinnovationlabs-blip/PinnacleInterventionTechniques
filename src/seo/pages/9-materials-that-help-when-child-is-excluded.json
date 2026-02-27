@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded",
+    "title": "9 Materials That Help When Child is Excluded | Pinnacle Blooms",
+    "description": "My child is always left out and has no friends? Social exclusion and peer rejection with social skill deficits is neurological, not behavioral. 9 evidence-ba...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-21",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "C-319",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help When...",
+    "series": "Social Skills & Peer Relationships Solutions",
+    "episodeInSeries": 319,
+    "domain": "Social",
+    "subDomain": "Peer Relationships & Inclusion",
+    "domainCode": "SOC-INC",
+    "ageBand": "4–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SOC-INC-01",
+    "clusterName": "Peer Relationships & Inclusion Series",
+    "clusterPosition": 319,
+    "totalInCluster": 350
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded",
+        "name": "9 Materials That Help When Child is Excluded | Pinnacle Blooms",
+        "description": "My child is always left out and has no friends? Social exclusion and peer rejection with social skill deficits is neurological, not behavioral. 9 evidence-ba...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-21",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "kid has no friends",
+          "child left out playground",
+          "peer rejection child",
+          "child sits alone lunch",
+          "no birthday party invitations",
+          "child social isolation help",
+          "how to help excluded child",
+          "autism social exclusion",
+          "building friendship skills",
+          "child excluded at school"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Peer Relationships & Inclusion challenges",
+          "suggestedMinAge": 4,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Peer Relationships & Inclusion",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child is Excluded"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/C-319-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/C-319-hero.webp",
+        "caption": "Visual metaphor showing a child standing outside a circle of peers, then finding their place within a welcoming group. The journey from exclusion to inclusion, from outside looking in to belonging. Warm, hopeful imagery of connection and acceptance. Playground or classroom setting with warm natural lighting.",
+        "description": "Child moving from social exclusion to inclusion, finding belonging with peers",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#video",
+        "name": "9 Materials That Help When Child is Excluded",
+        "description": "The birthday invitations go to everyone except them. At recess, they wander the playground edges while classmates play in groups. They ask 'Can I play?' and hear 'No' – or worse, silence. They sit alone at lunch watching tables full of friends. They ask 'Why doesn't anyone like me?' and you search for answers. Social exclusion is devastating, but connection can be built. Here are 9 materials that help excluded children find their place.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/C-319-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/C-319.mp4",
+        "embedUrl": "https://www.instagram.com/reel/C-319/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#SocialExclusion",
+          "#PeerRejection",
+          "#ChildHasNoFriends",
+          "#SocialSkills",
+          "#Inclusion",
+          "#Belonging",
+          "#FriendshipSkills",
+          "#AutismSupport",
+          "#SocialIsolation",
+          "#PinnacleBlooms",
+          "#HelpingExcludedKids",
+          "#PeerRelationships",
+          "#SocialSkillsTraining",
+          "#FindingYourPeople",
+          "#EveryChildBelongs"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Social exclusion and peer rejection with social skill deficits",
+          "alternateName": [
+            "child excluded at school",
+            "kid has no friends",
+            "child left out playground"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Is Always Left Out And Has No",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "The birthday invitations go to everyone except them. At recess, they wander the playground edges ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Social Skills Board Games and Cooperative Games",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides structured practice for group entry, turn-taking, and playing with others in safe, suppo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Conversation Starter Cards and Social Scripts",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides exact words to use when approaching peers, reducing the anxiety and confusion of not kno..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Feelings and Emotions Identification Tools",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Builds emotional literacy for understanding own feelings about exclusion and reading peers' socia..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Inclusive Activity Kits and Group Project Materials",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Creates situations where inclusion is built into the design – every child has a valued role, ever..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Interest-Based Club and Activity Resources",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Connects children with peers who share their passions, where differences may be valued rather tha..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Social Stories and Inclusion Narratives",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Provides validation that others share the experience and shows strategies through story that work..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Video Modeling and Social Skill Videos",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Shows exactly what successful social interaction looks like – visual learners can see and imitate..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Friendship Skill Building Workbooks and Journals",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Provides structured, explicit instruction in friendship skills with opportunities for reflection ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Resilience and Self-Worth Building Resources",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Builds core strength that survives rejection – self-worth that doesn't depend entirely on peer ac..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child is always left out and has no friends?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SOCIAL EXCLUSION AND PEER REJECTION WITH SOCIAL SKILL DEFICITS! A pattern of chronic or recurrent social isolation where a child is not included in peer activities, actively rejected when attempting to join, or ignored by classmates. This may result from social skill deficits, behavioral differences, difficulty reading social cues, or peer prejudice. The experience of exclusion causes significant psychological distress and impacts development across domains. Per SPD Foundation and child development research: Children with sensory processing differences often face social exclusion due to differences in play preferences, sensory-seeking or avoiding behaviors, and difficulty with the social demands of unstructured peer interaction. Social rejection activates the same brain regions as physical pain – exclusion literally hurts. Chronic exclusion erodes self-esteem and creates negative self-fulfilling prophecies."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pattern of chronic or recurrent social isolation where a child is not included in peer activities, actively rejected when attempting to join, or ignored by classmates. This may result from social skill deficits, behavioral differences, difficulty reading social cues, or peer prejudice. The experience of exclusion causes significant psychological distress and impacts development across domains. Common signs include: Wanders playground alone while peers play in groups, Sits alone at lunch repeatedly, Not invited to birthday parties or playdates, Says 'Can I play?' and is told 'No' or ignored, Last picked for teams or group activities."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Social Skills Board Games and Cooperative Games help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides structured practice for group entry, turn-taking, and playing with others in safe, supported settings where inclusion is built in. Price: ₹400–1,200. DIY option: Use cooperative games where everyone wins or loses together. Create group challenges requiring teamwork. Practice specific social scenarios through game play. Safety: Don't assume game skills automatically transfer – explicitly teach real-world application. Ensure peer players are supportive."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Conversation Starter Cards and Social Scripts help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides exact words to use when approaching peers, reducing the anxiety and confusion of not knowing what to say. Price: ₹200–500. DIY option: Create cards with specific phrases: 'Can I play with you?' 'What are you playing?' 'That looks fun!' Practice through role-play until fluent. Safety: Scripts are starting points, not rigid formulas. Practice natural delivery tone. Adjust scripts for age and context."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Feelings and Emotions Identification Tools help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Builds emotional literacy for understanding own feelings about exclusion and reading peers' social cues more accurately. Price: ₹200–600. DIY option: Use emotion flashcards daily. Practice identifying feelings in pictures, videos, real interactions. Connect emotions to social experiences. Safety: Don't dismiss or minimize exclusion pain. Ensure emotional processing is supported by coping skill building."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Inclusive Activity Kits and Group Project Materials help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Creates situations where inclusion is built into the design – every child has a valued role, everyone is needed. Price: ₹300–800. DIY option: Choose activities with built-in roles for all. Assign excluded child valued, visible roles. Structure success to require everyone's contribution. Safety: Don't rely only on structured inclusion – build independent social skills. Ensure roles are genuinely valued, not token."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Interest-Based Club and Activity Resources help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Connects children with peers who share their passions, where differences may be valued rather than rejected. Price: ₹300–1,000. DIY option: Identify child's genuine interests. Research community groups and clubs focused on these interests. Prioritize small groups with supportive adult facilitation. Safety: Ensure interest groups have positive social dynamics. Don't force interests – follow genuine passions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Social Stories and Inclusion Narratives help with social exclusion and peer rejection with social skill deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides validation that others share the experience and shows strategies through story that worked for characters like them. Price: ₹200–600. DIY option: Select books matching child's exclusion experience. Create custom social stories for specific situations. Discuss character feelings and choices. Safety: Stories should offer hope, not just mirror pain. Ensure strategies in stories are appropriate for child."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Complete social isolation with no peer contact. Severe depression or anxiety about social situations. School refusal due to social difficulties. Self-harm or suicidal ideation related to exclusion. Aggressive retaliation against peers. Consult psychologist or behavioral therapist if: no progress after 8–10 weeks of intervention, depression or anxiety is severe, school refusal emerges, or child shows signs of emotional crisis."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#howto",
+        "name": "How to Help a Child with Social Exclusion And Peer Rejection With Social Skill Deficits",
+        "description": "A graded approach using evidence-based materials. Social exclusion is deeply painful and developmentally harmful, but connection can be built through skill development, environmental modification, and resilience building.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 2200,
+          "maxValue": 6600
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Social Skills Board Games and Cooperative Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Conversation Starter Cards and Social Scripts",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Feelings and Emotions Identification Tools",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A pattern of chronic or recurrent social isolation where a child is not included in peer activities, actively rejected when attempting to join, or ignored by classmates. This may result from social skill deficits, behavioral differences, difficulty reading social cues, or peer prejudice. The experience of exclusion causes significant psychological distress and impacts development across domains. Social exclusion is deeply painful and developmentally harmful, but connection can be built through skill development, environmental modification, and resilience building."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Social Skills Board Games and Cooperative Games, Conversation Starter Cards and Social Scripts, Feelings and Emotions Identification Tools."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Complete social isolation with no peer contact, Severe depression or anxiety about social situations, School refusal due to social difficulties."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult psychologist or behavioral therapist if: no progress after 8–10 weeks of intervention, depression or anxiety is severe, school refusal emerges, or child shows signs of emotional crisis."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#medicalpage",
+        "name": "Social exclusion and peer rejection with social skill deficits Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Social exclusion and peer rejection with social skill deficits",
+          "alternateName": [
+            "child excluded at school",
+            "kid has no friends",
+            "child left out playground"
+          ],
+          "description": "A pattern of chronic or recurrent social isolation where a child is not included in peer activities, actively rejected when attempting to join, or ignored by classmates. This may result from social skill deficits, behavioral differences, difficulty reading social cues, or peer prejudice. The experience of exclusion causes significant psychological distress and impacts development across domains.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Wanders playground alone while peers play in groups"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Sits alone at lunch repeatedly"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Not invited to birthday parties or playdates"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Says 'Can I play?' and is told 'No' or ignored"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Last picked for teams or group activities"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No reciprocated friendships"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Reluctance or refusal to go to school"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Asks 'Why doesn't anyone like me?'"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-21"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#article",
+        "headline": "9 Materials That Help When Child is Excluded",
+        "alternativeHeadline": "When the birthday invitations go to everyone except them",
+        "description": "My child is always left out and has no friends? Social exclusion and peer rejection with social skill deficits is neurological, not behavioral. 9 evidence-ba...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-21T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#primaryimage"
+        },
+        "articleSection": "Social",
+        "wordCount": 3500,
+        "keywords": [
+          "kid has no friends",
+          "child left out playground",
+          "peer rejection child",
+          "child sits alone lunch",
+          "no birthday party invitations"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Children with sensory processing differences often face social exclusion due to differences in play preferences, sensory-seeking or avoiding behaviors, and difficulty with the social demands of unstructured peer interaction."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across social skills and peer relationship interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Rubin KH et al.",
+            "url": "",
+            "description": "Social withdrawal and shyness (2009). Handbook of Peer Interactions, Relationships, and Groups. Research on peer rejection and social isolation in children."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Laugeson EA et al.",
+            "url": "",
+            "description": "PEERS: A social skills intervention for adolescents with ASD (2009). Evidence-based social skills training for children and adolescents."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "DeRosier ME",
+            "url": "",
+            "description": "Building relationships and combating bullying: Effectiveness of a social skills group intervention (2004). Journal of Clinical Child and Adolescent Psychology."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#healthcontent",
+        "name": "Social exclusion and peer rejection with social skill deficits Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Social exclusion and peer rejection with social skill deficits"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Peer Relationships & Inclusion challenges"
+        },
+        "keywords": [
+          "kid has no friends",
+          "child left out playground",
+          "peer rejection child",
+          "child sits alone lunch",
+          "no birthday party invitations"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#evidence",
+        "claimReviewed": "Social exclusion is deeply painful and developmentally harmful, but connection can be built through skill development, environmental modification, and resilience building. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Social Exclusion And Peer Rejection With Social Skill Deficits Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion#collection",
+        "name": "Peer Relationships & Inclusion Series",
+        "description": "Complete series of 350 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "C-317: Winning and Losing",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-318: Pretend Play Skills",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-319: Social Exclusion (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-320: Taking Turns",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-321: Making Friends",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 350,
+        "collectionSize": 350
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#materials",
+        "name": "9 Materials for Social Exclusion And Peer Rejection With Social Skill Deficits",
+        "description": "Evidence-based materials for ages 4–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Social Skills Board Games and Cooperative Games",
+              "description": "Provides structured practice for group entry, turn-taking, and playing with others in safe, supported settings where inclusion is built in.",
+              "category": "Skillbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use cooperative games where everyone wins or loses together. Create group challenges requiring teamwork. Practice specific social scenarios through game play."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't assume game skills automatically transfer – explicitly teach real-world application. Ensure peer players are supportive."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Conversation Starter Cards and Social Scripts",
+              "description": "Provides exact words to use when approaching peers, reducing the anxiety and confusion of not knowing what to say.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards with specific phrases: 'Can I play with you?' 'What are you playing?' 'That looks fun!' Practice through role-play until fluent."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Scripts are starting points, not rigid formulas. Practice natural delivery tone. Adjust scripts for age and context."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Feelings and Emotions Identification Tools",
+              "description": "Builds emotional literacy for understanding own feelings about exclusion and reading peers' social cues more accurately.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use emotion flashcards daily. Practice identifying feelings in pictures, videos, real interactions. Connect emotions to social experiences."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't dismiss or minimize exclusion pain. Ensure emotional processing is supported by coping skill building."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Inclusive Activity Kits and Group Project Materials",
+              "description": "Creates situations where inclusion is built into the design – every child has a valued role, everyone is needed.",
+              "category": "Structuredinclusion",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Choose activities with built-in roles for all. Assign excluded child valued, visible roles. Structure success to require everyone's contribution."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't rely only on structured inclusion – build independent social skills. Ensure roles are genuinely valued, not token."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Interest-Based Club and Activity Resources",
+              "description": "Connects children with peers who share their passions, where differences may be valued rather than rejected.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Identify child's genuine interests. Research community groups and clubs focused on these interests. Prioritize small groups with supportive adult facilitation."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure interest groups have positive social dynamics. Don't force interests – follow genuine passions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Social Stories and Inclusion Narratives",
+              "description": "Provides validation that others share the experience and shows strategies through story that worked for characters like them.",
+              "category": "Learning",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Select books matching child's exclusion experience. Create custom social stories for specific situations. Discuss character feelings and choices."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Stories should offer hope, not just mirror pain. Ensure strategies in stories are appropriate for child."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Video Modeling and Social Skill Videos",
+              "description": "Shows exactly what successful social interaction looks like – visual learners can see and imitate successful models.",
+              "category": "Learning",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Find or create videos showing specific skills needed. Watch together, discussing key behaviors. Practice observed behaviors through role-play."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure video models are realistic and appropriate. Don't rely only on video – practice real interaction."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Friendship Skill Building Workbooks and Journals",
+              "description": "Provides structured, explicit instruction in friendship skills with opportunities for reflection and goal-setting.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Work through friendship skills systematically. Use journal for ongoing social reflection. Set specific friendship goals and track progress."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Workbooks are tools, not solutions – apply learning in real life. Don't make social skills feel like homework."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Resilience and Self-Worth Building Resources",
+              "description": "Builds core strength that survives rejection – self-worth that doesn't depend entirely on peer acceptance.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use strengths-identification activities regularly. Build self-worth narratives independent of peer acceptance. Teach healthy self-talk for rejection moments."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't minimize exclusion pain with toxic positivity. Resilience doesn't mean not needing connection."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/peer relationships & inclusion/9-materials-that-help-when-child-is-excluded#course",
+        "name": "Social Skills & Peer Relationships Solutions",
+        "description": "Parent education video series on Social interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child is Excluded | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "kid has no friends, child left out playground, peer rejection child, child sits alone lunch, no birthday party invitations"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/C-319.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/C-319-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/C-319.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child is Excluded",
+      "content_category": "Intervention Techniques > Social > Peer Relationships & Inclusion",
+      "content_ids": [
+        "C-319"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "C-319",
+        "technique_theme": "9MAT",
+        "domain": "Social",
+        "sub_domain": "Peer Relationships & Inclusion",
+        "domain_code": "SOC-INC",
+        "series": "Social Skills & Peer Relationships Solutions",
+        "episode": 319,
+        "age_band": "4–12 years",
+        "setting": "Home",
+        "cluster_id": "SOC-INC-01",
+        "cluster_position": 319,
+        "materials_count": 9,
+        "total_cost_range": "₹2,200–6,600 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#SocialExclusion",
+      "#PeerRejection",
+      "#ChildHasNoFriends",
+      "#SocialSkills",
+      "#Inclusion",
+      "#Belonging",
+      "#FriendshipSkills",
+      "#AutismSupport",
+      "#SocialIsolation",
+      "#PinnacleBlooms",
+      "#HelpingExcludedKids",
+      "#PeerRelationships",
+      "#SocialSkillsTraining",
+      "#FindingYourPeople",
+      "#EveryChildBelongs"
+    ],
+    "caption": "Does your child wander the playground alone? 💔 Are they never invited to birthday parties or playdates? Do they ask 'Why doesn't anyone like me?' Social exclusion is devastating – research shows rejection activates the same brain regions as physical pain. But connection can be built. Here are 9 materials that help excluded children find their place and their people. Every child deserves to belong somewhere. Save this! #SocialExclusion #Inclusion #FriendshipSkills #SocialSkills #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "C-320",
+    "prevInSeries": "C-318",
+    "relatedTechniques": [
+      "C-317",
+      "C-321",
+      "C-325",
+      "C-330",
+      "C-335"
+    ],
+    "deepDives": [
+      "C-319-DD-01",
+      "C-319-DD-02",
+      "C-319-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920",
+      "K-925"
+    ]
+  }
+}

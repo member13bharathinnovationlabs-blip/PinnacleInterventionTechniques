@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence",
+    "title": "9 Materials That Help Teaching Object Permanence | Pinnacle Blooms",
+    "description": "My child doesn't understand that things still exist when they can't see them? Delayed Object Permanence Development is neurological, not behavioral. 9 eviden...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-19",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-146",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Cognitive Development Solutions",
+    "episodeInSeries": 11,
+    "domain": "Cognitive",
+    "subDomain": "Foundational Cognitive Skills / Memory & Representation",
+    "domainCode": "COG-FND",
+    "ageBand": "4 months – 3 years",
+    "setting": "Home & Therapy",
+    "audience": "Parents",
+    "clusterId": "COG-FND-04",
+    "clusterName": "Foundational Cognitive Skills Series",
+    "clusterPosition": 11,
+    "totalInCluster": 30
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence",
+        "name": "9 Materials That Help Teaching Object Permanence | Pinnacle Blooms",
+        "description": "My child doesn't understand that things still exist when they can't see them? Delayed Object Permanence Development is neurological, not behavioral. 9 eviden...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-19",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "teaching object permanence",
+          "baby doesn't search for hidden toy",
+          "child cries when parent leaves",
+          "object permanence autism",
+          "peek-a-boo development",
+          "Montessori object permanence box",
+          "separation anxiety toddler",
+          "cognitive development toys",
+          "hidden toy search delay",
+          "object permanence delay child"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Foundational Cognitive Skills / Memory & Representation challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Cognitive",
+            "item": "https://pinnacleblooms.org/intervention-techniques/cognitive"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Foundational Cognitive Skills / Memory & Representation",
+            "item": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help Teaching Object Permanence"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-146-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-146-hero.webp",
+        "caption": "Child's face lighting up with wonder and recognition as they lift a colorful cloth to reveal a hidden toy underneath. The magical 'aha!' moment of discovery captured. Warm, natural lighting in a cozy home setting with soft play mat visible.",
+        "description": "Child discovering hidden toy, experiencing object permanence understanding",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#video",
+        "name": "9 Materials That Help Teaching Object Permanence",
+        "description": "When you leave the room, does your child think you've vanished? When a toy rolls under the couch, do they simply forget it exists? Object permanence—knowing that things continue to exist when we can't see them—is one of the first great cognitive leaps. Here are nine materials that help build this foundational understanding.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-146-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-146.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-146/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#ObjectPermanence",
+          "#CognitiveDevelopment",
+          "#PeekABoo",
+          "#BabyDevelopment",
+          "#ToddlerLearning",
+          "#SeparationAnxiety",
+          "#EarlyIntervention",
+          "#MontessoriToys",
+          "#DevelopmentalMilestones",
+          "#PinnacleBlooms",
+          "#AutismTherapy",
+          "#ChildDevelopment",
+          "#ParentTips",
+          "#TherapyAtHome",
+          "#CognitiveSkills"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Delayed Object Permanence Development",
+          "alternateName": [
+            "baby doesn't look for hidden toy",
+            "child cries when parent leaves room",
+            "object permanence delay"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Doesn't Understand That Things",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When you leave the room, does your child think you've vanished? When a toy rolls under the couch,..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Object Permanence Box (Montessori)",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Classic design where ball drops in, disappears, then emerges from drawer – teaching that objects ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Peek-a-Boo Cloths and Scarves",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "The oldest game in human history provides repeated, emotionally engaging practice with disappeara..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Nesting and Stacking Cups",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Cups become hiding places, teaching that objects exist beneath, inside, and behind even when we c..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Pop-Up Toys and Activity Centers",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Characters exist inside the toy, hidden from view, but can be revealed through appropriate action..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Shape Sorters with Retrieval",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Objects go somewhere and accumulate, even when we can't see them entering the hidden space. Openi..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Tunnel Toys and Ball Runs",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Objects continue traveling while hidden—more complex than static hiding. Child must track not jus..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Lift-the-Flap and Hide-and-Find Books",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Embeds object permanence in narrative context, adding language and social dimensions. Each flap c..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Container and Box Collections",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Real-world, functional practice with permanence. Containers are everywhere—making this highly gen..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Family Photo Albums and Picture Cards",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Extends object permanence to person permanence—understanding that people continue to exist when n..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child doesn't understand that things still exist when they can't see them?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "DELAYED OBJECT PERMANENCE DEVELOPMENT! Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or touched. This cognitive milestone represents one of the most fundamental shifts in how a child understands reality—the recognition that the world doesn't simply disappear when you close your eyes. For typically developing infants, this understanding emerges between 4-8 months and is largely consolidated by 18-24 months. However, for some children with autism spectrum disorder, developmental delays, or intellectual disabilities, object permanence may develop later, incompletely, or inconsistently across contexts. Per developmental research: Object permanence underlies memory, language, attachment, and symbolic thinking. Piaget identified stages of development from no permanence (0-4 months) through partial permanence to full representational permanence (18-24 months). Delays in this progression can cascade to affect language development (words represent absent objects), play skills (pretend play requires mental representation), and emotional development (separation tolerance requires knowing caregivers continue to exist)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Delayed Object Permanence Development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or touched. This cognitive milestone represents one of the most fundamental shifts in how a child understands reality—the recognition that the world doesn't simply disappear when you close your eyes. For typically developing infants, this understanding emerges between 4-8 months and is largely consolidated by 18-24 months. However, for some children with autism spectrum disorder, developmental delays, or intellectual disabilities, object permanence may develop later, incompletely, or inconsistently across contexts. Common signs include: Becomes extremely distressed when caregiver leaves the room, Doesn't look or search for toys that roll out of sight, Shows no interest in peek-a-boo games, Forgets about desired object moments after it's hidden, Doesn't lift cloth or blanket to find partially hidden toy."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Object Permanence Box (Montessori) help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Classic design where ball drops in, disappears, then emerges from drawer – teaching that objects take journeys we can't see but always arrive somewhere. Price: ₹800–1,500. DIY option: Cut hole in shoebox lid, create drawer at bottom. Ball drops through hole, lands in drawer compartment that pulls out. Safety: Ensure ball is large enough not to be a choking hazard. Supervise use. Some children may become perseverative on dropping—vary the activity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Peek-a-Boo Cloths and Scarves help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The oldest game in human history provides repeated, emotionally engaging practice with disappearance and return in safe, playful context. Price: ₹150–400. DIY option: Any lightweight fabric works – muslin cloths, silk scarves, or even lightweight towels. Transparent scarves for early stages. Safety: Supervise to prevent wrapping around neck. Some children find face disappearance frightening—start with objects if needed. Watch for distress cues."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Nesting and Stacking Cups help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cups become hiding places, teaching that objects exist beneath, inside, and behind even when we can't see them. Graduated complexity for growing skills. Price: ₹200–500. DIY option: Use household cups, bowls, or containers of different sizes. Start with one cup hiding one toy, progress to multiple cups. Safety: Ensure small hidden objects are not choking hazards. Too many cups may overwhelm—start simple. Match challenge to developmental level."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Pop-Up Toys and Activity Centers help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Characters exist inside the toy, hidden from view, but can be revealed through appropriate action—teaching that hidden doesn't mean gone. Price: ₹500–1,200. DIY option: Create simple pop-up using cardboard tubes with items that push up from inside. Jack-in-the-box principle with various characters. Safety: Some pop-up toys are loud—preview sounds for sensitive children. Perseverative pushing may occur without attention to permanence—introduce variations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Shape Sorters with Retrieval help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Objects go somewhere and accumulate, even when we can't see them entering the hidden space. Opening reveals all shapes persisted inside. Price: ₹400–900. DIY option: Use container with cut-out holes in lid. Simple shapes can be made from cardboard or foam. Ensure retrieval door opens easily. Safety: Shape matching may be frustrating if motor skills aren't ready—simplify to dropping only. Ensure shapes are not choking hazards for young children."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Tunnel Toys and Ball Runs help with delayed object permanence development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Objects continue traveling while hidden—more complex than static hiding. Child must track not just existence but location change during invisible transit. Price: ₹600–1,500. DIY option: Connect paper towel tubes to create tunnels. Attach to cardboard ramp. Ball enters one end, exits other. Start with short tunnels, progress longer. Safety: Very long tunnels may create anxiety if child doesn't trust emergence—start short. Ensure balls are appropriate size. Supervise marble use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No search behavior for hidden objects by 12 months. Extreme, inconsolable distress at any separation beyond 18 months. Complete absence of peek-a-boo interest or engagement. No progress despite consistent intervention over several months. Regression in previously established permanence understanding. Consult developmental specialist if: no search for partially hidden objects by 8-9 months, no search for completely hidden objects by 12-14 months, severe separation distress not improving with permanence work, or if delays co-occur with other developmental concerns."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#howto",
+        "name": "How to Help a Child with Delayed Object Permanence Development",
+        "description": "A graded approach using evidence-based materials. Object permanence develops in stages—assessment determines where child is, intervention meets them there. Never skip stages; each builds on the previous.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 3200,
+          "maxValue": 7000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Object Permanence Box (Montessori)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 800,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Peek-a-Boo Cloths and Scarves",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 150,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Nesting and Stacking Cups",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or touched. This cognitive milestone represents one of the most fundamental shifts in how a child understands reality—the recognition that the world doesn't simply disappear when you close your eyes. For typically developing infants, this understanding emerges between 4-8 months and is largely consolidated by 18-24 months. However, for some children with autism spectrum disorder, developmental delays, or intellectual disabilities, object permanence may develop later, incompletely, or inconsistently across contexts. Object permanence develops in stages—assessment determines where child is, intervention meets them there. Never skip stages; each builds on the previous."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Object Permanence Box (Montessori), Peek-a-Boo Cloths and Scarves, Nesting and Stacking Cups."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No search behavior for hidden objects by 12 months, Extreme, inconsolable distress at any separation beyond 18 months, Complete absence of peek-a-boo interest or engagement."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult developmental specialist if: no search for partially hidden objects by 8-9 months, no search for completely hidden objects by 12-14 months, severe separation distress not improving with permanence work, or if delays co-occur with other developmental concerns."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#medicalpage",
+        "name": "Delayed Object Permanence Development Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Delayed Object Permanence Development",
+          "alternateName": [
+            "baby doesn't look for hidden toy",
+            "child cries when parent leaves room",
+            "object permanence delay"
+          ],
+          "description": "Object permanence is the understanding that objects continue to exist even when they cannot be seen, heard, or touched. This cognitive milestone represents one of the most fundamental shifts in how a child understands reality—the recognition that the world doesn't simply disappear when you close your eyes. For typically developing infants, this understanding emerges between 4-8 months and is largely consolidated by 18-24 months. However, for some children with autism spectrum disorder, developmental delays, or intellectual disabilities, object permanence may develop later, incompletely, or inconsistently across contexts.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Becomes extremely distressed when caregiver leaves the room"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't look or search for toys that roll out of sight"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Shows no interest in peek-a-boo games"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Forgets about desired object moments after it's hidden"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't lift cloth or blanket to find partially hidden toy"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Appears surprised when parent returns as if they vanished"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Won't search for dropped objects"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Lacks anticipation when object is about to reappear"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-19"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#article",
+        "headline": "9 Materials That Help Teaching Object Permanence",
+        "alternativeHeadline": "When out of sight means out of mind",
+        "description": "My child doesn't understand that things still exist when they can't see them? Delayed Object Permanence Development is neurological, not behavioral. 9 eviden...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-19T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#primaryimage"
+        },
+        "articleSection": "Cognitive",
+        "wordCount": 3500,
+        "keywords": [
+          "teaching object permanence",
+          "baby doesn't search for hidden toy",
+          "child cries when parent leaves",
+          "object permanence autism",
+          "peek-a-boo development"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation emphasizes understanding developmental differences through evidence-based approaches that accommodate individual cognitive and sensory needs."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across cognitive and developmental interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Piaget, J.",
+            "url": "",
+            "description": "Piaget J. (1954). The Construction of Reality in the Child. Basic Books. Foundational research on object permanence development stages."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Baillargeon, R.",
+            "url": "",
+            "description": "Baillargeon R. (1987). Object permanence in 3½ and 4½ month old infants. Developmental Psychology, 23(5), 655-664. Research on early permanence development."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Montessori, M.",
+            "url": "",
+            "description": "Montessori M. (1967). The Absorbent Mind. Holt, Rinehart and Winston. Foundation for object permanence materials design."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#healthcontent",
+        "name": "Delayed Object Permanence Development Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Delayed Object Permanence Development"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Foundational Cognitive Skills / Memory & Representation challenges"
+        },
+        "keywords": [
+          "teaching object permanence",
+          "baby doesn't search for hidden toy",
+          "child cries when parent leaves",
+          "object permanence autism",
+          "peek-a-boo development"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#evidence",
+        "claimReviewed": "Object permanence develops in stages—assessment determines where child is, intervention meets them there. Never skip stages; each builds on the previous. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Delayed Object Permanence Development Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation#collection",
+        "name": "Foundational Cognitive Skills Series",
+        "description": "Complete series of 30 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-001: Visual Attention Development",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-002: Auditory Processing Basics",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-003: Cause and Effect Understanding",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-004: Early Problem Solving",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-005: Imitation Skills",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 30,
+        "collectionSize": 30
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#materials",
+        "name": "9 Materials for Delayed Object Permanence Development",
+        "description": "Evidence-based materials for ages 4 months – 3 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Object Permanence Box (Montessori)",
+              "description": "Classic design where ball drops in, disappears, then emerges from drawer – teaching that objects take journeys we can't see but always arrive somewhere.",
+              "category": "Structuredpermanenceteaching",
+              "offers": {
+                "@type": "Offer",
+                "price": "800",
+                "priceCurrency": "INR",
+                "priceRange": "₹800–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Cut hole in shoebox lid, create drawer at bottom. Ball drops through hole, lands in drawer compartment that pulls out."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure ball is large enough not to be a choking hazard. Supervise use. Some children may become perseverative on dropping—vary the activity."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Peek-a-Boo Cloths and Scarves",
+              "description": "The oldest game in human history provides repeated, emotionally engaging practice with disappearance and return in safe, playful context.",
+              "category": "Classichidinggames",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any lightweight fabric works – muslin cloths, silk scarves, or even lightweight towels. Transparent scarves for early stages."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise to prevent wrapping around neck. Some children find face disappearance frightening—start with objects if needed. Watch for distress cues."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Nesting and Stacking Cups",
+              "description": "Cups become hiding places, teaching that objects exist beneath, inside, and behind even when we can't see them. Graduated complexity for growing skills.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use household cups, bowls, or containers of different sizes. Start with one cup hiding one toy, progress to multiple cups."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure small hidden objects are not choking hazards. Too many cups may overwhelm—start simple. Match challenge to developmental level."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Pop-Up Toys and Activity Centers",
+              "description": "Characters exist inside the toy, hidden from view, but can be revealed through appropriate action—teaching that hidden doesn't mean gone.",
+              "category": "Causeeffectpermanence",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple pop-up using cardboard tubes with items that push up from inside. Jack-in-the-box principle with various characters."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some pop-up toys are loud—preview sounds for sensitive children. Perseverative pushing may occur without attention to permanence—introduce variations."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Shape Sorters with Retrieval",
+              "description": "Objects go somewhere and accumulate, even when we can't see them entering the hidden space. Opening reveals all shapes persisted inside.",
+              "category": "Structuredpermanenceteaching",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use container with cut-out holes in lid. Simple shapes can be made from cardboard or foam. Ensure retrieval door opens easily."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Shape matching may be frustrating if motor skills aren't ready—simplify to dropping only. Ensure shapes are not choking hazards for young children."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Tunnel Toys and Ball Runs",
+              "description": "Objects continue traveling while hidden—more complex than static hiding. Child must track not just existence but location change during invisible transit.",
+              "category": "Causeeffectpermanence",
+              "offers": {
+                "@type": "Offer",
+                "price": "600",
+                "priceCurrency": "INR",
+                "priceRange": "₹600–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Connect paper towel tubes to create tunnels. Attach to cardboard ramp. Ball enters one end, exits other. Start with short tunnels, progress longer."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Very long tunnels may create anxiety if child doesn't trust emergence—start short. Ensure balls are appropriate size. Supervise marble use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Lift-the-Flap and Hide-and-Find Books",
+              "description": "Embeds object permanence in narrative context, adding language and social dimensions. Each flap creates a micro-permanence trial with prediction and discovery.",
+              "category": "Barrier",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create DIY flap books using paper with folded sections. Glue pictures underneath flaps. Use family photos for personalized person permanence work."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Flaps can tear easily—supervise young children. Some children may fixate on flipping rather than discovering—slow down and narrate the hidden content."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Container and Box Collections",
+              "description": "Real-world, functional practice with permanence. Containers are everywhere—making this highly generalizable. Closing doesn't make contents disappear.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Collect various household containers: food storage containers, shoe boxes, jewelry boxes, tins. Vary sizes, materials, and opening mechanisms."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid containers with trapping hazards (heavy lids, tight openings). Match lid difficulty to motor skills. Some children may fixate on opening/closing—redirect to contents."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Family Photo Albums and Picture Cards",
+              "description": "Extends object permanence to person permanence—understanding that people continue to exist when not present. Critical for attachment and separation tolerance.",
+              "category": "Personpermanence",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple photo album or laminated cards with familiar faces. Include parents, grandparents, teachers, therapists. Use during separations."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may become more distressed seeing photos of absent people—assess individual response. Ensure photos are sturdy. Update periodically."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/cognitive/foundational cognitive skills / memory & representation/9-materials-that-help-teaching-object-permanence#course",
+        "name": "Cognitive Development Solutions",
+        "description": "Parent education video series on Cognitive interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help Teaching Object Permanence | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "teaching object permanence, baby doesn't search for hidden toy, child cries when parent leaves, object permanence autism, peek-a-boo development"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-146.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-146-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-146.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help Teaching Object Permanence",
+      "content_category": "Intervention Techniques > Cognitive > Foundational Cognitive Skills / Memory & Representation",
+      "content_ids": [
+        "B-146"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-146",
+        "technique_theme": "9MAT",
+        "domain": "Cognitive",
+        "sub_domain": "Foundational Cognitive Skills / Memory & Representation",
+        "domain_code": "COG-FND",
+        "series": "Cognitive Development Solutions",
+        "episode": 11,
+        "age_band": "4 months – 3 years",
+        "setting": "Home & Therapy",
+        "cluster_id": "COG-FND-04",
+        "cluster_position": 11,
+        "materials_count": 9,
+        "total_cost_range": "₹3,200–7,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#ObjectPermanence",
+      "#CognitiveDevelopment",
+      "#PeekABoo",
+      "#BabyDevelopment",
+      "#ToddlerLearning",
+      "#SeparationAnxiety",
+      "#EarlyIntervention",
+      "#MontessoriToys",
+      "#DevelopmentalMilestones",
+      "#PinnacleBlooms",
+      "#AutismTherapy",
+      "#ChildDevelopment",
+      "#ParentTips",
+      "#TherapyAtHome",
+      "#CognitiveSkills"
+    ],
+    "caption": "Does your child think you've vanished when you leave the room? 👀 When a toy rolls under the couch, do they forget it exists? Object permanence—understanding that things still exist when hidden—is one of the first great cognitive leaps. Here are 9 materials that help build this foundational understanding. Memory, language, and attachment all depend on it! Save this! #ObjectPermanence #CognitiveDevelopment #PeekABoo #EarlyIntervention #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-012",
+    "prevInSeries": "A-010",
+    "relatedTechniques": [
+      "A-006",
+      "A-003",
+      "A-012",
+      "B-050",
+      "B-045"
+    ],
+    "deepDives": [
+      "A-011-DD-01",
+      "A-011-DD-02",
+      "A-011-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-930",
+      "K-935"
+    ]
+  }
+}

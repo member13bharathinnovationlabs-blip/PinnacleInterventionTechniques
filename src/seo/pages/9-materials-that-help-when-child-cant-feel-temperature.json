@@ -1,0 +1,1084 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature",
+    "title": "9 Materials That Help When Child Can't Feel Temperature | Pinnacle Blooms",
+    "description": "My child wears a winter coat in summer heat or refuses a jacket while visibly shivering—it's like they can't feel temperature at all? Interoceptive Awareness...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-23",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-113",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 113,
+    "domain": "Interoception",
+    "subDomain": "Temperature Sensation/Thermoregulation",
+    "domainCode": "INT-TEMP",
+    "ageBand": "3–12 years",
+    "setting": "Home, School & Outdoors",
+    "audience": "Parents",
+    "clusterId": "INT-AWARE-03",
+    "clusterName": "Interoception & Body Awareness Series",
+    "clusterPosition": 113,
+    "totalInCluster": 150
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature",
+        "name": "9 Materials That Help When Child Can't Feel Temperature | Pinnacle Blooms",
+        "description": "My child wears a winter coat in summer heat or refuses a jacket while visibly shivering—it's like they can't feel temperature at all? Interoceptive Awareness...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-23",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "autism temperature insensitivity",
+          "child overdresses underdresses",
+          "sensory processing temperature",
+          "interoception temperature",
+          "thermoregulation autism",
+          "child won't wear jacket",
+          "overheating autism",
+          "child burn risk",
+          "temperature awareness autism",
+          "sensory temperature differences",
+          "child doesn't feel hot cold temperature"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Temperature Sensation/Thermoregulation challenges",
+          "suggestedMinAge": 3,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Interoception",
+            "item": "https://pinnacleblooms.org/intervention-techniques/interoception"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Temperature Sensation/Thermoregulation",
+            "item": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Can't Feel Temperature"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-113-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-113-hero.webp",
+        "caption": "Professional gradient suggesting temperature spectrum—cool blues transitioning to warm oranges. Thermometer imagery integrated tastefully. Child dressed appropriately for weather with visual supports. Body outline showing temperature awareness zones.",
+        "description": "Child developing temperature awareness through visual supports and thermometer-based learning tools",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#video",
+        "name": "9 Materials That Help When Child Can't Feel Temperature",
+        "description": "Does your child wear a winter coat in summer? Refuse a jacket while visibly shivering? Or get dangerously overheated without noticing? They may genuinely not feel what hot and cold feel like. Here are 9 materials that build temperature awareness and keep your child safe.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-113-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-113.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-113/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#TemperatureAwareness",
+          "#Interoception",
+          "#SensoryProcessing",
+          "#Thermoregulation",
+          "#AutismSafety",
+          "#SensoryDifferences",
+          "#BodyAwareness",
+          "#OccupationalTherapy",
+          "#ChildSafety",
+          "#SensoryTools",
+          "#TemperatureSensitivity",
+          "#InteroceptiveAwareness",
+          "#PinnacleBlooms",
+          "#SensorySupport",
+          "#AdaptiveStrategies"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation",
+          "alternateName": [
+            "child doesn't feel hot cold",
+            "autism temperature insensitivity",
+            "child overdresses underdresses"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Limited Wardrobe Problem",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Does your child wear a winter coat in summer? Refuse a jacket while visibly shivering? Or get dan..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Visual Temperature Scales with Body Connection",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Connects external temperature readings to body feelings—when the thermometer shows hot, we teach ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Wearable Temperature Monitors",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides external data about body temperature when internal signals are unreliable—devices can al..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Visual Clothing Choice Charts",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Removes guesswork by matching weather conditions to appropriate clothing—when children can't feel..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Body Mapping for Temperature Zones",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Identifies where children do feel temperature in their body—some feel cold only in hands or heat ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Environmental Thermometers with Visual Supports",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Large, visual thermometers placed throughout the environment provide constant temperature informa..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Temperature-Safe Bathing Systems",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Bath temperature presents real burn risk for children who can't feel hot water—temperature-indica..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Social Stories for Temperature Awareness",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Stories explain temperature concepts through relatable narratives—characters learning to check th..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Scheduled Temperature Body Checks",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Scheduled body checks build awareness through routine practice—at set times, children pause to ch..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Adaptive Clothing for Temperature Regulation",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Adaptive clothing helps regulate temperature even when children can't feel the need—moisture-wick..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child wears a winter coat in summer heat or refuses a jacket while visibly shivering—it's like they can't feel temperature at all?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "INTEROCEPTIVE AWARENESS DEFICIT - TEMPERATURE SENSATION/THERMOREGULATION! Temperature sensation difficulties involve impaired interoceptive and exteroceptive awareness of body temperature and environmental temperature—the internal signals indicating feeling hot or cold and the external signals from skin temperature receptors. Children with this challenge may not perceive when they are overheating (leading to heat exhaustion risk), may not notice they are cold (going outside underdressed in winter), may have delayed recognition of temperature extremes, or may have difficulty connecting temperature sensations to appropriate responses. This can involve hyposensitivity (not feeling temperature), hypersensitivity (extreme reactions to minor temperature changes), or mixed patterns. Temperature sensation involves both interoception (internal body temperature awareness) and exteroception (skin temperature receptors). Like other sensory systems, these can be hypo-responsive (not feeling temperature), hyper-responsive (extreme reactions), or have discrimination difficulties. Temperature insensitivity carries significant safety risks including heat stroke, hypothermia, and burns—this is a sensory difference requiring teaching AND safety systems."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Temperature sensation difficulties involve impaired interoceptive and exteroceptive awareness of body temperature and environmental temperature—the internal signals indicating feeling hot or cold and the external signals from skin temperature receptors. Children with this challenge may not perceive when they are overheating (leading to heat exhaustion risk), may not notice they are cold (going outside underdressed in winter), may have delayed recognition of temperature extremes, or may have difficulty connecting temperature sensations to appropriate responses. This can involve hyposensitivity (not feeling temperature), hypersensitivity (extreme reactions to minor temperature changes), or mixed patterns. Common signs include: Wearing winter coat in summer heat or shorts in freezing weather, No complaints or awareness of extreme temperatures, Overheating during physical activity without noticing, Not sweating appropriately or not responding to sweat signals, Refusing jacket despite visible shivering."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Visual Temperature Scales with Body Connection help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Connects external temperature readings to body feelings—when the thermometer shows hot, we teach what hot feels like in the body: sweating, flushed skin, feeling tired. Price: ₹200–600. DIY option: Create visual chart with thermometer zones (cold/cool/comfortable/warm/hot) alongside body sensation illustrations for each zone. Practice checking thermometer and identifying corresponding body sensations multiple times daily. Safety: Should not replace adult safety monitoring until child demonstrates reliable awareness. Scale is teaching tool, not substitute for supervision during temperature extremes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Wearable Temperature Monitors help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides external data about body temperature when internal signals are unreliable—devices can alert children and caregivers when body temperature rises to concerning levels. Price: ₹2,000–8,000. DIY option: Limited DIY for wearable monitors—commercial devices recommended for safety. Can use regular thermometer checks during high-risk activities as lower-tech alternative. Safety: Device is safety tool, not substitute for adult supervision in dangerous conditions. May not be appropriate for children who will remove or damage device. Technology supplements, not replaces, environmental safety measures."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Visual Clothing Choice Charts help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Removes guesswork by matching weather conditions to appropriate clothing—when children can't feel temperature to guide choices, visual charts provide the decision-making framework. Price: ₹150–500. DIY option: Create chart matching temperature ranges to clothing items. Include visual weather cues (sun, clouds, rain, snow). Post near clothing area. Check temperature together, use chart to select clothing. Practice until child can complete independently. Safety: Chart should account for individual temperature sensitivities—some children run hot or cold. Adult verification still needed for safety-critical situations like extreme weather."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Body Mapping for Temperature Zones help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Identifies where children do feel temperature in their body—some feel cold only in hands or heat only when flushed. Mapping these zones helps children use their limited awareness more effectively. Price: ₹150–400. DIY option: During temperature exposure, ask child to identify any body sensations. Mark areas where child reports awareness on body outline. Teach child to monitor these zones: 'Check your hands—are they cold? That means your whole body might be cold.' Safety: Some children may have no reliable temperature awareness anywhere—different approach needed. Mapping should be exploratory, not testing. Don't invalidate child's experience if they report no sensation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Environmental Thermometers with Visual Supports help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Large, visual thermometers placed throughout the environment provide constant temperature information—color-coded displays showing 'jacket weather' versus 'sunscreen weather' give external data. Price: ₹500–2,000. DIY option: Place large-display thermometer by front door. Add color-coded zones with masking tape: blue zone = need layers, green = comfortable, red = stay cool. Include action icons (jacket, sunhat, water bottle). Teach child to check at transition points. Safety: Should be age-appropriate—not infantilizing for older children. May need customization for different settings. Supplement, not replace, developing internal awareness."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Temperature-Safe Bathing Systems help with interoceptive awareness deficit - temperature sensation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bath temperature presents real burn risk for children who can't feel hot water—temperature-indicating devices and anti-scald systems protect children while teaching what 'too hot' looks like. Price: ₹300–1,500. DIY option: Install anti-scald valve on faucet (prevents water above safe temperature). Add floating bath thermometer with smiley/sad face zones. Teach child to check indicator before entering: 'What color? Red means wait, green means safe.' Safety: Should never rely solely on child's judgment for bath safety—adult supervision required. Anti-scald devices should have fail-safe design. Don't remove safety devices even as awareness improves."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: History of heat stroke or hypothermia—indicates high risk. Burns from hot water or surfaces—needs immediate safety intervention. Medical conditions affecting thermoregulation—needs medical management. Sudden change in temperature perception—needs medical evaluation. Fever without child noticing—indicates significant hyposensitivity. Refer to physician to rule out medical causes of thermoregulatory dysfunction. Refer to occupational therapist for comprehensive sensory and interoception evaluation. Emergency referral if child has experienced heat stroke, hypothermia, or significant burns."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#howto",
+        "name": "How to Help a Child with Interoceptive Awareness Deficit Temperature Sensation",
+        "description": "A graded approach using evidence-based materials. Temperature insensitivity is a sensory difference, not behavioral defiance. Children who don't dress appropriately for weather aren't being stubborn—they genuinely cannot perceive what temperature feels like. This requires both awareness-building AND safety systems, as temperature extremes can be medically dangerous.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 4500,
+          "maxValue": 18000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Visual Temperature Scales with Body Connection",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Wearable Temperature Monitors",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 2000,
+              "maxValue": 8000
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Visual Clothing Choice Charts",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 150,
+              "maxValue": 500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Temperature sensation difficulties involve impaired interoceptive and exteroceptive awareness of body temperature and environmental temperature—the internal signals indicating feeling hot or cold and the external signals from skin temperature receptors. Children with this challenge may not perceive when they are overheating (leading to heat exhaustion risk), may not notice they are cold (going outside underdressed in winter), may have delayed recognition of temperature extremes, or may have difficulty connecting temperature sensations to appropriate responses. This can involve hyposensitivity (not feeling temperature), hypersensitivity (extreme reactions to minor temperature changes), or mixed patterns. Temperature insensitivity is a sensory difference, not behavioral defiance. Children who don't dress appropriately for weather aren't being stubborn—they genuinely cannot perceive what temperature feels like. This requires both awareness-building AND safety systems, as temperature extremes can be medically dangerous."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Visual Temperature Scales with Body Connection, Wearable Temperature Monitors, Visual Clothing Choice Charts."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: History of heat stroke or hypothermia—indicates high risk, Burns from hot water or surfaces—needs immediate safety intervention, Medical conditions affecting thermoregulation—needs medical management."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Refer to physician to rule out medical causes of thermoregulatory dysfunction. Refer to occupational therapist for comprehensive sensory and interoception evaluation. Emergency referral if child has experienced heat stroke, hypothermia, or significant burns."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#medicalpage",
+        "name": "Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation",
+          "alternateName": [
+            "child doesn't feel hot cold",
+            "autism temperature insensitivity",
+            "child overdresses underdresses"
+          ],
+          "description": "Temperature sensation difficulties involve impaired interoceptive and exteroceptive awareness of body temperature and environmental temperature—the internal signals indicating feeling hot or cold and the external signals from skin temperature receptors. Children with this challenge may not perceive when they are overheating (leading to heat exhaustion risk), may not notice they are cold (going outside underdressed in winter), may have delayed recognition of temperature extremes, or may have difficulty connecting temperature sensations to appropriate responses. This can involve hyposensitivity (not feeling temperature), hypersensitivity (extreme reactions to minor temperature changes), or mixed patterns.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Wearing winter coat in summer heat or shorts in freezing weather"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No complaints or awareness of extreme temperatures"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Overheating during physical activity without noticing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Not sweating appropriately or not responding to sweat signals"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Refusing jacket despite visible shivering"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Not seeking shade or water in hot conditions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Touching hot objects without appropriate withdrawal"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Getting into too-hot bath water without reaction"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-23"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#article",
+        "headline": "9 Materials That Help When Child Can't Feel Temperature",
+        "alternativeHeadline": "Building temperature awareness for safety and independence",
+        "description": "My child wears a winter coat in summer heat or refuses a jacket while visibly shivering—it's like they can't feel temperature at all? Interoceptive Awareness...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-23T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#primaryimage"
+        },
+        "articleSection": "Interoception",
+        "wordCount": 3500,
+        "keywords": [
+          "autism temperature insensitivity",
+          "child overdresses underdresses",
+          "sensory processing temperature",
+          "interoception temperature",
+          "thermoregulation autism"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Kelly Mahler Interoception Research & Thermoregulation Studies",
+            "url": "https://www.kelly-mahler.com",
+            "description": "Temperature sensation involves both interoception (internal body temperature) and exteroception (skin temperature receptors). Like other sensory systems, these can be hypo-responsive, hyper-responsive, or have discrimination difficulties."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory processing interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cascio CJ, et al.",
+            "url": "",
+            "description": "Perceptual and Neural Response to Affective Tactile Texture Stimulation in Adults with Autism Spectrum Disorders (2016). Research on sensory processing differences."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Baranek GT, et al.",
+            "url": "",
+            "description": "Sensory Experiences Questionnaire: discriminating sensory features in young children with autism (2006). Journal of Autism and Developmental Disorders."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "American Academy of Pediatrics",
+            "url": "",
+            "description": "Guidelines on Thermoregulation and Safety for Children with Special Needs."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#healthcontent",
+        "name": "Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Interoceptive Awareness Deficit - Temperature Sensation/Thermoregulation"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Temperature Sensation/Thermoregulation challenges"
+        },
+        "keywords": [
+          "autism temperature insensitivity",
+          "child overdresses underdresses",
+          "sensory processing temperature",
+          "interoception temperature",
+          "thermoregulation autism"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#evidence",
+        "claimReviewed": "Temperature insensitivity is a sensory difference, not behavioral defiance. Children who don't dress appropriately for weather aren't being stubborn—they genuinely cannot perceive what temperature feels like. This requires both awareness-building AND safety systems, as temperature extremes can be medically dangerous. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Interoceptive Awareness Deficit Temperature Sensation Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation#collection",
+        "name": "Interoception & Body Awareness Series",
+        "description": "Complete series of 150 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-105: Emotional Regulation",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-111: Hunger Signal Recognition",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-112: Bathroom Signal Recognition",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-113: Temperature Sensation (THIS REEL)",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-115: Interoception Development",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 150,
+        "collectionSize": 150
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#materials",
+        "name": "9 Materials for Interoceptive Awareness Deficit Temperature Sensation",
+        "description": "Evidence-based materials for ages 3–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Temperature Scales with Body Connection",
+              "description": "Connects external temperature readings to body feelings—when the thermometer shows hot, we teach what hot feels like in the body: sweating, flushed skin, feeling tired.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create visual chart with thermometer zones (cold/cool/comfortable/warm/hot) alongside body sensation illustrations for each zone. Practice checking thermometer and identifying corresponding body sensations multiple times daily."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should not replace adult safety monitoring until child demonstrates reliable awareness. Scale is teaching tool, not substitute for supervision during temperature extremes."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Wearable Temperature Monitors",
+              "description": "Provides external data about body temperature when internal signals are unreliable—devices can alert children and caregivers when body temperature rises to concerning levels.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "2000",
+                "priceCurrency": "INR",
+                "priceRange": "₹2,000–8,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Limited DIY for wearable monitors—commercial devices recommended for safety. Can use regular thermometer checks during high-risk activities as lower-tech alternative."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Device is safety tool, not substitute for adult supervision in dangerous conditions. May not be appropriate for children who will remove or damage device. Technology supplements, not replaces, environmental safety measures."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Clothing Choice Charts",
+              "description": "Removes guesswork by matching weather conditions to appropriate clothing—when children can't feel temperature to guide choices, visual charts provide the decision-making framework.",
+              "category": "Decisionsupport",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create chart matching temperature ranges to clothing items. Include visual weather cues (sun, clouds, rain, snow). Post near clothing area. Check temperature together, use chart to select clothing. Practice until child can complete independently."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Chart should account for individual temperature sensitivities—some children run hot or cold. Adult verification still needed for safety-critical situations like extreme weather."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Body Mapping for Temperature Zones",
+              "description": "Identifies where children do feel temperature in their body—some feel cold only in hands or heat only when flushed. Mapping these zones helps children use their limited awareness more effectively.",
+              "category": "Awarenessbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "During temperature exposure, ask child to identify any body sensations. Mark areas where child reports awareness on body outline. Teach child to monitor these zones: 'Check your hands—are they cold? That means your whole body might be cold.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may have no reliable temperature awareness anywhere—different approach needed. Mapping should be exploratory, not testing. Don't invalidate child's experience if they report no sensation."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Environmental Thermometers with Visual Supports",
+              "description": "Large, visual thermometers placed throughout the environment provide constant temperature information—color-coded displays showing 'jacket weather' versus 'sunscreen weather' give external data.",
+              "category": "Externalmonitoring",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Place large-display thermometer by front door. Add color-coded zones with masking tape: blue zone = need layers, green = comfortable, red = stay cool. Include action icons (jacket, sunhat, water bottle). Teach child to check at transition points."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should be age-appropriate—not infantilizing for older children. May need customization for different settings. Supplement, not replace, developing internal awareness."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Temperature-Safe Bathing Systems",
+              "description": "Bath temperature presents real burn risk for children who can't feel hot water—temperature-indicating devices and anti-scald systems protect children while teaching what 'too hot' looks like.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Install anti-scald valve on faucet (prevents water above safe temperature). Add floating bath thermometer with smiley/sad face zones. Teach child to check indicator before entering: 'What color? Red means wait, green means safe.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should never rely solely on child's judgment for bath safety—adult supervision required. Anti-scald devices should have fail-safe design. Don't remove safety devices even as awareness improves."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Social Stories for Temperature Awareness",
+              "description": "Stories explain temperature concepts through relatable narratives—characters learning to check thermometers, notice body signs, and make appropriate choices provide frameworks children can apply.",
+              "category": "Narrativeteaching",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Write simple social story: 'Before I go outside, I check the thermometer. If it shows blue/cold, I wear my jacket. If it shows red/hot, I wear light clothes and bring water. Checking helps me be comfortable and safe.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Stories should be developmentally appropriate. Avoid stories that create fear about temperature—focus on awareness and appropriate action, not danger."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Scheduled Temperature Body Checks",
+              "description": "Scheduled body checks build awareness through routine practice—at set times, children pause to check how their body feels temperature-wise, building the habit of noticing that doesn't come naturally.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Schedule temperature checks: morning getting dressed, before outdoor activity, during activity, after activity. Each check: 1) Check thermometer, 2) Notice body sensations, 3) Compare to scale, 4) Identify if action needed. Keep brief (1-2 minutes)."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should not create anxiety about temperature. Keep checks brief and matter-of-fact. Accept that some children may always need external cuing. Reduce frequency as awareness improves."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Adaptive Clothing for Temperature Regulation",
+              "description": "Adaptive clothing helps regulate temperature even when children can't feel the need—moisture-wicking fabrics, temperature-regulating materials, and layering systems provide physical support.",
+              "category": "Physicalsupport",
+              "offers": {
+                "@type": "Offer",
+                "price": "1000",
+                "priceCurrency": "INR",
+                "priceRange": "₹1,000–5,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Select moisture-wicking fabrics for base layers. Create simple layering system: base layer always on, add/remove layers based on temperature chart. For hot conditions, have cooling towel or vest available during physical activity."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some adaptive clothing may have textures creating sensory challenges for some children. Always check for sensory comfort alongside temperature function. Cooling vests may be too heavy for some children."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/interoception/temperature sensation/thermoregulation/9-materials-that-help-when-child-cant-feel-temperature#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Interoception interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Can't Feel Temperature | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "autism temperature insensitivity, child overdresses underdresses, sensory processing temperature, interoception temperature, thermoregulation autism"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-113.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-113-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-113.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Can't Feel Temperature",
+      "content_category": "Intervention Techniques > Interoception > Temperature Sensation/Thermoregulation",
+      "content_ids": [
+        "A-113"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-113",
+        "technique_theme": "9MAT",
+        "domain": "Interoception",
+        "sub_domain": "Temperature Sensation/Thermoregulation",
+        "domain_code": "INT-TEMP",
+        "series": "Sensory Solutions",
+        "episode": 113,
+        "age_band": "3–12 years",
+        "setting": "Home, School & Outdoors",
+        "cluster_id": "INT-AWARE-03",
+        "cluster_position": 113,
+        "materials_count": 9,
+        "total_cost_range": "₹4,500–18,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#TemperatureAwareness",
+      "#Interoception",
+      "#SensoryProcessing",
+      "#Thermoregulation",
+      "#AutismSafety",
+      "#SensoryDifferences",
+      "#BodyAwareness",
+      "#OccupationalTherapy",
+      "#ChildSafety",
+      "#SensoryTools",
+      "#TemperatureSensitivity",
+      "#InteroceptiveAwareness",
+      "#PinnacleBlooms",
+      "#SensorySupport",
+      "#AdaptiveStrategies"
+    ],
+    "caption": "Does your child wear a winter coat in summer? 🧥☀️ Refuse a jacket while visibly shivering? ❄️ Or get dangerously overheated without noticing? 🌡️ They may genuinely NOT FEEL what hot and cold feel like. This is called interoception—the sense of internal body states, including temperature. Many children with autism and sensory differences have temperature sensation challenges that make 'hot' and 'cold' invisible. This is NOT stubbornness. This is NOT defiance. It's a sensory difference—and it CAN be addressed with the right tools and safety systems. These 9 materials help children develop temperature awareness while keeping them safe. Save this for temperature safety tools. Share with a family fighting daily jacket battles. #TemperatureAwareness #Interoception #SensoryProcessing #AutismSafety #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-114",
+    "prevInSeries": "A-112",
+    "relatedTechniques": [
+      "A-111",
+      "A-112",
+      "A-115",
+      "A-135",
+      "A-140"
+    ],
+    "deepDives": [
+      "A-113-DD-01",
+      "A-113-DD-02",
+      "A-113-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-965",
+      "K-970",
+      "K-985"
+    ]
+  }
+}

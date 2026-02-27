@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding",
+    "title": "9 Materials That Help With Preposition Understanding | Pinnacle Blooms",
+    "description": "My child doesn't understand in, on, under, behind? Spatial Preposition Comprehension Difficulty is neurological, not behavioral. 9 evidence-based materials. ...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-160",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Language & Communication Solutions",
+    "episodeInSeries": 160,
+    "domain": "Language Development",
+    "subDomain": "Spatial Language & Prepositions",
+    "domainCode": "LANG-PREP",
+    "ageBand": "2–10 years",
+    "setting": "Home + School + Therapy + Community",
+    "audience": "Parents + Teachers + Speech Therapists + Occupational Therapists",
+    "clusterId": "LANG-SPATIAL-01",
+    "clusterName": "Spatial Language & Directions Series",
+    "clusterPosition": 160,
+    "totalInCluster": 200
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding",
+        "name": "9 Materials That Help With Preposition Understanding | Pinnacle Blooms",
+        "description": "My child doesn't understand in, on, under, behind? Spatial Preposition Comprehension Difficulty is neurological, not behavioral. 9 evidence-based materials. ...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "autism preposition confusion",
+          "teaching prepositions autism",
+          "spatial language delay",
+          "preposition therapy",
+          "child mixes up in on under",
+          "following directions autism",
+          "spatial concepts autism",
+          "location words therapy",
+          "preposition activities",
+          "where words autism",
+          "child doesn't understand prepositions"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Spatial Language & Prepositions challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 10
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Language Development",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language development"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Spatial Language & Prepositions",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Preposition Understanding"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-160-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-160-hero.webp",
+        "caption": "Visual showing spatial relationships made visible—objects clearly positioned in, on, under, behind, between. A child successfully placing objects in correct locations based on preposition instructions.",
+        "description": "Objects demonstrating clear spatial relationships with preposition labels",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#video",
+        "name": "9 Materials That Help With Preposition Understanding",
+        "description": "'Put the cup on the table.' He puts it under. 'Stand behind your sister.' He stands beside her. The words are simple, but the space they describe is invisible. Here are nine materials that make prepositions concrete, visible, and learnable.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-160-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-160.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-160/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#Prepositions",
+          "#SpatialLanguage",
+          "#AutismTherapy",
+          "#SpeechTherapy",
+          "#FollowingDirections",
+          "#LanguageDevelopment",
+          "#SpecialEducation",
+          "#AutismAwareness",
+          "#ChildDevelopment",
+          "#PinnacleBlooms",
+          "#SpatialConcepts",
+          "#LocationWords",
+          "#InOnUnder",
+          "#LanguageLearning",
+          "#TherapyMaterials"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Spatial Preposition Comprehension Difficulty",
+          "alternateName": [
+            "child doesn't understand prepositions",
+            "autism preposition confusion",
+            "child can't follow spatial directions"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Doesn't Understand In, On, Und",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "'Put the cup on the table.' He puts it under. 'Stand behind your sister.' He stands beside her. T..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - 3D Preposition Positioning Sets",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides concrete, tactile experience of spatial relationships. Abstract prepositions become phys..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Preposition Photo Cards with Real Objects",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides clear, unambiguous visual representations of spatial relationships using real objects. P..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Interactive Preposition Apps and Games",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Provides engaging, repeatable practice with immediate feedback on accuracy. Apps offer unlimited ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Preposition Barrier Games",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Creates functional communication contexts for preposition use. With a barrier between partners, o..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Body-Based Preposition Activities",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Leverages proprioceptive and kinesthetic learning pathways. When children physically position the..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Scene Building and Storytelling Kits",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Combines preposition practice with creative storytelling. Backgrounds provide context while movea..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Preposition Sorting and Matching Games",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Requires children to analyze spatial relationships and categorize images by preposition. This mov..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Interactive Preposition Books",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Combines literacy with spatial concept teaching. Lift-the-flap elements naturally demonstrate 'un..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Real-World Scavenger Hunts with Preposition Clues",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Applies preposition understanding to real-world navigation. Success requires understanding and ap..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child doesn't understand in, on, under, behind?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SPATIAL PREPOSITION COMPREHENSION DIFFICULTY! Difficulty understanding and using words that describe location, direction, and spatial relationships between objects. A child might struggle to put the book 'on' the shelf versus 'in' the drawer, not understand 'stand behind your sister,' or confuse 'under the table' with 'beside the table.' These are challenges in mapping language onto spatial relationships. Preposition difficulty in autism relates to the abstract, relational nature of spatial language. Prepositions don't name objects—they describe invisible relationships between objects. This requires spatial reasoning, perspective-taking, and language-to-space mapping that may not develop automatically."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Spatial Preposition Comprehension Difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Difficulty understanding and using words that describe location, direction, and spatial relationships between objects. A child might struggle to put the book 'on' the shelf versus 'in' the drawer, not understand 'stand behind your sister,' or confuse 'under the table' with 'beside the table.' These are challenges in mapping language onto spatial relationships. Common signs include: Puts objects in wrong locations despite clear instructions, Confuses similar prepositions (in/on, under/beside, behind/in front), Follows spatial directions only with demonstration, Uses prepositions incorrectly or avoids them entirely, Better understanding when shown than when told."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a 3D Preposition Positioning Sets help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides concrete, tactile experience of spatial relationships. Abstract prepositions become physical realities as children manipulate objects into different positions. The kinesthetic learning pathway creates stronger memory traces than verbal instruction alone. Price: ₹400–1,500. DIY option: Use household items: boxes, containers, small toys. Practice placing figure 'in' the box, 'on' the box, 'under' the box. Tunnels from cardboard tubes, bridges from blocks. Safety: Start with high-contrast prepositions (in/on) before similar ones (beside/behind). Ensure objects are appropriately sized for manipulation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Preposition Photo Cards with Real Objects help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides clear, unambiguous visual representations of spatial relationships using real objects. Photographs are more concrete than illustrations, reducing abstraction demands. Each card shows one object in clear relationship to another. Price: ₹200–800. DIY option: Take photos of familiar objects in clear positions around your home. Create cards showing the ball under the table, the book on the shelf, the toy beside the bed. Use child's own objects. Safety: Photos must be clear and unambiguous—avoid cluttered backgrounds. Start with distinctly different prepositions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Interactive Preposition Apps and Games help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides engaging, repeatable practice with immediate feedback on accuracy. Apps offer unlimited variations, adaptive difficulty, and gamified motivation. The digital format appeals to many children with autism who are drawn to technology. Price: ₹0–1,500. DIY option: Many free preposition apps available. Preview to ensure teaching approach matches goals. Use apps to supplement real-world practice, not replace it. Safety: Apps supplement but don't replace real-world learning. Ensure transfer from screen to physical world. Monitor screen time."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Preposition Barrier Games help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Creates functional communication contexts for preposition use. With a barrier between partners, one person describes positions while the other recreates them. Success depends on accurate preposition use—vague descriptions fail, precise prepositions succeed. Price: ₹300–1,000. DIY option: Use a book or folder as barrier. Give both players identical objects (blocks, toy figures). Take turns describing and recreating positions. Compare when done. Safety: Requires partner—plan for who plays with child. Match complexity to ability level. Don't overwhelm with too many objects or prepositions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Body-Based Preposition Activities help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Leverages proprioceptive and kinesthetic learning pathways. When children physically position their bodies in spatial relationships, they experience prepositions with their whole sensory-motor system. Embodied learning is particularly powerful for movement learners. Price: ₹200–1,200. DIY option: Create obstacle course at home: crawl UNDER the table, step ON the mat, walk THROUGH the doorway, stand BESIDE the couch. Play 'preposition says' like Simon Says. Safety: Ensure activities are physically safe and appropriate. Some children may need motor support. Transfer learning from body to object manipulation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Scene Building and Storytelling Kits help with spatial preposition comprehension difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Combines preposition practice with creative storytelling. Backgrounds provide context while moveable pieces can be positioned in various spatial relationships. This format is engaging because it creates meaningful scenes rather than isolated drills. Price: ₹300–1,500. DIY option: Use felt boards, magnetic boards, or paper scenes with cut-out pieces. Create backgrounds (farm, house, playground) and moveable figures. Practice placing with preposition narration. Safety: Ensure scenes allow clear preposition demonstration. Don't let storytelling overshadow preposition focus. Match scene complexity to ability level."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No improvement in preposition understanding after consistent intervention. Broader receptive language difficulties beyond prepositions. Visual-spatial deficits affecting all spatial processing. Hearing concerns affecting comprehension. Preposition difficulty combined with general cognitive delays. Consult speech-language pathologist for: formal assessment of spatial language in context of overall receptive/expressive skills, structured intervention program, monitoring progress, and coordination with occupational therapy if visual-spatial processing concerns exist."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 80+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#howto",
+        "name": "How to Help a Child with Spatial Preposition Comprehension Difficulty",
+        "description": "A graded approach using evidence-based materials. Prepositions describe invisible relationships between objects—not the objects themselves. Making these abstract spatial concepts concrete through hands-on manipulation, body-based experience, and visual demonstration transforms understanding.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1950,
+          "maxValue": 9100
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "3D Preposition Positioning Sets",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Preposition Photo Cards with Real Objects",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Interactive Preposition Apps and Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 0,
+              "maxValue": 1500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Difficulty understanding and using words that describe location, direction, and spatial relationships between objects. A child might struggle to put the book 'on' the shelf versus 'in' the drawer, not understand 'stand behind your sister,' or confuse 'under the table' with 'beside the table.' These are challenges in mapping language onto spatial relationships. Prepositions describe invisible relationships between objects—not the objects themselves. Making these abstract spatial concepts concrete through hands-on manipulation, body-based experience, and visual demonstration transforms understanding."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: 3D Preposition Positioning Sets, Preposition Photo Cards with Real Objects, Interactive Preposition Apps and Games."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No improvement in preposition understanding after consistent intervention, Broader receptive language difficulties beyond prepositions, Visual-spatial deficits affecting all spatial processing."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult speech-language pathologist for: formal assessment of spatial language in context of overall receptive/expressive skills, structured intervention program, monitoring progress, and coordination with occupational therapy if visual-spatial processing concerns exist."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#medicalpage",
+        "name": "Spatial Preposition Comprehension Difficulty Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Spatial Preposition Comprehension Difficulty",
+          "alternateName": [
+            "child doesn't understand prepositions",
+            "autism preposition confusion",
+            "child can't follow spatial directions"
+          ],
+          "description": "Difficulty understanding and using words that describe location, direction, and spatial relationships between objects. A child might struggle to put the book 'on' the shelf versus 'in' the drawer, not understand 'stand behind your sister,' or confuse 'under the table' with 'beside the table.' These are challenges in mapping language onto spatial relationships.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Puts objects in wrong locations despite clear instructions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Confuses similar prepositions (in/on, under/beside, behind/in front)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Follows spatial directions only with demonstration"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Uses prepositions incorrectly or avoids them entirely"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Better understanding when shown than when told"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty with multi-step directions involving positions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Struggles with 'where' questions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Can't describe where objects are located"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#article",
+        "headline": "9 Materials That Help With Preposition Understanding",
+        "alternativeHeadline": "When 'on,' 'in,' and 'under' all sound the same",
+        "description": "My child doesn't understand in, on, under, behind? Spatial Preposition Comprehension Difficulty is neurological, not behavioral. 9 evidence-based materials. ...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#primaryimage"
+        },
+        "articleSection": "Language Development",
+        "wordCount": 3500,
+        "keywords": [
+          "autism preposition confusion",
+          "teaching prepositions autism",
+          "spatial language delay",
+          "preposition therapy",
+          "child mixes up in on under"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Research on Spatial Language Development in Autism",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "Preposition difficulty in autism relates to the abstract, relational nature of spatial language combined with visual-spatial processing variations and challenges in language-to-space mapping."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate. 80+ centers, 1,600+ certified therapists providing comprehensive autism and developmental services."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Eigsti IM et al.",
+            "url": "",
+            "description": "Language acquisition in autism spectrum disorders (2011). Comprehensive review of language development patterns in autism."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Landau B & Jackendoff R",
+            "url": "",
+            "description": "'What' and 'where' in spatial language (1993). Foundational research on how language encodes spatial relationships."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Johnston JR & Slobin DI",
+            "url": "",
+            "description": "The development of locative expressions (1979). Classic study on the sequence of preposition acquisition in typical development."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#healthcontent",
+        "name": "Spatial Preposition Comprehension Difficulty Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Spatial Preposition Comprehension Difficulty"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Spatial Language & Prepositions challenges"
+        },
+        "keywords": [
+          "autism preposition confusion",
+          "teaching prepositions autism",
+          "spatial language delay",
+          "preposition therapy",
+          "child mixes up in on under"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#evidence",
+        "claimReviewed": "Prepositions describe invisible relationships between objects—not the objects themselves. Making these abstract spatial concepts concrete through hands-on manipulation, body-based experience, and visual demonstration transforms understanding. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Spatial Preposition Comprehension Difficulty Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions#collection",
+        "name": "Spatial Language & Directions Series",
+        "description": "Complete series of 200 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-158: Pronoun Confusion",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-159: Instructions Need Repeating",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-160: Preposition Understanding (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-161: Question Answering",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-162: Vocabulary Building",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 200,
+        "collectionSize": 200
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#materials",
+        "name": "9 Materials for Spatial Preposition Comprehension Difficulty",
+        "description": "Evidence-based materials for ages 2–10 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "3D Preposition Positioning Sets",
+              "description": "Provides concrete, tactile experience of spatial relationships. Abstract prepositions become physical realities as children manipulate objects into different positions. The kinesthetic learning pathway creates stronger memory traces than verbal instruction alone.",
+              "category": "Concrete3d",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use household items: boxes, containers, small toys. Practice placing figure 'in' the box, 'on' the box, 'under' the box. Tunnels from cardboard tubes, bridges from blocks."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with high-contrast prepositions (in/on) before similar ones (beside/behind). Ensure objects are appropriately sized for manipulation."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Preposition Photo Cards with Real Objects",
+              "description": "Provides clear, unambiguous visual representations of spatial relationships using real objects. Photographs are more concrete than illustrations, reducing abstraction demands. Each card shows one object in clear relationship to another.",
+              "category": "Visualsupports",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Take photos of familiar objects in clear positions around your home. Create cards showing the ball under the table, the book on the shelf, the toy beside the bed. Use child's own objects."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Photos must be clear and unambiguous—avoid cluttered backgrounds. Start with distinctly different prepositions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Interactive Preposition Apps and Games",
+              "description": "Provides engaging, repeatable practice with immediate feedback on accuracy. Apps offer unlimited variations, adaptive difficulty, and gamified motivation. The digital format appeals to many children with autism who are drawn to technology.",
+              "category": "Technology",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Many free preposition apps available. Preview to ensure teaching approach matches goals. Use apps to supplement real-world practice, not replace it."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Apps supplement but don't replace real-world learning. Ensure transfer from screen to physical world. Monitor screen time."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Preposition Barrier Games",
+              "description": "Creates functional communication contexts for preposition use. With a barrier between partners, one person describes positions while the other recreates them. Success depends on accurate preposition use—vague descriptions fail, precise prepositions succeed.",
+              "category": "Social",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use a book or folder as barrier. Give both players identical objects (blocks, toy figures). Take turns describing and recreating positions. Compare when done."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Requires partner—plan for who plays with child. Match complexity to ability level. Don't overwhelm with too many objects or prepositions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Body-Based Preposition Activities",
+              "description": "Leverages proprioceptive and kinesthetic learning pathways. When children physically position their bodies in spatial relationships, they experience prepositions with their whole sensory-motor system. Embodied learning is particularly powerful for movement learners.",
+              "category": "Kinesthetic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create obstacle course at home: crawl UNDER the table, step ON the mat, walk THROUGH the doorway, stand BESIDE the couch. Play 'preposition says' like Simon Says."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure activities are physically safe and appropriate. Some children may need motor support. Transfer learning from body to object manipulation."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Scene Building and Storytelling Kits",
+              "description": "Combines preposition practice with creative storytelling. Backgrounds provide context while moveable pieces can be positioned in various spatial relationships. This format is engaging because it creates meaningful scenes rather than isolated drills.",
+              "category": "Creative",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use felt boards, magnetic boards, or paper scenes with cut-out pieces. Create backgrounds (farm, house, playground) and moveable figures. Practice placing with preposition narration."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure scenes allow clear preposition demonstration. Don't let storytelling overshadow preposition focus. Match scene complexity to ability level."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Preposition Sorting and Matching Games",
+              "description": "Requires children to analyze spatial relationships and categorize images by preposition. This moves beyond simple identification to active comparison and classification—understanding what makes 'under' different from 'in' or 'beside.'",
+              "category": "Categorization",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create sorting mats labeled with prepositions. Find or draw pictures showing each relationship. Sort cards into correct categories. Play preposition memory/matching games."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Sorting images must clearly represent prepositions. Start with distinctly different categories before similar ones."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Interactive Preposition Books",
+              "description": "Combines literacy with spatial concept teaching. Lift-the-flap elements naturally demonstrate 'under.' Sliding mechanisms show 'in/out' transitions. The narrative context makes prepositions meaningful while interactive elements create hands-on engagement.",
+              "category": "Literacy",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple lift-the-flap books with paper. Hide pictures under flaps labeled with prepositions. Use existing books and emphasize prepositions while reading: 'Where did the bunny hide? UNDER the blanket!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose books with clear preposition teaching. Don't let interactivity distract from spatial learning focus. Ensure durability for repeated use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Real-World Scavenger Hunts with Preposition Clues",
+              "description": "Applies preposition understanding to real-world navigation. Success requires understanding and applying spatial vocabulary in actual environments, promoting generalization. Prepositions become functional tools for finding things, not just therapy vocabulary.",
+              "category": "Realworld",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create clue cards with prepositions: 'Look UNDER your pillow,' 'Find something ON the bookshelf.' Hide small treats or toys. Let child create hunts for family members."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure safety of hiding locations. Match hunt difficulty to ability level. Don't frustrate with too-difficult clues."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language development/spatial language & prepositions/9-materials-that-help-with-preposition-understanding#course",
+        "name": "Language & Communication Solutions",
+        "description": "Parent education video series on Language Development interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Preposition Understanding | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "autism preposition confusion, teaching prepositions autism, spatial language delay, preposition therapy, child mixes up in on under"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-160.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-160-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-160.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Preposition Understanding",
+      "content_category": "Intervention Techniques > Language Development > Spatial Language & Prepositions",
+      "content_ids": [
+        "B-160"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-160",
+        "technique_theme": "9MAT",
+        "domain": "Language Development",
+        "sub_domain": "Spatial Language & Prepositions",
+        "domain_code": "LANG-PREP",
+        "series": "Language & Communication Solutions",
+        "episode": 160,
+        "age_band": "2–10 years",
+        "setting": "Home + School + Therapy + Community",
+        "cluster_id": "LANG-SPATIAL-01",
+        "cluster_position": 160,
+        "materials_count": 9,
+        "total_cost_range": "₹1,950–9,100 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#Prepositions",
+      "#SpatialLanguage",
+      "#AutismTherapy",
+      "#SpeechTherapy",
+      "#FollowingDirections",
+      "#LanguageDevelopment",
+      "#SpecialEducation",
+      "#AutismAwareness",
+      "#ChildDevelopment",
+      "#PinnacleBlooms",
+      "#SpatialConcepts",
+      "#LocationWords",
+      "#InOnUnder",
+      "#LanguageLearning",
+      "#TherapyMaterials"
+    ],
+    "caption": "'Put the cup ON the table.' He puts it under. 🤔 The words are simple, but the space they describe is invisible. Prepositions don't name objects—they describe invisible RELATIONSHIPS between objects. For many children with autism, mapping this abstract language onto physical space requires explicit teaching. Here are 9 materials that help: 3D positioning sets, photo cards, interactive apps, barrier games, body-based activities, scene building kits, sorting games, interactive books, and real-world scavenger hunts. When spatial language makes sense, the whole world becomes navigable! Save for preposition teaching! 🔖 #Prepositions #SpatialLanguage #AutismTherapy #SpeechTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-161",
+    "prevInSeries": "B-159",
+    "relatedTechniques": [
+      "B-159",
+      "B-161",
+      "B-156",
+      "B-170",
+      "B-190"
+    ],
+    "deepDives": [
+      "B-160-DD-01",
+      "B-160-DD-02",
+      "B-160-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-940"
+    ]
+  }
+}

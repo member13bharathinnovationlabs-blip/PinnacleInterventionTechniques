@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends",
+    "title": "9 Materials That Help Keeping Friends | Pinnacle Blooms",
+    "description": "My child makes friends but can't seem to keep them—friendships start well but always seem to fade away? Friendship maintenance deficits with impaired relatio...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "C-311",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help When...",
+    "series": "Social Connection Solutions",
+    "episodeInSeries": 311,
+    "domain": "Social Skills",
+    "subDomain": "Friendship Maintenance & Relationship Sustainability",
+    "domainCode": "SOC-FRM",
+    "ageBand": "5–14 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SOC-FRM-02",
+    "clusterName": "Friendship & Social Connection Series",
+    "clusterPosition": 311,
+    "totalInCluster": 350
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends",
+        "name": "9 Materials That Help Keeping Friends | Pinnacle Blooms",
+        "description": "My child makes friends but can't seem to keep them—friendships start well but always seem to fade away? Friendship maintenance deficits with impaired relatio...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "why does my child lose friends",
+          "child makes friends but loses them",
+          "friendship maintenance skills",
+          "teaching kids to keep friends",
+          "child friendships don't last",
+          "social skills friendship",
+          "child pushes friends away",
+          "conflict resolution kids",
+          "reciprocity in friendships",
+          "child can't keep friends"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Friendship Maintenance & Relationship Sustainability challenges",
+          "suggestedMinAge": 5,
+          "suggestedMaxAge": 14
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social Skills",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social skills"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Friendship Maintenance & Relationship Sustainability",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help Keeping Friends"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/C-311-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/C-311-hero.webp",
+        "caption": "Visual metaphor showing friendships like flowers—initial connection blooming brightly, then wilting without care. Transformation showing child learning to tend friendships like a gardener, keeping connections alive and growing stronger over time.",
+        "description": "Child learning friendship maintenance skills, transforming pattern of lost friendships into lasting connections",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#video",
+        "name": "9 Materials That Help Keeping Friends",
+        "description": "They make friends—that's not the problem. It's what happens next. Friendships that start strong but fade away. Conflicts that could have been fixed but weren't. The friend who slowly stopped calling. Making friends is one skill. Keeping them is another. Here are 9 materials that teach the ongoing work of friendship.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/C-311-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/C-311.mp4",
+        "embedUrl": "https://www.instagram.com/reel/C-311/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#KeepingFriends",
+          "#FriendshipMaintenance",
+          "#SocialSkills",
+          "#LastingConnections",
+          "#FriendshipSkills",
+          "#ConflictResolution",
+          "#ChildFriendships",
+          "#RelationshipSkills",
+          "#AutismSupport",
+          "#PinnacleBlooms",
+          "#SocialLearning",
+          "#FriendshipRepair",
+          "#Reciprocity",
+          "#PerspectiveTaking",
+          "#EmotionalIntelligence"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Friendship maintenance deficits with impaired relationship sustainability",
+          "alternateName": [
+            "child can't keep friends",
+            "why does my child lose friends",
+            "child makes friends but loses them"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Makes Friends But Can't Seem T",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "They make friends—that's not the problem. It's what happens next. Friendships that start strong b..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Friendship Maintenance Calendars and Connection Trackers",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Makes the invisible work of friendship visible—externalizing memory to remind children to tend th..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Reciprocity Teaching Games and Give-Take Balance Tools",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Teaches that friendship flows both ways—helping children notice and correct imbalances before the..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Conflict Resolution Card Sets and Problem-Solving Steps",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Teaches that disagreements don't have to end friendships—providing step-by-step navigation throug..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Apology and Repair Skill Materials",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Teaches genuine apology as a skill—not just saying 'sorry' but actually healing relationship wounds."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Perspective-Taking Story Books and Empathy Builders",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Helps children see through their friend's eyes—understanding how their actions affect others befo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Friendship Intensity Regulation Tools",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Helps children calibrate their connection level—not too clingy (smothering) or too distant (negle..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Listening and Remembering Games",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Shows friends they matter by remembering what's important to them—building connection through att..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Flexibility and Compromise Cards",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Teaches bending without breaking—rigid expectations ruin relationships; flexibility saves them."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Friendship Feelings Check-In Tools",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Helps catch problems before friendships end—monitoring relationship health and addressing issues ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child makes friends but can't seem to keep them—friendships start well but always seem to fade away?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "FRIENDSHIP MAINTENANCE DEFICITS WITH IMPAIRED RELATIONSHIP SUSTAINABILITY! A social pattern where children successfully initiate friendships but struggle with the ongoing work required to maintain them. They may become too clingy or too distant, fail to navigate conflicts constructively, miss reciprocity cues, say or do things that push friends away, not know how to repair relationship ruptures, and watch friendships fade without understanding why. Making friends is one skill; keeping them requires different abilities entirely. Per SPD Foundation and developmental research: Friendship maintenance requires distinct skills from friendship initiation. Children must manage sensory and social demands over time, read subtle cues about relationship health, regulate emotional responses during conflicts, and understand the ongoing investment that relationships require. Many children with autism, ADHD, or social communication differences can connect initially but struggle with the sustained attention, perspective-taking, and flexibility that maintaining friendships demands. Explicit teaching of maintenance skills can help children keep the connections they make."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A social pattern where children successfully initiate friendships but struggle with the ongoing work required to maintain them. They may become too clingy or too distant, fail to navigate conflicts constructively, miss reciprocity cues, say or do things that push friends away, not know how to repair relationship ruptures, and watch friendships fade without understanding why. Making friends is one skill; keeping them requires different abilities entirely. Common signs include: Makes friends initially but friendships don't last, Pattern of cycling through friends repeatedly, Doesn't understand why friendships ended, Becomes too intense or too distant with friends, Can't navigate disagreements without friendship ending."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Friendship Maintenance Calendars and Connection Trackers help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Makes the invisible work of friendship visible—externalizing memory to remind children to tend their relationship garden regularly. Price: ₹150–400. DIY option: Create a friendship calendar together. Schedule regular check-ins: 'Every Monday, text one friend.' Track maintenance activities. Celebrate consistency. Safety: Don't make friendship feel like homework. Balance scheduling with spontaneity. Ensure child genuinely values these friendships."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Reciprocity Teaching Games and Give-Take Balance Tools help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches that friendship flows both ways—helping children notice and correct imbalances before they damage relationships. Price: ₹200–500. DIY option: Play games requiring balanced exchange. Reflect: 'Have you been doing all the choosing?' 'Is this friendship feeling fair?' Create give-take tracking visuals. Safety: Reciprocity doesn't mean exact score-keeping. Teach general balance, not rigid accounting. Some asymmetry is normal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Conflict Resolution Card Sets and Problem-Solving Steps help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches that disagreements don't have to end friendships—providing step-by-step navigation through conflicts. Price: ₹200–450. DIY option: Create cards with conflict steps: 1) Cool down, 2) Each shares their view, 3) Listen to understand, 4) Find solution together, 5) Reconnect. Practice with role-play. Safety: Some conflicts require adult help. Cards support minor peer conflicts, not bullying. Resolution requires both parties' willingness."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Apology and Repair Skill Materials help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches genuine apology as a skill—not just saying 'sorry' but actually healing relationship wounds. Price: ₹150–400. DIY option: Teach apology components: 'I did [what],' 'That made you feel [how],' 'I'm sorry,' 'I'll try to [change],' 'Can I do something to help?' Practice with hypotheticals. Safety: Never force insincere apologies. Help child understand why repair matters. Receiving forgiveness is separate—apology doesn't guarantee it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Perspective-Taking Story Books and Empathy Builders help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Helps children see through their friend's eyes—understanding how their actions affect others before damage is done. Price: ₹200–500. DIY option: Read stories showing multiple perspectives. Discuss: 'How did each person feel?' Connect to real situations: 'How do you think your friend felt when that happened?' Safety: Perspective-taking is cognitively demanding—match to developmental level. Some differences are neurological, not willful."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Friendship Intensity Regulation Tools help with friendship maintenance deficits with impaired relationship sustainability?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Helps children calibrate their connection level—not too clingy (smothering) or too distant (neglecting). Price: ₹150–350. DIY option: Create 'friendship thermometer'—hot (clingy/overwhelming), cold (distant/neglecting), comfortable (connected but not suffocating). Discuss where child tends to be. Safety: Intensity preferences vary by person—what's 'too much' for one is fine for another. Teach reading the specific friend."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: All friendships end in conflict or distress. Child shows no awareness of or concern about lost friendships. Extreme patterns (stalking behavior or complete avoidance). Lost friendships due to aggressive or harmful behavior. Depression or anxiety secondary to repeated friendship loss. Consult psychologist or counselor if: pattern is severe and causing significant distress, underlying mental health issues present, child shows no progress after 12+ weeks of consistent practice, or behavioral concerns require professional intervention."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#howto",
+        "name": "How to Help a Child with Friendship Maintenance Deficits With Impaired Relationship Sustainability",
+        "description": "A graded approach using evidence-based materials. Making friends and keeping friends require different skill sets. Maintenance skills can be explicitly taught through practice, role-play, and systematic support.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1350,
+          "maxValue": 3650
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Friendship Maintenance Calendars and Connection Trackers",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 150,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Reciprocity Teaching Games and Give-Take Balance Tools",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Conflict Resolution Card Sets and Problem-Solving Steps",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 450
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A social pattern where children successfully initiate friendships but struggle with the ongoing work required to maintain them. They may become too clingy or too distant, fail to navigate conflicts constructively, miss reciprocity cues, say or do things that push friends away, not know how to repair relationship ruptures, and watch friendships fade without understanding why. Making friends is one skill; keeping them requires different abilities entirely. Making friends and keeping friends require different skill sets. Maintenance skills can be explicitly taught through practice, role-play, and systematic support."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Friendship Maintenance Calendars and Connection Trackers, Reciprocity Teaching Games and Give-Take Balance Tools, Conflict Resolution Card Sets and Problem-Solving Steps."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: All friendships end in conflict or distress, Child shows no awareness of or concern about lost friendships, Extreme patterns (stalking behavior or complete avoidance)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult psychologist or counselor if: pattern is severe and causing significant distress, underlying mental health issues present, child shows no progress after 12+ weeks of consistent practice, or behavioral concerns require professional intervention."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#medicalpage",
+        "name": "Friendship maintenance deficits with impaired relationship sustainability Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Friendship maintenance deficits with impaired relationship sustainability",
+          "alternateName": [
+            "child can't keep friends",
+            "why does my child lose friends",
+            "child makes friends but loses them"
+          ],
+          "description": "A social pattern where children successfully initiate friendships but struggle with the ongoing work required to maintain them. They may become too clingy or too distant, fail to navigate conflicts constructively, miss reciprocity cues, say or do things that push friends away, not know how to repair relationship ruptures, and watch friendships fade without understanding why. Making friends is one skill; keeping them requires different abilities entirely.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Makes friends initially but friendships don't last"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Pattern of cycling through friends repeatedly"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't understand why friendships ended"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Becomes too intense or too distant with friends"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Can't navigate disagreements without friendship ending"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't know how to apologize or repair ruptures"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Forgets to check in or show interest in friends"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't balance give-and-take in relationships"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#article",
+        "headline": "9 Materials That Help Keeping Friends",
+        "alternativeHeadline": "When making friends isn't the problem—keeping them is",
+        "description": "My child makes friends but can't seem to keep them—friendships start well but always seem to fade away? Friendship maintenance deficits with impaired relatio...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#primaryimage"
+        },
+        "articleSection": "Social Skills",
+        "wordCount": 3500,
+        "keywords": [
+          "why does my child lose friends",
+          "child makes friends but loses them",
+          "friendship maintenance skills",
+          "teaching kids to keep friends",
+          "child friendships don't last"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Friendship maintenance requires managing sensory and social demands over time, reading subtle cues about relationship health, and understanding the ongoing investment that relationships require."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across social skills and friendship interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Frankel, F. & Myatt, R.",
+            "url": "",
+            "description": "Children's Friendship Training (2003). Routledge. Evidence-based approach to teaching social skills for children with autism and other social difficulties."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Laugeson, E.A. & Frankel, F.",
+            "url": "",
+            "description": "Social Skills for Teenagers with Developmental and Autism Spectrum Disorders: The PEERS Treatment Manual (2010). Routledge."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Bagwell, C.L. & Schmidt, M.E.",
+            "url": "",
+            "description": "Friendships in Childhood and Adolescence (2011). Guilford Press. Comprehensive review of friendship development and maintenance."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#healthcontent",
+        "name": "Friendship maintenance deficits with impaired relationship sustainability Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Friendship maintenance deficits with impaired relationship sustainability"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Friendship Maintenance & Relationship Sustainability challenges"
+        },
+        "keywords": [
+          "why does my child lose friends",
+          "child makes friends but loses them",
+          "friendship maintenance skills",
+          "teaching kids to keep friends",
+          "child friendships don't last"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#evidence",
+        "claimReviewed": "Making friends and keeping friends require different skill sets. Maintenance skills can be explicitly taught through practice, role-play, and systematic support. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Friendship Maintenance Deficits With Impaired Relationship Sustainability Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability#collection",
+        "name": "Friendship & Social Connection Series",
+        "description": "Complete series of 350 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "C-309: Inflexible Play",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-310: Making Friends",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-311: Keeping Friends (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-312: Understanding Personal Space",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-313: Reading Social Cues",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 350,
+        "collectionSize": 350
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#materials",
+        "name": "9 Materials for Friendship Maintenance Deficits With Impaired Relationship Sustainability",
+        "description": "Evidence-based materials for ages 5–14 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Friendship Maintenance Calendars and Connection Trackers",
+              "description": "Makes the invisible work of friendship visible—externalizing memory to remind children to tend their relationship garden regularly.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a friendship calendar together. Schedule regular check-ins: 'Every Monday, text one friend.' Track maintenance activities. Celebrate consistency."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't make friendship feel like homework. Balance scheduling with spontaneity. Ensure child genuinely values these friendships."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Reciprocity Teaching Games and Give-Take Balance Tools",
+              "description": "Teaches that friendship flows both ways—helping children notice and correct imbalances before they damage relationships.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Play games requiring balanced exchange. Reflect: 'Have you been doing all the choosing?' 'Is this friendship feeling fair?' Create give-take tracking visuals."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Reciprocity doesn't mean exact score-keeping. Teach general balance, not rigid accounting. Some asymmetry is normal."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Conflict Resolution Card Sets and Problem-Solving Steps",
+              "description": "Teaches that disagreements don't have to end friendships—providing step-by-step navigation through conflicts.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–450"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards with conflict steps: 1) Cool down, 2) Each shares their view, 3) Listen to understand, 4) Find solution together, 5) Reconnect. Practice with role-play."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some conflicts require adult help. Cards support minor peer conflicts, not bullying. Resolution requires both parties' willingness."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Apology and Repair Skill Materials",
+              "description": "Teaches genuine apology as a skill—not just saying 'sorry' but actually healing relationship wounds.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Teach apology components: 'I did [what],' 'That made you feel [how],' 'I'm sorry,' 'I'll try to [change],' 'Can I do something to help?' Practice with hypotheticals."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Never force insincere apologies. Help child understand why repair matters. Receiving forgiveness is separate—apology doesn't guarantee it."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Perspective-Taking Story Books and Empathy Builders",
+              "description": "Helps children see through their friend's eyes—understanding how their actions affect others before damage is done.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Read stories showing multiple perspectives. Discuss: 'How did each person feel?' Connect to real situations: 'How do you think your friend felt when that happened?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Perspective-taking is cognitively demanding—match to developmental level. Some differences are neurological, not willful."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Friendship Intensity Regulation Tools",
+              "description": "Helps children calibrate their connection level—not too clingy (smothering) or too distant (neglecting).",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–350"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create 'friendship thermometer'—hot (clingy/overwhelming), cold (distant/neglecting), comfortable (connected but not suffocating). Discuss where child tends to be."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Intensity preferences vary by person—what's 'too much' for one is fine for another. Teach reading the specific friend."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Listening and Remembering Games",
+              "description": "Shows friends they matter by remembering what's important to them—building connection through attention.",
+              "category": "Reciprocityskills",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Play memory games about friends' lives. Practice: 'What did they say about their weekend?' Apply: 'Your friend mentioned a test—ask how it went.' Celebrate remembering."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't turn this into surveillance. Goal is natural interest and care, not forced memorization."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Flexibility and Compromise Cards",
+              "description": "Teaches bending without breaking—rigid expectations ruin relationships; flexibility saves them.",
+              "category": "Flexibility",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–350"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Present scenarios requiring compromise. Practice generating options: 'What are three ways this could go?' Celebrate flexibility: 'You bent a little—that saved playtime!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Flexibility doesn't mean always giving in. Balance with appropriate assertiveness. Some things shouldn't be compromised."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Friendship Feelings Check-In Tools",
+              "description": "Helps catch problems before friendships end—monitoring relationship health and addressing issues early.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create friendship health check: 'How does this friendship feel right now?' 'When did you last have fun together?' 'Is something off?' Regular reviews catch drift early."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't create friendship anxiety. Check-ins should feel caring, not obsessive. Some fluctuation is normal."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social skills/friendship maintenance & relationship sustainability/9-materials-that-help-keeping-friends#course",
+        "name": "Social Connection Solutions",
+        "description": "Parent education video series on Social Skills interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help Keeping Friends | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "why does my child lose friends, child makes friends but loses them, friendship maintenance skills, teaching kids to keep friends, child friendships don't last"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/C-311.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/C-311-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/C-311.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help Keeping Friends",
+      "content_category": "Intervention Techniques > Social Skills > Friendship Maintenance & Relationship Sustainability",
+      "content_ids": [
+        "C-311"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "C-311",
+        "technique_theme": "9MAT",
+        "domain": "Social Skills",
+        "sub_domain": "Friendship Maintenance & Relationship Sustainability",
+        "domain_code": "SOC-FRM",
+        "series": "Social Connection Solutions",
+        "episode": 311,
+        "age_band": "5–14 years",
+        "setting": "Home",
+        "cluster_id": "SOC-FRM-02",
+        "cluster_position": 311,
+        "materials_count": 9,
+        "total_cost_range": "₹1,350–3,650 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#KeepingFriends",
+      "#FriendshipMaintenance",
+      "#SocialSkills",
+      "#LastingConnections",
+      "#FriendshipSkills",
+      "#ConflictResolution",
+      "#ChildFriendships",
+      "#RelationshipSkills",
+      "#AutismSupport",
+      "#PinnacleBlooms",
+      "#SocialLearning",
+      "#FriendshipRepair",
+      "#Reciprocity",
+      "#PerspectiveTaking",
+      "#EmotionalIntelligence"
+    ],
+    "caption": "They make friends—that's not the problem. It's what happens next. 💔→💪 Friendships that start strong but fade. Conflicts that weren't fixed. The friend who stopped calling. Making friends is one skill. KEEPING them is another entirely. Here are 9 materials that teach the ongoing work of friendship—reciprocity, repair, flexibility, and maintenance. Because friendships are worth keeping. Save this! #KeepingFriends #FriendshipMaintenance #SocialSkills #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "C-312",
+    "prevInSeries": "C-310",
+    "relatedTechniques": [
+      "C-310",
+      "C-312",
+      "C-313",
+      "B-199",
+      "B-205"
+    ],
+    "deepDives": [
+      "C-311-DD-01",
+      "C-311-DD-02",
+      "C-311-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-945",
+      "K-960"
+    ]
+  }
+}

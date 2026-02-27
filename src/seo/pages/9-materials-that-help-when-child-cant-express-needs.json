@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs",
+    "title": "9 Materials That Help When Child Can't Express Needs | Pinnacle Blooms",
+    "description": "My child can't tell me what they want or need? Expressive communication deficit for functional requesting is neurological, not behavioral. 9 evidence-based m...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-189",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Communication Solutions",
+    "episodeInSeries": 189,
+    "domain": "Communication",
+    "subDomain": "Expressive Language / AAC",
+    "domainCode": "COM-EXP",
+    "ageBand": "18 months – 8 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "COM-EXP-01",
+    "clusterName": "Functional Communication Series",
+    "clusterPosition": 189,
+    "totalInCluster": 250
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs",
+        "name": "9 Materials That Help When Child Can't Express Needs | Pinnacle Blooms",
+        "description": "My child can't tell me what they want or need? Expressive communication deficit for functional requesting is neurological, not behavioral. 9 evidence-based m...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "nonverbal child communication",
+          "AAC for children",
+          "child can't tell me what they want",
+          "communication board for kids",
+          "how to help nonverbal child",
+          "PECS communication system",
+          "sign language for special needs",
+          "speech device for child",
+          "toddler communication frustration",
+          "child can't express needs"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Expressive Language / AAC challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Expressive Language / AAC",
+            "item": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Can't Express Needs"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-189-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-189-hero.webp",
+        "caption": "Young child reaching toward something they want, face showing frustration, unable to communicate. Parent kneeling nearby, trying to understand. Then transformation: same child pointing to picture symbol, adult responding with the item, child's relief and connection visible. Warm home setting with natural lighting.",
+        "description": "Child unable to express needs transforming to child using communication tool successfully",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#video",
+        "name": "9 Materials That Help When Child Can't Express Needs",
+        "description": "If your child can't tell you what they need – and frustration takes over – they're not misbehaving. They're trapped without a way to be heard. Here are 9 materials that give every child a voice.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-189-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-189.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-189/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#CantExpressNeeds",
+          "#AAC",
+          "#AugmentativeCommunication",
+          "#NonverbalCommunication",
+          "#SpeechTherapy",
+          "#CommunicationBoard",
+          "#PECS",
+          "#SignLanguage",
+          "#SpeechDelay",
+          "#PinnacleBlooms",
+          "#EveryChildCommunicates",
+          "#CommunicationMatters",
+          "#GiveThemAVoice",
+          "#FunctionalCommunication",
+          "#ParentSupport"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Expressive communication deficit for functional requesting",
+          "alternateName": [
+            "child can't express needs",
+            "toddler can't communicate wants",
+            "child nonverbal frustration"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Can't Tell Me What They Want O",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "If your child can't tell you what they need – and frustration takes over – they're not misbehavin..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - First Words Communication Boards",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides immediate access to high-frequency vocabulary for basic needs – want, more, help, stop –..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Picture Exchange Communication System (PECS) Materials",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Teaches that giving a picture to a person results in getting the desired item – building the foun..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Choice Boards for Daily Routines",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Reduces communication demand – child recognizes and selects from options rather than generating l..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Speech-Generating Devices and AAC Apps",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Provides voice output when the child cannot produce speech – technology speaks for them, giving t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Sign Language Visual Guides and Flashcards",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Provides gestural communication that requires no external tools – hands are always available. Sig..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Portable Request Cards and Symbol Sets",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Ensures communication is available everywhere – school, community, grandma's house. Children are ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Big Button Voice Recorders and Single-Message Devices",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Provides simplest voice output – one push, one message. Teaches cause-and-effect communication wi..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Visual Emotion and Needs Charts",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Makes internal states visible and pointable – children can indicate feelings and physical states ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Modeling and Aided Language Stimulation Materials",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Adults using the child's AAC system teaches that it's for real communication – children need to s..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child can't tell me what they want or need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EXPRESSIVE COMMUNICATION DEFICIT FOR FUNCTIONAL REQUESTING! The inability to functionally communicate basic wants, needs, and requests through any modality (speech, sign, symbols, gestures), leading to frustration, behavioral escalation, or withdrawal. The child may understand more than they can express, creating a painful gap between what they need and their ability to make that need known. Per SPD Foundation and communication research: When children cannot express basic needs, the sensory and emotional overwhelm of unmet needs compounds the communication challenge. The frustration of not being understood creates stress that further impairs communication attempts. This creates a cycle where behavioral escalation becomes the primary 'communication' method. Breaking this cycle requires giving children functional communication tools immediately – not waiting for speech to develop. Every child can communicate; they just need the right system."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The inability to functionally communicate basic wants, needs, and requests through any modality (speech, sign, symbols, gestures), leading to frustration, behavioral escalation, or withdrawal. The child may understand more than they can express, creating a painful gap between what they need and their ability to make that need known. Common signs include: Cries, screams, or has meltdowns when needs aren't met, Pulls or leads adults to desired items without communication, Points without words or with unintelligible vocalizations, Hits, bites, or shows aggression when frustrated, Gives up trying to communicate and becomes passive."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a First Words Communication Boards help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides immediate access to high-frequency vocabulary for basic needs – want, more, help, stop – that can be combined with context to communicate countless messages. Price: ₹200–500. DIY option: Print core vocabulary symbols (free online), laminate, attach to cardboard. Include: want, more, stop, help, go, eat, drink, all done, yes, no. Safety: Board must be available at ALL times. Model use constantly. Honor all communication attempts immediately."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Picture Exchange Communication System (PECS) Materials help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches that giving a picture to a person results in getting the desired item – building the foundation of intentional communication through clear cause-and-effect. Price: ₹500–1,500. DIY option: Create picture cards of highly desired items. Velcro to communication book. Follow PECS phases: physical exchange first, then distance, then discrimination. Safety: Requires structured implementation. Use truly motivating items. Generalize across settings and communication partners."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Choice Boards for Daily Routines help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reduces communication demand – child recognizes and selects from options rather than generating language, enabling real decisions throughout the day. Price: ₹150–400. DIY option: Photograph child's actual preferred items. Arrange 2-4 options on laminated board. Present at decision points throughout day. Safety: Only offer real choices – both options must be available. Start with 2-3 clearly different items. Honor choice immediately."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Speech-Generating Devices and AAC Apps help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides voice output when the child cannot produce speech – technology speaks for them, giving them a voice that others can hear and understand. Price: ₹0–50,000+ (free apps to dedicated devices). DIY option: Many free or low-cost AAC apps available. Start with simple grid layouts. Model extensively before expecting use. Safety: Device must be ALWAYS available. Model on device constantly. Don't test – honor real communication. Train all partners."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sign Language Visual Guides and Flashcards help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides gestural communication that requires no external tools – hands are always available. Signs can bridge to speech or serve as primary system. Price: ₹150–400. DIY option: Learn 5-10 priority signs from free online resources. Always say word while signing. Accept approximations. Teach all caregivers. Safety: Always pair sign with spoken word. Accept approximations. Ensure all communication partners learn signs."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Portable Request Cards and Symbol Sets help with expressive communication deficit for functional requesting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ensures communication is available everywhere – school, community, grandma's house. Children are never without a voice. Price: ₹100–300. DIY option: Select 10-20 essential symbols. Print small, laminate, punch hole, put on key ring or lanyard. Attach to child or caregiver. Safety: Must be truly portable – not too bulky. Include only essential vocabulary. Attach where accessible to child."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No functional communication for basic needs beyond age 18 months. Increasing aggression or self-injury related to communication frustration. Decreasing communication attempts (giving up). Complete reliance on challenging behavior to communicate. No progress with any communication modality after intervention. Refer immediately if: child has no functional way to communicate basic needs at any age, frustration-related behaviors are escalating, or child is withdrawing from communication attempts. This is urgent."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#howto",
+        "name": "How to Help a Child with Expressive Communication Deficit For Functional Requesting",
+        "description": "A graded approach using evidence-based materials. Communication first – don't wait for speech to develop before giving children functional communication tools. Every child can communicate; they just need the right system.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1500,
+          "maxValue": 55000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "First Words Communication Boards",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Picture Exchange Communication System (PECS) Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Choice Boards for Daily Routines",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 150,
+              "maxValue": 400
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "The inability to functionally communicate basic wants, needs, and requests through any modality (speech, sign, symbols, gestures), leading to frustration, behavioral escalation, or withdrawal. The child may understand more than they can express, creating a painful gap between what they need and their ability to make that need known. Communication first – don't wait for speech to develop before giving children functional communication tools. Every child can communicate; they just need the right system."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: First Words Communication Boards, Picture Exchange Communication System (PECS) Materials, Choice Boards for Daily Routines."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No functional communication for basic needs beyond age 18 months, Increasing aggression or self-injury related to communication frustration, Decreasing communication attempts (giving up)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Refer immediately if: child has no functional way to communicate basic needs at any age, frustration-related behaviors are escalating, or child is withdrawing from communication attempts. This is urgent."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#medicalpage",
+        "name": "Expressive communication deficit for functional requesting Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Expressive communication deficit for functional requesting",
+          "alternateName": [
+            "child can't express needs",
+            "toddler can't communicate wants",
+            "child nonverbal frustration"
+          ],
+          "description": "The inability to functionally communicate basic wants, needs, and requests through any modality (speech, sign, symbols, gestures), leading to frustration, behavioral escalation, or withdrawal. The child may understand more than they can express, creating a painful gap between what they need and their ability to make that need known.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Cries, screams, or has meltdowns when needs aren't met"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Pulls or leads adults to desired items without communication"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Points without words or with unintelligible vocalizations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Hits, bites, or shows aggression when frustrated"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Gives up trying to communicate and becomes passive"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Uses same behavior for all needs (crying means hungry, tired, AND hurt)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Cannot ask for help when stuck or struggling"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Cannot reject or refuse unwanted items/activities"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#article",
+        "headline": "9 Materials That Help When Child Can't Express Needs",
+        "alternativeHeadline": "When frustration speaks louder than words",
+        "description": "My child can't tell me what they want or need? Expressive communication deficit for functional requesting is neurological, not behavioral. 9 evidence-based m...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#primaryimage"
+        },
+        "articleSection": "Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "nonverbal child communication",
+          "AAC for children",
+          "child can't tell me what they want",
+          "communication board for kids",
+          "how to help nonverbal child"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Understanding sensory and communication challenges requires evidence-based approaches. When children cannot express basic needs, the frustration compounds sensory and emotional overwhelm."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across communication interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ASHA",
+            "url": "https://www.asha.org",
+            "description": "American Speech-Language-Hearing Association position on AAC: Every child deserves a voice. AAC does not prevent speech development."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Beukelman & Light",
+            "url": "",
+            "description": "Augmentative and Alternative Communication (5th ed., 2020). The definitive text on AAC principles and practice."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Romski & Sevcik",
+            "url": "",
+            "description": "Research on AAC and early intervention. AAC supports rather than impedes speech development."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#healthcontent",
+        "name": "Expressive communication deficit for functional requesting Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Expressive communication deficit for functional requesting"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Expressive Language / AAC challenges"
+        },
+        "keywords": [
+          "nonverbal child communication",
+          "AAC for children",
+          "child can't tell me what they want",
+          "communication board for kids",
+          "how to help nonverbal child"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#evidence",
+        "claimReviewed": "Communication first – don't wait for speech to develop before giving children functional communication tools. Every child can communicate; they just need the right system. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Expressive Communication Deficit For Functional Requesting Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac#collection",
+        "name": "Functional Communication Series",
+        "description": "Complete series of 250 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-187: Jargon Speech",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-188: Verb Tense Difficulty",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-189: Can't Express Needs (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-190: Limited Pretend Play Skills",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-191: Difficulty with Pronouns",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 250,
+        "collectionSize": 250
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#materials",
+        "name": "9 Materials for Expressive Communication Deficit For Functional Requesting",
+        "description": "Evidence-based materials for ages 18 months – 8 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "First Words Communication Boards",
+              "description": "Provides immediate access to high-frequency vocabulary for basic needs – want, more, help, stop – that can be combined with context to communicate countless messages.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Print core vocabulary symbols (free online), laminate, attach to cardboard. Include: want, more, stop, help, go, eat, drink, all done, yes, no."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Board must be available at ALL times. Model use constantly. Honor all communication attempts immediately."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Picture Exchange Communication System (PECS) Materials",
+              "description": "Teaches that giving a picture to a person results in getting the desired item – building the foundation of intentional communication through clear cause-and-effect.",
+              "category": "Lowtechaac",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create picture cards of highly desired items. Velcro to communication book. Follow PECS phases: physical exchange first, then distance, then discrimination."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Requires structured implementation. Use truly motivating items. Generalize across settings and communication partners."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Choice Boards for Daily Routines",
+              "description": "Reduces communication demand – child recognizes and selects from options rather than generating language, enabling real decisions throughout the day.",
+              "category": "Lowtechaac",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Photograph child's actual preferred items. Arrange 2-4 options on laminated board. Present at decision points throughout day."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Only offer real choices – both options must be available. Start with 2-3 clearly different items. Honor choice immediately."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Speech-Generating Devices and AAC Apps",
+              "description": "Provides voice output when the child cannot produce speech – technology speaks for them, giving them a voice that others can hear and understand.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–50,000+ (free apps to dedicated devices)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Many free or low-cost AAC apps available. Start with simple grid layouts. Model extensively before expecting use."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Device must be ALWAYS available. Model on device constantly. Don't test – honor real communication. Train all partners."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Sign Language Visual Guides and Flashcards",
+              "description": "Provides gestural communication that requires no external tools – hands are always available. Signs can bridge to speech or serve as primary system.",
+              "category": "Unaidedaac",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Learn 5-10 priority signs from free online resources. Always say word while signing. Accept approximations. Teach all caregivers."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Always pair sign with spoken word. Accept approximations. Ensure all communication partners learn signs."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Portable Request Cards and Symbol Sets",
+              "description": "Ensures communication is available everywhere – school, community, grandma's house. Children are never without a voice.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Select 10-20 essential symbols. Print small, laminate, punch hole, put on key ring or lanyard. Attach to child or caregiver."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Must be truly portable – not too bulky. Include only essential vocabulary. Attach where accessible to child."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Big Button Voice Recorders and Single-Message Devices",
+              "description": "Provides simplest voice output – one push, one message. Teaches cause-and-effect communication with minimal cognitive and motor demands.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Recordable buttons available online. Record context-specific messages: 'More please,' 'I need help,' 'All done.' Place where relevant."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Messages must match available responses. Keep placement consistent. Model use before expecting independent use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Emotion and Needs Charts",
+              "description": "Makes internal states visible and pointable – children can indicate feelings and physical states that are otherwise invisible and hard to express.",
+              "category": "Internalstates",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Print feelings faces and body needs images. Laminate and post in accessible locations. Check in regularly: 'How are you feeling? Let's look.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Abstract concepts require explicit teaching. Start with concrete physical states. Connect to bodily sensations."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Modeling and Aided Language Stimulation Materials",
+              "description": "Adults using the child's AAC system teaches that it's for real communication – children need to see symbols used to learn to use them themselves.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create adult-sized version of child's AAC system. Practice pointing to symbols during daily activities. Model hundreds of times before expecting use."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Model, don't test. Use system naturally throughout day. All communication partners should model. Continue long-term."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/communication/expressive language / aac/9-materials-that-help-when-child-cant-express-needs#course",
+        "name": "Communication Solutions",
+        "description": "Parent education video series on Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Can't Express Needs | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "nonverbal child communication, AAC for children, child can't tell me what they want, communication board for kids, how to help nonverbal child"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-189.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-189-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-189.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Can't Express Needs",
+      "content_category": "Intervention Techniques > Communication > Expressive Language / AAC",
+      "content_ids": [
+        "B-189"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-189",
+        "technique_theme": "9MAT",
+        "domain": "Communication",
+        "sub_domain": "Expressive Language / AAC",
+        "domain_code": "COM-EXP",
+        "series": "Communication Solutions",
+        "episode": 189,
+        "age_band": "18 months – 8 years",
+        "setting": "Home",
+        "cluster_id": "COM-EXP-01",
+        "cluster_position": 189,
+        "materials_count": 9,
+        "total_cost_range": "₹1,500–55,000+ (from DIY to dedicated devices)"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#CantExpressNeeds",
+      "#AAC",
+      "#AugmentativeCommunication",
+      "#NonverbalCommunication",
+      "#SpeechTherapy",
+      "#CommunicationBoard",
+      "#PECS",
+      "#SignLanguage",
+      "#SpeechDelay",
+      "#PinnacleBlooms",
+      "#EveryChildCommunicates",
+      "#CommunicationMatters",
+      "#GiveThemAVoice",
+      "#FunctionalCommunication",
+      "#ParentSupport"
+    ],
+    "caption": "Does your child melt down because they can't tell you what they need? 😢 They're not misbehaving – they're trapped without a voice. Every child can communicate – they just need the right tools. Here are 9 materials that give children a way to express their needs, reduce frustration, and finally be heard. Save this! #AAC #CommunicationMatters #NonverbalCommunication #SpeechTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-190",
+    "prevInSeries": "B-188",
+    "relatedTechniques": [
+      "B-187",
+      "B-192",
+      "B-195",
+      "B-201",
+      "B-210"
+    ],
+    "deepDives": [
+      "B-189-DD-01",
+      "B-189-DD-02",
+      "B-189-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920",
+      "K-925"
+    ]
+  }
+}

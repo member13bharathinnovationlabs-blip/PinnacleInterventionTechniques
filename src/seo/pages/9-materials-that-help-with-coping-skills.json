@@ -1,0 +1,1089 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills",
+    "title": "9 Materials That Help With Coping Skills | Pinnacle Blooms",
+    "description": "\"My son has autism and ADHD, and his emotional regulation is... non-existent. Zero to explosion in seconds. No warning signs I can catch in time. No pause be...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-05",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "L-974",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Emotional Regulation & Mental Health",
+    "episodeInSeries": 974,
+    "domain": "Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience",
+    "subDomain": "Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses",
+    "domainCode": "EMO-COP",
+    "ageBand": "3–15 years (strategies adapt across development)",
+    "setting": "Home + School + Therapy + Community",
+    "audience": "Parents + Therapists + Teachers + Children",
+    "clusterId": "EMO-REG-01",
+    "clusterName": "Emotional Regulation & Coping",
+    "clusterPosition": 974,
+    "totalInCluster": 1000
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills",
+        "name": "9 Materials That Help With Coping Skills | Pinnacle Blooms",
+        "description": "\"My son has autism and ADHD, and his emotional regulation is... non-existent. Zero to explosion in seconds. No warning signs I can catch in time. No pause be...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-05",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "emotional regulation strategies",
+          "calm down kit",
+          "anger management for kids",
+          "how to teach coping skills",
+          "feelings thermometer",
+          "emotion regulation autism",
+          "ADHD emotional dysregulation",
+          "self-soothing strategies",
+          "coping skills activities",
+          "glitter jar calm down",
+          "breathing exercises for kids",
+          "calm down corner setup",
+          "emotion cards for children",
+          "social stories coping",
+          "meltdown prevention strategies",
+          "coping skills for children"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses challenges",
+          "suggestedMinAge": 3,
+          "suggestedMaxAge": 15
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience",
+            "item": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses",
+            "item": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Coping Skills"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/L-974-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/L-974-hero.webp",
+        "caption": "Child moving from emotional overwhelm to using coping strategies — the journey from dysregulation to self-management.",
+        "description": "Child learning and using coping skills",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#video",
+        "name": "9 Materials That Help With Coping Skills",
+        "description": "Children can recite strategies when calm but can't access them when overwhelmed. Here are 9 materials that make coping skills usable.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/L-974-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/L-974.mp4",
+        "embedUrl": "https://www.instagram.com/reel/L-974/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#CopingSkills",
+          "#EmotionalRegulation",
+          "#SelfRegulation",
+          "#CalmDownKit",
+          "#BigEmotions",
+          "#AngerManagement",
+          "#AnxietyHelp",
+          "#AutismCoping",
+          "#ADHDStrategies",
+          "#ChildMentalHealth",
+          "#EmotionalIntelligence",
+          "#RegulationTools",
+          "#CopingStrategies",
+          "#MeltdownHelp",
+          "#PinnacleBlooms"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies",
+          "alternateName": [
+            "coping skills for kids",
+            "emotional regulation strategies",
+            "anger management for children"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - \"my Son Has Autism And Adhd, A",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Children can recite strategies when calm but can't access them when overwhelmed. Here are 9 mater..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Calm Down Kit or Coping Toolbox",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Abstract coping strategies become concrete and accessible when they live in a physical container...."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Feelings Thermometer or Emotion Intensity Scale",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Many children experience emotions as binary — fine or terrible, with nothing in between. They can..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Glitter Jar or Calm Down Bottle",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "A glitter jar is a simple but powerful tool: a sealed container with water, glitter, and glue tha..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Breathing Exercise Cards and Visual Breathing Tools",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Deep breathing is the most universally recommended coping skill — and for good reason: slow, deep..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Emotion Identification Cards and Feelings Vocabulary Tools",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "You can't cope with what you can't name. Many children have a limited emotional vocabulary — they..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Coping Strategy Choice Board or Menu",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "When a child is dysregulated, their executive function is impaired — the thinking brain that coul..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Social Stories and Coping Scripts",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Social stories and coping scripts provide cognitive frameworks for handling challenging situation..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Calm Down Corner or Safe Space Setup",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Sometimes the most effective coping strategy is environmental — leaving the overwhelming situatio..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Coping Skills Practice Games and Activities",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Coping skills only work in crisis if they've been practiced extensively during calm times. Just l..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Functional Progress."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does \"my son has autism and adhd, and his emotional regulation is... non-existent. zero to explosion in seconds. no warning signs i can catch in time. no pause between feeling and reaction. something bothers him and he's already thrown his tablet across the room, already hit his sister, already said things he'll regret, already in crisis. and then comes the shame spiral. after every explosion, he's devastated. he knows he shouldn't have done it. he hates that he can't control himself. he apologizes over and over, genuinely remorseful, promising it won't happen again. but it does happen again. because he doesn't have any other way to handle the feelings. his therapist has tried teaching coping skills — breathing, counting, walking away. and he can recite them perfectly when he's calm. 'when i feel angry, i should take three deep breaths.' great. but when he's actually angry, he's not taking breaths. he's not counting. he's not walking away. he's exploding. there's a disconnect between knowing what to do and being able to do it in the moment. the skills live in his thinking brain, and when he's dysregulated, his thinking brain is offline. we need coping skills that work when he's dysregulated, not just skills he can talk about when he's regulated. we need strategies he can access automatically, without having to think about them. we need something tangible, concrete — something he can grab, see, feel, use. because abstract strategies aren't cutting it. he's ten. he's already been suspended twice. he's already losing friends because they're afraid of his outbursts. he's already defining himself as 'the kid who can't control himself.' we need to give him tools that actually work before he internalizes that identity permanently.\"?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "COPING SKILLS / EMOTIONAL REGULATION / SELF-REGULATION / STRESS MANAGEMENT / ADAPTIVE COPING STRATEGIES! Coping skills are the cognitive, behavioral, and emotional strategies individuals use to manage stress, regulate emotions, and adapt to challenging situations. Effective coping reduces the intensity and duration of negative emotional states, prevents maladaptive responses (aggression, withdrawal, self-harm), and supports recovery from distressing experiences. In child development, coping skills are learned rather than innate — children develop their coping repertoire through modeling, explicit instruction, practice, and experience. Children with developmental differences (autism, ADHD, anxiety disorders, learning disabilities) often struggle with emotional regulation and may have limited, inflexible, or maladaptive coping strategies. They may experience emotions more intensely, have difficulty identifying emotional states, struggle to access learned strategies when dysregulated, and lack the neurological resources for executive function-dependent coping in high-stress moments. Effective coping skill development for these children requires concrete, sensory-based, automatized strategies that can be accessed even when the prefrontal cortex is offline. It requires practice during calm states to build automaticity, environmental supports that make coping tools accessible, adult scaffolding that gradually fades as skills develop, and strategies matched to the child's developmental level, sensory profile, and specific challenges. The materials in this reel support the development and use of coping skills across multiple modalities — providing tangible tools that make abstract concepts concrete and accessible. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Coping skills are the cognitive, behavioral, and emotional strategies individuals use to manage stress, regulate emotions, and adapt to challenging situations. Effective coping reduces the intensity and duration of negative emotional states, prevents maladaptive responses (aggression, withdrawal, self-harm), and supports recovery from distressing experiences. In child development, coping skills are learned rather than innate — children develop their coping repertoire through modeling, explicit instruction, practice, and experience. Children with developmental differences (autism, ADHD, anxiety disorders, learning disabilities) often struggle with emotional regulation and may have limited, inflexible, or maladaptive coping strategies. They may experience emotions more intensely, have difficulty identifying emotional states, struggle to access learned strategies when dysregulated, and lack the neurological resources for executive function-dependent coping in high-stress moments. Effective coping skill development for these children requires concrete, sensory-based, automatized strategies that can be accessed even when the prefrontal cortex is offline. It requires practice during calm states to build automaticity, environmental supports that make coping tools accessible, adult scaffolding that gradually fades as skills develop, and strategies matched to the child's developmental level, sensory profile, and specific challenges. The materials in this reel support the development and use of coping skills across multiple modalities — providing tangible tools that make abstract concepts concrete and accessible. Common signs include: Intense emotional reactions disproportionate to triggers, Rapid escalation from mild upset to full meltdown, Difficulty recovering from emotional disturbance, Limited range of coping strategies (may only have avoidance or aggression), Inability to use known strategies when dysregulated."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Calm Down Kit or Coping Toolbox help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Abstract coping strategies become concrete and accessible when they live in a physical container. A calm down kit or coping toolbox is a collection of sensory and coping tools housed in a dedicated box, bag, or container that the child can access when they need to regulate. The physical nature of the kit solves several problems. First, it makes coping tangible — 'use your coping skills' becomes 'get your calm down kit.' Second, it makes tools accessible in the moment — the child doesn't have to remember what to do; they open the kit and the options are right there. Third, it externalizes the support — the kit is a visible, concrete reminder that the child has resources. Fourth, it supports routine — reaching for the kit becomes an automatized first response to distress. The contents should be personalized to what actually works for each child: fidgets, stress balls, putty, breathing tools, visual cards, calming scents, weighted items, music access, or comfort objects. The kit should be portable and available across settings — home, school, car, grandparents' house. When coping tools are always within reach, using them becomes possible even when thinking is compromised. Price: ₹500–2,000. DIY option: Building a calm down kit: CONTAINER: choose a dedicated container — small plastic bin, soft zippered bag, decorated box. Make it clearly identifiable as the 'calm down kit.' PERSONALIZE: involve the child in selecting contents. What helps THEM specifically? One child's calm is another child's agitation. SENSORY VARIETY: include items across sensory categories. Touch (stress ball, putty, fidget), smell (lavender, preferred scent), visual (glitter jar, photos), auditory (music access, headphones), proprioceptive (resistance band, weighted item). BREATHING TOOLS: pinwheels, bubbles, breathing cards, hoberman sphere — concrete tools to support breathing exercises. VISUAL SUPPORTS: emotion cards, coping strategy cards, calm down steps visual. Information accessible when memory fails. COMFORT ITEMS: small comfort object, photo of loved ones, letter of encouragement. Emotional grounding. SIZE OPTIONS: have a full home kit and a portable mini-kit for school/outings. Essentials in smaller container. ACCESSIBILITY: keep kit in consistent, accessible location. Child should be able to get it independently when needed. PRACTICE: use the kit during calm times too. Build familiarity and positive association. Not just a crisis tool. REFRESH: periodically update contents as child's needs and preferences change. Safety: Ensure all items are safe for the child's age and any mouthing behaviors. Avoid choking hazards or items that could be used for self-harm."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Feelings Thermometer or Emotion Intensity Scale help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Many children experience emotions as binary — fine or terrible, with nothing in between. They can't catch dysregulation early because they don't notice the gradual escalation. A feelings thermometer or intensity scale gives children a way to identify and communicate emotion intensity on a continuum. Instead of 'fine' or 'freaking out,' children learn to recognize and name levels: 'I'm at a 3 — a little frustrated' or 'I'm at a 7 — really upset, need help.' This gradation creates intervention points. Different strategies work at different intensity levels — a quick breathing exercise might work at a 4 but not at an 8. Noticing when you're at a 4 and intervening prevents reaching 8. The thermometer also supports communication with others. 'I'm at a 6' communicates need for support without having to articulate complex feelings verbally. Adults can respond to the number even if they don't fully understand the underlying experience. Visual representations make the abstract concept of emotion intensity concrete and measurable. Children who struggle with internal awareness benefit from external scales they can point to, manipulate, or mark. Price: ₹100–500. DIY option: Creating a feelings thermometer: VISUAL FORMAT: vertical scale (like thermometer) or horizontal scale (like meter). Numbers 1-5 or 1-10 depending on child's ability to differentiate. COLOR CODING: green (calm) → yellow (starting to escalate) → orange (significant distress) → red (crisis). Visual gradient supports quick recognition. DESCRIPTORS: each level needs words or pictures describing how that level feels. '5: Really upset, hard to think, need big help.' BODY CONNECTIONS: include body sensations at each level. 'At a 3, my shoulders feel tight. At a 6, my heart is pounding.' Connect internal experience to external scale. STRATEGY MATCHING: different strategies for different levels. 'At 1-3: I can handle this myself. At 4-6: I need my calm down kit. At 7+: I need an adult.' INTERACTIVE VERSION: moveable marker the child can adjust throughout the day. Check-ins: 'Where are you on the thermometer right now?' PERSONALIZE: use child's own words for how different levels feel. Their descriptions are more meaningful than generic ones. MULTIPLE COPIES: thermometer at home, at school, in therapy. Consistent tool across settings. PRACTICE DURING CALM: regularly check in using the thermometer when child is regulated. Build familiarity before using in distress. Safety: The thermometer is a communication tool, not a replacement for adult support. Children at high levels still need co-regulation, not just self-regulation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Glitter Jar or Calm Down Bottle help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A glitter jar is a simple but powerful tool: a sealed container with water, glitter, and glue that creates a swirling visual when shaken. When the jar is shaken, the glitter swirls chaotically — mirroring the child's internal experience of emotional turmoil. As the jar settles, the glitter slowly drifts to the bottom, becoming still — modeling the settling that happens when we regulate. The jar serves multiple functions. First, it provides visual focus — watching glitter settle occupies attention, shifting focus from the distressing situation. Second, it offers a metaphor — 'your brain is like the glitter jar; when you're upset, thoughts are swirling; as you calm down, they settle.' Third, it paces breathing — the child can breathe slowly while watching glitter settle. Fourth, it's kinesthetic — shaking the jar provides physical release for agitation before the settling begins. Fifth, it marks time — settling takes 30-60 seconds, providing a natural timer for calming. For concrete thinkers, the glitter jar makes the invisible process of emotional regulation visible and tangible. 'Watch your thoughts settle' means nothing abstract; they can literally see the settling happen. Price: ₹100–400. DIY option: Making a glitter jar: CONTAINER: clear plastic jar or bottle with secure lid. Avoid glass for safety. Water bottle works well. LIQUID BASE: fill mostly with warm water, add 1-2 tablespoons clear glue or glycerin. This slows the glitter, extending settling time. GLITTER: add glitter — different colors for different 'thoughts' or 'feelings.' Fine glitter settles slowly; chunky glitter settles faster. SEAL COMPLETELY: hot glue or super glue the lid. This will be shaken when child is upset — it WILL be thrown if not properly secured. TEST TIMING: shake and time how long settling takes. 30-60 seconds is ideal. Adjust glue/glycerin to modify timing. MULTIPLE JARS: have backups. Jars get lost, dropped, damaged. Don't be caught without one during a crisis. PORTABLE VERSION: smaller version for school bag, car, outings. INTRODUCE WHEN CALM: first use should be exploration when child is regulated. Learn the tool before needing the tool. CONNECT TO EXPERIENCE: 'See how the glitter is swirling like crazy? That's how your brain feels when you're really upset. Now watch it settle... that's what happens when we calm down.' ADD TO KIT: glitter jar belongs in the calm down kit. Accessible tool for accessible moments. Safety: Seal lid completely and permanently. A child in distress may throw the jar. Use plastic, never glass."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Breathing Exercise Cards and Visual Breathing Tools help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Deep breathing is the most universally recommended coping skill — and for good reason: slow, deep breathing activates the parasympathetic nervous system, directly counteracting the stress response. But 'take deep breaths' is an abstract instruction that's easy to forget and hard to do correctly when dysregulated. Breathing exercise cards and visual tools make breathing concrete and guided. Cards show specific breathing patterns (box breathing, 4-7-8, star breathing) with visual guides the child can follow. Physical tools (pinwheels, bubbles, hoberman spheres) require breath to operate, ensuring the child is actually breathing rather than just trying to. Different breathing exercises work for different children and situations. Some children respond to slow, counted breaths; others do better with visualization (smell the flower, blow out the candle); others need the physical feedback of blowing bubbles or a pinwheel. Having a variety of options increases the likelihood of finding what works. The cards and tools also serve as prompts — seeing the breathing card reminds the child that breathing is an option, without requiring verbal reminders that can feel controlling when dysregulated. Price: ₹100–400. DIY option: Creating breathing supports: BREATHING PATTERNS: include several types. Box breathing (in 4, hold 4, out 4, hold 4). Star breathing (trace a star, breathe at each point). 4-7-8 (in 4, hold 7, out 8). Belly breathing (hand on belly, feel it rise and fall). VISUAL FORMAT: cards with clear visual guides. Animated GIF versions for digital use. PHYSICAL TOOLS: pinwheel (blow to make spin), bubbles (blow slowly for big bubbles), feather (blow to keep aloft), cotton ball (blow across table), hoberman sphere (expand on inhale, contract on exhale). ACCESSIBILITY: place cards/tools in calm down kit, post on wall, keep in backpack. Available when needed. PRACTICE WHEN CALM: breathing practice should happen regularly during regulated times. Build skill and automaticity before crisis. MAKE IT FUN: for younger children, use engaging versions — blow out birthday candles (fingers), smell pizza/blow on hot pizza, snake breath (hiss on exhale), bunny breath (sniff sniff sniff). DEVELOPMENTAL MATCHING: younger children need simpler, more concrete tools (bubbles, pinwheel). Older children can use counted patterns and visualization. CONNECT TO BODY: help child notice how breathing changes their body. 'After five deep breaths, does your heart feel different? Your shoulders?' LAMINATE: cards will be handled frequently, possibly when child is upset. Durability matters. Safety: Ensure bubble solution is non-toxic. Supervise use of small items with young children or those who mouth objects."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Emotion Identification Cards and Feelings Vocabulary Tools help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can't cope with what you can't name. Many children have a limited emotional vocabulary — they might know 'happy,' 'sad,' 'mad,' and 'scared,' but lack words for frustrated, disappointed, overwhelmed, anxious, jealous, embarrassed, or the many nuanced states humans experience. This limited vocabulary limits coping. When all negative feelings are labeled 'mad,' the child can't differentiate between anger that needs physical release and disappointment that needs comfort. Emotion identification cards expand vocabulary and support accurate labeling. Cards typically show faces or characters expressing different emotions with the emotion word labeled. More sophisticated cards include body sensation descriptions ('when I'm anxious, my stomach feels tight') and possible causes ('I might feel jealous when someone has something I want'). Using the cards, children practice identifying emotions in themselves and others. 'Which face matches how you feel right now?' 'What do you think this character is feeling?' This vocabulary development supports both internal awareness and communication with others about emotional states. Price: ₹200–800. DIY option: Creating emotion vocabulary tools: EMOTION RANGE: include many emotions beyond basic happy/sad/mad/scared. Frustrated, disappointed, worried, excited, nervous, embarrassed, jealous, overwhelmed, confused, lonely, proud, calm, etc. VISUAL REPRESENTATION: photos of real faces (more relatable) or illustrated characters (less intense for some children). Match to child's preference. BODY CONNECTIONS: pair emotions with body sensations. 'Nervous: butterflies in stomach, heart beats fast, palms sweaty.' CONTEXT CLUES: include situations that might trigger each emotion. 'Disappointed: when something I wanted doesn't happen.' INTENSITY VARIATIONS: show that emotions come in degrees. Annoyed → Frustrated → Angry → Furious. Nervous → Worried → Anxious → Panicked. PERSONAL PHOTOS: for some children, photos of THEIR OWN facial expressions are most meaningful. Photograph emotions during calm times for later identification. REGULAR PRACTICE: use cards during daily check-ins, when reading stories (what does this character feel?), when discussing past events. BUILD VOCABULARY CONTINUOUSLY: introduce new emotion words as child's understanding grows. Emotion vocabulary expands throughout development. COPING CONNECTIONS: once emotion is identified, connect to strategies. 'You're feeling frustrated. What helps when you're frustrated?' Safety: Some children find images of distressed faces triggering. Use illustrated versions if real photos cause distress."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Coping Strategy Choice Board or Menu help with coping skills?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "When a child is dysregulated, their executive function is impaired — the thinking brain that could generate coping options is offline. Asking 'what do you need?' or 'what would help?' requires exactly the cognitive resources that aren't available. A coping strategy choice board or menu provides options visually, eliminating the need to generate them. Instead of 'what do you need?', the adult can say 'point to what would help.' The child selects from visible options rather than creating solutions from nothing. Choice boards typically include categories of strategies: movement (jump, run, push wall, squeeze), sensory (squeeze ball, weighted blanket, swing, deep pressure), breathing (bubbles, pinwheel, breathing card), distraction (music, book, video, game), comfort (hug, favorite spot, comfort object), or help (talk to adult, take a break, ask for space). The visual format ensures options are available when memory fails. The choice element maintains child agency — they're selecting what they need, not being told what to do. Choice boards can be generic or personalized based on what actually works for each specific child. A board with ten options the child has used successfully is more valuable than one with fifty generic options they've never tried. Price: ₹100–500. DIY option: Creating a coping choice board: CATEGORIES: organize by type of strategy. Movement, Sensory, Breathing, Distraction, Comfort, Help-Seeking. Clear categories help children learn what type of coping serves what need. PERSONALIZE: include strategies that actually work for THIS child. Not generic lists — tested, proven options. VISUAL FORMAT: pictures with words, clear layout, durable material. Will be used when child is distressed; must be easy to scan quickly. SIZE OPTIONS: large posted version for home, smaller portable version for school/outings. LIMIT OPTIONS: too many choices can overwhelm. 8-12 proven strategies better than 30 untested ones. ADD NEW STRATEGIES: as child learns new coping skills, add them to the board. Board grows with child's repertoire. AVAILABILITY: board should be accessible — posted on wall, in calm down kit, photo on phone. Not buried in a drawer. TEACH DURING CALM: introduce board when child is regulated. Practice pointing to strategies before needing to use them in distress. CHECK FEASIBILITY: every option on the board should be actually available and acceptable in the moment. Don't include 'go for a walk' if that's not allowed during class. INVOLVE CHILD: let child help create their board. Ownership increases use. Safety: Ensure all strategies on the board are safe and appropriate for the child's age and context. Remove any that have led to problems."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: . "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#howto",
+        "name": "How to Help a Child with Coping Skills",
+        "description": "A graded approach using evidence-based materials. Effective coping skill development bridges the gap between knowing and doing. Children must be able to access and use strategies during dysregulated states, not just recite them when calm. This requires concrete, tangible tools; extensive practice during regulated states to build automaticity; environmental scaffolding that makes strategies accessible; and matching strategy complexity to the child's developmental and regulatory state in the moment.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1500,
+          "maxValue": 7000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Calm Down Kit or Coping Toolbox",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 2000
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Feelings Thermometer or Emotion Intensity Scale",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Glitter Jar or Calm Down Bottle",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 400
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Coping skills are the cognitive, behavioral, and emotional strategies individuals use to manage stress, regulate emotions, and adapt to challenging situations. Effective coping reduces the intensity and duration of negative emotional states, prevents maladaptive responses (aggression, withdrawal, self-harm), and supports recovery from distressing experiences. In child development, coping skills are learned rather than innate — children develop their coping repertoire through modeling, explicit instruction, practice, and experience. Children with developmental differences (autism, ADHD, anxiety disorders, learning disabilities) often struggle with emotional regulation and may have limited, inflexible, or maladaptive coping strategies. They may experience emotions more intensely, have difficulty identifying emotional states, struggle to access learned strategies when dysregulated, and lack the neurological resources for executive function-dependent coping in high-stress moments. Effective coping skill development for these children requires concrete, sensory-based, automatized strategies that can be accessed even when the prefrontal cortex is offline. It requires practice during calm states to build automaticity, environmental supports that make coping tools accessible, adult scaffolding that gradually fades as skills develop, and strategies matched to the child's developmental level, sensory profile, and specific challenges. The materials in this reel support the development and use of coping skills across multiple modalities — providing tangible tools that make abstract concepts concrete and accessible. Effective coping skill development bridges the gap between knowing and doing. Children must be able to access and use strategies during dysregulated states, not just recite them when calm. This requires concrete, tangible tools; extensive practice during regulated states to build automaticity; environmental scaffolding that makes strategies accessible; and matching strategy complexity to the child's developmental and regulatory state in the moment."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Calm Down Kit or Coping Toolbox, Feelings Thermometer or Emotion Intensity Scale, Glitter Jar or Calm Down Bottle."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: ."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#medicalpage",
+        "name": "Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies",
+          "alternateName": [
+            "coping skills for kids",
+            "emotional regulation strategies",
+            "anger management for children"
+          ],
+          "description": "Coping skills are the cognitive, behavioral, and emotional strategies individuals use to manage stress, regulate emotions, and adapt to challenging situations. Effective coping reduces the intensity and duration of negative emotional states, prevents maladaptive responses (aggression, withdrawal, self-harm), and supports recovery from distressing experiences. In child development, coping skills are learned rather than innate — children develop their coping repertoire through modeling, explicit instruction, practice, and experience. Children with developmental differences (autism, ADHD, anxiety disorders, learning disabilities) often struggle with emotional regulation and may have limited, inflexible, or maladaptive coping strategies. They may experience emotions more intensely, have difficulty identifying emotional states, struggle to access learned strategies when dysregulated, and lack the neurological resources for executive function-dependent coping in high-stress moments. Effective coping skill development for these children requires concrete, sensory-based, automatized strategies that can be accessed even when the prefrontal cortex is offline. It requires practice during calm states to build automaticity, environmental supports that make coping tools accessible, adult scaffolding that gradually fades as skills develop, and strategies matched to the child's developmental level, sensory profile, and specific challenges. The materials in this reel support the development and use of coping skills across multiple modalities — providing tangible tools that make abstract concepts concrete and accessible.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Intense emotional reactions disproportionate to triggers"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Rapid escalation from mild upset to full meltdown"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty recovering from emotional disturbance"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Limited range of coping strategies (may only have avoidance or aggression)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Inability to use known strategies when dysregulated"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Frequent behavioral outbursts (hitting, throwing, screaming)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Withdrawal or shutdown in response to stress"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Rigid thinking that prevents flexible problem-solving"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-05"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#article",
+        "headline": "9 Materials That Help With Coping Skills",
+        "alternativeHeadline": "From overwhelm to strategies that work",
+        "description": "\"My son has autism and ADHD, and his emotional regulation is... non-existent. Zero to explosion in seconds. No warning signs I can catch in time. No pause be...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-05T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#primaryimage"
+        },
+        "articleSection": "Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience",
+        "wordCount": 3500,
+        "keywords": [
+          "emotional regulation strategies",
+          "calm down kit",
+          "anger management for kids",
+          "how to teach coping skills",
+          "feelings thermometer"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Evidence-Based Emotional Regulation and Coping Skills Research",
+            "url": "Multiple peer-reviewed sources",
+            "description": "Evidence base for coping skills development, emotional regulation interventions, and self-regulation in child development."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Zones of Regulation (Kuypers)",
+            "url": "",
+            "description": "Curriculum for emotional regulation using cognitive behavioral approach"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "CASEL (Collaborative for Academic, Social, and Emotional Learning)",
+            "url": "",
+            "description": "Framework for social-emotional learning"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dialectical Behavior Therapy Skills Training",
+            "url": "",
+            "description": "Distress tolerance and emotion regulation skills"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Self-Regulation Research (Stuart Shanker)",
+            "url": "",
+            "description": "Understanding self-regulation vs. self-control in child development"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#healthcontent",
+        "name": "Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Coping Skills / Emotional Regulation / Self-Regulation / Stress Management / Adaptive Coping Strategies"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses challenges"
+        },
+        "keywords": [
+          "emotional regulation strategies",
+          "calm down kit",
+          "anger management for kids",
+          "how to teach coping skills",
+          "feelings thermometer"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#evidence",
+        "claimReviewed": "Effective coping skill development bridges the gap between knowing and doing. Children must be able to access and use strategies during dysregulated states, not just recite them when calm. This requires concrete, tangible tools; extensive practice during regulated states to build automaticity; environmental scaffolding that makes strategies accessible; and matching strategy complexity to the child's developmental and regulatory state in the moment. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Coping Skills Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses#collection",
+        "name": "Emotional Regulation & Coping",
+        "description": "Complete series of 1000 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "L-972: Understanding Emotional Dysregulation",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "L-973: Building Emotional Vocabulary",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "L-974: Coping Skills (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "L-975: Anxiety Management Strategies",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "L-976: Anger Management Techniques",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 1000,
+        "collectionSize": 1000
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#materials",
+        "name": "9 Materials for Coping Skills",
+        "description": "Evidence-based materials for ages 3–15 years (strategies adapt across development)",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Calm Down Kit or Coping Toolbox",
+              "description": "Abstract coping strategies become concrete and accessible when they live in a physical container. A calm down kit or coping toolbox is a collection of sensory and coping tools housed in a dedicated box, bag, or container that the child can access when they need to regulate. The physical nature of the kit solves several problems. First, it makes coping tangible — 'use your coping skills' becomes 'get your calm down kit.' Second, it makes tools accessible in the moment — the child doesn't have to remember what to do; they open the kit and the options are right there. Third, it externalizes the support — the kit is a visible, concrete reminder that the child has resources. Fourth, it supports routine — reaching for the kit becomes an automatized first response to distress. The contents should be personalized to what actually works for each child: fidgets, stress balls, putty, breathing tools, visual cards, calming scents, weighted items, music access, or comfort objects. The kit should be portable and available across settings — home, school, car, grandparents' house. When coping tools are always within reach, using them becomes possible even when thinking is compromised.",
+              "category": "Regulationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Building a calm down kit: CONTAINER: choose a dedicated container — small plastic bin, soft zippered bag, decorated box. Make it clearly identifiable as the 'calm down kit.' PERSONALIZE: involve the child in selecting contents. What helps THEM specifically? One child's calm is another child's agitation. SENSORY VARIETY: include items across sensory categories. Touch (stress ball, putty, fidget), smell (lavender, preferred scent), visual (glitter jar, photos), auditory (music access, headphones), proprioceptive (resistance band, weighted item). BREATHING TOOLS: pinwheels, bubbles, breathing cards, hoberman sphere — concrete tools to support breathing exercises. VISUAL SUPPORTS: emotion cards, coping strategy cards, calm down steps visual. Information accessible when memory fails. COMFORT ITEMS: small comfort object, photo of loved ones, letter of encouragement. Emotional grounding. SIZE OPTIONS: have a full home kit and a portable mini-kit for school/outings. Essentials in smaller container. ACCESSIBILITY: keep kit in consistent, accessible location. Child should be able to get it independently when needed. PRACTICE: use the kit during calm times too. Build familiarity and positive association. Not just a crisis tool. REFRESH: periodically update contents as child's needs and preferences change."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure all items are safe for the child's age and any mouthing behaviors. Avoid choking hazards or items that could be used for self-harm."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Feelings Thermometer or Emotion Intensity Scale",
+              "description": "Many children experience emotions as binary — fine or terrible, with nothing in between. They can't catch dysregulation early because they don't notice the gradual escalation. A feelings thermometer or intensity scale gives children a way to identify and communicate emotion intensity on a continuum. Instead of 'fine' or 'freaking out,' children learn to recognize and name levels: 'I'm at a 3 — a little frustrated' or 'I'm at a 7 — really upset, need help.' This gradation creates intervention points. Different strategies work at different intensity levels — a quick breathing exercise might work at a 4 but not at an 8. Noticing when you're at a 4 and intervening prevents reaching 8. The thermometer also supports communication with others. 'I'm at a 6' communicates need for support without having to articulate complex feelings verbally. Adults can respond to the number even if they don't fully understand the underlying experience. Visual representations make the abstract concept of emotion intensity concrete and measurable. Children who struggle with internal awareness benefit from external scales they can point to, manipulate, or mark.",
+              "category": "Identificationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a feelings thermometer: VISUAL FORMAT: vertical scale (like thermometer) or horizontal scale (like meter). Numbers 1-5 or 1-10 depending on child's ability to differentiate. COLOR CODING: green (calm) → yellow (starting to escalate) → orange (significant distress) → red (crisis). Visual gradient supports quick recognition. DESCRIPTORS: each level needs words or pictures describing how that level feels. '5: Really upset, hard to think, need big help.' BODY CONNECTIONS: include body sensations at each level. 'At a 3, my shoulders feel tight. At a 6, my heart is pounding.' Connect internal experience to external scale. STRATEGY MATCHING: different strategies for different levels. 'At 1-3: I can handle this myself. At 4-6: I need my calm down kit. At 7+: I need an adult.' INTERACTIVE VERSION: moveable marker the child can adjust throughout the day. Check-ins: 'Where are you on the thermometer right now?' PERSONALIZE: use child's own words for how different levels feel. Their descriptions are more meaningful than generic ones. MULTIPLE COPIES: thermometer at home, at school, in therapy. Consistent tool across settings. PRACTICE DURING CALM: regularly check in using the thermometer when child is regulated. Build familiarity before using in distress."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "The thermometer is a communication tool, not a replacement for adult support. Children at high levels still need co-regulation, not just self-regulation."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Glitter Jar or Calm Down Bottle",
+              "description": "A glitter jar is a simple but powerful tool: a sealed container with water, glitter, and glue that creates a swirling visual when shaken. When the jar is shaken, the glitter swirls chaotically — mirroring the child's internal experience of emotional turmoil. As the jar settles, the glitter slowly drifts to the bottom, becoming still — modeling the settling that happens when we regulate. The jar serves multiple functions. First, it provides visual focus — watching glitter settle occupies attention, shifting focus from the distressing situation. Second, it offers a metaphor — 'your brain is like the glitter jar; when you're upset, thoughts are swirling; as you calm down, they settle.' Third, it paces breathing — the child can breathe slowly while watching glitter settle. Fourth, it's kinesthetic — shaking the jar provides physical release for agitation before the settling begins. Fifth, it marks time — settling takes 30-60 seconds, providing a natural timer for calming. For concrete thinkers, the glitter jar makes the invisible process of emotional regulation visible and tangible. 'Watch your thoughts settle' means nothing abstract; they can literally see the settling happen.",
+              "category": "Regulationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Making a glitter jar: CONTAINER: clear plastic jar or bottle with secure lid. Avoid glass for safety. Water bottle works well. LIQUID BASE: fill mostly with warm water, add 1-2 tablespoons clear glue or glycerin. This slows the glitter, extending settling time. GLITTER: add glitter — different colors for different 'thoughts' or 'feelings.' Fine glitter settles slowly; chunky glitter settles faster. SEAL COMPLETELY: hot glue or super glue the lid. This will be shaken when child is upset — it WILL be thrown if not properly secured. TEST TIMING: shake and time how long settling takes. 30-60 seconds is ideal. Adjust glue/glycerin to modify timing. MULTIPLE JARS: have backups. Jars get lost, dropped, damaged. Don't be caught without one during a crisis. PORTABLE VERSION: smaller version for school bag, car, outings. INTRODUCE WHEN CALM: first use should be exploration when child is regulated. Learn the tool before needing the tool. CONNECT TO EXPERIENCE: 'See how the glitter is swirling like crazy? That's how your brain feels when you're really upset. Now watch it settle... that's what happens when we calm down.' ADD TO KIT: glitter jar belongs in the calm down kit. Accessible tool for accessible moments."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Seal lid completely and permanently. A child in distress may throw the jar. Use plastic, never glass."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Breathing Exercise Cards and Visual Breathing Tools",
+              "description": "Deep breathing is the most universally recommended coping skill — and for good reason: slow, deep breathing activates the parasympathetic nervous system, directly counteracting the stress response. But 'take deep breaths' is an abstract instruction that's easy to forget and hard to do correctly when dysregulated. Breathing exercise cards and visual tools make breathing concrete and guided. Cards show specific breathing patterns (box breathing, 4-7-8, star breathing) with visual guides the child can follow. Physical tools (pinwheels, bubbles, hoberman spheres) require breath to operate, ensuring the child is actually breathing rather than just trying to. Different breathing exercises work for different children and situations. Some children respond to slow, counted breaths; others do better with visualization (smell the flower, blow out the candle); others need the physical feedback of blowing bubbles or a pinwheel. Having a variety of options increases the likelihood of finding what works. The cards and tools also serve as prompts — seeing the breathing card reminds the child that breathing is an option, without requiring verbal reminders that can feel controlling when dysregulated.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating breathing supports: BREATHING PATTERNS: include several types. Box breathing (in 4, hold 4, out 4, hold 4). Star breathing (trace a star, breathe at each point). 4-7-8 (in 4, hold 7, out 8). Belly breathing (hand on belly, feel it rise and fall). VISUAL FORMAT: cards with clear visual guides. Animated GIF versions for digital use. PHYSICAL TOOLS: pinwheel (blow to make spin), bubbles (blow slowly for big bubbles), feather (blow to keep aloft), cotton ball (blow across table), hoberman sphere (expand on inhale, contract on exhale). ACCESSIBILITY: place cards/tools in calm down kit, post on wall, keep in backpack. Available when needed. PRACTICE WHEN CALM: breathing practice should happen regularly during regulated times. Build skill and automaticity before crisis. MAKE IT FUN: for younger children, use engaging versions — blow out birthday candles (fingers), smell pizza/blow on hot pizza, snake breath (hiss on exhale), bunny breath (sniff sniff sniff). DEVELOPMENTAL MATCHING: younger children need simpler, more concrete tools (bubbles, pinwheel). Older children can use counted patterns and visualization. CONNECT TO BODY: help child notice how breathing changes their body. 'After five deep breaths, does your heart feel different? Your shoulders?' LAMINATE: cards will be handled frequently, possibly when child is upset. Durability matters."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure bubble solution is non-toxic. Supervise use of small items with young children or those who mouth objects."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Emotion Identification Cards and Feelings Vocabulary Tools",
+              "description": "You can't cope with what you can't name. Many children have a limited emotional vocabulary — they might know 'happy,' 'sad,' 'mad,' and 'scared,' but lack words for frustrated, disappointed, overwhelmed, anxious, jealous, embarrassed, or the many nuanced states humans experience. This limited vocabulary limits coping. When all negative feelings are labeled 'mad,' the child can't differentiate between anger that needs physical release and disappointment that needs comfort. Emotion identification cards expand vocabulary and support accurate labeling. Cards typically show faces or characters expressing different emotions with the emotion word labeled. More sophisticated cards include body sensation descriptions ('when I'm anxious, my stomach feels tight') and possible causes ('I might feel jealous when someone has something I want'). Using the cards, children practice identifying emotions in themselves and others. 'Which face matches how you feel right now?' 'What do you think this character is feeling?' This vocabulary development supports both internal awareness and communication with others about emotional states.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating emotion vocabulary tools: EMOTION RANGE: include many emotions beyond basic happy/sad/mad/scared. Frustrated, disappointed, worried, excited, nervous, embarrassed, jealous, overwhelmed, confused, lonely, proud, calm, etc. VISUAL REPRESENTATION: photos of real faces (more relatable) or illustrated characters (less intense for some children). Match to child's preference. BODY CONNECTIONS: pair emotions with body sensations. 'Nervous: butterflies in stomach, heart beats fast, palms sweaty.' CONTEXT CLUES: include situations that might trigger each emotion. 'Disappointed: when something I wanted doesn't happen.' INTENSITY VARIATIONS: show that emotions come in degrees. Annoyed → Frustrated → Angry → Furious. Nervous → Worried → Anxious → Panicked. PERSONAL PHOTOS: for some children, photos of THEIR OWN facial expressions are most meaningful. Photograph emotions during calm times for later identification. REGULAR PRACTICE: use cards during daily check-ins, when reading stories (what does this character feel?), when discussing past events. BUILD VOCABULARY CONTINUOUSLY: introduce new emotion words as child's understanding grows. Emotion vocabulary expands throughout development. COPING CONNECTIONS: once emotion is identified, connect to strategies. 'You're feeling frustrated. What helps when you're frustrated?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children find images of distressed faces triggering. Use illustrated versions if real photos cause distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Coping Strategy Choice Board or Menu",
+              "description": "When a child is dysregulated, their executive function is impaired — the thinking brain that could generate coping options is offline. Asking 'what do you need?' or 'what would help?' requires exactly the cognitive resources that aren't available. A coping strategy choice board or menu provides options visually, eliminating the need to generate them. Instead of 'what do you need?', the adult can say 'point to what would help.' The child selects from visible options rather than creating solutions from nothing. Choice boards typically include categories of strategies: movement (jump, run, push wall, squeeze), sensory (squeeze ball, weighted blanket, swing, deep pressure), breathing (bubbles, pinwheel, breathing card), distraction (music, book, video, game), comfort (hug, favorite spot, comfort object), or help (talk to adult, take a break, ask for space). The visual format ensures options are available when memory fails. The choice element maintains child agency — they're selecting what they need, not being told what to do. Choice boards can be generic or personalized based on what actually works for each specific child. A board with ten options the child has used successfully is more valuable than one with fifty generic options they've never tried.",
+              "category": "Strategyaccesstools",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating a coping choice board: CATEGORIES: organize by type of strategy. Movement, Sensory, Breathing, Distraction, Comfort, Help-Seeking. Clear categories help children learn what type of coping serves what need. PERSONALIZE: include strategies that actually work for THIS child. Not generic lists — tested, proven options. VISUAL FORMAT: pictures with words, clear layout, durable material. Will be used when child is distressed; must be easy to scan quickly. SIZE OPTIONS: large posted version for home, smaller portable version for school/outings. LIMIT OPTIONS: too many choices can overwhelm. 8-12 proven strategies better than 30 untested ones. ADD NEW STRATEGIES: as child learns new coping skills, add them to the board. Board grows with child's repertoire. AVAILABILITY: board should be accessible — posted on wall, in calm down kit, photo on phone. Not buried in a drawer. TEACH DURING CALM: introduce board when child is regulated. Practice pointing to strategies before needing to use them in distress. CHECK FEASIBILITY: every option on the board should be actually available and acceptable in the moment. Don't include 'go for a walk' if that's not allowed during class. INVOLVE CHILD: let child help create their board. Ownership increases use."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure all strategies on the board are safe and appropriate for the child's age and context. Remove any that have led to problems."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Social Stories and Coping Scripts",
+              "description": "Social stories and coping scripts provide cognitive frameworks for handling challenging situations. They describe situations, feelings, and appropriate responses in simple, concrete terms. For children who struggle with flexible thinking and novel problem-solving, these scripts provide a template to follow when they don't know what to do. A coping social story might address a specific trigger: 'Sometimes things don't go my way. This makes me feel frustrated. When I feel frustrated, my body gets tense. I can use my calm down strategies. I can take deep breaths. I can squeeze my stress ball. When I use my strategies, I feel better. I can try again or ask for help.' The story normalizes the emotion, connects it to body experience, provides specific strategies, and models successful resolution. For children with autism particularly, social stories reduce the cognitive load of figuring out how to respond. The script has already been written; they just need to follow it. Reading the stories repeatedly during calm times builds the mental template that can be accessed during distress. Coping scripts can be generic (how to handle frustration) or situation-specific (what to do when I lose a game, how to handle when plans change, what to do when someone is mean to me).",
+              "category": "Strategyaccesstools",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating coping social stories: IDENTIFY TRIGGERS: what situations regularly cause distress? Losing, transitions, changes in plans, being told no, making mistakes, sensory overload, social conflict? SIMPLE STRUCTURE: (1) Describe the situation, (2) Name the feeling, (3) Describe body sensation, (4) State the coping strategy, (5) Describe positive outcome. FIRST PERSON: write from child's perspective. 'Sometimes I feel angry. When I'm angry, my face feels hot.' CONCRETE LANGUAGE: specific, observable behaviors. Not 'I get upset' but 'I might want to yell or hit.' SPECIFIC STRATEGIES: name the exact strategies the child has been taught. 'I can use my breathing card. I can squeeze my stress ball.' POSITIVE FRAMING: focus on what TO do, not what not to do. 'I can ask for help' rather than 'I shouldn't scream.' VISUALS: include pictures — photos, drawings, symbols. Visual support enhances comprehension and memory. READ REPEATEDLY: stories work through repetition. Read daily during calm periods to build the mental script. PERSONALIZE: use child's name, their specific triggers, their actual coping tools. Personal is more effective than generic. UPDATE: as child develops new skills or faces new challenges, create new stories."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Social stories supplement, not replace, skill teaching. The child needs to have been taught the strategies mentioned in the story."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Calm Down Corner or Safe Space Setup",
+              "description": "Sometimes the most effective coping strategy is environmental — leaving the overwhelming situation and going to a space designed for regulation. A calm down corner or safe space is a designated area where the child can go to regulate, containing the tools they need for calming. The space itself becomes a coping tool. The environment supports regulation in ways that words and strategies cannot. Reduced stimulation removes sensory triggers. Contained space provides a sense of safety. Calming elements (soft lighting, comfortable seating, calming visuals) promote parasympathetic activation. Available tools (everything from the calm down kit) are within reach. Knowing the space exists provides psychological security — there's always a place to go when overwhelmed. The space should feel inviting rather than punitive. This is not a time-out corner; it's a regulation resource. The child chooses to go there for support, not as a consequence for behavior. Some children need the space to be small and enclosed (tent, canopy, closet); others prefer open areas. Some need complete sensory reduction; others benefit from specific sensory input (weighted blanket, movement option). Personalizing the space to what actually helps each child makes it effective.",
+              "category": "Regulationtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–3,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Setting up a calm down space: LOCATION: quiet area away from high-traffic and high-stimulation zones. Consistent location so child always knows where it is. BOUNDARIES: defined space — tent, canopy, corner with cushions, designated rug. Clear boundaries help it feel contained and safe. COMFORTABLE SEATING: bean bag, floor cushions, nest chair, crash pad. Soft, comfortable, regulating. REDUCED STIMULATION: dim lighting (fairy lights, lamp), muted colors, minimal visual clutter. Environment should calm, not stimulate. CALMING ELEMENTS: soft textures, calming visuals (nature images, lava lamp), white noise option if helpful. COPING TOOLS AVAILABLE: calm down kit, breathing tools, fidgets, weighted blanket — everything they need within reach. PERSONAL TOUCHES: comfort objects, photos of safe people, encouraging notes. The space should feel like theirs. NO TECHNOLOGY (usually): screens often don't support regulation and can become avoidance rather than coping. Some children do use calming music. ESCAPE ACCESSIBILITY: child should be able to access the space when needed. If they have to ask permission every time, the barrier reduces use. NOT PUNITIVE: never send child to the corner as punishment. This is a regulation resource, not a consequence. They should WANT to go there. SCHOOL VERSION: work with school to create a similar space or breakout option. Consistency across settings helps."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure the space is safe for unsupervised use if child will be there alone. No hazards, secure furniture, appropriate supervision based on child's needs."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Coping Skills Practice Games and Activities",
+              "description": "Coping skills only work in crisis if they've been practiced extensively during calm times. Just like physical skills become automatic through repetition, emotional regulation skills need practice to become accessible when the thinking brain is offline. Coping skills games and activities make practice engaging rather than tedious. Games that incorporate breathing (blow the cotton ball into the goal), emotional identification (emotion charades), problem-solving (what would you do if...), or strategy matching (which coping tool for which feeling?) build skills while feeling like play. Practice during regulated states builds the neural pathways that make skills accessible during dysregulated states. A child who has practiced box breathing 100 times while playing a game has a much better chance of accessing it during a meltdown than one who's only been told about it. Games also allow for graduated practice — starting with low-stakes scenarios and building to more challenging ones. Role-playing difficult situations when calm builds the template for handling them when emotional. 'Let's pretend you just lost a game — show me what you could do.' This rehearsal builds the behavioral patterns that can be retrieved when the real situation occurs.",
+              "category": "Skillbuildingtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Creating coping skills practice activities: BREATHING GAMES: blow cotton ball soccer (goal into cup), balloon keep-up (keep balloon aloft with breath), pinwheel races (whose spins longest with one breath), bubble contests (biggest bubble with slow controlled breath). EMOTION IDENTIFICATION GAMES: emotion charades (act out emotions, others guess), emotion memory (match emotion cards), feelings bingo, 'how are they feeling?' with video clips or pictures. COPING STRATEGY MATCHING: 'what would you do if...' scenarios, matching feelings to strategies, coping skill memory game, strategy scavenger hunt. PROBLEM-SOLVING PRACTICE: scenario cards with situations requiring coping, role-play difficult situations, puppet shows demonstrating coping, story completion (what should character do next?). RELAXATION PRACTICE: progressive muscle relaxation as a game (squeeze and release, make robot/rag doll), guided imagery adventures, body scan as 'checking in on body friends.' REGULAR INCORPORATION: build practice into daily routines. Morning breathing practice, dinner-time emotion check-in, bedtime relaxation. Not just occasional activities. MAKE IT FUN: if practice feels like therapy homework, children resist. If it feels like play, they engage. GRADUATED CHALLENGE: start with easy scenarios, build to more challenging. Success builds confidence for harder situations. FAMILY INVOLVEMENT: whole family practicing coping skills normalizes them and models that everyone, not just 'the child with problems,' uses strategies."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep practice positive and low-pressure. If practice creates anxiety or resistance, adjust approach. The goal is building skills, not creating stress."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/emotional regulation / mental health / self-regulation / stress management / resilience/coping strategies / emotion management / self-soothing / problem-solving / adaptive responses/9-materials-that-help-with-coping-skills#course",
+        "name": "Emotional Regulation & Mental Health",
+        "description": "Parent education video series on Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Coping Skills | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "emotional regulation strategies, calm down kit, anger management for kids, how to teach coping skills, feelings thermometer"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/L-974.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/L-974-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/L-974.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Coping Skills",
+      "content_category": "Intervention Techniques > Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience > Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses",
+      "content_ids": [
+        "L-974"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "L-974",
+        "technique_theme": "9MAT",
+        "domain": "Emotional Regulation / Mental Health / Self-Regulation / Stress Management / Resilience",
+        "sub_domain": "Coping Strategies / Emotion Management / Self-Soothing / Problem-Solving / Adaptive Responses",
+        "domain_code": "EMO-COP",
+        "series": "Emotional Regulation & Mental Health",
+        "episode": 974,
+        "age_band": "3–15 years (strategies adapt across development)",
+        "setting": "Home + School + Therapy + Community",
+        "cluster_id": "EMO-REG-01",
+        "cluster_position": 974,
+        "materials_count": 9,
+        "total_cost_range": "₹1,500–7,000 for comprehensive coping skills toolkit"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#CopingSkills",
+      "#EmotionalRegulation",
+      "#SelfRegulation",
+      "#CalmDownKit",
+      "#BigEmotions",
+      "#AngerManagement",
+      "#AnxietyHelp",
+      "#AutismCoping",
+      "#ADHDStrategies",
+      "#ChildMentalHealth",
+      "#EmotionalIntelligence",
+      "#RegulationTools",
+      "#CopingStrategies",
+      "#MeltdownHelp",
+      "#PinnacleBlooms"
+    ],
+    "caption": "Knowing coping skills ≠ Using coping skills. Here are 9 materials that make coping actually accessible: calm down kit with all tools in one place, feelings thermometer to catch escalation early, glitter jar for visual regulation, breathing cards with guided patterns, emotion cards for accurate labeling, coping choice board for when they can't think, social stories with scripts for hard situations, calm down corner as a regulation station, and practice games to build automaticity. Coping skills practiced 100 times while calm become accessible during crisis. 💜 #CopingSkills #EmotionalRegulation #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "L-975",
+    "prevInSeries": "L-973",
+    "relatedTechniques": [
+      "L-975",
+      "L-976",
+      "L-972",
+      "L-973",
+      "L-977"
+    ],
+    "deepDives": [
+      "L-974-DD-01",
+      "L-974-DD-02"
+    ],
+    "parentSupport": []
+  }
+}
