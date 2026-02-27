@@ -1,0 +1,1082 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention",
+    "title": "9 Materials That Help With Shared Attention | Pinnacle Blooms",
+    "description": "He looks at things, but never looks at ME to share what he sees? Joint Attention Deficits is neurological, not behavioral. 9 evidence-based materials. Ages 1...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-19",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-145",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Social Foundations Series",
+    "episodeInSeries": 145,
+    "domain": "Social Communication",
+    "subDomain": "Joint Attention & Shared Focus",
+    "domainCode": "SOC-JA",
+    "ageBand": "18 months–6 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SOC-JA-01",
+    "clusterName": "Social Foundations Series",
+    "clusterPosition": 145,
+    "totalInCluster": 200
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention",
+        "name": "9 Materials That Help With Shared Attention | Pinnacle Blooms",
+        "description": "He looks at things, but never looks at ME to share what he sees? Joint Attention Deficits is neurological, not behavioral. 9 evidence-based materials. Ages 1...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-19",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "joint attention autism",
+          "toddler doesn't share attention",
+          "child doesn't follow pointing",
+          "autism shared attention",
+          "baby doesn't look where I point",
+          "joint attention activities",
+          "child plays alone",
+          "toddler doesn't show me things",
+          "building shared attention",
+          "child doesn't point at things"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Joint Attention & Shared Focus challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Joint Attention & Shared Focus",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Shared Attention"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-145-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-145-hero.webp",
+        "caption": "Adult and child looking together at something of shared interest—perhaps a bird, a picture book, or an engaging toy. The triangular connection visible: child to object, child to adult, adult to object. Eyes meeting, then returning to shared focus. The moment of 'look at this together.'",
+        "description": "Child and adult sharing attention on the same object, making eye contact, demonstrating the triangle of joint attention",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#video",
+        "name": "9 Materials That Help With Shared Attention",
+        "description": "Before a child can learn from you, they must look WITH you. Before they can share language, they must share attention. This invisible triangle—you, me, and what we're both looking at—is where connection and learning begin. Here are nine materials that help build shared attention.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-145-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-145.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-145/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#SharedAttention",
+          "#JointAttention",
+          "#AutismTherapy",
+          "#SocialConnection",
+          "#ChildDevelopment",
+          "#EarlyIntervention",
+          "#PointingSkills",
+          "#ParentingTips",
+          "#AutismAwareness",
+          "#PinnacleBlooms",
+          "#SocialLearning",
+          "#LanguageDevelopment",
+          "#DevelopmentalMilestones",
+          "#ConnectionMatters",
+          "#LookWithMe"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Joint Attention Deficits",
+          "alternateName": [
+            "child doesn't point at things",
+            "toddler doesn't share attention",
+            "autism joint attention"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - He Looks At Things, But Never",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Before a child can learn from you, they must look WITH you. Before they can share language, they ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Bubble Play",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Bubbles are nearly universally fascinating—they move, shimmer, float unpredictably, and pop satis..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Pop-Up and Surprise Toys",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Pop-up and surprise toys create shared emotional experiences around specific events. The anticipa..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Cause-Effect Light Toys",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Light-up toys create highly salient, captivating stimuli that naturally draw visual attention. Wh..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Interactive Books with Flaps",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Interactive books with flaps, textures, or moving parts create natural opportunities for guided j..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Movement Toys (Trains, Cars)",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Moving objects naturally capture visual attention and create shared tracking experiences. When bo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Pointing Games and Materials",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Pointing is the most direct behavioral marker of joint attention—it explicitly directs another pe..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Musical Toys and Instruments",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Music and sound provide auditory attention capture that can anchor shared focus. When both partne..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Mirrors and Reflective Materials",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Mirrors create a unique context for shared attention because they display both partners' faces si..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Shared Construction Materials",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Shared construction activities create a collaborative focus requiring ongoing attention coordinat..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does he looks at things, but never looks at me to share what he sees?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "JOINT ATTENTION DEFICITS! Shared attention—also called joint attention—is the invisible triangle that connects two people through a common focus. It's the moment when a child looks at a butterfly, looks at you, and looks back at the butterfly, sharing the experience. It's pointing at an airplane to say 'Look at that with me!' It's following your gaze when you glance at something interesting. This three-way connection between self, other, and object or event is the foundation of social learning, language development, and human connection. For children with autism, this triangular sharing often doesn't develop naturally. Per developmental research and clinical guidelines: Joint attention is a pivotal skill that predicts language development and social outcomes. Deficits in joint attention are a core early marker of autism. It is one of the most reliable early predictors of later development, and building this skill unlocks cascading progress in language, social cognition, and relationships."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Joint Attention Deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shared attention—also called joint attention—is the invisible triangle that connects two people through a common focus. It's the moment when a child looks at a butterfly, looks at you, and looks back at the butterfly, sharing the experience. It's pointing at an airplane to say 'Look at that with me!' It's following your gaze when you glance at something interesting. This three-way connection between self, other, and object or event is the foundation of social learning, language development, and human connection. For children with autism, this triangular sharing often doesn't develop naturally. Common signs include: Doesn't point to show things of interest, Doesn't follow when you point at something, Looks at objects but not at people to share, Doesn't bring items to show parents, Plays with toys without sharing the experience."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Bubble Play help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bubbles are nearly universally fascinating—they move, shimmer, float unpredictably, and pop satisfyingly. This intrinsic fascination creates shared focus almost automatically. Both child and adult naturally look at the same thing, creating natural joint attention moments. Price: ₹100–500. DIY option: Any bubble solution works. Blow bubbles, point to specific ones saying 'Look at this big one!' Meet child's gaze when they look. Celebrate the shared moment. Safety: Ensure bubble solution is non-toxic. Some children may be fearful of popping—approach slowly. Avoid if child becomes distressed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Pop-Up and Surprise Toys help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pop-up and surprise toys create shared emotional experiences around specific events. The anticipation phase naturally creates attention coordination—both partners attend to the toy, waiting. The surprise moment creates a natural reason to look at each other: 'Did you see that?!' Price: ₹300–1,200. DIY option: Use any pop-up or surprise toy. Build anticipation: 'It's coming... wait for it...' At surprise moment, look at child with excited expression. Celebrate shared reactions. Safety: Avoid truly startling surprises that cause distress. Monitor sensory sensitivities to sudden sounds or movements. Adjust to child's tolerance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Cause-Effect Light Toys help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Light-up toys create highly salient, captivating stimuli that naturally draw visual attention. When both adult and child look at the same light display, they share attentional focus. The cause-effect relationship creates a sense of agency and surprise—opportunities for shared affect. Price: ₹200–1,500. DIY option: Use any light-up cause-effect toy. Demonstrate: 'Watch—I push, and... WOW!' Point to lights, check if child follows. Meet eyes during activation. Celebrate together. Safety: Monitor for overstimulation with flashing lights. Avoid toys that trigger photosensitivity. Watch for exclusive fixation on lights without social component."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Interactive Books with Flaps help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Interactive books with flaps, textures, or moving parts create natural opportunities for guided joint attention. The adult can point to elements, and the reveal creates a shared discovery moment. The physical closeness of shared reading supports attention coordination. Price: ₹200–800. DIY option: Choose interactive books with flaps or textures. Point: 'What's under this flap?' Build anticipation, lift together, share reaction. Meet child's eyes between discoveries. Safety: Avoid books that are too complex or overstimulating. Slow down if child flips pages too quickly. Choose content matching child's interests."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Movement Toys (Trains, Cars) help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Moving objects naturally capture visual attention and create shared tracking experiences. When both adult and child watch the same moving toy, they coordinate attention on a dynamic stimulus. Movement creates natural opportunities for pointing, anticipation, and shared reaction. Price: ₹300–2,000. DIY option: Set up movement toy visible to both. Point: 'Watch the train!' Comment: 'There it goes!' At exciting moments, look at child and share reaction. Build anticipation: 'Ready... set... GO!' Safety: Some children may fixate on movement itself—ensure social sharing is incorporated. Watch for exclusive control that excludes partner."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Pointing Games and Materials help with joint attention deficits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pointing is the most direct behavioral marker of joint attention—it explicitly directs another person's attention. Pointing games provide structured practice of both following points (responding) and producing points (initiating). The act of pointing WITH expectation that another will look is a profound social act. Price: ₹150–600. DIY option: Use picture scenes or objects around the room. Model pointing: 'Look! I see a dog!' Ask: 'Where's the cat? Show me!' Celebrate when child points. Check if they look to see if you followed. Safety: Motor difficulties may affect pointing—adapt gesture as needed. Don't over-drill mechanically—keep it natural and meaningful."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No pointing by 12 months. No response to pointing by 14 months. No gaze-following by 18 months. Loss of previously established joint attention. Complete absence of shared focus by 24 months. Consult developmental specialist if: no pointing or response to pointing by 18 months, loss of previously established skills, no improvement with consistent joint attention activities, or concerns about overall social development."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 80+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#howto",
+        "name": "How to Help a Child with Joint Attention Deficits",
+        "description": "A graded approach using evidence-based materials. Joint attention is the invisible triangle connecting self, other, and shared focus. It is foundational to language development, social learning, and human connection. Building both responding to and initiating joint attention opens cascading developmental progress.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1850,
+          "maxValue": 10600
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Bubble Play",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Pop-Up and Surprise Toys",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Cause-Effect Light Toys",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 1500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Shared attention—also called joint attention—is the invisible triangle that connects two people through a common focus. It's the moment when a child looks at a butterfly, looks at you, and looks back at the butterfly, sharing the experience. It's pointing at an airplane to say 'Look at that with me!' It's following your gaze when you glance at something interesting. This three-way connection between self, other, and object or event is the foundation of social learning, language development, and human connection. For children with autism, this triangular sharing often doesn't develop naturally. Joint attention is the invisible triangle connecting self, other, and shared focus. It is foundational to language development, social learning, and human connection. Building both responding to and initiating joint attention opens cascading developmental progress."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Bubble Play, Pop-Up and Surprise Toys, Cause-Effect Light Toys."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No pointing by 12 months, No response to pointing by 14 months, No gaze-following by 18 months."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult developmental specialist if: no pointing or response to pointing by 18 months, loss of previously established skills, no improvement with consistent joint attention activities, or concerns about overall social development."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#medicalpage",
+        "name": "Joint Attention Deficits Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Joint Attention Deficits",
+          "alternateName": [
+            "child doesn't point at things",
+            "toddler doesn't share attention",
+            "autism joint attention"
+          ],
+          "description": "Shared attention—also called joint attention—is the invisible triangle that connects two people through a common focus. It's the moment when a child looks at a butterfly, looks at you, and looks back at the butterfly, sharing the experience. It's pointing at an airplane to say 'Look at that with me!' It's following your gaze when you glance at something interesting. This three-way connection between self, other, and object or event is the foundation of social learning, language development, and human connection. For children with autism, this triangular sharing often doesn't develop naturally.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't point to show things of interest"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't follow when you point at something"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Looks at objects but not at people to share"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't bring items to show parents"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Plays with toys without sharing the experience"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't check parent's reaction to interesting things"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Limited eye contact during play activities"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't look where others are looking"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-19"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#article",
+        "headline": "9 Materials That Help With Shared Attention",
+        "alternativeHeadline": "You, me, and what we're looking at together—the triangle of connection",
+        "description": "He looks at things, but never looks at ME to share what he sees? Joint Attention Deficits is neurological, not behavioral. 9 evidence-based materials. Ages 1...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-19T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#primaryimage"
+        },
+        "articleSection": "Social Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "joint attention autism",
+          "toddler doesn't share attention",
+          "child doesn't follow pointing",
+          "autism shared attention",
+          "baby doesn't look where I point"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Developmental Psychology Research",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "Joint attention is a pivotal skill that predicts language development and social outcomes. Deficits in joint attention are a core early marker of autism and one of the most reliable early predictors of later development."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Mundy P, Newell L. (2007)",
+            "url": "",
+            "description": "Attention, joint attention, and social cognition. Current Directions in Psychological Science"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kasari C, et al. (2006)",
+            "url": "",
+            "description": "Joint attention and symbolic play in young children with autism: a randomized controlled intervention study"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Charman T. (2003)",
+            "url": "",
+            "description": "Why is joint attention a pivotal skill in autism?"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#healthcontent",
+        "name": "Joint Attention Deficits Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Joint Attention Deficits"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Joint Attention & Shared Focus challenges"
+        },
+        "keywords": [
+          "joint attention autism",
+          "toddler doesn't share attention",
+          "child doesn't follow pointing",
+          "autism shared attention",
+          "baby doesn't look where I point"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#evidence",
+        "claimReviewed": "Joint attention is the invisible triangle connecting self, other, and shared focus. It is foundational to language development, social learning, and human connection. Building both responding to and initiating joint attention opens cascading developmental progress. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Joint Attention Deficits Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus#collection",
+        "name": "Social Foundations Series",
+        "description": "Complete series of 200 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-143: Teaching Social Smile",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-144: Building Turn-Taking Foundation",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-145: Shared Attention (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-146: Imitation Skills",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-147: Social Referencing",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 200,
+        "collectionSize": 200
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#materials",
+        "name": "9 Materials for Joint Attention Deficits",
+        "description": "Evidence-based materials for ages 18 months–6 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Bubble Play",
+              "description": "Bubbles are nearly universally fascinating—they move, shimmer, float unpredictably, and pop satisfyingly. This intrinsic fascination creates shared focus almost automatically. Both child and adult naturally look at the same thing, creating natural joint attention moments.",
+              "category": "Highinterestfocus",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any bubble solution works. Blow bubbles, point to specific ones saying 'Look at this big one!' Meet child's gaze when they look. Celebrate the shared moment."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure bubble solution is non-toxic. Some children may be fearful of popping—approach slowly. Avoid if child becomes distressed."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Pop-Up and Surprise Toys",
+              "description": "Pop-up and surprise toys create shared emotional experiences around specific events. The anticipation phase naturally creates attention coordination—both partners attend to the toy, waiting. The surprise moment creates a natural reason to look at each other: 'Did you see that?!'",
+              "category": "Sharedsurprise",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any pop-up or surprise toy. Build anticipation: 'It's coming... wait for it...' At surprise moment, look at child with excited expression. Celebrate shared reactions."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid truly startling surprises that cause distress. Monitor sensory sensitivities to sudden sounds or movements. Adjust to child's tolerance."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Cause-Effect Light Toys",
+              "description": "Light-up toys create highly salient, captivating stimuli that naturally draw visual attention. When both adult and child look at the same light display, they share attentional focus. The cause-effect relationship creates a sense of agency and surprise—opportunities for shared affect.",
+              "category": "Highinterestfocus",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any light-up cause-effect toy. Demonstrate: 'Watch—I push, and... WOW!' Point to lights, check if child follows. Meet eyes during activation. Celebrate together."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Monitor for overstimulation with flashing lights. Avoid toys that trigger photosensitivity. Watch for exclusive fixation on lights without social component."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Interactive Books with Flaps",
+              "description": "Interactive books with flaps, textures, or moving parts create natural opportunities for guided joint attention. The adult can point to elements, and the reveal creates a shared discovery moment. The physical closeness of shared reading supports attention coordination.",
+              "category": "Guideddiscovery",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Choose interactive books with flaps or textures. Point: 'What's under this flap?' Build anticipation, lift together, share reaction. Meet child's eyes between discoveries."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid books that are too complex or overstimulating. Slow down if child flips pages too quickly. Choose content matching child's interests."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Movement Toys (Trains, Cars)",
+              "description": "Moving objects naturally capture visual attention and create shared tracking experiences. When both adult and child watch the same moving toy, they coordinate attention on a dynamic stimulus. Movement creates natural opportunities for pointing, anticipation, and shared reaction.",
+              "category": "Sharedtracking",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Set up movement toy visible to both. Point: 'Watch the train!' Comment: 'There it goes!' At exciting moments, look at child and share reaction. Build anticipation: 'Ready... set... GO!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may fixate on movement itself—ensure social sharing is incorporated. Watch for exclusive control that excludes partner."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Pointing Games and Materials",
+              "description": "Pointing is the most direct behavioral marker of joint attention—it explicitly directs another person's attention. Pointing games provide structured practice of both following points (responding) and producing points (initiating). The act of pointing WITH expectation that another will look is a profound social act.",
+              "category": "Pointingpractice",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use picture scenes or objects around the room. Model pointing: 'Look! I see a dog!' Ask: 'Where's the cat? Show me!' Celebrate when child points. Check if they look to see if you followed."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Motor difficulties may affect pointing—adapt gesture as needed. Don't over-drill mechanically—keep it natural and meaningful."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Musical Toys and Instruments",
+              "description": "Music and sound provide auditory attention capture that can anchor shared focus. When both partners listen to the same music or sound, they coordinate attention through the auditory channel. This can be paired with visual coordination—looking at the instrument, looking at each other.",
+              "category": "Auditorybridge",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Play sound, then look at child: 'Did you hear that?' Point to sound source. Take turns making sounds, share reactions. Build looking routine: make sound, check child's face, meet eyes."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Monitor sensory sensitivities to sounds. Avoid overwhelming auditory stimulation. Adjust volume and sound types to tolerance."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Mirrors and Reflective Materials",
+              "description": "Mirrors create a unique context for shared attention because they display both partners' faces simultaneously. The child can see themselves AND the adult, creating natural opportunities for gaze comparison and face-to-face orientation. Mirrors provide visual feedback about gaze direction.",
+              "category": "Faceorientation",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Position in front of mirror together. Comment: 'I see YOU! Do you see me?' Point to reflections. Wave: 'Can you see me waving?' Make funny faces and react together."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure mirror is safe (no breakage risk). Some children may fixate on own reflection—redirect to including partner. Approach gradually if child seems uncomfortable."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Shared Construction Materials",
+              "description": "Shared construction activities create a collaborative focus requiring ongoing attention coordination. Both partners attend to the same creation, contributing pieces and observing each other's contributions. The process naturally generates joint attention: 'Look at what I added!' 'See this piece?'",
+              "category": "Collaborativefocus",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Build together. Model: 'Look, I'm putting a red one!' Ask child to show you: 'Where did you put yours?' Point to elements: 'See, you built that part!' Celebrate: 'WE made that!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may want to build independently—start with simple joint additions. Respect child's creative vision while embedding sharing."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention & shared focus/9-materials-that-help-with-shared-attention#course",
+        "name": "Social Foundations Series",
+        "description": "Parent education video series on Social Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Shared Attention | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "joint attention autism, toddler doesn't share attention, child doesn't follow pointing, autism shared attention, baby doesn't look where I point"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-145.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-145-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-145.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Shared Attention",
+      "content_category": "Intervention Techniques > Social Communication > Joint Attention & Shared Focus",
+      "content_ids": [
+        "B-145"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-145",
+        "technique_theme": "9MAT",
+        "domain": "Social Communication",
+        "sub_domain": "Joint Attention & Shared Focus",
+        "domain_code": "SOC-JA",
+        "series": "Social Foundations Series",
+        "episode": 145,
+        "age_band": "18 months–6 years",
+        "setting": "Home",
+        "cluster_id": "SOC-JA-01",
+        "cluster_position": 145,
+        "materials_count": 9,
+        "total_cost_range": "₹1,850–10,600 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#SharedAttention",
+      "#JointAttention",
+      "#AutismTherapy",
+      "#SocialConnection",
+      "#ChildDevelopment",
+      "#EarlyIntervention",
+      "#PointingSkills",
+      "#ParentingTips",
+      "#AutismAwareness",
+      "#PinnacleBlooms",
+      "#SocialLearning",
+      "#LanguageDevelopment",
+      "#DevelopmentalMilestones",
+      "#ConnectionMatters",
+      "#LookWithMe"
+    ],
+    "caption": "Does your child look at interesting things—but never looks at YOU to share? 👀 Joint attention is the invisible triangle: you, me, and what we're both looking at. It's the foundation for language, learning, and connection. Here are 9 materials that help build shared attention. Every shared look is a bridge between minds! Save for your connection toolkit! #SharedAttention #JointAttention #AutismTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-146",
+    "prevInSeries": "B-144",
+    "relatedTechniques": [
+      "B-144",
+      "B-146",
+      "B-147",
+      "B-150",
+      "B-152"
+    ],
+    "deepDives": [
+      "B-145-DD-01",
+      "B-145-DD-02",
+      "B-145-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920"
+    ]
+  }
+}

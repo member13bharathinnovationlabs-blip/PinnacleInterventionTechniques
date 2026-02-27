@@ -1,0 +1,1076 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns",
+    "title": "9 Materials That Help During Hair Brushing Meltdowns | Pinnacle Blooms",
+    "description": "My child screams and fights every time I try to brush their hair? Tactile hypersensitivity of the scalp with associated grooming resistance is neurological, ...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-23",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-010",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 10,
+    "domain": "Sensory",
+    "subDomain": "Tactile",
+    "domainCode": "SEN-TAC",
+    "ageBand": "2–8 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "TAC-SENS-03",
+    "clusterName": "Daily Living & Grooming Tolerance Series",
+    "clusterPosition": 10,
+    "totalInCluster": 30
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns",
+        "name": "9 Materials That Help During Hair Brushing Meltdowns | Pinnacle Blooms",
+        "description": "My child screams and fights every time I try to brush their hair? Tactile hypersensitivity of the scalp with associated grooming resistance is neurological, ...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-23",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "hair brushing meltdown",
+          "sensory issues hair brushing",
+          "child hates having hair brushed",
+          "scalp sensitivity child",
+          "autistic child hair care",
+          "toddler hair brushing tantrum",
+          "sensory friendly hair brushing",
+          "tactile defensiveness hair",
+          "gentle hair brushing techniques",
+          "child screams when brushing hair"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 8
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tactile",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help During Hair Brushing Meltdowns"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-010-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-010-hero.webp",
+        "caption": "Young child with tangled hair, hands covering head protectively, distressed expression. Parent holding hairbrush with patient but exhausted expression. Bathroom morning setting with soft natural light.",
+        "description": "Child protecting head from hairbrush while parent waits patiently",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#video",
+        "name": "9 Materials That Help During Hair Brushing Meltdowns",
+        "description": "If brushing your child's hair triggers screaming, fighting, or complete meltdowns – it's not drama. The scalp has more nerve endings than almost anywhere on the body. For sensory-sensitive kids, every stroke can feel like pain. Here are 9 materials that actually help.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-010-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-010.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-010/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#HairBrushingMeltdown",
+          "#ScalpSensitivity",
+          "#SensoryProcessing",
+          "#TactileDefensiveness",
+          "#MorningRoutine",
+          "#SensoryKids",
+          "#OccupationalTherapy",
+          "#SPD",
+          "#SensoryProcessingDisorder",
+          "#AutismParenting",
+          "#PinnacleBlooms",
+          "#DailyLivingSkills",
+          "#SensoryTools",
+          "#ParentingTips",
+          "#GroomingSensitivity"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile hypersensitivity of the scalp with associated grooming resistance",
+          "alternateName": [
+            "child screams when brushing hair",
+            "toddler hair brushing meltdown",
+            "child hates having hair brushed"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Screams And Fights Every Time",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "If brushing your child's hair triggers screaming, fighting, or complete meltdowns – it's not dram..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Scalp Massager (Handheld)",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides deep, firm pressure to the scalp that is organizing rather than alerting – desensitizes ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Wide-Tooth Detangling Comb",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Reduces pulling and snagging that triggers pain response – gentler input means less defensive rea..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Wet Brush / Flexible Bristle Brush",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Bristles flex and bend rather than pulling – reduces sharp tugging sensations that trigger pain r..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Detangling Spray / Leave-In Conditioner",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Reduces friction and resistance – hair glides apart rather than pulling, minimizing pain signals."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Sectioning Clips",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Breaks overwhelming task into smaller, predictable parts – reduces sensory flooding and builds se..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Vibrating Hairbrush",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Vibration provides additional sensory input that can override or mask the uncomfortable brushing ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Visual Timer",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Makes the experience predictable with clear endpoint – reduces anticipatory anxiety about endless..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Mirror Positioning",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Provides visual control – child can see what's happening, reducing fear of unpredictable touch."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Satin/Silk Pillowcase",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Prevents tangles from forming overnight – reduces brushing needed, which means less exposure to t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child screams and fights every time i try to brush their hair?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "TACTILE HYPERSENSITIVITY OF THE SCALP WITH ASSOCIATED GROOMING RESISTANCE! A manifestation of tactile over-responsivity where touch to the scalp triggers an exaggerated protective response. The scalp has high nerve density, making it particularly sensitive. For children with tactile defensiveness, even gentle brushing can register as painful or threatening, triggering fight-or-flight responses that present as meltdowns, aggression, or complete refusal. Per SPD Foundation: The scalp is one of the most nerve-dense areas of the body. Children with tactile over-responsivity may experience ordinary touch sensations as painful, itchy, or threatening. Hair brushing combines sustained scalp pressure, pulling sensation, unpredictable tugging on tangles, and lack of visual control (can't see what's happening) – creating a particularly challenging sensory experience for sensitive children."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A manifestation of tactile over-responsivity where touch to the scalp triggers an exaggerated protective response. The scalp has high nerve density, making it particularly sensitive. For children with tactile defensiveness, even gentle brushing can register as painful or threatening, triggering fight-or-flight responses that present as meltdowns, aggression, or complete refusal. Common signs include: Screaming, crying, or aggression when hairbrush approaches, Running away or hiding when it's time for hair care, Holding hands over head protectively, Physical resistance – pushing brush away, hitting, Complaints that brushing 'hurts' even with gentle strokes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Scalp Massager (Handheld) help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides deep, firm pressure to the scalp that is organizing rather than alerting – desensitizes the scalp before brushing begins. Price: ₹150–400. DIY option: Use fingertips to apply firm, slow circular pressure across entire scalp for 2–3 minutes before brushing. Safety: Let child control pressure initially. Never force if child resists head touch entirely."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Wide-Tooth Detangling Comb help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reduces pulling and snagging that triggers pain response – gentler input means less defensive reaction. Price: ₹100–300. DIY option: Choose combs with smooth, rounded teeth spaced at least 5mm apart. Seamless construction prevents snagging. Safety: Inspect for rough edges or seams that could catch hair. Replace if teeth become rough."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Wet Brush / Flexible Bristle Brush help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bristles flex and bend rather than pulling – reduces sharp tugging sensations that trigger pain response. Price: ₹300–600. DIY option: Look for 'Wet Brush' brand or similar with IntelliFlex bristles. Test bristle flexibility – they should bend easily with finger pressure. Safety: Clean regularly to prevent bristle buildup. Replace when bristles lose flexibility."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Detangling Spray / Leave-In Conditioner help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reduces friction and resistance – hair glides apart rather than pulling, minimizing pain signals. Price: ₹200–500. DIY option: Mix 1 cup water with 1 tablespoon conditioner in spray bottle. Shake before each use. Apply to damp or dry hair. Safety: Choose fragrance-free for children with scent sensitivities. Patch test for skin reactions. Avoid eye area."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sectioning Clips help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Breaks overwhelming task into smaller, predictable parts – reduces sensory flooding and builds sense of control. Price: ₹100–250. DIY option: Use any gentle hair clips. Start with 4–6 sections. Work bottom-up, ends-first. Safety: Avoid clips with sharp edges or tight springs. Choose padded or silicone-coated options."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Vibrating Hairbrush help with tactile hypersensitivity of the scalp with associated grooming resistance?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Vibration provides additional sensory input that can override or mask the uncomfortable brushing sensation. Price: ₹400–800. DIY option: Some children respond to playing with a vibrating toy during brushing as alternative sensory input. Safety: Let child explore vibration on hands first. Not all children find vibration calming – trial before hair use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Extreme distress at any head touch, not just brushing. Self-injury to avoid hair brushing. Complete avoidance of all grooming activities. Distress generalizing to other people touching their hair. No improvement after 6–8 weeks of consistent adapted approach. Consult OT if: no progress after consistent use of adapted tools and techniques, avoidance is expanding to other grooming activities, or hair brushing resistance is part of broader sensory profile requiring comprehensive intervention."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#howto",
+        "name": "How to Help a Child with Tactile Hypersensitivity Of The Scalp With Associated Grooming Resistance",
+        "description": "A graded approach using evidence-based materials. Hair brushing combines multiple sensory challenges: sustained scalp pressure, unpredictable pulling on tangles, lack of visual control, and repetitive strokes. Address each component systematically.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1850,
+          "maxValue": 4350
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Scalp Massager (Handheld)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 150,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Wide-Tooth Detangling Comb",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 300
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Wet Brush / Flexible Bristle Brush",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Prevention (satin pillowcase, protective hairstyle",
+            "text": "Prevention (satin pillowcase, protective hairstyles) – reduce need for brushing"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Preparation (scalp massage, deep pressure) – ready",
+            "text": "Preparation (scalp massage, deep pressure) – ready the nervous system"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Tool modification (flexible brush, detangler, wide",
+            "text": "Tool modification (flexible brush, detangler, wide-tooth comb) – reduce painful input"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Environmental modification (mirror, timer, section",
+            "text": "Environmental modification (mirror, timer, sectioning) – increase predictability and control"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Skill building – child learns to brush own hair wi",
+            "text": "Skill building – child learns to brush own hair with adapted tools"
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Seek Professional Guidance",
+            "text": "Consult OT if: no progress after consistent use of adapted tools and techniques, avoidance is expanding to other grooming activities, or hair brushing resistance is part of broader sensory profile requiring comprehensive intervention."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult OT if: no progress after consistent use of adapted tools and techniques, avoidance is expanding to other grooming activities, or hair brushing resistance is part of broader sensory profile requiring comprehensive intervention."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#medicalpage",
+        "name": "Tactile hypersensitivity of the scalp with associated grooming resistance Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile hypersensitivity of the scalp with associated grooming resistance",
+          "alternateName": [
+            "child screams when brushing hair",
+            "toddler hair brushing meltdown",
+            "child hates having hair brushed"
+          ],
+          "description": "A manifestation of tactile over-responsivity where touch to the scalp triggers an exaggerated protective response. The scalp has high nerve density, making it particularly sensitive. For children with tactile defensiveness, even gentle brushing can register as painful or threatening, triggering fight-or-flight responses that present as meltdowns, aggression, or complete refusal.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Screaming, crying, or aggression when hairbrush approaches"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Running away or hiding when it's time for hair care"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Holding hands over head protectively"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Physical resistance – pushing brush away, hitting"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Complaints that brushing 'hurts' even with gentle strokes"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Refusing to let anyone touch their hair"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Meltdowns that continue long after brushing stops"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Anxiety that begins before brushing starts (anticipatory)"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-23"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#article",
+        "headline": "9 Materials That Help During Hair Brushing Meltdowns",
+        "alternativeHeadline": "When a simple morning routine becomes a daily battle",
+        "description": "My child screams and fights every time I try to brush their hair? Tactile hypersensitivity of the scalp with associated grooming resistance is neurological, ...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-23T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "hair brushing meltdown",
+          "sensory issues hair brushing",
+          "child hates having hair brushed",
+          "scalp sensitivity child",
+          "autistic child hair care"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Tactile over-responsivity causes children to respond negatively to touch sensations that most people would consider non-noxious. The scalp, with its high concentration of nerve endings, is particularly vulnerable to over-responsive reactions. Grooming activities like hair brushing combine multiple challenging sensory inputs: sustained pressure, pulling, unpredictable intensity, and lack of visual control."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory processing interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "AOTA",
+            "url": "https://www.aota.org",
+            "description": "American Occupational Therapy Association guidelines on sensory integration intervention and activities of daily living adaptations"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dunn, W.",
+            "url": "",
+            "description": "Sensory Profile 2: User's Manual (2014). Pearson. Framework for understanding sensory processing patterns including over-responsivity to tactile input in daily activities."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#healthcontent",
+        "name": "Tactile hypersensitivity of the scalp with associated grooming resistance Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Tactile hypersensitivity of the scalp with associated grooming resistance"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile challenges"
+        },
+        "keywords": [
+          "hair brushing meltdown",
+          "sensory issues hair brushing",
+          "child hates having hair brushed",
+          "scalp sensitivity child",
+          "autistic child hair care"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#evidence",
+        "claimReviewed": "Hair brushing combines multiple sensory challenges: sustained scalp pressure, unpredictable pulling on tangles, lack of visual control, and repetitive strokes. Address each component systematically. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Tactile Hypersensitivity Of The Scalp With Associated Grooming Resistance Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile#collection",
+        "name": "Daily Living & Grooming Tolerance Series",
+        "description": "Complete series of 30 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-009: Sand Play Avoidance",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-010: Hair Brushing Meltdowns (THIS REEL)",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-011: Nail Cutting Resistance",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-012: Tooth Brushing Refusal",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-013: Face Washing Aversion",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 30,
+        "collectionSize": 30
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#materials",
+        "name": "9 Materials for Tactile Hypersensitivity Of The Scalp With Associated Grooming Resistance",
+        "description": "Evidence-based materials for ages 2–8 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Scalp Massager (Handheld)",
+              "description": "Provides deep, firm pressure to the scalp that is organizing rather than alerting – desensitizes the scalp before brushing begins.",
+              "category": "Preparation",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use fingertips to apply firm, slow circular pressure across entire scalp for 2–3 minutes before brushing."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Let child control pressure initially. Never force if child resists head touch entirely."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Wide-Tooth Detangling Comb",
+              "description": "Reduces pulling and snagging that triggers pain response – gentler input means less defensive reaction.",
+              "category": "Toolmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Choose combs with smooth, rounded teeth spaced at least 5mm apart. Seamless construction prevents snagging."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Inspect for rough edges or seams that could catch hair. Replace if teeth become rough."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Wet Brush / Flexible Bristle Brush",
+              "description": "Bristles flex and bend rather than pulling – reduces sharp tugging sensations that trigger pain response.",
+              "category": "Toolmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Look for 'Wet Brush' brand or similar with IntelliFlex bristles. Test bristle flexibility – they should bend easily with finger pressure."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Clean regularly to prevent bristle buildup. Replace when bristles lose flexibility."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Detangling Spray / Leave-In Conditioner",
+              "description": "Reduces friction and resistance – hair glides apart rather than pulling, minimizing pain signals.",
+              "category": "Toolmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Mix 1 cup water with 1 tablespoon conditioner in spray bottle. Shake before each use. Apply to damp or dry hair."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose fragrance-free for children with scent sensitivities. Patch test for skin reactions. Avoid eye area."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Sectioning Clips",
+              "description": "Breaks overwhelming task into smaller, predictable parts – reduces sensory flooding and builds sense of control.",
+              "category": "Environmentalmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–250"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any gentle hair clips. Start with 4–6 sections. Work bottom-up, ends-first."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid clips with sharp edges or tight springs. Choose padded or silicone-coated options."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Vibrating Hairbrush",
+              "description": "Vibration provides additional sensory input that can override or mask the uncomfortable brushing sensation.",
+              "category": "Toolmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Some children respond to playing with a vibrating toy during brushing as alternative sensory input."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Let child explore vibration on hands first. Not all children find vibration calming – trial before hair use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Timer",
+              "description": "Makes the experience predictable with clear endpoint – reduces anticipatory anxiety about endless discomfort.",
+              "category": "Environmentalmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use phone timer with visual display, sand timer, or Time Timer. Start with short periods (1–2 minutes) and build up."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Honor the timer absolutely. When it ends, brushing stops – even if not finished. This builds trust."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Mirror Positioning",
+              "description": "Provides visual control – child can see what's happening, reducing fear of unpredictable touch.",
+              "category": "Environmentalmodification",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use bathroom mirror or position portable mirror. Ensure child can see both their hair and the brush movement."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Secure portable mirrors safely. Avoid distraction that could lead to sudden movements during brushing."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Satin/Silk Pillowcase",
+              "description": "Prevents tangles from forming overnight – reduces brushing needed, which means less exposure to triggering sensation.",
+              "category": "Prevention",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Satin or silk fabric. Satin is more affordable and nearly as effective. Choose smooth weave without texture."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure pillowcase fits snugly on pillow. Satin bonnets should not have elastic tight enough to leave marks."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile/9-materials-that-help-during-hair-brushing-meltdowns#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help During Hair Brushing Meltdowns | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "hair brushing meltdown, sensory issues hair brushing, child hates having hair brushed, scalp sensitivity child, autistic child hair care"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-010.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-010-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-010.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help During Hair Brushing Meltdowns",
+      "content_category": "Intervention Techniques > Sensory > Tactile",
+      "content_ids": [
+        "A-010"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-010",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Tactile",
+        "domain_code": "SEN-TAC",
+        "series": "Sensory Solutions",
+        "episode": 10,
+        "age_band": "2–8 years",
+        "setting": "Home",
+        "cluster_id": "TAC-SENS-03",
+        "cluster_position": 10,
+        "materials_count": 9,
+        "total_cost_range": "₹1,850–4,350 for comprehensive toolkit"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#HairBrushingMeltdown",
+      "#ScalpSensitivity",
+      "#SensoryProcessing",
+      "#TactileDefensiveness",
+      "#MorningRoutine",
+      "#SensoryKids",
+      "#OccupationalTherapy",
+      "#SPD",
+      "#SensoryProcessingDisorder",
+      "#AutismParenting",
+      "#PinnacleBlooms",
+      "#DailyLivingSkills",
+      "#SensoryTools",
+      "#ParentingTips",
+      "#GroomingSensitivity"
+    ],
+    "caption": "Does hair brushing in your house sound like a battle zone? 😰 It's not drama – the scalp has more nerve endings than almost anywhere on the body. For sensory-sensitive kids, every brush stroke can feel genuinely painful. Here are 9 materials that actually help make mornings manageable: scalp massager, wide-tooth comb, flexible bristle brush, detangling spray, sectioning clips, vibrating brush, visual timer, mirror positioning, and satin pillowcase. Save this for tomorrow morning! 🔖 #HairBrushingMeltdown #SensoryProcessing #MorningRoutine #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-011",
+    "prevInSeries": "A-009",
+    "relatedTechniques": [
+      "A-011",
+      "A-012",
+      "A-014",
+      "A-015",
+      "A-001"
+    ],
+    "deepDives": [
+      "A-010-DD-01",
+      "A-010-DD-02",
+      "A-010-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-920"
+    ]
+  }
+}

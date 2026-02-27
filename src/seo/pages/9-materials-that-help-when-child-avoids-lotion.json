@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion",
+    "title": "9 Materials That Help When Child Avoids Lotion | Pinnacle Blooms",
+    "description": "My child has dry, cracked, or eczema-prone skin that needs moisturizing, but they cannot tolerate lotion. Every application is a battle. Their skin suffers b...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-24",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-020",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 20,
+    "domain": "Sensory",
+    "subDomain": "Tactile Processing",
+    "domainCode": "SEN-TAC",
+    "ageBand": "2–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "GROOM-SENS-01",
+    "clusterName": "Grooming & Personal Care Sensory Series",
+    "clusterPosition": 20,
+    "totalInCluster": 25
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion",
+        "name": "9 Materials That Help When Child Avoids Lotion | Pinnacle Blooms",
+        "description": "My child has dry, cracked, or eczema-prone skin that needs moisturizing, but they cannot tolerate lotion. Every application is a battle. Their skin suffers b...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-24",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "sensory issues lotion",
+          "autism lotion problems",
+          "toddler won't wear lotion",
+          "tactile defensiveness moisturizer",
+          "sensory friendly moisturizer",
+          "child refuses lotion",
+          "SPD lotion tips",
+          "sensory processing cream",
+          "lotion meltdown child",
+          "eczema sensory child",
+          "child hates lotion sensory"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tactile Processing",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Avoids Lotion"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-020-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-020-hero.webp",
+        "caption": "Child pulling away from parent holding lotion bottle, hands up defensively, face showing genuine distress. Visible dry, irritated skin on child's arms or legs. Parent looking concerned and conflicted – holding lotion but hesitating.",
+        "description": "Child showing tactile defensiveness to lotion application while parent attempts to address dry skin needs",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#video",
+        "name": "9 Materials That Help When Child Avoids Lotion",
+        "description": "When your child's skin is dry, cracked, or needs medical moisturizing – but they can't tolerate lotion – you're stuck between their skin health and their sensory system. For tactile-defensive children, lotion can feel genuinely unbearable. Here are 9 materials that help.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-020-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-020.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-020/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#LotionStruggles",
+          "#SensoryProcessing",
+          "#TactileDefensiveness",
+          "#AutismParenting",
+          "#SensoryFriendly",
+          "#EczemaKids",
+          "#OccupationalTherapy",
+          "#SensoryIntegration",
+          "#PinnacleBlooms",
+          "#SensoryKids",
+          "#ParentingTips",
+          "#ChildDevelopment",
+          "#DrySkinSolutions",
+          "#SensoryStrategies",
+          "#SpecialNeedsParenting"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile defensiveness with topical moisturizer aversion",
+          "alternateName": [
+            "child hates lotion",
+            "toddler won't let me put lotion on",
+            "sensory issues lotion"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Has Dry, Cracked, Or Eczema Pr",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When your child's skin is dry, cracked, or needs medical moisturizing – but they can't tolerate l..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Solid Lotion Bars",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Eliminates the wet, cold, spreading liquid sensation that triggers most tactile-defensive respons..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Spray Moisturizers/Oil Sprays",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Eliminates hand-to-skin rubbing entirely. The mist application feels different from lotion spread..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Oil-Based Moisturizers (Pure Oils)",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Pure oils often have different sensory profile than lotions – they absorb differently, leave diff..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Bath Oils/In-Shower Moisturizers",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Applies moisturizer during bath or shower when skin is already wet, eliminating the separate 'lot..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Warming Lotion Before Application",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Cold lotion from bottle can trigger immediate defensive response. Warming lotion between palms or..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Fragrance-Free/Hypoallergenic Formulas",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Lotion smell can be an independent trigger for sensory-sensitive children. Fragrance-free formula..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Fast-Absorbing/Non-Greasy Formulas",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "The persistent greasy or sticky residue after application is often the worst part for tactile-def..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Self-Application Tools & Autonomy",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Being touched by another person adds significantly to sensory load. Self-application gives child ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Sensory Prep Before Application (Deep Pressure)",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Deep pressure input before light touch application temporarily reduces tactile sensitivity. The n..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child has dry, cracked, or eczema-prone skin that needs moisturizing, but they cannot tolerate lotion. every application is a battle. their skin suffers because we can't apply what they need?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "TACTILE DEFENSIVENESS WITH TOPICAL MOISTURIZER AVERSION! A manifestation of tactile over-responsivity where the sensory properties of lotion and moisturizers – their texture (creamy, greasy, sticky, wet), temperature (often cold from bottle), smell (fragranced or medicinal), the physical act of rubbing on skin, and the residual sensation that persists after application – trigger defensive responses. For tactile-defensive children, the feeling of lotion on skin can be genuinely intolerable, creating significant health challenges when moisturizing is medically necessary for conditions like eczema, extremely dry skin, or dermatitis. The child experiences genuine sensory distress while simultaneously needing the skin care their body requires. Per SPD Foundation: Tactile defensiveness can make routine personal care activities extremely challenging. The sensory properties of lotions and creams – including texture, temperature, smell, and residual sensation – can trigger fight-or-flight responses in children with tactile over-responsivity. This is not behavioral defiance but a genuine neurological response to sensory input that feels threatening to the child's system."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A manifestation of tactile over-responsivity where the sensory properties of lotion and moisturizers – their texture (creamy, greasy, sticky, wet), temperature (often cold from bottle), smell (fragranced or medicinal), the physical act of rubbing on skin, and the residual sensation that persists after application – trigger defensive responses. For tactile-defensive children, the feeling of lotion on skin can be genuinely intolerable, creating significant health challenges when moisturizing is medically necessary for conditions like eczema, extremely dry skin, or dermatitis. The child experiences genuine sensory distress while simultaneously needing the skin care their body requires. Common signs include: Screams, cries, or fights when lotion is applied, Runs away or hides when lotion bottle appears, Tries to wipe off lotion immediately after application, Says it 'burns,' 'hurts,' or feels 'wrong', Cannot tolerate the greasy, sticky, or wet residual feeling."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Solid Lotion Bars help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eliminates the wet, cold, spreading liquid sensation that triggers most tactile-defensive responses. Solid lotion bars glide on with body heat, feel more like drawing than smearing, leave less greasy residue, and give child more control. The dry-to-touch format is fundamentally different from liquid lotion. Price: ₹300–900. DIY option: Melt coconut oil, shea butter, and beeswax (2:2:1 ratio) in double boiler. Pour into silicone molds. Cool until solid. Store at room temperature. Safety: Test on small skin area first for any sensitivity. Avoid if child has nut allergies (many contain shea butter or coconut). Store away from heat to prevent melting. May leave oily residue on clothing if over-applied."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Spray Moisturizers/Oil Sprays help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eliminates hand-to-skin rubbing entirely. The mist application feels different from lotion spreading – lighter, quicker, no prolonged touch. Child may tolerate brief spray sensation when they can't tolerate prolonged rubbing and spreading. Price: ₹400–1,200. DIY option: Mix 3 parts distilled water, 1 part light oil (jojoba, sweet almond), few drops vitamin E. Shake well before each use. Store in spray bottle. Use within 2 weeks. Safety: Spray from appropriate distance to avoid startling child. Some spray moisturizers contain alcohol which can sting dry/cracked skin – check ingredients. Oil sprays may make surfaces slippery – apply over towel. Shake well before use if DIY."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Oil-Based Moisturizers (Pure Oils) help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pure oils often have different sensory profile than lotions – they absorb differently, leave different residue, and lack the 'lotion texture' some children specifically reject. Many children who hate lotion tolerate oil. Oils also work well for very dry skin and eczema. Price: ₹200–800. DIY option: No preparation needed – pure oils can be used directly. Coconut oil, jojoba oil, sweet almond oil, and sunflower oil are common choices. Warm slightly between palms before applying. Safety: Patch test first – some children react to specific oils. Avoid nut-based oils if nut allergy exists. Coconut oil may not be suitable for all skin types. Some oils can stain clothing or bedding. Do not use essential oils undiluted on children's skin."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Bath Oils/In-Shower Moisturizers help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Applies moisturizer during bath or shower when skin is already wet, eliminating the separate 'lotion application' event entirely. Child doesn't experience the cold-lotion-on-dry-skin sensation. Moisturizer becomes part of bath routine rather than distinct aversive event. Price: ₹300–1,500. DIY option: Add 1-2 tablespoons of carrier oil (coconut, jojoba, sweet almond) directly to warm bathwater. For shower: apply oil to wet skin before turning off water, pat dry gently. Safety: Bath oils make tub very slippery – use bath mat and supervise carefully. In-shower products may make shower floor slippery. Rinse tub after oil baths. Some bath products may irritate sensitive skin – test first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Warming Lotion Before Application help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cold lotion from bottle can trigger immediate defensive response. Warming lotion between palms or in warm water before application removes the cold shock, reducing one significant layer of sensory aversion. Simple technique that costs nothing. Price: ₹0 (technique only). DIY option: Rub lotion between palms for 15-20 seconds before applying. Or place bottle in warm (not hot) water for a few minutes. Or store lotion in warm area rather than cool bathroom. Safety: Do not microwave lotion or heat excessively – can damage formula and cause burns. Warm to body temperature only. Test temperature on your own skin before applying to child."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Fragrance-Free/Hypoallergenic Formulas help with tactile defensiveness with topical moisturizer aversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Lotion smell can be an independent trigger for sensory-sensitive children. Fragrance-free formulas remove the olfactory component, allowing child to focus only on texture sensation without smell adding to overload. Also less likely to irritate sensitive or eczema-prone skin. Price: ₹200–1,000. DIY option: Cannot DIY – must purchase fragrance-free formula. Look for labels saying 'fragrance-free' (not 'unscented' which may have masking fragrances). Safety: 'Fragrance-free' is more reliable than 'unscented' – unscented may contain masking fragrances. Also check for dye-free if color is a trigger. For eczema-prone skin, look for ceramide-containing formulas approved by National Eczema Association."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Skin irritation, rash, or reaction from moisturizer (may be allergy or sensitivity). Skin condition worsening significantly despite some moisturizing attempts. Signs of infection in cracked skin (redness, warmth, pus, fever). Complete inability to apply any moisturizer in any format. Extreme anxiety triggered by anticipation of lotion. Self-injurious behavior during or after lotion application. Generalized tactile defensiveness affecting many daily activities. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#howto",
+        "name": "How to Help a Child with Tactile Defensiveness With Topical Moisturizer Aversion",
+        "description": "A graded approach using evidence-based materials. Lotion resistance reflects genuine tactile defensiveness – the child's nervous system perceives the texture, temperature, smell, and residual sensation as threatening. This is not behavioral defiance. The challenge is that moisturizing is often medically necessary for skin health, creating a conflict between sensory needs and medical needs. Intervention focuses on finding formats with different sensory profiles (solid bars, oils, spray, bath-based), modifying application technique (warming, firm pressure, self-application), and preparing the tactile system (deep pressure before application).",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 500,
+          "maxValue": 5000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Solid Lotion Bars",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 900
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Spray Moisturizers/Oil Sprays",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Oil-Based Moisturizers (Pure Oils)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 800
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A manifestation of tactile over-responsivity where the sensory properties of lotion and moisturizers – their texture (creamy, greasy, sticky, wet), temperature (often cold from bottle), smell (fragranced or medicinal), the physical act of rubbing on skin, and the residual sensation that persists after application – trigger defensive responses. For tactile-defensive children, the feeling of lotion on skin can be genuinely intolerable, creating significant health challenges when moisturizing is medically necessary for conditions like eczema, extremely dry skin, or dermatitis. The child experiences genuine sensory distress while simultaneously needing the skin care their body requires. Lotion resistance reflects genuine tactile defensiveness – the child's nervous system perceives the texture, temperature, smell, and residual sensation as threatening. This is not behavioral defiance. The challenge is that moisturizing is often medically necessary for skin health, creating a conflict between sensory needs and medical needs. Intervention focuses on finding formats with different sensory profiles (solid bars, oils, spray, bath-based), modifying application technique (warming, firm pressure, self-application), and preparing the tactile system (deep pressure before application)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Solid Lotion Bars, Spray Moisturizers/Oil Sprays, Oil-Based Moisturizers (Pure Oils)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Skin irritation, rash, or reaction from moisturizer (may be allergy or sensitivity), Skin condition worsening significantly despite some moisturizing attempts, Signs of infection in cracked skin (redness, warmth, pus, fever)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#medicalpage",
+        "name": "Tactile defensiveness with topical moisturizer aversion Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile defensiveness with topical moisturizer aversion",
+          "alternateName": [
+            "child hates lotion",
+            "toddler won't let me put lotion on",
+            "sensory issues lotion"
+          ],
+          "description": "A manifestation of tactile over-responsivity where the sensory properties of lotion and moisturizers – their texture (creamy, greasy, sticky, wet), temperature (often cold from bottle), smell (fragranced or medicinal), the physical act of rubbing on skin, and the residual sensation that persists after application – trigger defensive responses. For tactile-defensive children, the feeling of lotion on skin can be genuinely intolerable, creating significant health challenges when moisturizing is medically necessary for conditions like eczema, extremely dry skin, or dermatitis. The child experiences genuine sensory distress while simultaneously needing the skin care their body requires.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Screams, cries, or fights when lotion is applied"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Runs away or hides when lotion bottle appears"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Tries to wipe off lotion immediately after application"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Says it 'burns,' 'hurts,' or feels 'wrong'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Cannot tolerate the greasy, sticky, or wet residual feeling"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Scratches or rubs at skin where lotion was applied"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Only tolerates specific brand/type (or tolerates none)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Reacts differently to different body parts (hands worse than arms)"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-24"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#article",
+        "headline": "9 Materials That Help When Child Avoids Lotion",
+        "alternativeHeadline": "When moisturizing becomes a sensory emergency",
+        "description": "My child has dry, cracked, or eczema-prone skin that needs moisturizing, but they cannot tolerate lotion. Every application is a battle. Their skin suffers b...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-24T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "sensory issues lotion",
+          "autism lotion problems",
+          "toddler won't wear lotion",
+          "tactile defensiveness moisturizer",
+          "sensory friendly moisturizer"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Tactile defensiveness can make routine personal care activities extremely challenging. The sensory properties of lotions and creams can trigger fight-or-flight responses in children with tactile over-responsivity."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory integration and daily living interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "AOTA",
+            "url": "https://www.aota.org",
+            "description": "American Occupational Therapy Association guidelines on sensory modulation intervention for activities of daily living"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dunn, W.",
+            "url": "",
+            "description": "Sensory Profile 2 research on tactile sensitivity patterns and daily living impact in children with sensory processing differences."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "National Eczema Association",
+            "url": "https://nationaleczema.org",
+            "description": "Guidelines on moisturizer selection and application for children with eczema and sensitive skin."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#healthcontent",
+        "name": "Tactile defensiveness with topical moisturizer aversion Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Tactile defensiveness with topical moisturizer aversion"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing challenges"
+        },
+        "keywords": [
+          "sensory issues lotion",
+          "autism lotion problems",
+          "toddler won't wear lotion",
+          "tactile defensiveness moisturizer",
+          "sensory friendly moisturizer"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#evidence",
+        "claimReviewed": "Lotion resistance reflects genuine tactile defensiveness – the child's nervous system perceives the texture, temperature, smell, and residual sensation as threatening. This is not behavioral defiance. The challenge is that moisturizing is often medically necessary for skin health, creating a conflict between sensory needs and medical needs. Intervention focuses on finding formats with different sensory profiles (solid bars, oils, spray, bath-based), modifying application technique (warming, firm pressure, self-application), and preparing the tactile system (deep pressure before application). Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Tactile Defensiveness With Topical Moisturizer Aversion Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing#collection",
+        "name": "Grooming & Personal Care Sensory Series",
+        "description": "Complete series of 25 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-018: Haircut Refusal",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-019: Sunscreen Application",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-020: Lotion/Moisturizer Resistance (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-021: Bath Time Meltdowns",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-022: Hates Having Hair Brushed",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 25,
+        "collectionSize": 25
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#materials",
+        "name": "9 Materials for Tactile Defensiveness With Topical Moisturizer Aversion",
+        "description": "Evidence-based materials for ages 2–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Solid Lotion Bars",
+              "description": "Eliminates the wet, cold, spreading liquid sensation that triggers most tactile-defensive responses. Solid lotion bars glide on with body heat, feel more like drawing than smearing, leave less greasy residue, and give child more control. The dry-to-touch format is fundamentally different from liquid lotion.",
+              "category": "Alternativeformats",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Melt coconut oil, shea butter, and beeswax (2:2:1 ratio) in double boiler. Pour into silicone molds. Cool until solid. Store at room temperature."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Test on small skin area first for any sensitivity. Avoid if child has nut allergies (many contain shea butter or coconut). Store away from heat to prevent melting. May leave oily residue on clothing if over-applied."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Spray Moisturizers/Oil Sprays",
+              "description": "Eliminates hand-to-skin rubbing entirely. The mist application feels different from lotion spreading – lighter, quicker, no prolonged touch. Child may tolerate brief spray sensation when they can't tolerate prolonged rubbing and spreading.",
+              "category": "Alternativeformats",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Mix 3 parts distilled water, 1 part light oil (jojoba, sweet almond), few drops vitamin E. Shake well before each use. Store in spray bottle. Use within 2 weeks."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Spray from appropriate distance to avoid startling child. Some spray moisturizers contain alcohol which can sting dry/cracked skin – check ingredients. Oil sprays may make surfaces slippery – apply over towel. Shake well before use if DIY."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Oil-Based Moisturizers (Pure Oils)",
+              "description": "Pure oils often have different sensory profile than lotions – they absorb differently, leave different residue, and lack the 'lotion texture' some children specifically reject. Many children who hate lotion tolerate oil. Oils also work well for very dry skin and eczema.",
+              "category": "Alternativeformats",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "No preparation needed – pure oils can be used directly. Coconut oil, jojoba oil, sweet almond oil, and sunflower oil are common choices. Warm slightly between palms before applying."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Patch test first – some children react to specific oils. Avoid nut-based oils if nut allergy exists. Coconut oil may not be suitable for all skin types. Some oils can stain clothing or bedding. Do not use essential oils undiluted on children's skin."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Bath Oils/In-Shower Moisturizers",
+              "description": "Applies moisturizer during bath or shower when skin is already wet, eliminating the separate 'lotion application' event entirely. Child doesn't experience the cold-lotion-on-dry-skin sensation. Moisturizer becomes part of bath routine rather than distinct aversive event.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Add 1-2 tablespoons of carrier oil (coconut, jojoba, sweet almond) directly to warm bathwater. For shower: apply oil to wet skin before turning off water, pat dry gently."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Bath oils make tub very slippery – use bath mat and supervise carefully. In-shower products may make shower floor slippery. Rinse tub after oil baths. Some bath products may irritate sensitive skin – test first."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Warming Lotion Before Application",
+              "description": "Cold lotion from bottle can trigger immediate defensive response. Warming lotion between palms or in warm water before application removes the cold shock, reducing one significant layer of sensory aversion. Simple technique that costs nothing.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (technique only)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Rub lotion between palms for 15-20 seconds before applying. Or place bottle in warm (not hot) water for a few minutes. Or store lotion in warm area rather than cool bathroom."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Do not microwave lotion or heat excessively – can damage formula and cause burns. Warm to body temperature only. Test temperature on your own skin before applying to child."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Fragrance-Free/Hypoallergenic Formulas",
+              "description": "Lotion smell can be an independent trigger for sensory-sensitive children. Fragrance-free formulas remove the olfactory component, allowing child to focus only on texture sensation without smell adding to overload. Also less likely to irritate sensitive or eczema-prone skin.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Cannot DIY – must purchase fragrance-free formula. Look for labels saying 'fragrance-free' (not 'unscented' which may have masking fragrances)."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "'Fragrance-free' is more reliable than 'unscented' – unscented may contain masking fragrances. Also check for dye-free if color is a trigger. For eczema-prone skin, look for ceramide-containing formulas approved by National Eczema Association."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Fast-Absorbing/Non-Greasy Formulas",
+              "description": "The persistent greasy or sticky residue after application is often the worst part for tactile-defensive children. Fast-absorbing, non-greasy formulas minimize this residual sensation – the lotion 'disappears' rather than leaving a coating they remain aware of.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Cannot DIY formula type – must purchase appropriate product. Look for 'lightweight,' 'fast-absorbing,' 'non-greasy,' 'quick-dry' on labels. Gel-based moisturizers often absorb faster than cream-based."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Fast-absorbing formulas may be less moisturizing for severely dry or eczema-prone skin – may need more frequent application. For medical-grade dry skin, consult dermatologist about balancing absorption speed with moisture needs."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Self-Application Tools & Autonomy",
+              "description": "Being touched by another person adds significantly to sensory load. Self-application gives child control over pressure, location, and pace, eliminating the unpredictable 'someone else touching me' component. Control reduces distress even with aversive textures.",
+              "category": "Applicationmodifications",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Provide pump bottle child can operate independently. Offer mirror so child can see what they're doing. Use visual schedule showing body parts to cover. Praise effort regardless of coverage quality initially."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise to ensure adequate coverage for skin health needs – child may miss spots or apply too thinly. Balance autonomy with medical necessity. Help with missed areas only with permission. Self-application takes longer – allow extra time."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Sensory Prep Before Application (Deep Pressure)",
+              "description": "Deep pressure input before light touch application temporarily reduces tactile sensitivity. The nervous system becomes less reactive after proprioceptive input, and the lotion application feels less intense. Preparation can make tolerable what was previously impossible.",
+              "category": "Deep Pressure",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (technique only)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Firm palm pressure down arms and legs (like squeezing tube of toothpaste from shoulder to hand). Joint compressions at elbows, wrists, knees, ankles. Tight hugs. Massage with firm pressure. Wrap in compression blanket briefly."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Pressure should be firm but comfortable – ask child about pressure preference. Do not use deep pressure if child is already distressed – this is preparation, not calming during meltdown. Build predictable routine: deep pressure → lotion → done."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing/9-materials-that-help-when-child-avoids-lotion#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Avoids Lotion | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "sensory issues lotion, autism lotion problems, toddler won't wear lotion, tactile defensiveness moisturizer, sensory friendly moisturizer"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-020.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-020-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-020.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Avoids Lotion",
+      "content_category": "Intervention Techniques > Sensory > Tactile Processing",
+      "content_ids": [
+        "A-020"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-020",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Tactile Processing",
+        "domain_code": "SEN-TAC",
+        "series": "Sensory Solutions",
+        "episode": 20,
+        "age_band": "2–12 years",
+        "setting": "Home",
+        "cluster_id": "GROOM-SENS-01",
+        "cluster_position": 20,
+        "materials_count": 9,
+        "total_cost_range": "₹500–5,000 for variety of options"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#LotionStruggles",
+      "#SensoryProcessing",
+      "#TactileDefensiveness",
+      "#AutismParenting",
+      "#SensoryFriendly",
+      "#EczemaKids",
+      "#OccupationalTherapy",
+      "#SensoryIntegration",
+      "#PinnacleBlooms",
+      "#SensoryKids",
+      "#ParentingTips",
+      "#ChildDevelopment",
+      "#DrySkinSolutions",
+      "#SensoryStrategies",
+      "#SpecialNeedsParenting"
+    ],
+    "caption": "Her skin is cracking. She needs lotion. But she screams like I'm hurting her. 😢 If your child can't tolerate moisturizer – it's not stubbornness. For some children, the texture, smell, and residual sensation feel genuinely unbearable. Here are 9 materials that help: solid lotion bars, spray moisturizers, pure oils, bath oils, warming technique, fragrance-free formulas, fast-absorbing formulas, self-application tools, and sensory prep techniques. Save for dry skin season! 🔖 #LotionStruggles #SensoryProcessing #TactileDefensiveness #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-021",
+    "prevInSeries": "A-019",
+    "relatedTechniques": [
+      "A-019",
+      "A-023",
+      "A-024",
+      "A-021",
+      "A-015"
+    ],
+    "deepDives": [
+      "A-020-DD-01",
+      "A-020-DD-02",
+      "A-020-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-920",
+      "K-935"
+    ]
+  }
+}

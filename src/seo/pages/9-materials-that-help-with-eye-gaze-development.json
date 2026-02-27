@@ -1,0 +1,1076 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development",
+    "title": "9 Materials That Help With Eye Gaze Development | Pinnacle Blooms",
+    "description": "My child doesn't look at faces or make eye contact? Reduced eye gaze and joint attention development is neurological, not behavioral. 9 evidence-based materi...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-23",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-142",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Social Connection Series",
+    "episodeInSeries": 142,
+    "domain": "Social",
+    "subDomain": "Eye Gaze & Joint Attention",
+    "domainCode": "SOC-GAZ",
+    "ageBand": "12–60 months",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SOC-GAZ-01",
+    "clusterName": "Eye Gaze & Joint Attention Series",
+    "clusterPosition": 142,
+    "totalInCluster": 200
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development",
+        "name": "9 Materials That Help With Eye Gaze Development | Pinnacle Blooms",
+        "description": "My child doesn't look at faces or make eye contact? Reduced eye gaze and joint attention development is neurological, not behavioral. 9 evidence-based materi...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-23",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "eye gaze development",
+          "joint attention autism",
+          "toddler doesn't look at faces",
+          "baby avoids eye contact",
+          "how to improve eye contact child",
+          "autism eye contact therapy",
+          "child doesn't follow gaze",
+          "social attention autism",
+          "face attention child",
+          "child won't make eye contact"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Eye Gaze & Joint Attention challenges",
+          "suggestedMinAge": 12,
+          "suggestedMaxAge": 60
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Eye Gaze & Joint Attention",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Eye Gaze Development"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-142-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-142-hero.webp",
+        "caption": "Young child and parent in moment of eye contact, warmth visible in their interaction. Close-up showing connection through gaze. Soft, natural lighting with warm tones emphasizing the intimate moment of connection.",
+        "description": "Child and parent sharing eye contact, demonstrating the foundation of social connection",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#video",
+        "name": "9 Materials That Help With Eye Gaze Development",
+        "description": "When eyes meet, worlds open. But for some children, faces don't naturally capture attention the way they do for others. The right materials make faces fascinating, worth looking at, impossible to ignore. Here are 9 materials that help with eye gaze development.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-142-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-142.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-142/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#EyeGaze",
+          "#JointAttention",
+          "#SocialConnection",
+          "#AutismTherapy",
+          "#EyeContact",
+          "#EarlyIntervention",
+          "#ChildDevelopment",
+          "#SpeechTherapy",
+          "#OccupationalTherapy",
+          "#PinnacleBlooms",
+          "#SocialSkills",
+          "#ParentingTips",
+          "#AutismAwareness",
+          "#DevelopmentalMilestones",
+          "#ConnectionMatters"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Reduced eye gaze and joint attention development",
+          "alternateName": [
+            "child won't make eye contact",
+            "toddler doesn't look at faces",
+            "baby avoids eye contact"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Doesn't Look At Faces Or Make",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When eyes meet, worlds open. But for some children, faces don't naturally capture attention the w..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Face-Level Cause-Effect Toys",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "By positioning engaging toys at face level, we create association between looking toward faces an..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Face Paint and Facial Decorations",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Adding visual novelty to faces increases their interest value. Children who typically don't prior..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Mirror Play Materials",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Mirrors make faces observable in a unique way. Children can watch their own face while seeing the..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Peekaboo and Hiding Games Materials",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Peekaboo creates anticipation for faces. The sequence – face visible, face hidden, face reappears..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Face-Focused Books and Flashcards",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Books and cards with faces provide opportunities to study faces without the dynamic demands of li..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Animated Face Apps and Videos",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Digital faces offer unique advantages: they're predictable, repeatable, and often more engaging t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Puppets and Face Characters",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Puppets provide face-like stimuli with reduced social demand. A puppet's face is simpler, more pr..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Shared Attention Objects",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Amazing, fascinating objects create motivation to share attention. When a child sees something wo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Gaze-Contingent Games and Toys",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "When eye contact directly produces rewards, children learn that gaze has power. 'When I look at y..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child doesn't look at faces or make eye contact?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REDUCED EYE GAZE AND JOINT ATTENTION DEVELOPMENT! Eye gaze development encompasses multiple interconnected skills: looking at faces, following another person's gaze, sharing attention between objects and people (joint attention), and using eyes to communicate. For typically developing infants, faces are the most fascinating visual stimulus from birth. Children with autism and related conditions often show reduced attention to faces, difficulty following gaze direction, and challenges with the reciprocal looking that underlies social connection. Per SPD Foundation and developmental research: Eye gaze is foundational to social learning, language acquisition, and emotional understanding. Reduced gaze to faces is an early indicator of autism and a key intervention target. The neural response to faces may be reduced compared to objects, and children may not find faces inherently rewarding without intervention. This is a neurological difference, not intentional avoidance or defiance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Eye gaze development encompasses multiple interconnected skills: looking at faces, following another person's gaze, sharing attention between objects and people (joint attention), and using eyes to communicate. For typically developing infants, faces are the most fascinating visual stimulus from birth. Children with autism and related conditions often show reduced attention to faces, difficulty following gaze direction, and challenges with the reciprocal looking that underlies social connection. Common signs include: Rarely looks at caregiver's face during interactions, Doesn't follow when someone points at something, Prefers looking at objects over people, Avoids eye contact when approached, Doesn't look back and forth between object and person."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Face-Level Cause-Effect Toys help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "By positioning engaging toys at face level, we create association between looking toward faces and experiencing something rewarding. The child learns: good things happen when I look in the face zone. Price: ₹200–600. DIY option: Hold any engaging toy near your face during play. Blow bubbles from face level. Activate light-up toys while held next to your cheek. Safety: Ensure toys are age-appropriate. Avoid toys with small parts for young children. Never force eye contact – let attention develop naturally."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Face Paint and Facial Decorations help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Adding visual novelty to faces increases their interest value. Children who typically don't prioritize faces may notice when something unexpected appears – creating motivation to look at the face area. Price: ₹100–400. DIY option: Use child-safe stickers on cheeks, draw dots with washable markers, wear a red clown nose, try temporary tattoos on forehead. Safety: Use only non-toxic, skin-safe products. Some children may be frightened by sudden face changes – introduce gradually. Test for skin sensitivity first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Mirror Play Materials help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mirrors make faces observable in a unique way. Children can watch their own face while seeing the adult's face nearby – creating opportunity for comparison, imitation, and shared experience with reduced social demand. Price: ₹300–1,000. DIY option: Use any child-safe mirror. Position so both adult and child faces are visible. Make expressions together. Point to features: 'nose!' 'eyes!' 'smile!' Safety: Ensure mirrors are shatterproof and child-safe. Some children may be initially distressed by their reflection – introduce carefully."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Peekaboo and Hiding Games Materials help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Peekaboo creates anticipation for faces. The sequence – face visible, face hidden, face reappears – teaches children to LOOK FOR the face, expecting it to return. This active face-seeking builds gaze skills. Price: ₹100–300. DIY option: Use any soft scarf, blanket, or even your hands. Hide face briefly, build anticipation with 'Where am I?', reveal with animated expression. Safety: Keep hiding games brief for young children. Ensure child understands face returns quickly. Watch for overstimulation – game should be fun, not frightening."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Face-Focused Books and Flashcards help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Books and cards with faces provide opportunities to study faces without the dynamic demands of live interaction. Static faces don't move or require response – children can look as long as they want. Price: ₹200–600. DIY option: Create photo book with family faces. Print emotion pictures. Make matching game with face photos. Safety: Don't rely solely on static images – must bridge to real faces over time. Ensure diverse representation in face materials."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Animated Face Apps and Videos help with reduced eye gaze and joint attention development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Digital faces offer unique advantages: they're predictable, repeatable, and often more engaging than static images. When used purposefully with adult involvement, screen-based face content builds face-processing skills. Price: ₹0–500 (apps). DIY option: Record family video messages with close-up faces. Use video calling with relatives. Select purposeful face-focused content. Safety: Screen time should not replace real interaction – must bridge to real faces. Limit duration (10-15 minute sessions). Adult involvement is essential. Not appropriate as solo activity."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Complete absence of face-directed attention by 12 months. Loss of previously established eye contact. Active gaze avoidance that worsens over time. Distress when faces are near. No response to social games by 12-15 months. Consult developmental specialist if: no eye contact by 12 months, loss of previously established gaze skills, no joint attention by 18 months, or if gaze avoidance is severely impacting social development and learning."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 80+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#howto",
+        "name": "How to Help a Child with Reduced Eye Gaze And Joint Attention Development",
+        "description": "A graded approach using evidence-based materials. Never force eye contact. Build positive associations with faces through engaging, rewarding experiences. The child must find faces naturally interesting.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1300,
+          "maxValue": 5400
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Face-Level Cause-Effect Toys",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Face Paint and Facial Decorations",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 400
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Mirror Play Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1000
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Eye gaze development encompasses multiple interconnected skills: looking at faces, following another person's gaze, sharing attention between objects and people (joint attention), and using eyes to communicate. For typically developing infants, faces are the most fascinating visual stimulus from birth. Children with autism and related conditions often show reduced attention to faces, difficulty following gaze direction, and challenges with the reciprocal looking that underlies social connection. Never force eye contact. Build positive associations with faces through engaging, rewarding experiences. The child must find faces naturally interesting."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Face-Level Cause-Effect Toys, Face Paint and Facial Decorations, Mirror Play Materials."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Complete absence of face-directed attention by 12 months, Loss of previously established eye contact, Active gaze avoidance that worsens over time."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult developmental specialist if: no eye contact by 12 months, loss of previously established gaze skills, no joint attention by 18 months, or if gaze avoidance is severely impacting social development and learning."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#medicalpage",
+        "name": "Reduced eye gaze and joint attention development Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Reduced eye gaze and joint attention development",
+          "alternateName": [
+            "child won't make eye contact",
+            "toddler doesn't look at faces",
+            "baby avoids eye contact"
+          ],
+          "description": "Eye gaze development encompasses multiple interconnected skills: looking at faces, following another person's gaze, sharing attention between objects and people (joint attention), and using eyes to communicate. For typically developing infants, faces are the most fascinating visual stimulus from birth. Children with autism and related conditions often show reduced attention to faces, difficulty following gaze direction, and challenges with the reciprocal looking that underlies social connection.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Rarely looks at caregiver's face during interactions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't follow when someone points at something"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Prefers looking at objects over people"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Avoids eye contact when approached"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't look back and forth between object and person"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Limited response when name is called"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't check parent's reaction in new situations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Looks through people rather than at them"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-23"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#article",
+        "headline": "9 Materials That Help With Eye Gaze Development",
+        "alternativeHeadline": "When eyes meeting means worlds opening",
+        "description": "My child doesn't look at faces or make eye contact? Reduced eye gaze and joint attention development is neurological, not behavioral. 9 evidence-based materi...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-23T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#primaryimage"
+        },
+        "articleSection": "Social",
+        "wordCount": 3500,
+        "keywords": [
+          "eye gaze development",
+          "joint attention autism",
+          "toddler doesn't look at faces",
+          "baby avoids eye contact",
+          "how to improve eye contact child"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Eye gaze and joint attention are foundational to social learning and communication development. Reduced attention to faces reflects neurological differences in social processing, not intentional avoidance."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across social communication interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dawson G, et al.",
+            "url": "",
+            "description": "Early social attention impairments in autism: social orienting, joint attention, and attention to distress. Developmental Psychology, 2004."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kasari C, et al.",
+            "url": "",
+            "description": "Joint attention and symbolic play in young children with autism: A randomized controlled intervention study. Journal of Child Psychology and Psychiatry, 2006."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#healthcontent",
+        "name": "Reduced eye gaze and joint attention development Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Reduced eye gaze and joint attention development"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Eye Gaze & Joint Attention challenges"
+        },
+        "keywords": [
+          "eye gaze development",
+          "joint attention autism",
+          "toddler doesn't look at faces",
+          "baby avoids eye contact",
+          "how to improve eye contact child"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#evidence",
+        "claimReviewed": "Never force eye contact. Build positive associations with faces through engaging, rewarding experiences. The child must find faces naturally interesting. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Reduced Eye Gaze And Joint Attention Development Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention#collection",
+        "name": "Eye Gaze & Joint Attention Series",
+        "description": "Complete series of 200 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-140: Building Communication Temptations",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-141: Building Communication Turns",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-142: Eye Gaze Development (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-143: Social Referencing",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-144: Pointing and Showing",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 200,
+        "collectionSize": 200
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#materials",
+        "name": "9 Materials for Reduced Eye Gaze And Joint Attention Development",
+        "description": "Evidence-based materials for ages 12–60 months",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Face-Level Cause-Effect Toys",
+              "description": "By positioning engaging toys at face level, we create association between looking toward faces and experiencing something rewarding. The child learns: good things happen when I look in the face zone.",
+              "category": "Facepairing",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Hold any engaging toy near your face during play. Blow bubbles from face level. Activate light-up toys while held next to your cheek."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure toys are age-appropriate. Avoid toys with small parts for young children. Never force eye contact – let attention develop naturally."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Face Paint and Facial Decorations",
+              "description": "Adding visual novelty to faces increases their interest value. Children who typically don't prioritize faces may notice when something unexpected appears – creating motivation to look at the face area.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use child-safe stickers on cheeks, draw dots with washable markers, wear a red clown nose, try temporary tattoos on forehead."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Use only non-toxic, skin-safe products. Some children may be frightened by sudden face changes – introduce gradually. Test for skin sensitivity first."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Mirror Play Materials",
+              "description": "Mirrors make faces observable in a unique way. Children can watch their own face while seeing the adult's face nearby – creating opportunity for comparison, imitation, and shared experience with reduced social demand.",
+              "category": "Lowdemandexposure",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any child-safe mirror. Position so both adult and child faces are visible. Make expressions together. Point to features: 'nose!' 'eyes!' 'smile!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure mirrors are shatterproof and child-safe. Some children may be initially distressed by their reflection – introduce carefully."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Peekaboo and Hiding Games Materials",
+              "description": "Peekaboo creates anticipation for faces. The sequence – face visible, face hidden, face reappears – teaches children to LOOK FOR the face, expecting it to return. This active face-seeking builds gaze skills.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any soft scarf, blanket, or even your hands. Hide face briefly, build anticipation with 'Where am I?', reveal with animated expression."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep hiding games brief for young children. Ensure child understands face returns quickly. Watch for overstimulation – game should be fun, not frightening."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Face-Focused Books and Flashcards",
+              "description": "Books and cards with faces provide opportunities to study faces without the dynamic demands of live interaction. Static faces don't move or require response – children can look as long as they want.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create photo book with family faces. Print emotion pictures. Make matching game with face photos."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't rely solely on static images – must bridge to real faces over time. Ensure diverse representation in face materials."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Animated Face Apps and Videos",
+              "description": "Digital faces offer unique advantages: they're predictable, repeatable, and often more engaging than static images. When used purposefully with adult involvement, screen-based face content builds face-processing skills.",
+              "category": "Digitalbridge",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–500 (apps)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Record family video messages with close-up faces. Use video calling with relatives. Select purposeful face-focused content."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Screen time should not replace real interaction – must bridge to real faces. Limit duration (10-15 minute sessions). Adult involvement is essential. Not appropriate as solo activity."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Puppets and Face Characters",
+              "description": "Puppets provide face-like stimuli with reduced social demand. A puppet's face is simpler, more predictable, and less overwhelming than a human face – becoming a 'safe' face to practice looking at.",
+              "category": "Lowdemandexposure",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Make sock puppets with button eyes. Use stuffed animals with clear faces. Create paper bag puppets together."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may be frightened of certain puppets – assess carefully and introduce gradually. Ensure puppets don't become substitute for human connection – bridge to real faces over time."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Shared Attention Objects",
+              "description": "Amazing, fascinating objects create motivation to share attention. When a child sees something wonderful and looks to an adult to share the experience, they're demonstrating joint attention – the triangle of looks.",
+              "category": "Jointattention",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Collect novel, fascinating items: light-up toys, spinning objects, bubbles, musical toys. Show with enthusiasm and wait for child to look at you."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Objects shouldn't be so fascinating that adult becomes invisible. Balance object attention with face attention. Some children may grab object – use briefly then redirect to build gaze shifting."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Gaze-Contingent Games and Toys",
+              "description": "When eye contact directly produces rewards, children learn that gaze has power. 'When I look at you, good things happen.' This teaches instrumental eye contact that can later develop toward more social purposes.",
+              "category": "Facepairing",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Hold preferred item, wait for eye contact before giving. Pause favorite activity until child looks at you. Say 'look at me' then immediately provide reward when they do."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid power struggle or demanding eye contact. Should feel natural, not forced. Some children may avoid if demand is too high – adjust expectations. Don't make ALL positive experiences contingent on eye contact initially."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social/eye gaze & joint attention/9-materials-that-help-with-eye-gaze-development#course",
+        "name": "Social Connection Series",
+        "description": "Parent education video series on Social interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Eye Gaze Development | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "eye gaze development, joint attention autism, toddler doesn't look at faces, baby avoids eye contact, how to improve eye contact child"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-142.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-142-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-142.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Eye Gaze Development",
+      "content_category": "Intervention Techniques > Social > Eye Gaze & Joint Attention",
+      "content_ids": [
+        "B-142"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-142",
+        "technique_theme": "9MAT",
+        "domain": "Social",
+        "sub_domain": "Eye Gaze & Joint Attention",
+        "domain_code": "SOC-GAZ",
+        "series": "Social Connection Series",
+        "episode": 142,
+        "age_band": "12–60 months",
+        "setting": "Home",
+        "cluster_id": "SOC-GAZ-01",
+        "cluster_position": 142,
+        "materials_count": 9,
+        "total_cost_range": "₹1,300–5,400 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#EyeGaze",
+      "#JointAttention",
+      "#SocialConnection",
+      "#AutismTherapy",
+      "#EyeContact",
+      "#EarlyIntervention",
+      "#ChildDevelopment",
+      "#SpeechTherapy",
+      "#OccupationalTherapy",
+      "#PinnacleBlooms",
+      "#SocialSkills",
+      "#ParentingTips",
+      "#AutismAwareness",
+      "#DevelopmentalMilestones",
+      "#ConnectionMatters"
+    ],
+    "caption": "Does your child look at everything except your face? 👀 It's not rejection – their brain processes faces differently. Eye gaze is foundational to learning and connection. Here are 9 materials that make faces fascinating, worth looking at, impossible to ignore. When eyes meet, worlds open! Save this for your connection journey! #EyeGaze #JointAttention #SocialConnection #AutismTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-143",
+    "prevInSeries": "B-141",
+    "relatedTechniques": [
+      "B-005",
+      "B-006",
+      "B-141",
+      "B-143",
+      "B-144"
+    ],
+    "deepDives": [
+      "B-142-DD-01",
+      "B-142-DD-02",
+      "B-142-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-915"
+    ]
+  }
+}

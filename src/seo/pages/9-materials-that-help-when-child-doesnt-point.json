@@ -1,0 +1,1084 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point",
+    "title": "9 Materials That Help When Child Doesn't Point | Pinnacle Blooms",
+    "description": "My child grabs for things but never points. Other toddlers point at everything. Mine just stares or reaches.? Absence or Delay in Pointing Development is neu...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-19",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-123",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Pre-Linguistic Communication Series",
+    "episodeInSeries": 123,
+    "domain": "Social Communication",
+    "subDomain": "Gesture Development & Joint Attention",
+    "domainCode": "SOC-GEST-JA",
+    "ageBand": "9 months – 24 months",
+    "setting": "Home & Therapy",
+    "audience": "Parents",
+    "clusterId": "SOCIAL-COMM-01",
+    "clusterName": "Social Communication Series",
+    "clusterPosition": 123,
+    "totalInCluster": 150
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point",
+        "name": "9 Materials That Help When Child Doesn't Point | Pinnacle Blooms",
+        "description": "My child grabs for things but never points. Other toddlers point at everything. Mine just stares or reaches.? Absence or Delay in Pointing Development is neu...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-19",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "baby doesn't point",
+          "pointing milestone",
+          "when should baby point",
+          "no pointing 12 months",
+          "joint attention delay",
+          "pointing development",
+          "autism pointing sign",
+          "teach baby to point",
+          "gesture development",
+          "proto-declarative pointing",
+          "toddler not pointing"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Gesture Development & Joint Attention challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Gesture Development & Joint Attention",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Doesn't Point"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-123-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-123-hero.webp",
+        "caption": "Imagery suggesting joint attention and pointing development. Parent and child looking at something together. Child's hand in focus, index finger emerging. Warm, developmental aesthetic.",
+        "description": "Parent and toddler sharing attention, child's hand showing emerging pointing gesture",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#video",
+        "name": "9 Materials That Help When Child Doesn't Point",
+        "description": "Does your child reach for things but never point? Pointing isn't just a gesture—it's your child's first way of saying 'look at that' or 'I want that.' Here are nine materials that can help your child discover the power of pointing.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-123-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-123.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-123/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#Pointing",
+          "#JointAttention",
+          "#EarlyIntervention",
+          "#ToddlerDevelopment",
+          "#GestureDevelopment",
+          "#PreLinguistic",
+          "#CommunicationMilestones",
+          "#AutismAwareness",
+          "#SocialCommunication",
+          "#ChildDevelopment",
+          "#ParentingTips",
+          "#DevelopmentalMilestones",
+          "#EarlyChildhood",
+          "#PinnacleBlooms",
+          "#TherapyMaterials"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Absence or Delay in Pointing Development",
+          "alternateName": [
+            "toddler not pointing",
+            "baby doesn't point",
+            "no pointing 12 months"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Grabs For Things But Never Poi",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Does your child reach for things but never point? Pointing isn't just a gesture—it's your child's..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Bubble Wands and Popping Games",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Bubbles create irresistible pointing targets. As bubbles float by, your child naturally wants to ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Interactive Touch Books and Point-and-Say Books",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "'Where's the dog?' invites your child to point while you share the exciting discovery together. B..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Finger Puppets and Index Finger Toys",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Finger puppets put the focus right on the index finger. When a tiny puppet lives on your pointing..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Choice Boards and Picture Selection Materials",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Choice boards turn pointing into power. When your child learns that pointing to a picture gets th..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Cause-and-Effect Button Toys",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Push-button toys teach that one finger can make exciting things happen. Pressing buttons with the..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Pointing Wands and Extended Finger Tools",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Pointing wands extend your child's reach and make pointing visible. A special 'pointing stick' ca..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Light Toys and Flashlights",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Flashlights turn pointing into a beam of light. When your child shines a light on something, they..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Sticker and Touch-Screen Activities",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Stickers and touch screens require that precise index finger touch. Whether placing stickers or t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Joint Attention Games and Look-Point-Share Activities",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Joint attention games teach the 'why' of pointing. When you and your child discover something exc..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child grabs for things but never points. other toddlers point at everything. mine just stares or reaches?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ABSENCE OR DELAY IN POINTING DEVELOPMENT! Pointing is one of the most significant pre-linguistic communication milestones, typically emerging between 9-14 months of age. It represents a child's understanding that they can direct another person's attention to share an experience or request something. Children who do not point—or point significantly later than peers—may be missing a crucial building block for language development and social communication. Pointing requires the convergence of motor skills, social understanding, and communicative intent. Per developmental research: Pointing typically emerges 9-14 months. Proto-imperative pointing (to request) emerges around 9-12 months. Proto-declarative pointing (to share interest) emerges around 12-14 months. Absence of any pointing by 14-16 months, and specifically absence of proto-declarative pointing by 18 months, is a significant red flag for autism spectrum disorder."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Absence or Delay in Pointing Development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pointing is one of the most significant pre-linguistic communication milestones, typically emerging between 9-14 months of age. It represents a child's understanding that they can direct another person's attention to share an experience or request something. Children who do not point—or point significantly later than peers—may be missing a crucial building block for language development and social communication. Pointing requires the convergence of motor skills, social understanding, and communicative intent. Common signs include: Reaches for objects but doesn't point to them, Uses adult's hand as a tool instead of pointing, Doesn't point to show interesting things, Doesn't follow when others point, No index finger isolation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Bubble Wands and Popping Games help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bubbles create irresistible pointing targets. As bubbles float by, your child naturally wants to point at them. Pop bubbles with your finger while saying 'pop!'—modeling pointing with an exciting result. Price: ₹50–300. DIY option: Any bubble solution works. Model popping with your index finger. Wait for child to reach or attempt pointing before popping more. Guide their hand into a point to pop. Safety: Supervise bubble solution safety—non-toxic only. Some children may become overstimulated—moderate excitement level."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Interactive Touch Books and Point-and-Say Books help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "'Where's the dog?' invites your child to point while you share the exciting discovery together. Books build pointing into daily reading routines. Price: ₹200–600. DIY option: Use any picture book. Ask 'Where's the...?' and wait. Model pointing with your finger. Guide child's hand to point if needed. Touch-and-feel books encourage index finger exploration. Safety: Don't make book time stressful with too many demands. Balance requests with enjoyment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Finger Puppets and Index Finger Toys help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Finger puppets put the focus right on the index finger. When a tiny puppet lives on your pointing finger, your child pays attention to that finger—and begins to isolate their own. Price: ₹100–400. DIY option: Draw faces on fingertips with washable markers. Use paper finger puppets. The goal is drawing attention to the index finger specifically. Safety: Finger puppets can be choking hazards—supervise closely. Some children may mouth puppets rather than wear them."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Choice Boards and Picture Selection Materials help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Choice boards turn pointing into power. When your child learns that pointing to a picture gets them what they want, pointing becomes meaningful and motivating. Price: ₹100–500. DIY option: Print photos of 2-3 favorite items. Hold them up and ask 'Which one?' Accept reaching, then shape toward pointing. Always honor the choice. Safety: Always honor the child's choice—don't bait-and-switch. Start with highly motivating items. This supplements, not replaces, verbal attempts."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Cause-and-Effect Button Toys help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Push-button toys teach that one finger can make exciting things happen. Pressing buttons with the index finger builds the motor skill and cause-effect understanding that matters for pointing. Price: ₹300–1,000. DIY option: Doorbells, elevator buttons, or any buttons in your environment work. Guide child to press with index finger specifically, not palm or whole hand. Safety: Choose toys requiring finger isolation—avoid those activatable with palm. Provide hand-over-hand support if fine motor is challenging."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Pointing Wands and Extended Finger Tools help with absence or delay in pointing development?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pointing wands extend your child's reach and make pointing visible. A special 'pointing stick' can make the abstract concept of pointing concrete and fun. Price: ₹50–300. DIY option: Use a wooden spoon, dowel, or any safe stick as a 'magic pointing wand.' Model pointing to things with it. Then show that your finger is a 'built-in wand.' Safety: Supervise wand use—can poke eyes or be thrown. Choose safe, age-appropriate materials."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No reaching toward desired objects by 9 months. No following of others' points by 10-12 months. No pointing of any kind by 14-16 months. Only pointing to request, never to share (by 18 months). Pointing without checking if adult is looking. Using adult's hand as tool instead of pointing. Regression—loss of previously present pointing. Absence of any pointing by 14-16 months warrants developmental evaluation. Absence of proto-declarative pointing (pointing to share) by 18 months is a significant autism red flag. Comprehensive developmental assessment recommended."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#howto",
+        "name": "How to Help a Child with Absence Or Delay In Pointing Development",
+        "description": "A graded approach using evidence-based materials. Pointing represents the convergence of motor skills (index finger isolation), social understanding (others have attention that can be directed), and communicative intent (desire to share or request). Teaching pointing requires addressing all three components: the motor skill, the understanding that pointing affects others, and the motivation to communicate.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1000,
+          "maxValue": 4000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Bubble Wands and Popping Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 50,
+              "maxValue": 300
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Interactive Touch Books and Point-and-Say Books",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Finger Puppets and Index Finger Toys",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 100,
+              "maxValue": 400
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Pointing is one of the most significant pre-linguistic communication milestones, typically emerging between 9-14 months of age. It represents a child's understanding that they can direct another person's attention to share an experience or request something. Children who do not point—or point significantly later than peers—may be missing a crucial building block for language development and social communication. Pointing requires the convergence of motor skills, social understanding, and communicative intent. Pointing represents the convergence of motor skills (index finger isolation), social understanding (others have attention that can be directed), and communicative intent (desire to share or request). Teaching pointing requires addressing all three components: the motor skill, the understanding that pointing affects others, and the motivation to communicate."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Bubble Wands and Popping Games, Interactive Touch Books and Point-and-Say Books, Finger Puppets and Index Finger Toys."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No reaching toward desired objects by 9 months, No following of others' points by 10-12 months, No pointing of any kind by 14-16 months."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Absence of any pointing by 14-16 months warrants developmental evaluation. Absence of proto-declarative pointing (pointing to share) by 18 months is a significant autism red flag. Comprehensive developmental assessment recommended."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#medicalpage",
+        "name": "Absence or Delay in Pointing Development Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Absence or Delay in Pointing Development",
+          "alternateName": [
+            "toddler not pointing",
+            "baby doesn't point",
+            "no pointing 12 months"
+          ],
+          "description": "Pointing is one of the most significant pre-linguistic communication milestones, typically emerging between 9-14 months of age. It represents a child's understanding that they can direct another person's attention to share an experience or request something. Children who do not point—or point significantly later than peers—may be missing a crucial building block for language development and social communication. Pointing requires the convergence of motor skills, social understanding, and communicative intent.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Reaches for objects but doesn't point to them"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Uses adult's hand as a tool instead of pointing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't point to show interesting things"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't follow when others point"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No index finger isolation"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Grabs or pulls toward desired items without gesturing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't look back and forth between person and object"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "No 'showing' or 'sharing' gestures"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-19"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#article",
+        "headline": "9 Materials That Help When Child Doesn't Point",
+        "alternativeHeadline": "When reaching happens but pointing doesn't",
+        "description": "My child grabs for things but never points. Other toddlers point at everything. Mine just stares or reaches.? Absence or Delay in Pointing Development is neu...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-19T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#primaryimage"
+        },
+        "articleSection": "Social Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "baby doesn't point",
+          "pointing milestone",
+          "when should baby point",
+          "no pointing 12 months",
+          "joint attention delay"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Developmental Communication Research",
+            "url": "https://www.asha.org",
+            "description": "Pointing typically emerges 9-14 months. Proto-imperative pointing (to request) around 9-12 months. Proto-declarative pointing (to share interest) around 12-14 months. Absence of proto-declarative pointing by 18 months is a key early indicator of autism spectrum disorder."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across social communication and gesture development interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Bates E, Camaioni L, Volterra V.",
+            "url": "",
+            "description": "The acquisition of performatives prior to speech (1975). Foundational research on gesture development and communicative intent."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Baron-Cohen S.",
+            "url": "",
+            "description": "Perceptual role taking and protodeclarative pointing in autism (1989). Key research on pointing as autism indicator."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Tomasello M.",
+            "url": "",
+            "description": "Origins of human communication (2007). Research on pointing as foundation of human communication."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#healthcontent",
+        "name": "Absence or Delay in Pointing Development Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Absence or Delay in Pointing Development"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Gesture Development & Joint Attention challenges"
+        },
+        "keywords": [
+          "baby doesn't point",
+          "pointing milestone",
+          "when should baby point",
+          "no pointing 12 months",
+          "joint attention delay"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#evidence",
+        "claimReviewed": "Pointing represents the convergence of motor skills (index finger isolation), social understanding (others have attention that can be directed), and communicative intent (desire to share or request). Teaching pointing requires addressing all three components: the motor skill, the understanding that pointing affects others, and the motivation to communicate. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Absence Or Delay In Pointing Development Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention#collection",
+        "name": "Social Communication Series",
+        "description": "Complete series of 150 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-121: Doesn't Respond to Name",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-122: No Babbling",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-123: Doesn't Point (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-124: Eye Contact Avoidance",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-125: Limited Gestures",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 150,
+        "collectionSize": 150
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#materials",
+        "name": "9 Materials for Absence Or Delay In Pointing Development",
+        "description": "Evidence-based materials for ages 9 months – 24 months",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Bubble Wands and Popping Games",
+              "description": "Bubbles create irresistible pointing targets. As bubbles float by, your child naturally wants to point at them. Pop bubbles with your finger while saying 'pop!'—modeling pointing with an exciting result.",
+              "category": "Motivatingtargets",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any bubble solution works. Model popping with your index finger. Wait for child to reach or attempt pointing before popping more. Guide their hand into a point to pop."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise bubble solution safety—non-toxic only. Some children may become overstimulated—moderate excitement level."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Interactive Touch Books and Point-and-Say Books",
+              "description": "'Where's the dog?' invites your child to point while you share the exciting discovery together. Books build pointing into daily reading routines.",
+              "category": "Barrier",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any picture book. Ask 'Where's the...?' and wait. Model pointing with your finger. Guide child's hand to point if needed. Touch-and-feel books encourage index finger exploration."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't make book time stressful with too many demands. Balance requests with enjoyment."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Finger Puppets and Index Finger Toys",
+              "description": "Finger puppets put the focus right on the index finger. When a tiny puppet lives on your pointing finger, your child pays attention to that finger—and begins to isolate their own.",
+              "category": "Indexfingerisolation",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Draw faces on fingertips with washable markers. Use paper finger puppets. The goal is drawing attention to the index finger specifically."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Finger puppets can be choking hazards—supervise closely. Some children may mouth puppets rather than wear them."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Choice Boards and Picture Selection Materials",
+              "description": "Choice boards turn pointing into power. When your child learns that pointing to a picture gets them what they want, pointing becomes meaningful and motivating.",
+              "category": "Structuredpractice",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Print photos of 2-3 favorite items. Hold them up and ask 'Which one?' Accept reaching, then shape toward pointing. Always honor the choice."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Always honor the child's choice—don't bait-and-switch. Start with highly motivating items. This supplements, not replaces, verbal attempts."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Cause-and-Effect Button Toys",
+              "description": "Push-button toys teach that one finger can make exciting things happen. Pressing buttons with the index finger builds the motor skill and cause-effect understanding that matters for pointing.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Doorbells, elevator buttons, or any buttons in your environment work. Guide child to press with index finger specifically, not palm or whole hand."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose toys requiring finger isolation—avoid those activatable with palm. Provide hand-over-hand support if fine motor is challenging."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Pointing Wands and Extended Finger Tools",
+              "description": "Pointing wands extend your child's reach and make pointing visible. A special 'pointing stick' can make the abstract concept of pointing concrete and fun.",
+              "category": "Visualtools",
+              "offers": {
+                "@type": "Offer",
+                "price": "50",
+                "priceCurrency": "INR",
+                "priceRange": "₹50–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use a wooden spoon, dowel, or any safe stick as a 'magic pointing wand.' Model pointing to things with it. Then show that your finger is a 'built-in wand.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise wand use—can poke eyes or be thrown. Choose safe, age-appropriate materials."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Light Toys and Flashlights",
+              "description": "Flashlights turn pointing into a beam of light. When your child shines a light on something, they're pointing with light—and they can see exactly where their point goes.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any flashlight in a dimmed room. Play 'shine on the...' games. Model that the light shows where you're 'pointing.' Connect to finger pointing later."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Never shine flashlights in eyes. Supervise closely. Choose flashlights without hot bulbs. Adjust lighting to child's comfort level."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Sticker and Touch-Screen Activities",
+              "description": "Stickers and touch screens require that precise index finger touch. Whether placing stickers or tapping apps, your child practices the exact finger isolation needed for pointing.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any stickers work—help child peel and place with index finger. For screens, model single-finger tapping and guide child's index finger. Connect to pointing: 'Your finger is pointing!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Limit screen time appropriately. Ensure stickers are non-toxic. Some stickers are choking hazards. Balance with non-screen activities."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Joint Attention Games and Look-Point-Share Activities",
+              "description": "Joint attention games teach the 'why' of pointing. When you and your child discover something exciting together, pointing becomes the natural way to share that discovery.",
+              "category": "Socialfoundation",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create natural surprises—unveil a hidden toy, notice a bird outside, find something unexpected. Model: notice it → point → look at child → look back → comment. Pause for child to respond."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't force joint attention—keep interactions joyful. Adjust to child's interests. Some children need more time to develop social motivation."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/gesture development & joint attention/9-materials-that-help-when-child-doesnt-point#course",
+        "name": "Pre-Linguistic Communication Series",
+        "description": "Parent education video series on Social Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Doesn't Point | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "baby doesn't point, pointing milestone, when should baby point, no pointing 12 months, joint attention delay"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-123.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-123-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-123.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Doesn't Point",
+      "content_category": "Intervention Techniques > Social Communication > Gesture Development & Joint Attention",
+      "content_ids": [
+        "B-123"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-123",
+        "technique_theme": "9MAT",
+        "domain": "Social Communication",
+        "sub_domain": "Gesture Development & Joint Attention",
+        "domain_code": "SOC-GEST-JA",
+        "series": "Pre-Linguistic Communication Series",
+        "episode": 123,
+        "age_band": "9 months – 24 months",
+        "setting": "Home & Therapy",
+        "cluster_id": "SOCIAL-COMM-01",
+        "cluster_position": 123,
+        "materials_count": 9,
+        "total_cost_range": "₹1,000–4,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#Pointing",
+      "#JointAttention",
+      "#EarlyIntervention",
+      "#ToddlerDevelopment",
+      "#GestureDevelopment",
+      "#PreLinguistic",
+      "#CommunicationMilestones",
+      "#AutismAwareness",
+      "#SocialCommunication",
+      "#ChildDevelopment",
+      "#ParentingTips",
+      "#DevelopmentalMilestones",
+      "#EarlyChildhood",
+      "#PinnacleBlooms",
+      "#TherapyMaterials"
+    ],
+    "caption": "Your toddler reaches for things but never points. 👆 Other kids point at dogs, planes, everything they find interesting. Yours just watches—or grabs your hand. Here's what most parents don't realize: Pointing isn't just a gesture. It's your child's first way of saying 'LOOK AT THAT!' or 'I WANT THAT!' It's the foundation of shared communication. The good news? Pointing can be taught with the right materials and approach. These 9 materials build both the motor skill (index finger isolation) and the understanding (pointing has power). Save this to start building this essential milestone. #Pointing #JointAttention #EarlyIntervention #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-124",
+    "prevInSeries": "B-122",
+    "relatedTechniques": [
+      "B-121",
+      "B-122",
+      "B-124",
+      "B-125",
+      "B-126"
+    ],
+    "deepDives": [
+      "B-123-DD-01",
+      "B-123-DD-04",
+      "B-123-DD-09"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-967",
+      "K-989"
+    ]
+  }
+}

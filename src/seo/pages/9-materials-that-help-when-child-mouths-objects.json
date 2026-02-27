@@ -1,0 +1,1084 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects",
+    "title": "9 Materials That Help When Child Mouths Objects | Pinnacle Blooms",
+    "description": "My child chews on everything—shirts, pencils, toys, anything they can find? Oral mouthing of non-food objects (Oral Sensory Seeking) is neurological, not beh...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-23",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-110",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 110,
+    "domain": "Sensory",
+    "subDomain": "Oral Sensory",
+    "domainCode": "SEN-ORAL",
+    "ageBand": "2–12 years",
+    "setting": "Home, School & Therapy",
+    "audience": "Parents",
+    "clusterId": "ORAL-SENS-01",
+    "clusterName": "Oral Sensory & Feeding Series",
+    "clusterPosition": 110,
+    "totalInCluster": 150
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects",
+        "name": "9 Materials That Help When Child Mouths Objects | Pinnacle Blooms",
+        "description": "My child chews on everything—shirts, pencils, toys, anything they can find? Oral mouthing of non-food objects (Oral Sensory Seeking) is neurological, not beh...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-23",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "oral sensory seeking",
+          "child chewing shirt",
+          "chew tools for kids",
+          "oral fixation child",
+          "why does my child mouth objects",
+          "sensory chewing behavior",
+          "chewable jewelry autism",
+          "oral motor tools",
+          "pencil chewing solution",
+          "safe chewing alternatives",
+          "child chews on everything"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Oral Sensory challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Oral Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Mouths Objects"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-110-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-110-hero.webp",
+        "caption": "Child appropriately using oral sensory tool with satisfied expression. Cool blue and mint green gradient suggesting freshness and oral health. Chewed objects shown crossed out or transformed into safe alternatives.",
+        "description": "Child using safe oral sensory tool instead of mouthing inappropriate objects",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#video",
+        "name": "9 Materials That Help When Child Mouths Objects",
+        "description": "Is your child constantly chewing on their shirt, pencils, or anything they can find? They're not being naughty—their mouth is hungry for sensory input their brain desperately needs. Here are 9 materials that safely feed that need.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-110-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-110.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-110/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#OralSensory",
+          "#ChewingBehavior",
+          "#SensoryProcessing",
+          "#ChildChewsEverything",
+          "#ChewTools",
+          "#OccupationalTherapy",
+          "#SensorySeekingChild",
+          "#AutismSupport",
+          "#SensoryDiet",
+          "#OralMotor",
+          "#ChewableJewelry",
+          "#SensoryTools",
+          "#SPD",
+          "#PinnacleBlooms",
+          "#SafeChewing"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Oral mouthing of non-food objects (Oral Sensory Seeking)",
+          "alternateName": [
+            "child chews on everything",
+            "toddler mouths objects",
+            "child chewing shirt collar"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Chews On Everything—shirts, Pe",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Is your child constantly chewing on their shirt, pencils, or anything they can find? They're not ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Chewable Jewelry (Necklaces and Bracelets)",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides a safe, socially acceptable, always-available outlet for oral needs—worn around the neck..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Pencil Toppers and Chewable Writing Tools",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Transforms the biggest target for school chewing into a safe sensory tool—children can satisfy or..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Oral Motor Chew Tools (Chewy Tubes, Grabbers)",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Specifically designed for intensive oral input—different shapes target different mouth areas, whi..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Vibrating Oral Tools",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Combines proprioceptive input with vibration that wakes up the mouth—for children who need extra-..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Crunchy and Chewy Snack Options",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Sometimes the best oral sensory tool is actual food—strategically timed crunchy and chewy snacks ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Chewable Fidgets and Hand Toys",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Combines oral sensory input with hand manipulation—doubling the sensory benefit. When hands and m..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Specialized Drinking Tools (Straws, Sports Bottles)",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Sucking through straws and sports bottles provides powerful oral input through a natural activity..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Organized Oral Sensory Kit",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Keeps appropriate tools always within reach—having a designated kit teaches children to recognize..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Chew-Resistant Clothing and Fabric Guards",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Protects clothing while the underlying need is addressed—these aren't replacements for oral tools..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child chews on everything—shirts, pencils, toys, anything they can find?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ORAL MOUTHING OF NON-FOOD OBJECTS (ORAL SENSORY SEEKING)! Oral mouthing refers to the persistent placement of non-food objects in the mouth beyond the developmentally typical age (generally past 2-3 years). Children who mouth objects excessively may chew on clothing, toys, pencils, fingers, or any available items. This behavior often serves sensory regulation purposes—providing proprioceptive input to the jaw, oral tactile stimulation, or calming deep pressure. It is commonly observed in children with autism spectrum disorder, sensory processing disorder, anxiety disorders, and developmental delays. While mouthing can serve important regulatory functions, it raises concerns about safety (choking, toxins, germs), social acceptance, and damage to objects. Per SPD Foundation: Oral sensory seeking reflects the nervous system's attempt to obtain regulating input through the mouth. The oral cavity is rich in sensory receptors, and chewing/sucking provides proprioceptive feedback to the jaw muscles that many children find calming and organizing. When the oral sensory system is under-responsive, children may seek intense or frequent input to achieve regulation. The therapeutic goal is to provide safe, appropriate outlets rather than eliminating the regulatory behavior."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Oral mouthing of non-food objects (Oral Sensory Seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oral mouthing refers to the persistent placement of non-food objects in the mouth beyond the developmentally typical age (generally past 2-3 years). Children who mouth objects excessively may chew on clothing, toys, pencils, fingers, or any available items. This behavior often serves sensory regulation purposes—providing proprioceptive input to the jaw, oral tactile stimulation, or calming deep pressure. It is commonly observed in children with autism spectrum disorder, sensory processing disorder, anxiety disorders, and developmental delays. While mouthing can serve important regulatory functions, it raises concerns about safety (choking, toxins, germs), social acceptance, and damage to objects. Common signs include: Chewing on shirt collars, sleeves, and clothing edges, Mouthing toys, especially hard plastic or rubber items, Chewing pencils, pens, and school supplies, Sucking or chewing on fingers and hands, Putting non-food items in mouth (rocks, dirt, small objects)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Chewable Jewelry (Necklaces and Bracelets) help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides a safe, socially acceptable, always-available outlet for oral needs—worn around the neck or wrist, it's there the moment the urge strikes. Price: ₹500–1,500. DIY option: Food-grade silicone teethers can be attached to a breakaway lanyard or cord bracelet. Ensure all materials are non-toxic and appropriately sized. Safety: Must use designs rated for child's chewing intensity (mild, moderate, aggressive chewer options). Breakaway clasp essential for safety. Supervise initially to ensure appropriate use."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Pencil Toppers and Chewable Writing Tools help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Transforms the biggest target for school chewing into a safe sensory tool—children can satisfy oral needs while staying focused on work. Price: ₹200–600. DIY option: Silicone straw covers or small teething toys can be adapted to fit pencil ends. Ensure secure attachment to prevent choking hazard. Safety: Ensure toppers are securely attached to prevent choking hazard. Select appropriate size for child's age. Replace when showing significant wear or bite marks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Oral Motor Chew Tools (Chewy Tubes, Grabbers) help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Specifically designed for intensive oral input—different shapes target different mouth areas, while varied textures and resistance levels match individual sensory profiles. Price: ₹400–1,200. DIY option: Limited DIY options for therapeutic grade—commercial products recommended for durability and safety. Frozen washcloths can provide temporary oral input. Safety: Match resistance to chewing intensity—too soft will be destroyed quickly; too hard may cause jaw fatigue. Replace when showing bite marks or damage."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Vibrating Oral Tools help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Combines proprioceptive input with vibration that wakes up the mouth—for children who need extra-intense input, vibration can satisfy needs that chewing alone cannot. Price: ₹1,500–3,500. DIY option: No safe DIY alternative—commercial therapeutic vibrating tools recommended for appropriate intensity and oral safety design. Safety: Some children may find vibration aversive—never force. Start externally (cheeks, lips) before oral cavity. Battery safety considerations. Introduce gradually with short durations."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Crunchy and Chewy Snack Options help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sometimes the best oral sensory tool is actual food—strategically timed crunchy and chewy snacks provide intense, organizing input through the jaw while incorporating nutrition. Price: ₹100–500 (regular grocery items). DIY option: This IS the DIY option—use household foods strategically. Carrots, celery, apples, pretzels, dried mango, bagels, jerky. Safety: Consider food allergies and dietary restrictions. Avoid choking hazards for children with oral motor difficulties. Not a complete solution—doesn't address mouthing needs between food opportunities."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Chewable Fidgets and Hand Toys help with oral mouthing of non-food objects (oral sensory seeking)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Combines oral sensory input with hand manipulation—doubling the sensory benefit. When hands and mouth are both busy, the nervous system gets comprehensive input. Price: ₹300–900. DIY option: Silicone teethers with textured surfaces can serve dual purpose. Ensure entire item is safe for mouthing with no detachable parts. Safety: Ensure all parts are safe for mouthing—no small detachable pieces. Select size appropriate for child's mouth and hands. Replace when showing wear."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Swallowing non-food items (pica—requires immediate evaluation). Significant weight loss or nutritional concerns. Damage to teeth or oral structures. Mouthing associated with self-injury. Sudden onset of mouthing in older child. Mouthing of toxic or dangerous materials. Always refer to occupational therapist for comprehensive sensory-oral evaluation. Refer to pediatrician to rule out nutritional deficiencies. Refer to behavioral specialist if pica is suspected. Dental evaluation if oral damage present."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#howto",
+        "name": "How to Help a Child with Oral Mouthing Of Non Food Objects (oral Sensory Seeking)",
+        "description": "A graded approach using evidence-based materials. Oral mouthing is a sensory seeking behavior, not misbehavior. The goal is safe redirection, not elimination—the mouth needs input, so we provide appropriate outlets.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 5500,
+          "maxValue": 15000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Chewable Jewelry (Necklaces and Bracelets)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Pencil Toppers and Chewable Writing Tools",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Oral Motor Chew Tools (Chewy Tubes, Grabbers)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1200
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Oral mouthing refers to the persistent placement of non-food objects in the mouth beyond the developmentally typical age (generally past 2-3 years). Children who mouth objects excessively may chew on clothing, toys, pencils, fingers, or any available items. This behavior often serves sensory regulation purposes—providing proprioceptive input to the jaw, oral tactile stimulation, or calming deep pressure. It is commonly observed in children with autism spectrum disorder, sensory processing disorder, anxiety disorders, and developmental delays. While mouthing can serve important regulatory functions, it raises concerns about safety (choking, toxins, germs), social acceptance, and damage to objects. Oral mouthing is a sensory seeking behavior, not misbehavior. The goal is safe redirection, not elimination—the mouth needs input, so we provide appropriate outlets."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Chewable Jewelry (Necklaces and Bracelets), Pencil Toppers and Chewable Writing Tools, Oral Motor Chew Tools (Chewy Tubes, Grabbers)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Swallowing non-food items (pica—requires immediate evaluation), Significant weight loss or nutritional concerns, Damage to teeth or oral structures."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Always refer to occupational therapist for comprehensive sensory-oral evaluation. Refer to pediatrician to rule out nutritional deficiencies. Refer to behavioral specialist if pica is suspected. Dental evaluation if oral damage present."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#medicalpage",
+        "name": "Oral mouthing of non-food objects (Oral Sensory Seeking) Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Oral mouthing of non-food objects (Oral Sensory Seeking)",
+          "alternateName": [
+            "child chews on everything",
+            "toddler mouths objects",
+            "child chewing shirt collar"
+          ],
+          "description": "Oral mouthing refers to the persistent placement of non-food objects in the mouth beyond the developmentally typical age (generally past 2-3 years). Children who mouth objects excessively may chew on clothing, toys, pencils, fingers, or any available items. This behavior often serves sensory regulation purposes—providing proprioceptive input to the jaw, oral tactile stimulation, or calming deep pressure. It is commonly observed in children with autism spectrum disorder, sensory processing disorder, anxiety disorders, and developmental delays. While mouthing can serve important regulatory functions, it raises concerns about safety (choking, toxins, germs), social acceptance, and damage to objects.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Chewing on shirt collars, sleeves, and clothing edges"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Mouthing toys, especially hard plastic or rubber items"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Chewing pencils, pens, and school supplies"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Sucking or chewing on fingers and hands"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Putting non-food items in mouth (rocks, dirt, small objects)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Excessive drooling due to constant oral activity"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Destroyed clothing and objects from chewing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Chewing on hair or other body parts"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-23"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#article",
+        "headline": "9 Materials That Help When Child Mouths Objects",
+        "alternativeHeadline": "Safe solutions for oral sensory seeking",
+        "description": "My child chews on everything—shirts, pencils, toys, anything they can find? Oral mouthing of non-food objects (Oral Sensory Seeking) is neurological, not beh...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-23T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "oral sensory seeking",
+          "child chewing shirt",
+          "chew tools for kids",
+          "oral fixation child",
+          "why does my child mouth objects"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Oral sensory seeking reflects the nervous system's attempt to obtain regulating input through the mouth. The oral cavity is rich in sensory receptors, and chewing/sucking provides proprioceptive feedback to the jaw muscles that many children find calming and organizing."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory processing and oral-motor interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Scheerer CR.",
+            "url": "",
+            "description": "Perspectives on Oral Motor Assessment and Treatment (1992). Framework for understanding oral sensory needs."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Lane SJ, et al.",
+            "url": "",
+            "description": "Sensory Integration: Theory and Practice. 3rd Edition (2019). Evidence base for oral sensory interventions."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "American Occupational Therapy Association",
+            "url": "",
+            "description": "Practice Guidelines for Children with Sensory Processing Disorders. Oral sensory tool recommendations."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#healthcontent",
+        "name": "Oral mouthing of non-food objects (Oral Sensory Seeking) Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Oral mouthing of non-food objects (Oral Sensory Seeking)"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Oral Sensory challenges"
+        },
+        "keywords": [
+          "oral sensory seeking",
+          "child chewing shirt",
+          "chew tools for kids",
+          "oral fixation child",
+          "why does my child mouth objects"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#evidence",
+        "claimReviewed": "Oral mouthing is a sensory seeking behavior, not misbehavior. The goal is safe redirection, not elimination—the mouth needs input, so we provide appropriate outlets. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Oral Mouthing Of Non Food Objects (oral Sensory Seeking) Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory#collection",
+        "name": "Oral Sensory & Feeding Series",
+        "description": "Complete series of 150 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-102: Sensory Seeking Behaviors",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-109: Poor Body Awareness",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-110: Mouths Objects (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-115: Oral Motor Activities for Regulation",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-122: Picky Eating Strategies",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 150,
+        "collectionSize": 150
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#materials",
+        "name": "9 Materials for Oral Mouthing Of Non Food Objects (oral Sensory Seeking)",
+        "description": "Evidence-based materials for ages 2–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Chewable Jewelry (Necklaces and Bracelets)",
+              "description": "Provides a safe, socially acceptable, always-available outlet for oral needs—worn around the neck or wrist, it's there the moment the urge strikes.",
+              "category": "Wearablealwaysavailable",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Food-grade silicone teethers can be attached to a breakaway lanyard or cord bracelet. Ensure all materials are non-toxic and appropriately sized."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Must use designs rated for child's chewing intensity (mild, moderate, aggressive chewer options). Breakaway clasp essential for safety. Supervise initially to ensure appropriate use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Pencil Toppers and Chewable Writing Tools",
+              "description": "Transforms the biggest target for school chewing into a safe sensory tool—children can satisfy oral needs while staying focused on work.",
+              "category": "Contextspecific",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Silicone straw covers or small teething toys can be adapted to fit pencil ends. Ensure secure attachment to prevent choking hazard."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure toppers are securely attached to prevent choking hazard. Select appropriate size for child's age. Replace when showing significant wear or bite marks."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Oral Motor Chew Tools (Chewy Tubes, Grabbers)",
+              "description": "Specifically designed for intensive oral input—different shapes target different mouth areas, while varied textures and resistance levels match individual sensory profiles.",
+              "category": "Therapeuticintensive",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Limited DIY options for therapeutic grade—commercial products recommended for durability and safety. Frozen washcloths can provide temporary oral input."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Match resistance to chewing intensity—too soft will be destroyed quickly; too hard may cause jaw fatigue. Replace when showing bite marks or damage."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Vibrating Oral Tools",
+              "description": "Combines proprioceptive input with vibration that wakes up the mouth—for children who need extra-intense input, vibration can satisfy needs that chewing alone cannot.",
+              "category": "Therapeuticintensive",
+              "offers": {
+                "@type": "Offer",
+                "price": "1500",
+                "priceCurrency": "INR",
+                "priceRange": "₹1,500–3,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "No safe DIY alternative—commercial therapeutic vibrating tools recommended for appropriate intensity and oral safety design."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children may find vibration aversive—never force. Start externally (cheeks, lips) before oral cavity. Battery safety considerations. Introduce gradually with short durations."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Crunchy and Chewy Snack Options",
+              "description": "Sometimes the best oral sensory tool is actual food—strategically timed crunchy and chewy snacks provide intense, organizing input through the jaw while incorporating nutrition.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500 (regular grocery items)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "This IS the DIY option—use household foods strategically. Carrots, celery, apples, pretzels, dried mango, bagels, jerky."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Consider food allergies and dietary restrictions. Avoid choking hazards for children with oral motor difficulties. Not a complete solution—doesn't address mouthing needs between food opportunities."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Chewable Fidgets and Hand Toys",
+              "description": "Combines oral sensory input with hand manipulation—doubling the sensory benefit. When hands and mouth are both busy, the nervous system gets comprehensive input.",
+              "category": "Multisensory",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Silicone teethers with textured surfaces can serve dual purpose. Ensure entire item is safe for mouthing with no detachable parts."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure all parts are safe for mouthing—no small detachable pieces. Select size appropriate for child's mouth and hands. Replace when showing wear."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Specialized Drinking Tools (Straws, Sports Bottles)",
+              "description": "Sucking through straws and sports bottles provides powerful oral input through a natural activity—thick liquids through narrow straws require significant oral effort.",
+              "category": "Contextspecific",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use regular straws of varying widths. Make thick smoothies or milkshakes for increased resistance. Reusable silicone straws in various diameters work well."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Monitor for fatigue with thick liquids—shouldn't be frustrating. Ensure adequate hydration isn't compromised by resistance. Progress gradually."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Organized Oral Sensory Kit",
+              "description": "Keeps appropriate tools always within reach—having a designated kit teaches children to recognize their oral needs and access safe solutions independently.",
+              "category": "Organizationalsupport",
+              "offers": {
+                "@type": "Offer",
+                "price": "1500",
+                "priceCurrency": "INR",
+                "priceRange": "₹1,500–4,000 (complete kit)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Assemble your own kit in a small pouch: include 2-3 chew tools of different textures, chewable jewelry, straws, and small chewy snacks in sealed container."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure all kit contents are age-appropriate and safe. Train caregivers and teachers on kit use and maintenance. Clean tools regularly."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Chew-Resistant Clothing and Fabric Guards",
+              "description": "Protects clothing while the underlying need is addressed—these aren't replacements for oral tools but practical protection while building new habits.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "800",
+                "priceCurrency": "INR",
+                "priceRange": "₹800–2,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Attach silicone collar covers or bandana-style bibs to protect commonly targeted areas. Use older clothes for high-risk times."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Should never be only intervention—must address sensory needs with appropriate tools. Some guards may be uncomfortable—monitor for skin irritation."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/oral sensory/9-materials-that-help-when-child-mouths-objects#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Mouths Objects | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "oral sensory seeking, child chewing shirt, chew tools for kids, oral fixation child, why does my child mouth objects"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-110.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-110-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-110.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Mouths Objects",
+      "content_category": "Intervention Techniques > Sensory > Oral Sensory",
+      "content_ids": [
+        "A-110"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-110",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Oral Sensory",
+        "domain_code": "SEN-ORAL",
+        "series": "Sensory Solutions",
+        "episode": 110,
+        "age_band": "2–12 years",
+        "setting": "Home, School & Therapy",
+        "cluster_id": "ORAL-SENS-01",
+        "cluster_position": 110,
+        "materials_count": 9,
+        "total_cost_range": "₹5,500–15,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#OralSensory",
+      "#ChewingBehavior",
+      "#SensoryProcessing",
+      "#ChildChewsEverything",
+      "#ChewTools",
+      "#OccupationalTherapy",
+      "#SensorySeekingChild",
+      "#AutismSupport",
+      "#SensoryDiet",
+      "#OralMotor",
+      "#ChewableJewelry",
+      "#SensoryTools",
+      "#SPD",
+      "#PinnacleBlooms",
+      "#SafeChewing"
+    ],
+    "caption": "Is your child constantly chewing on shirts, pencils, or everything they can find? 💙 They're not being naughty—their mouth is hungry for sensory input their brain needs. This is called oral sensory seeking, and it's incredibly common in children with autism and sensory processing differences. The solution isn't to stop the chewing—it's to REDIRECT it to safe alternatives. These 9 materials give your child's mouth what it needs while keeping them safe. Save this for oral sensory solutions. #OralSensory #ChewingBehavior #SensoryProcessing #OccupationalTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-111",
+    "prevInSeries": "A-109",
+    "relatedTechniques": [
+      "A-109",
+      "A-115",
+      "A-122",
+      "A-130",
+      "A-102"
+    ],
+    "deepDives": [
+      "A-110-DD-01",
+      "A-110-DD-02",
+      "A-110-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-962",
+      "K-975"
+    ]
+  }
+}

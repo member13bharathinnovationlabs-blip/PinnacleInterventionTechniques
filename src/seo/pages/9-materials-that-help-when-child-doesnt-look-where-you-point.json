@@ -1,0 +1,1084 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point",
+    "title": "9 Materials That Help When Child Doesn't Look Where You Point | Pinnacle Blooms",
+    "description": "I point to something exciting—a bird, a toy, anything—and he just keeps looking at me, or looks away completely. He never looks where I'm pointing.? Limited ...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-19",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-127",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Joint Attention Development Series",
+    "episodeInSeries": 127,
+    "domain": "Social Communication",
+    "subDomain": "Joint Attention – Responding to Joint Attention (RJA)",
+    "domainCode": "SOC-JA-RJA",
+    "ageBand": "9 months – 3 years",
+    "setting": "Home & Therapy",
+    "audience": "Parents",
+    "clusterId": "SOC-JA-01",
+    "clusterName": "Joint Attention Development Series",
+    "clusterPosition": 127,
+    "totalInCluster": 150
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point",
+        "name": "9 Materials That Help When Child Doesn't Look Where You Point | Pinnacle Blooms",
+        "description": "I point to something exciting—a bird, a toy, anything—and he just keeps looking at me, or looks away completely. He never looks where I'm pointing.? Limited ...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-19",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "toddler won't look where I point",
+          "baby ignores pointing",
+          "doesn't respond to pointing",
+          "joint attention problems",
+          "autism pointing response",
+          "child doesn't share attention",
+          "gaze following problems",
+          "responding to joint attention",
+          "teach child to follow points",
+          "shared attention difficulties",
+          "child doesn't follow pointing"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Joint Attention – Responding to Joint Attention (RJA) challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 6
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Joint Attention – Responding to Joint Attention (RJA)",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Doesn't Look Where You Point"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-127-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-127-hero.webp",
+        "caption": "Parent pointing toward something exciting while child's gaze follows to the target. Clear line of attention from pointing finger to interesting object. Shared discovery moment.",
+        "description": "Parent pointing while toddler follows gaze to discover something wonderful together",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#video",
+        "name": "9 Materials That Help When Child Doesn't Look Where You Point",
+        "description": "You point to a bird, a toy, something exciting—but your child keeps looking at you, or looks away, missing what you're trying to share. Following a point is how children first learn that others can guide their attention. Here are nine materials to help your child follow where you point.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-127-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-127.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-127/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#FollowingPoints",
+          "#JointAttention",
+          "#SharedAttention",
+          "#RespondingToJointAttention",
+          "#ToddlerDevelopment",
+          "#AutismAwareness",
+          "#EarlyIntervention",
+          "#SocialCommunication",
+          "#ChildDevelopment",
+          "#ParentingTips",
+          "#DevelopmentalMilestones",
+          "#GazeFollowing",
+          "#AttentionSkills",
+          "#PinnacleBlooms",
+          "#TherapyMaterials"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Limited Response to Pointing (Gaze Following Deficit)",
+          "alternateName": [
+            "child doesn't follow pointing",
+            "toddler won't look where I point",
+            "baby ignores pointing"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - I Point To Something Exciting—",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "You point to a bird, a toy, something exciting—but your child keeps looking at you, or looks away..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Light-Up Target Toys",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Light-up target toys—place them where you'll point, then activate them as you point. The light ca..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Sound-Making Target Items",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Sound-making targets—musical toys or noise makers at point locations—use sound to guide attention..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Favorite Character Figures",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Your child's favorite characters—placed around the space for pointing practice—make following you..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Bubble Wands and Bubble Machines",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Bubbles create moving, fascinating targets that naturally draw the eye. Point to bubbles as they ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Hidden Picture Books",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Hidden picture books—where you point to help your child find hidden objects—make pointing purpose..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Window Clings and Wall Decals",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Window clings and wall decals—placed at different heights and locations—create a pointing treasur..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Flashlight or Light Pointer",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "A flashlight—always supervised—creates a visible point target your child can chase. The light sho..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Picture Books with Rich Illustrations",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Picture books with rich, detailed illustrations give you endless things to point to and discover ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Animal and Nature Viewers",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Animal viewers, binoculars, and nature scopes—toys that require looking where directed—make follo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does i point to something exciting—a bird, a toy, anything—and he just keeps looking at me, or looks away completely. he never looks where i'm pointing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "LIMITED RESPONSE TO POINTING (GAZE FOLLOWING DEFICIT)! Following another person's point—looking in the direction someone is pointing—is a foundational joint attention skill called 'responding to joint attention' (RJA). When an adult points and says 'Look!' a typically developing child follows the point to see what the adult is indicating. Children who don't follow points miss countless opportunities for shared learning, language input, and social connection. Per developmental research: Following points typically emerges 9-12 months, with consistent following by 14-18 months. By 12 months, most children reliably follow points to nearby objects; by 18 months they follow points to distant objects. This skill is prerequisite for incidental learning—when adults naturally point and name things, children who don't follow miss the word-referent connection. Difficulty following points is one of the earliest and most reliable indicators of autism spectrum disorder."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Limited Response to Pointing (Gaze Following Deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Following another person's point—looking in the direction someone is pointing—is a foundational joint attention skill called 'responding to joint attention' (RJA). When an adult points and says 'Look!' a typically developing child follows the point to see what the adult is indicating. Children who don't follow points miss countless opportunities for shared learning, language input, and social connection. Common signs include: Keeps looking at the pointing finger instead of the target, Looks at the person's face but not where they're pointing, Ignores pointing gestures entirely, Looks away when someone points, Doesn't orient to 'Look!' verbal cues."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Light-Up Target Toys help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Light-up target toys—place them where you'll point, then activate them as you point. The light catches attention and teaches your child that following your point leads to something exciting. Price: ₹300–1,200. DIY option: Place a phone with a bright screen or a small lamp where you'll point. Point and have someone turn it on. Or use tap lights around the room—point and tap. Safety: Assess sensory tolerance—some children may be overwhelmed by lights. Don't let lights become more interesting than social interaction. Never use strobe or flashing lights with children who have seizure risk."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sound-Making Target Items help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sound-making targets—musical toys or noise makers at point locations—use sound to guide attention. Point and activate the sound, teaching your child that your point signals something worth hearing. Price: ₹200–800. DIY option: Place a music box or phone playing music where you'll point. Point and have it start playing. Sound naturally orients attention toward the pointed direction. Safety: Assess auditory sensitivities—some children are distressed by sudden sounds. Keep volume moderate. Avoid startling sounds."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Favorite Character Figures help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your child's favorite characters—placed around the space for pointing practice—make following your point highly motivating. When they love what they find, they'll learn to follow your points. Price: ₹200–1,000. DIY option: Use whatever your child loves most—favorite stuffed animal, beloved toy, special book. Place it somewhere visible and point with excitement: 'Look! It's your favorite!' Safety: Don't use favorites as 'bait' that child can't access—keep it positive. Ensure favorites don't become more interesting than the social exchange itself."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Bubble Wands and Bubble Machines help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bubbles create moving, fascinating targets that naturally draw the eye. Point to bubbles as they float, and your child's gaze will follow to find them. Moving targets build flexible point-following. Price: ₹100–600. DIY option: Any bubble solution works. Blow bubbles and point to specific ones: 'Look! That big one!' Bubbles are naturally captivating and change position, requiring repeated attention to your pointing. Safety: Ensure bubble solution is non-toxic. Some children may want to blow rather than follow—take turns. Keep social connection, not just bubble fascination."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Hidden Picture Books help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hidden picture books—where you point to help your child find hidden objects—make pointing purposeful. Each point guides discovery, teaching that your pointing helps them find things. Price: ₹200–600. DIY option: Any detailed picture book works. Point to things and name them. Even regular picture books become 'find the...' games when you point and wait for child to look. Safety: Ensure book difficulty is appropriate—too hard creates frustration. Keep it fun, not test-like. Balance pointing with natural enjoyment of the book."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Window Clings and Wall Decals help with limited response to pointing (gaze following deficit)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Window clings and wall decals—placed at different heights and locations—create a pointing treasure hunt. Point to each decal around the room, building your child's habit of checking where you point. Price: ₹150–500. DIY option: Tape pictures or sticky notes around the room. Point to each one: 'Look! There's a star!' Change positions regularly to keep it novel and prevent memorization. Safety: Ensure clings/decals are safe and non-toxic. Don't place where child might climb dangerously. Keep game fun, not overwhelming."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: . Consistent failure to follow points by 14-18 months warrants developmental evaluation, especially when combined with limited pointing by the child, reduced eye contact, or limited social responsiveness. Not following points is one of the earliest and most reliable early indicators assessed in autism screening."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#howto",
+        "name": "How to Help a Child with Limited Response To Pointing (gaze Following Deficit)",
+        "description": "A graded approach using evidence-based materials. Following points (responding to joint attention/RJA) is how children learn that others can guide their attention. This is foundational for incidental learning—most vocabulary is learned when adults naturally point and name. When children don't follow points, they miss the connection between words and referents. This is a highly teachable skill with systematic practice.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1550,
+          "maxValue": 6000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Light-Up Target Toys",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Sound-Making Target Items",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Favorite Character Figures",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 1000
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "Following another person's point—looking in the direction someone is pointing—is a foundational joint attention skill called 'responding to joint attention' (RJA). When an adult points and says 'Look!' a typically developing child follows the point to see what the adult is indicating. Children who don't follow points miss countless opportunities for shared learning, language input, and social connection. Following points (responding to joint attention/RJA) is how children learn that others can guide their attention. This is foundational for incidental learning—most vocabulary is learned when adults naturally point and name. When children don't follow points, they miss the connection between words and referents. This is a highly teachable skill with systematic practice."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Light-Up Target Toys, Sound-Making Target Items, Favorite Character Figures."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: ."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consistent failure to follow points by 14-18 months warrants developmental evaluation, especially when combined with limited pointing by the child, reduced eye contact, or limited social responsiveness. Not following points is one of the earliest and most reliable early indicators assessed in autism screening."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#medicalpage",
+        "name": "Limited Response to Pointing (Gaze Following Deficit) Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Limited Response to Pointing (Gaze Following Deficit)",
+          "alternateName": [
+            "child doesn't follow pointing",
+            "toddler won't look where I point",
+            "baby ignores pointing"
+          ],
+          "description": "Following another person's point—looking in the direction someone is pointing—is a foundational joint attention skill called 'responding to joint attention' (RJA). When an adult points and says 'Look!' a typically developing child follows the point to see what the adult is indicating. Children who don't follow points miss countless opportunities for shared learning, language input, and social connection.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Keeps looking at the pointing finger instead of the target"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Looks at the person's face but not where they're pointing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Ignores pointing gestures entirely"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Looks away when someone points"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't orient to 'Look!' verbal cues"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Misses what others are trying to share"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Only follows points for highly preferred items"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't check where others are looking"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-19"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#article",
+        "headline": "9 Materials That Help When Child Doesn't Look Where You Point",
+        "alternativeHeadline": "Building the bridge of shared attention",
+        "description": "I point to something exciting—a bird, a toy, anything—and he just keeps looking at me, or looks away completely. He never looks where I'm pointing.? Limited ...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-19T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#primaryimage"
+        },
+        "articleSection": "Social Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "toddler won't look where I point",
+          "baby ignores pointing",
+          "doesn't respond to pointing",
+          "joint attention problems",
+          "autism pointing response"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "Joint Attention Research",
+            "url": "https://www.asha.org",
+            "description": "Following points (responding to joint attention) typically emerges 9-12 months, with consistent following by 14-18 months. This skill is prerequisite for incidental learning—when adults point and name things, children who don't follow miss the word-referent connection. Difficulty following points is one of the earliest and most reliable indicators of autism spectrum disorder."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across joint attention interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Mundy P, et al.",
+            "url": "",
+            "description": "Individual differences and the development of joint attention in infancy (2007). Foundational joint attention research."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Morales M, et al.",
+            "url": "",
+            "description": "Responding to joint attention across the 6- through 24-month age period and early language acquisition (2000)."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Brooks R, Meltzoff AN.",
+            "url": "",
+            "description": "The development of gaze following and its relation to language (2005)."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#healthcontent",
+        "name": "Limited Response to Pointing (Gaze Following Deficit) Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Limited Response to Pointing (Gaze Following Deficit)"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Joint Attention – Responding to Joint Attention (RJA) challenges"
+        },
+        "keywords": [
+          "toddler won't look where I point",
+          "baby ignores pointing",
+          "doesn't respond to pointing",
+          "joint attention problems",
+          "autism pointing response"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#evidence",
+        "claimReviewed": "Following points (responding to joint attention/RJA) is how children learn that others can guide their attention. This is foundational for incidental learning—most vocabulary is learned when adults naturally point and name. When children don't follow points, they miss the connection between words and referents. This is a highly teachable skill with systematic practice. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Limited Response To Pointing (gaze Following Deficit) Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)#collection",
+        "name": "Joint Attention Development Series",
+        "description": "Complete series of 150 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-123: Doesn't Point",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-124: Doesn't Wave",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-125: No Gestures",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-126: Doesn't Show Objects",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-127: Doesn't Follow Points (THIS REEL)",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 150,
+        "collectionSize": 150
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#materials",
+        "name": "9 Materials for Limited Response To Pointing (gaze Following Deficit)",
+        "description": "Evidence-based materials for ages 9 months – 3 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Light-Up Target Toys",
+              "description": "Light-up target toys—place them where you'll point, then activate them as you point. The light catches attention and teaches your child that following your point leads to something exciting.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Place a phone with a bright screen or a small lamp where you'll point. Point and have someone turn it on. Or use tap lights around the room—point and tap."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Assess sensory tolerance—some children may be overwhelmed by lights. Don't let lights become more interesting than social interaction. Never use strobe or flashing lights with children who have seizure risk."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Sound-Making Target Items",
+              "description": "Sound-making targets—musical toys or noise makers at point locations—use sound to guide attention. Point and activate the sound, teaching your child that your point signals something worth hearing.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Place a music box or phone playing music where you'll point. Point and have it start playing. Sound naturally orients attention toward the pointed direction."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Assess auditory sensitivities—some children are distressed by sudden sounds. Keep volume moderate. Avoid startling sounds."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Favorite Character Figures",
+              "description": "Your child's favorite characters—placed around the space for pointing practice—make following your point highly motivating. When they love what they find, they'll learn to follow your points.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use whatever your child loves most—favorite stuffed animal, beloved toy, special book. Place it somewhere visible and point with excitement: 'Look! It's your favorite!'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't use favorites as 'bait' that child can't access—keep it positive. Ensure favorites don't become more interesting than the social exchange itself."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Bubble Wands and Bubble Machines",
+              "description": "Bubbles create moving, fascinating targets that naturally draw the eye. Point to bubbles as they float, and your child's gaze will follow to find them. Moving targets build flexible point-following.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any bubble solution works. Blow bubbles and point to specific ones: 'Look! That big one!' Bubbles are naturally captivating and change position, requiring repeated attention to your pointing."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure bubble solution is non-toxic. Some children may want to blow rather than follow—take turns. Keep social connection, not just bubble fascination."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Hidden Picture Books",
+              "description": "Hidden picture books—where you point to help your child find hidden objects—make pointing purposeful. Each point guides discovery, teaching that your pointing helps them find things.",
+              "category": "Functionalcontext",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any detailed picture book works. Point to things and name them. Even regular picture books become 'find the...' games when you point and wait for child to look."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure book difficulty is appropriate—too hard creates frustration. Keep it fun, not test-like. Balance pointing with natural enjoyment of the book."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Window Clings and Wall Decals",
+              "description": "Window clings and wall decals—placed at different heights and locations—create a pointing treasure hunt. Point to each decal around the room, building your child's habit of checking where you point.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Tape pictures or sticky notes around the room. Point to each one: 'Look! There's a star!' Change positions regularly to keep it novel and prevent memorization."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure clings/decals are safe and non-toxic. Don't place where child might climb dangerously. Keep game fun, not overwhelming."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Flashlight or Light Pointer",
+              "description": "A flashlight—always supervised—creates a visible point target your child can chase. The light shows exactly where you're pointing, making the connection crystal clear.",
+              "category": "Visualcapture",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any flashlight works. Shine it slowly across the wall while saying 'Look!' Point with your other hand toward where the light lands. The light makes the 'where' crystal clear."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "NEVER use laser pointers—use only child-safe flashlights. Never shine toward eyes. Supervise all light play. Ensure fixation on light doesn't replace social connection."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Picture Books with Rich Illustrations",
+              "description": "Picture books with rich, detailed illustrations give you endless things to point to and discover together. Every page becomes a shared pointing adventure as you explore pictures side by side.",
+              "category": "Barrier",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Any book with pictures works. Point to something on every page. Wait for child to shift gaze. 'Look at the dog!' Name what you point to. Make it part of every reading time."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't let pointing interrupt if child is absorbed in story. Balance pointing with natural reading enjoyment."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Animal and Nature Viewers",
+              "description": "Animal viewers, binoculars, and nature scopes—toys that require looking where directed—make following points purposeful. 'Look through here at that bird!'—and suddenly your point matters.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Make a 'telescope' from a paper towel roll. Point to something: 'Look through your telescope at that!' The tube focuses attention and makes following your point necessary."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure viewers are child-safe with no sharp edges. Some children may focus on viewer as object—redirect to using it as tool. Provide support if aiming is difficult."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social communication/joint attention – responding to joint attention (rja)/9-materials-that-help-when-child-doesnt-look-where-you-point#course",
+        "name": "Joint Attention Development Series",
+        "description": "Parent education video series on Social Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Doesn't Look Where You Point | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "toddler won't look where I point, baby ignores pointing, doesn't respond to pointing, joint attention problems, autism pointing response"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-127.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-127-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-127.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Doesn't Look Where You Point",
+      "content_category": "Intervention Techniques > Social Communication > Joint Attention – Responding to Joint Attention (RJA)",
+      "content_ids": [
+        "B-127"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-127",
+        "technique_theme": "9MAT",
+        "domain": "Social Communication",
+        "sub_domain": "Joint Attention – Responding to Joint Attention (RJA)",
+        "domain_code": "SOC-JA-RJA",
+        "series": "Joint Attention Development Series",
+        "episode": 127,
+        "age_band": "9 months – 3 years",
+        "setting": "Home & Therapy",
+        "cluster_id": "SOC-JA-01",
+        "cluster_position": 127,
+        "materials_count": 9,
+        "total_cost_range": "₹1,550–6,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#FollowingPoints",
+      "#JointAttention",
+      "#SharedAttention",
+      "#RespondingToJointAttention",
+      "#ToddlerDevelopment",
+      "#AutismAwareness",
+      "#EarlyIntervention",
+      "#SocialCommunication",
+      "#ChildDevelopment",
+      "#ParentingTips",
+      "#DevelopmentalMilestones",
+      "#GazeFollowing",
+      "#AttentionSkills",
+      "#PinnacleBlooms",
+      "#TherapyMaterials"
+    ],
+    "caption": "I point to the bird. 🐦 He looks at my finger. I point to his favorite toy. 🧸 He looks at my face. He never looks WHERE I'm pointing. Following a point is how children enter our world—see what we see, learn what we're naming. These 9 materials teach your child that when you point, something wonderful is in that direction. Save this to build the bridge of shared attention. #FollowingPoints #JointAttention #EarlyIntervention #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-128",
+    "prevInSeries": "B-126",
+    "relatedTechniques": [
+      "B-123",
+      "B-125",
+      "B-126",
+      "B-128",
+      "B-129"
+    ],
+    "deepDives": [
+      "B-127-DD-01",
+      "B-127-DD-04",
+      "B-127-DD-05"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-970",
+      "K-995"
+    ]
+  }
+}

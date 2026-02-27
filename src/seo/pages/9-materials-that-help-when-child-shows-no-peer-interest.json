@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest",
+    "title": "9 Materials That Help When Child Shows No Peer Interest | Pinnacle Blooms",
+    "description": "My child has no interest in other children—perfectly happy playing alone and doesn't seek out friends? Reduced social motivation / Peer interest deficit is n...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "C-301",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help When...",
+    "series": "Social Motivation Solutions",
+    "episodeInSeries": 301,
+    "domain": "Social Development",
+    "subDomain": "Peer Interest & Social Motivation",
+    "domainCode": "SOC-MOT",
+    "ageBand": "3–12 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SOC-MOT-01",
+    "clusterName": "Social Motivation & Peer Development Series",
+    "clusterPosition": 301,
+    "totalInCluster": 350
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest",
+        "name": "9 Materials That Help When Child Shows No Peer Interest | Pinnacle Blooms",
+        "description": "My child has no interest in other children—perfectly happy playing alone and doesn't seek out friends? Reduced social motivation / Peer interest deficit is n...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "child prefers playing alone",
+          "autism no peer interest",
+          "child doesn't want friends",
+          "child ignores other children",
+          "no social motivation autism",
+          "child won't play with others",
+          "how to help child make friends",
+          "child content alone",
+          "social motivation therapy",
+          "child no interest in other kids"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Peer Interest & Social Motivation challenges",
+          "suggestedMinAge": 3,
+          "suggestedMaxAge": 12
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Social Development",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social development"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Peer Interest & Social Motivation",
+            "item": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Shows No Peer Interest"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/C-301-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/C-301-hero.webp",
+        "caption": "Visual metaphor showing child playing alone contentedly while peers play together in background—not excluded, but separate by choice. Bridge beginning to form between solitary child and peer group. Transforming to show child noticing and beginning to engage with peers.",
+        "description": "Child content in solitary play while peers are nearby, with visual showing bridge forming toward social connection",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#video",
+        "name": "9 Materials That Help When Child Shows No Peer Interest",
+        "description": "Other kids don't register. While peers chase each other, they're building alone—content, absorbed, uninterested. Adults might be tolerated. Peers? Invisible. It's not shyness. They don't seem to want connection. Here are 9 materials that help children discover that peers can be interesting too.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/C-301-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/C-301.mp4",
+        "embedUrl": "https://www.instagram.com/reel/C-301/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#PeerInterest",
+          "#SocialMotivation",
+          "#AutismSocialSkills",
+          "#PlayingAlone",
+          "#FriendshipSkills",
+          "#SocialDevelopment",
+          "#AutismSupport",
+          "#PeerConnection",
+          "#SocialSkills",
+          "#PinnacleBlooms",
+          "#ChildDevelopment",
+          "#ParallelPlay",
+          "#SocialReward",
+          "#BuddyProgram",
+          "#BuildingConnection"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Reduced social motivation / Peer interest deficit",
+          "alternateName": [
+            "child has no interest in other kids",
+            "child prefers playing alone",
+            "child ignores other children"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Has No Interest In Other Child",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "Other kids don't register. While peers chase each other, they're building alone—content, absorbed..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Highly Motivating Shared Activity Materials",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Uses child's special interests as gateway to peer tolerance—if trains are the passion, train acti..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Peer Video Modeling Materials",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Safe, controllable preview of peer interaction—pausable, predictable peers on screen before facin..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Structured Peer Interaction Games",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Rules contain chaos—board games and structured activities make unpredictable peers predictable an..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Social Narratives About Peer Friendship",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Builds cognitive case for why peers matter—explicit explanation of friendship value when intuitiv..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Parallel Play Facilitation Materials",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Proximity before interaction—tolerating peers nearby is step one, interacting is step two. Parall..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Cause-Effect Social Toys",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Teaches that peers cause good things—when peer action creates exciting outcomes, attention to pee..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Peer Interaction Scripts and Visual Supports",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Provides concrete words when intuition is absent—scripts for approaching, joining, and engaging w..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Peer Buddy Training Materials",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "When target child won't reach out, trained peers reach in—patient, persistent peer buddies bridge..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Social Reinforcement Systems and Peer Interaction Incentives",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "External motivation when internal is low—rewards for peer interaction build habits until intrinsi..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child has no interest in other children—perfectly happy playing alone and doesn't seek out friends?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REDUCED SOCIAL MOTIVATION / PEER INTEREST DEFICIT! A pattern where children show little to no interest in engaging with same-age peers. They may prefer solitary play, ignore other children, not seek out playmates, seem content alone, and fail to develop age-appropriate friendships. This differs from shyness (wanting connection but fearing it) and reflects reduced social motivation—the drive for peer affiliation that typically pulls children toward each other is diminished or absent. Per SPD Foundation and autism research: Social motivation differences are a core feature of autism spectrum disorder. Unlike anxiety-based avoidance, children with reduced social motivation may genuinely not experience the pull toward peers that neurotypical children feel. This isn't defiance or preference—it's a neurological difference in social reward processing. Intervention aims to build positive associations with peer interaction and develop skills, while respecting that some children may always have lower social needs than average."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Reduced social motivation / Peer interest deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pattern where children show little to no interest in engaging with same-age peers. They may prefer solitary play, ignore other children, not seek out playmates, seem content alone, and fail to develop age-appropriate friendships. This differs from shyness (wanting connection but fearing it) and reflects reduced social motivation—the drive for peer affiliation that typically pulls children toward each other is diminished or absent. Common signs include: Walks past other children without acknowledgment, Prefers solitary play even when peers are available, Doesn't seek out playmates or initiate with peers, Seems content or even happier playing alone, Ignores peers' attempts to engage."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Highly Motivating Shared Activity Materials help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Uses child's special interests as gateway to peer tolerance—if trains are the passion, train activities that REQUIRE a partner make peers necessary. Price: ₹300–800. DIY option: Modify favorite activities to require two people: 'You control the track switch, your friend drives the train.' Make accessing preferred activity contingent on peer involvement. Safety: Select tolerant peer partners initially. Don't force sharing of precious special interest items if this causes distress."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Peer Video Modeling Materials help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Safe, controllable preview of peer interaction—pausable, predictable peers on screen before facing unpredictable real peers. Price: ₹0–600. DIY option: Record videos of successful peer play. Watch children's shows with good peer interaction models. Pause and discuss: 'See how they're playing together?' Safety: Video modeling is preparation, not replacement for real peer exposure. Ensure videos are culturally relevant."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Structured Peer Interaction Games help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Rules contain chaos—board games and structured activities make unpredictable peers predictable and therefore tolerable. Price: ₹200–600. DIY option: Start with simple turn-taking games with clear rules. Adult mediates initially. Keep sessions short. Predictability is the safety net. Safety: Avoid complex or competitive games initially—losing can derail early attempts. Keep structure consistent."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Social Narratives About Peer Friendship help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Builds cognitive case for why peers matter—explicit explanation of friendship value when intuitive motivation is absent. Price: ₹150–400. DIY option: Create personalized stories: 'Friends play together. Playing with friends can be fun. Friends help each other.' Discuss concepts regularly. Safety: Don't imply child is deficient for not having friends. Frame friendship as opportunity, not requirement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Parallel Play Facilitation Materials help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Proximity before interaction—tolerating peers nearby is step one, interacting is step two. Parallel play builds the foundation. Price: ₹200–500. DIY option: Set up parallel play: same activity, adequate personal space. Two children painting at adjacent easels. No pressure to interact—just tolerate presence. Safety: Don't push for interaction before child is ready. Ensure personal space is sufficient to prevent overwhelm."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Cause-Effect Social Toys help with reduced social motivation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches that peers cause good things—when peer action creates exciting outcomes, attention to peers becomes rewarding. Price: ₹300–700. DIY option: Structure so peer controls activation of exciting toys. 'Priya pushed it—look what happened!' Connect peer action to interesting outcomes. Safety: Ensure effects are enjoyable, not overwhelming. Allow child to control some activations too—reciprocity matters."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Complete regression in previously present social interest. Active distress at peer presence (suggests anxiety, not low interest). No response to any social engagement attempts over extended period. No attachment to any person including caregivers. Social isolation accompanied by depression symptoms. Consult developmental pediatrician or psychologist for comprehensive evaluation if: no progress after 10–12 weeks, concerns about autism spectrum disorder, or uncertainty about underlying cause (skill vs motivation vs anxiety)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#howto",
+        "name": "How to Help a Child with Reduced Social Motivation",
+        "description": "A graded approach using evidence-based materials. Distinguish between can't (skill deficit), won't (motivation deficit), and fears (anxiety). Lack of peer interest typically reflects motivation differences, not skill deficits or fear. Build positive associations with peer interaction while respecting individual social needs.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1600,
+          "maxValue": 4800
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Highly Motivating Shared Activity Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Peer Video Modeling Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 0,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Structured Peer Interaction Games",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 600
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A pattern where children show little to no interest in engaging with same-age peers. They may prefer solitary play, ignore other children, not seek out playmates, seem content alone, and fail to develop age-appropriate friendships. This differs from shyness (wanting connection but fearing it) and reflects reduced social motivation—the drive for peer affiliation that typically pulls children toward each other is diminished or absent. Distinguish between can't (skill deficit), won't (motivation deficit), and fears (anxiety). Lack of peer interest typically reflects motivation differences, not skill deficits or fear. Build positive associations with peer interaction while respecting individual social needs."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Highly Motivating Shared Activity Materials, Peer Video Modeling Materials, Structured Peer Interaction Games."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Complete regression in previously present social interest, Active distress at peer presence (suggests anxiety, not low interest), No response to any social engagement attempts over extended period."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult developmental pediatrician or psychologist for comprehensive evaluation if: no progress after 10–12 weeks, concerns about autism spectrum disorder, or uncertainty about underlying cause (skill vs motivation vs anxiety)."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#medicalpage",
+        "name": "Reduced social motivation / Peer interest deficit Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Reduced social motivation / Peer interest deficit",
+          "alternateName": [
+            "child has no interest in other kids",
+            "child prefers playing alone",
+            "child ignores other children"
+          ],
+          "description": "A pattern where children show little to no interest in engaging with same-age peers. They may prefer solitary play, ignore other children, not seek out playmates, seem content alone, and fail to develop age-appropriate friendships. This differs from shyness (wanting connection but fearing it) and reflects reduced social motivation—the drive for peer affiliation that typically pulls children toward each other is diminished or absent.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Walks past other children without acknowledgment"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Prefers solitary play even when peers are available"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't seek out playmates or initiate with peers"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Seems content or even happier playing alone"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Ignores peers' attempts to engage"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "May prefer adult interaction to peer interaction"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't show interest in what other children are doing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Birthday parties and group activities aren't appealing"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#article",
+        "headline": "9 Materials That Help When Child Shows No Peer Interest",
+        "alternativeHeadline": "When other children don't seem to matter at all",
+        "description": "My child has no interest in other children—perfectly happy playing alone and doesn't seek out friends? Reduced social motivation / Peer interest deficit is n...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#primaryimage"
+        },
+        "articleSection": "Social Development",
+        "wordCount": 3500,
+        "keywords": [
+          "child prefers playing alone",
+          "autism no peer interest",
+          "child doesn't want friends",
+          "child ignores other children",
+          "no social motivation autism"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Sensory processing differences can affect social engagement. Some children may find peer interaction overwhelming due to sensory demands, leading to preference for solitary activities."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across social development interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Chevallier, C. et al.",
+            "url": "",
+            "description": "The social motivation theory of autism (2012). Trends in Cognitive Sciences. Foundational research on social motivation differences in autism."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Kasari, C. et al.",
+            "url": "",
+            "description": "Randomized controlled trial of social skills intervention (2012). Journal of Consulting and Clinical Psychology. Evidence for peer-mediated and structured social interventions."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Koegel, L.K. et al.",
+            "url": "",
+            "description": "Pivotal Response Treatment (2012). Paul H. Brookes. Using motivation and interests to build social engagement."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#healthcontent",
+        "name": "Reduced social motivation / Peer interest deficit Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Reduced social motivation / Peer interest deficit"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Peer Interest & Social Motivation challenges"
+        },
+        "keywords": [
+          "child prefers playing alone",
+          "autism no peer interest",
+          "child doesn't want friends",
+          "child ignores other children",
+          "no social motivation autism"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#evidence",
+        "claimReviewed": "Distinguish between can't (skill deficit), won't (motivation deficit), and fears (anxiety). Lack of peer interest typically reflects motivation differences, not skill deficits or fear. Build positive associations with peer interaction while respecting individual social needs. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Reduced Social Motivation Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation#collection",
+        "name": "Social Motivation & Peer Development Series",
+        "description": "Complete series of 350 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "C-299: Difficulty with Social Reciprocity",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-300: Lack of Joint Attention",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-301: No Peer Interest (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-302: No Imaginative Play",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-303: Difficulty Reading Social Cues",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 350,
+        "collectionSize": 350
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#materials",
+        "name": "9 Materials for Reduced Social Motivation",
+        "description": "Evidence-based materials for ages 3–12 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Highly Motivating Shared Activity Materials",
+              "description": "Uses child's special interests as gateway to peer tolerance—if trains are the passion, train activities that REQUIRE a partner make peers necessary.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Modify favorite activities to require two people: 'You control the track switch, your friend drives the train.' Make accessing preferred activity contingent on peer involvement."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Select tolerant peer partners initially. Don't force sharing of precious special interest items if this causes distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Peer Video Modeling Materials",
+              "description": "Safe, controllable preview of peer interaction—pausable, predictable peers on screen before facing unpredictable real peers.",
+              "category": "Exposuregraduation",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Record videos of successful peer play. Watch children's shows with good peer interaction models. Pause and discuss: 'See how they're playing together?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Video modeling is preparation, not replacement for real peer exposure. Ensure videos are culturally relevant."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Structured Peer Interaction Games",
+              "description": "Rules contain chaos—board games and structured activities make unpredictable peers predictable and therefore tolerable.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Start with simple turn-taking games with clear rules. Adult mediates initially. Keep sessions short. Predictability is the safety net."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Avoid complex or competitive games initially—losing can derail early attempts. Keep structure consistent."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Social Narratives About Peer Friendship",
+              "description": "Builds cognitive case for why peers matter—explicit explanation of friendship value when intuitive motivation is absent.",
+              "category": "Skillbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create personalized stories: 'Friends play together. Playing with friends can be fun. Friends help each other.' Discuss concepts regularly."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't imply child is deficient for not having friends. Frame friendship as opportunity, not requirement."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Parallel Play Facilitation Materials",
+              "description": "Proximity before interaction—tolerating peers nearby is step one, interacting is step two. Parallel play builds the foundation.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Set up parallel play: same activity, adequate personal space. Two children painting at adjacent easels. No pressure to interact—just tolerate presence."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't push for interaction before child is ready. Ensure personal space is sufficient to prevent overwhelm."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Cause-Effect Social Toys",
+              "description": "Teaches that peers cause good things—when peer action creates exciting outcomes, attention to peers becomes rewarding.",
+              "category": "Motivationbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Structure so peer controls activation of exciting toys. 'Priya pushed it—look what happened!' Connect peer action to interesting outcomes."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure effects are enjoyable, not overwhelming. Allow child to control some activations too—reciprocity matters."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Peer Interaction Scripts and Visual Supports",
+              "description": "Provides concrete words when intuition is absent—scripts for approaching, joining, and engaging with peers.",
+              "category": "Skillbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–350"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create simple scripts: 'Can I play?' 'What are you building?' Practice with adult role-playing peer. Use visual supports during real peer situations."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure scripts are natural-sounding. Don't make child dependent on physical cards—internalize over time."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Peer Buddy Training Materials",
+              "description": "When target child won't reach out, trained peers reach in—patient, persistent peer buddies bridge the gap.",
+              "category": "Environmentalsupport",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Train patient peers: how to approach, what to expect, how to persist. Facilitate buddy sessions. Debrief with buddies about what worked."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't exploit peer buddies—ensure they benefit too. Monitor for buddy burnout or target child distress."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Social Reinforcement Systems and Peer Interaction Incentives",
+              "description": "External motivation when internal is low—rewards for peer interaction build habits until intrinsic interest may develop.",
+              "category": "Motivationbuilding",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–300"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create reward chart for peer interaction: 'Stay in game for 5 minutes = 1 sticker.' Set achievable targets. Fade rewards as intrinsic interest grows."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't make reinforcement unattainable—start easy. Monitor for mechanical compliance without genuine engagement. Plan for fading."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/social development/peer interest & social motivation/9-materials-that-help-when-child-shows-no-peer-interest#course",
+        "name": "Social Motivation Solutions",
+        "description": "Parent education video series on Social Development interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Shows No Peer Interest | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "child prefers playing alone, autism no peer interest, child doesn't want friends, child ignores other children, no social motivation autism"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/C-301.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/C-301-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/C-301.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Shows No Peer Interest",
+      "content_category": "Intervention Techniques > Social Development > Peer Interest & Social Motivation",
+      "content_ids": [
+        "C-301"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "C-301",
+        "technique_theme": "9MAT",
+        "domain": "Social Development",
+        "sub_domain": "Peer Interest & Social Motivation",
+        "domain_code": "SOC-MOT",
+        "series": "Social Motivation Solutions",
+        "episode": 301,
+        "age_band": "3–12 years",
+        "setting": "Home",
+        "cluster_id": "SOC-MOT-01",
+        "cluster_position": 301,
+        "materials_count": 9,
+        "total_cost_range": "₹1,600–4,800 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#PeerInterest",
+      "#SocialMotivation",
+      "#AutismSocialSkills",
+      "#PlayingAlone",
+      "#FriendshipSkills",
+      "#SocialDevelopment",
+      "#AutismSupport",
+      "#PeerConnection",
+      "#SocialSkills",
+      "#PinnacleBlooms",
+      "#ChildDevelopment",
+      "#ParallelPlay",
+      "#SocialReward",
+      "#BuddyProgram",
+      "#BuildingConnection"
+    ],
+    "caption": "Other kids run toward each other. Yours walks right past them. 🚶 Not upset—just uninterested. They're perfectly content alone while peers are invisible. It's not shyness. It's not defiance. It's a different social motivation pattern. But connection capacity can grow! Here are 9 materials that help children discover peers can be interesting too. 🌉 Building bridges, not forcing crossings. Save this! #PeerInterest #SocialMotivation #AutismSupport #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "C-302",
+    "prevInSeries": "C-300",
+    "relatedTechniques": [
+      "C-300",
+      "C-302",
+      "C-305",
+      "C-310",
+      "B-198"
+    ],
+    "deepDives": [
+      "C-301-DD-01",
+      "C-301-DD-02",
+      "C-301-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-930",
+      "K-945"
+    ]
+  }
+}
