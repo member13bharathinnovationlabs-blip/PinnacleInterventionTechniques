@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off",
+    "title": "9 Materials That Help When Child Strips Clothes Off | Pinnacle Blooms",
+    "description": "My child constantly takes off clothes – sometimes seconds after I dress them. At home it's a never-ending battle. Going out is stressful because I never know...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-12-24",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "A-022",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Sensory Solutions",
+    "episodeInSeries": 22,
+    "domain": "Sensory",
+    "subDomain": "Tactile Processing / Self-Regulation / Daily Living",
+    "domainCode": "SEN-TAC-DLV",
+    "ageBand": "2–10 years",
+    "setting": "Home + Public Settings",
+    "audience": "Parents",
+    "clusterId": "DRESS-SENS-01",
+    "clusterName": "Dressing & Clothing Sensory Series",
+    "clusterPosition": 22,
+    "totalInCluster": 25
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off",
+        "name": "9 Materials That Help When Child Strips Clothes Off | Pinnacle Blooms",
+        "description": "My child constantly takes off clothes – sometimes seconds after I dress them. At home it's a never-ending battle. Going out is stressful because I never know...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-12-24",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "toddler strips naked",
+          "autism undressing",
+          "child won't wear clothes",
+          "sensory issues clothing",
+          "child removes clothes",
+          "SPD clothing intolerance",
+          "tactile defensive clothing",
+          "child hates clothes",
+          "autistic child undresses",
+          "sensory processing clothes",
+          "child takes clothes off sensory"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing / Self-Regulation / Daily Living challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 10
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Sensory",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Tactile Processing / Self-Regulation / Daily Living",
+            "item": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help When Child Strips Clothes Off"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/A-022-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/A-022-hero.webp",
+        "caption": "Trail of discarded clothing items – shirt on floor, pants draped over chair, socks scattered – leading to happy child in underwear or diaper, seemingly relieved. Parent in background holding another shirt, expression of exhausted determination. The image conveys the repetitive cycle without shame.",
+        "description": "Trail of discarded clothes with child appearing relieved to be undressed while parent holds replacement clothing",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#video",
+        "name": "9 Materials That Help When Child Strips Clothes Off",
+        "description": "When your child constantly strips off clothes – at home, in public, no matter how many times you dress them – it's not defiance. For sensory-sensitive children, clothing can feel unbearable. Here are 9 materials that help them stay dressed and comfortable.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/A-022-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/A-022.mp4",
+        "embedUrl": "https://www.instagram.com/reel/A-022/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#ChildTakesClothesOff",
+          "#SensoryProcessing",
+          "#TactileDefensiveness",
+          "#AutismParenting",
+          "#SensoryFriendly",
+          "#ClothingSensitivity",
+          "#OccupationalTherapy",
+          "#SensoryIntegration",
+          "#PinnacleBlooms",
+          "#SensoryKids",
+          "#ParentingTips",
+          "#ChildDevelopment",
+          "#SPD",
+          "#SensoryNeeds",
+          "#DailyLiving"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile over-responsivity to clothing with compensatory undressing behavior",
+          "alternateName": [
+            "child takes clothes off constantly",
+            "toddler strips naked",
+            "autism undressing behavior"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Constantly Takes Off Clothes –",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When your child constantly strips off clothes – at home, in public, no matter how many times you ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Seamless / Inside-Out Clothing",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Seams are often the primary irritant for tactile-sensitive children. The ridges where fabric is j..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Compression Clothing / Tight Base Layers",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Counter-intuitively, some children who strip loose clothing will tolerate (or even prefer) compre..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Soft, Natural Fabrics (Cotton, Bamboo)",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Synthetic fabrics often have textures, static properties, and heat retention that irritate sensit..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Tagless Clothing / Tag Removal",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Clothing tags are notorious irritants for tactile-sensitive children. The stiff, scratchy labels ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Elastic-Free or Wide-Band Waistbands",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Narrow elastic waistbands create pressure points that many tactile-sensitive children find unbear..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Backward Clothing / Difficult-to-Remove Designs",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "For children who persistently undress regardless of clothing comfort, modified clothing that is m..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Minimal Clothing / Acceptable Underdressing",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Sometimes the solution is allowing less clothing when possible. At home, letting the child wear o..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Sensory Brushing / Wilbarger Protocol",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "The Wilbarger Brushing Protocol (also called DPPT – Deep Pressure Proprioceptive Technique) uses ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Gradual Clothing Tolerance Building",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Systematically building tolerance for clothing through gradual, positive exposure can increase th..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child constantly takes off clothes – sometimes seconds after i dress them. at home it's a never-ending battle. going out is stressful because i never know when they'll start stripping. it's not about modesty or defiance – they seem genuinely uncomfortable in clothes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "TACTILE OVER-RESPONSIVITY TO CLOTHING WITH COMPENSATORY UNDRESSING BEHAVIOR! A pattern where the child's tactile system experiences clothing as intolerably uncomfortable, irritating, or even painful, leading to persistent removal of clothing to achieve sensory relief. The child is not being defiant or attention-seeking; they are responding to genuine sensory distress. Clothing elements that may trigger this response include seams, tags, fabric texture, elastic pressure, weight of fabric, heat retention, tightness at specific body areas, and the constant awareness of fabric against skin that most people habituate to but sensory-sensitive children cannot ignore. Per SPD Foundation: Children with tactile over-responsivity may experience ordinary clothing sensations as irritating, uncomfortable, or painful. Tags, seams, fabric textures, and the pressure of waistbands or cuffs can create constant distraction and distress. The child's removal of clothing is a self-regulation strategy to escape aversive sensory input, not a behavioral problem requiring discipline."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pattern where the child's tactile system experiences clothing as intolerably uncomfortable, irritating, or even painful, leading to persistent removal of clothing to achieve sensory relief. The child is not being defiant or attention-seeking; they are responding to genuine sensory distress. Clothing elements that may trigger this response include seams, tags, fabric texture, elastic pressure, weight of fabric, heat retention, tightness at specific body areas, and the constant awareness of fabric against skin that most people habituate to but sensory-sensitive children cannot ignore. Common signs include: Removes clothing immediately or shortly after being dressed, Starts with most offensive items (often socks, underwear, or shirts), Appears relieved or calmer once clothes are removed, Scratches, pulls at, or constantly adjusts clothing when wearing, Complains specific items 'hurt,' 'itch,' or 'feel wrong'."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Seamless / Inside-Out Clothing help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Seams are often the primary irritant for tactile-sensitive children. The ridges where fabric is joined create constant pressure points and textural differences that many children cannot habituate to. Seamless clothing eliminates this entirely. Alternatively, wearing regular clothes inside-out places seams on the outside where they don't contact skin. This simple change can be transformative. Price: ₹300–1,500 per item. DIY option: Turn existing clothes inside-out. Cut seams lower on items being donated. For socks, look for 'toe seam on outside' designs or seamless options. Safety: Ensure inside-out clothing doesn't have buttons, zippers, or decorations that could irritate when against skin. Check for label remnants even on 'tagless' items."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Compression Clothing / Tight Base Layers help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Counter-intuitively, some children who strip loose clothing will tolerate (or even prefer) compression clothing. Loose fabric creates unpredictable light touch as it moves against skin – the type of sensory input most irritating to over-responsive systems. Compression clothing provides consistent, firm pressure that's predictable and often calming. The constant deep pressure also provides proprioceptive input that can help regulate the sensory system overall. Price: ₹500–2,000 per item. DIY option: Tight-fitting athletic undershirts or bike shorts as base layers. Children's rash guards. Dancewear or gymnastics clothing. Size down slightly in stretchy fabrics for compression effect. Safety: Compression should be snug but comfortable – not restrictive. Watch for redness, marks, or complaints. Ensure child can move freely and breathe normally. Some children prefer compression while others find it worse – observe response."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Soft, Natural Fabrics (Cotton, Bamboo) help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Synthetic fabrics often have textures, static properties, and heat retention that irritate sensitive skin. Natural fabrics like 100% cotton, bamboo, and modal are softer, more breathable, and less likely to trigger tactile defensiveness. Bamboo is particularly soft and naturally temperature-regulating. Pre-washed, worn fabrics are often better tolerated than new, stiff items. Price: ₹400–1,500 per item. DIY option: Wash new clothes multiple times before wearing to soften. Use fabric softener (if tolerated). Hand-me-downs are often already broken in. Feel fabrics before purchasing – the softest options are often worth extra cost. Safety: Some children are sensitive to fabric softeners or detergent residue. Use unscented, hypoallergenic options. Rinse clothes extra if residue seems to be an issue."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Tagless Clothing / Tag Removal help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Clothing tags are notorious irritants for tactile-sensitive children. The stiff, scratchy labels can feel like constant poking or scratching against skin, impossible to ignore. Many clothing lines now offer tagless options where care instructions are printed directly on fabric. For existing clothes, tags can be carefully removed or covered. Price: ₹0 (tag removal) to standard clothing prices. DIY option: Remove tags with small, sharp scissors or seam ripper. Cut as close to the seam as possible. Feel for any remaining tag remnants that could scratch. Cover remaining stubs with soft fabric tape or iron-on patches if needed. Safety: Be careful not to cut the garment seam when removing tags. Some tags are sewn into seams and can't be fully removed – cover with soft material instead. Check all areas: neck, side seam, waistband."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Elastic-Free or Wide-Band Waistbands help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Narrow elastic waistbands create pressure points that many tactile-sensitive children find unbearable. The constant squeezing sensation around the waist or the way elastic digs into skin can be a primary driver of pants/underwear removal. Wide, soft waistbands distribute pressure more evenly. Drawstring or tie waists allow adjustable, less-constricting fit. Some children do better with overall/suspender styles that bypass the waist entirely. Price: ₹400–1,200 per item. DIY option: Replace narrow elastic with wider elastic band. Sew soft fabric over existing elastic. Use safety pins to loosen tight waistbands. Try sizing up and using drawstring or suspenders to keep pants up. Safety: Ensure drawstrings aren't too long (strangulation hazard for young children). Suspenders should be appropriate size and not too tight on shoulders."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Backward Clothing / Difficult-to-Remove Designs help with tactile over-responsivity to clothing with compensatory undressing behavior?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For children who persistently undress regardless of clothing comfort, modified clothing that is more difficult to remove can help maintain dressed state until the child develops more impulse control or sensory tolerance. This includes putting clothing on backward (buttons/zippers in back, out of reach), using one-piece garments, or specialized adaptive clothing with hidden closures. This is a management strategy, not a solution to underlying sensory issues. Price: ₹500–2,500 per item. DIY option: Put button-down shirts on backward. Use one-piece sleepers or rompers. Safety pin closures shut. Sew snaps or hooks that are difficult for small hands to operate. Safety: This strategy should be temporary and paired with addressing underlying sensory needs. Monitor child for frustration or distress. Ensure clothing doesn't become restrictive or unsafe. Never use this as punishment. Child should still be able to indicate need for toilet or discomfort."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Skin rashes, redness, or irritation under clothing (may indicate contact dermatitis or allergy). Undressing specifically when diaper/underwear is wet (may indicate sensation awareness for toilet training). New onset of undressing behavior (was previously tolerant – may indicate medical issue). Undressing accompanied by scratching specific areas excessively. Undressing that seems more attention-seeking than sensory-driven. Complete inability to wear any clothing even briefly (may need urgent intervention). "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#howto",
+        "name": "How to Help a Child with Tactile Over Responsivity To Clothing With Compensatory Undressing Behavior",
+        "description": "A graded approach using evidence-based materials. Clothing removal in sensory-sensitive children is a self-regulation strategy to escape genuine sensory distress, not a behavioral problem requiring discipline. The child cannot habituate to sensory input that their nervous system registers as painful or intolerable. Intervention focuses on reducing the aversive properties of clothing, building tolerance gradually, and providing sensory accommodations that make staying dressed possible.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 0,
+          "maxValue": 2500
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Seamless / Inside-Out Clothing",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Compression Clothing / Tight Base Layers",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 2000
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Soft, Natural Fabrics (Cotton, Bamboo)",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A pattern where the child's tactile system experiences clothing as intolerably uncomfortable, irritating, or even painful, leading to persistent removal of clothing to achieve sensory relief. The child is not being defiant or attention-seeking; they are responding to genuine sensory distress. Clothing elements that may trigger this response include seams, tags, fabric texture, elastic pressure, weight of fabric, heat retention, tightness at specific body areas, and the constant awareness of fabric against skin that most people habituate to but sensory-sensitive children cannot ignore. Clothing removal in sensory-sensitive children is a self-regulation strategy to escape genuine sensory distress, not a behavioral problem requiring discipline. The child cannot habituate to sensory input that their nervous system registers as painful or intolerable. Intervention focuses on reducing the aversive properties of clothing, building tolerance gradually, and providing sensory accommodations that make staying dressed possible."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Seamless / Inside-Out Clothing, Compression Clothing / Tight Base Layers, Soft, Natural Fabrics (Cotton, Bamboo)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Skin rashes, redness, or irritation under clothing (may indicate contact dermatitis or allergy), Undressing specifically when diaper/underwear is wet (may indicate sensation awareness for toilet training), New onset of undressing behavior (was previously tolerant – may indicate medical issue)."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#medicalpage",
+        "name": "Tactile over-responsivity to clothing with compensatory undressing behavior Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Tactile over-responsivity to clothing with compensatory undressing behavior",
+          "alternateName": [
+            "child takes clothes off constantly",
+            "toddler strips naked",
+            "autism undressing behavior"
+          ],
+          "description": "A pattern where the child's tactile system experiences clothing as intolerably uncomfortable, irritating, or even painful, leading to persistent removal of clothing to achieve sensory relief. The child is not being defiant or attention-seeking; they are responding to genuine sensory distress. Clothing elements that may trigger this response include seams, tags, fabric texture, elastic pressure, weight of fabric, heat retention, tightness at specific body areas, and the constant awareness of fabric against skin that most people habituate to but sensory-sensitive children cannot ignore.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Removes clothing immediately or shortly after being dressed"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Starts with most offensive items (often socks, underwear, or shirts)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Appears relieved or calmer once clothes are removed"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Scratches, pulls at, or constantly adjusts clothing when wearing"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Complains specific items 'hurt,' 'itch,' or 'feel wrong'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Tolerates some specific items but not others"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "May tolerate loose clothing but not fitted, or vice versa"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Undresses in public without apparent awareness of social norms"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-12-24"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#article",
+        "headline": "9 Materials That Help When Child Strips Clothes Off",
+        "alternativeHeadline": "When getting dressed becomes undressed within minutes",
+        "description": "My child constantly takes off clothes – sometimes seconds after I dress them. At home it's a never-ending battle. Going out is stressful because I never know...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-12-24T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#primaryimage"
+        },
+        "articleSection": "Sensory",
+        "wordCount": 3500,
+        "keywords": [
+          "toddler strips naked",
+          "autism undressing",
+          "child won't wear clothes",
+          "sensory issues clothing",
+          "child removes clothes"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Children with tactile over-responsivity may experience ordinary clothing sensations as irritating, uncomfortable, or painful. Tags, seams, fabric textures, and the pressure of waistbands or cuffs can create constant distraction and distress. The child's removal of clothing is a self-regulation strategy to escape aversive sensory input."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across sensory integration and daily living interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "AOTA",
+            "url": "https://www.aota.org",
+            "description": "American Occupational Therapy Association guidelines on sensory modulation and dressing skills"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Wilbarger, P. & Wilbarger, J.",
+            "url": "",
+            "description": "Deep Pressure and Proprioceptive Technique (DPPT/Wilbarger Brushing Protocol) for tactile defensiveness"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Dunn, W.",
+            "url": "",
+            "description": "Sensory Profile 2 – patterns of tactile over-responsivity affecting daily living activities including dressing"
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#healthcontent",
+        "name": "Tactile over-responsivity to clothing with compensatory undressing behavior Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Tactile over-responsivity to clothing with compensatory undressing behavior"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Tactile Processing / Self-Regulation / Daily Living challenges"
+        },
+        "keywords": [
+          "toddler strips naked",
+          "autism undressing",
+          "child won't wear clothes",
+          "sensory issues clothing",
+          "child removes clothes"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#evidence",
+        "claimReviewed": "Clothing removal in sensory-sensitive children is a self-regulation strategy to escape genuine sensory distress, not a behavioral problem requiring discipline. The child cannot habituate to sensory input that their nervous system registers as painful or intolerable. Intervention focuses on reducing the aversive properties of clothing, building tolerance gradually, and providing sensory accommodations that make staying dressed possible. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Tactile Over Responsivity To Clothing With Compensatory Undressing Behavior Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living#collection",
+        "name": "Dressing & Clothing Sensory Series",
+        "description": "Complete series of 25 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "A-020: Lotion/Moisturizer Resistance",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-021: Hug Avoidance",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-022: Strips Clothes Off (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-023: Won't Wear Certain Clothes",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "A-024: Won't Wear Shoes",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 25,
+        "collectionSize": 25
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#materials",
+        "name": "9 Materials for Tactile Over Responsivity To Clothing With Compensatory Undressing Behavior",
+        "description": "Evidence-based materials for ages 2–10 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Seamless / Inside-Out Clothing",
+              "description": "Seams are often the primary irritant for tactile-sensitive children. The ridges where fabric is joined create constant pressure points and textural differences that many children cannot habituate to. Seamless clothing eliminates this entirely. Alternatively, wearing regular clothes inside-out places seams on the outside where they don't contact skin. This simple change can be transformative.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,500 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Turn existing clothes inside-out. Cut seams lower on items being donated. For socks, look for 'toe seam on outside' designs or seamless options."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure inside-out clothing doesn't have buttons, zippers, or decorations that could irritate when against skin. Check for label remnants even on 'tagless' items."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Compression Clothing / Tight Base Layers",
+              "description": "Counter-intuitively, some children who strip loose clothing will tolerate (or even prefer) compression clothing. Loose fabric creates unpredictable light touch as it moves against skin – the type of sensory input most irritating to over-responsive systems. Compression clothing provides consistent, firm pressure that's predictable and often calming. The constant deep pressure also provides proprioceptive input that can help regulate the sensory system overall.",
+              "category": "Alternativeclothing",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,000 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Tight-fitting athletic undershirts or bike shorts as base layers. Children's rash guards. Dancewear or gymnastics clothing. Size down slightly in stretchy fabrics for compression effect."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Compression should be snug but comfortable – not restrictive. Watch for redness, marks, or complaints. Ensure child can move freely and breathe normally. Some children prefer compression while others find it worse – observe response."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Soft, Natural Fabrics (Cotton, Bamboo)",
+              "description": "Synthetic fabrics often have textures, static properties, and heat retention that irritate sensitive skin. Natural fabrics like 100% cotton, bamboo, and modal are softer, more breathable, and less likely to trigger tactile defensiveness. Bamboo is particularly soft and naturally temperature-regulating. Pre-washed, worn fabrics are often better tolerated than new, stiff items.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,500 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Wash new clothes multiple times before wearing to soften. Use fabric softener (if tolerated). Hand-me-downs are often already broken in. Feel fabrics before purchasing – the softest options are often worth extra cost."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Some children are sensitive to fabric softeners or detergent residue. Use unscented, hypoallergenic options. Rinse clothes extra if residue seems to be an issue."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Tagless Clothing / Tag Removal",
+              "description": "Clothing tags are notorious irritants for tactile-sensitive children. The stiff, scratchy labels can feel like constant poking or scratching against skin, impossible to ignore. Many clothing lines now offer tagless options where care instructions are printed directly on fabric. For existing clothes, tags can be carefully removed or covered.",
+              "category": "Clothingmodifications",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (tag removal) to standard clothing prices"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Remove tags with small, sharp scissors or seam ripper. Cut as close to the seam as possible. Feel for any remaining tag remnants that could scratch. Cover remaining stubs with soft fabric tape or iron-on patches if needed."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Be careful not to cut the garment seam when removing tags. Some tags are sewn into seams and can't be fully removed – cover with soft material instead. Check all areas: neck, side seam, waistband."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Elastic-Free or Wide-Band Waistbands",
+              "description": "Narrow elastic waistbands create pressure points that many tactile-sensitive children find unbearable. The constant squeezing sensation around the waist or the way elastic digs into skin can be a primary driver of pants/underwear removal. Wide, soft waistbands distribute pressure more evenly. Drawstring or tie waists allow adjustable, less-constricting fit. Some children do better with overall/suspender styles that bypass the waist entirely.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Replace narrow elastic with wider elastic band. Sew soft fabric over existing elastic. Use safety pins to loosen tight waistbands. Try sizing up and using drawstring or suspenders to keep pants up."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure drawstrings aren't too long (strangulation hazard for young children). Suspenders should be appropriate size and not too tight on shoulders."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Backward Clothing / Difficult-to-Remove Designs",
+              "description": "For children who persistently undress regardless of clothing comfort, modified clothing that is more difficult to remove can help maintain dressed state until the child develops more impulse control or sensory tolerance. This includes putting clothing on backward (buttons/zippers in back, out of reach), using one-piece garments, or specialized adaptive clothing with hidden closures. This is a management strategy, not a solution to underlying sensory issues.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,500 per item"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Put button-down shirts on backward. Use one-piece sleepers or rompers. Safety pin closures shut. Sew snaps or hooks that are difficult for small hands to operate."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "This strategy should be temporary and paired with addressing underlying sensory needs. Monitor child for frustration or distress. Ensure clothing doesn't become restrictive or unsafe. Never use this as punishment. Child should still be able to indicate need for toilet or discomfort."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Minimal Clothing / Acceptable Underdressing",
+              "description": "Sometimes the solution is allowing less clothing when possible. At home, letting the child wear only underwear or minimal clothing can reduce their distress and the parent's stress of constant re-dressing. Establishing 'at home' clothes (minimal) vs. 'going out' clothes (more coverage with sensory accommodations) can help the child understand that some situations require clothing while giving them relief when possible.",
+              "category": "Alternativeclothing",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0 (lifestyle adjustment)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Establish 'home mode' and 'going out mode' for clothing. Let child choose minimal comfortable items for home. Use visual schedule to prepare for times when more clothing is needed."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Consider temperature and safety. Sunscreen if outdoors minimally clothed. Social appropriateness – help child understand context. Work on gradually increasing tolerance for situations requiring clothing."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Sensory Brushing / Wilbarger Protocol",
+              "description": "The Wilbarger Brushing Protocol (also called DPPT – Deep Pressure Proprioceptive Technique) uses a specific surgical brush to provide organized tactile input to the skin, followed by joint compressions. When done consistently (typically every 90-120 minutes during waking hours), this protocol can help reorganize the tactile system and reduce overall tactile defensiveness, including to clothing. This should be learned from and monitored by an occupational therapist.",
+              "category": "Deep Pressure",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800 (brush) + OT consultation"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Do NOT attempt without proper OT training. Incorrect technique can increase defensiveness. Protocol requires specific brush (surgical brush, not regular bath brush), specific pressure, specific pattern, and joint compressions. Frequency and duration are precise."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "MUST be taught by qualified occupational therapist. Incorrect technique can make tactile defensiveness worse. Never brush face, stomach, or chest. Always follow with joint compressions as trained. Not appropriate for all children – OT determines suitability."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Gradual Clothing Tolerance Building",
+              "description": "Systematically building tolerance for clothing through gradual, positive exposure can increase the duration and types of clothing a child can wear. Starting with most-tolerated items for short periods and gradually increasing time and variety. Pairing clothing-wearing with positive activities. Using timers so child knows how long they need to wear clothes. Celebrating progress. This is a long-term approach that builds genuine tolerance.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–500 (timer, reward system)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "1. Identify most tolerated clothing. 2. Set very short initial wear times (5-10 min). 3. Use visual timer. 4. Pair with highly preferred activity. 5. Gradually increase time. 6. Gradually introduce new clothing items. 7. Track progress. 8. Celebrate achievements."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Never force child to wear clothing that causes genuine distress. Progress should feel manageable. If child is highly distressed, back up to easier level. Gradual building works through positive association, not endurance of misery."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/sensory/tactile processing / self-regulation / daily living/9-materials-that-help-when-child-strips-clothes-off#course",
+        "name": "Sensory Solutions",
+        "description": "Parent education video series on Sensory interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help When Child Strips Clothes Off | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "toddler strips naked, autism undressing, child won't wear clothes, sensory issues clothing, child removes clothes"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/A-022.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/A-022-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/A-022.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help When Child Strips Clothes Off",
+      "content_category": "Intervention Techniques > Sensory > Tactile Processing / Self-Regulation / Daily Living",
+      "content_ids": [
+        "A-022"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "A-022",
+        "technique_theme": "9MAT",
+        "domain": "Sensory",
+        "sub_domain": "Tactile Processing / Self-Regulation / Daily Living",
+        "domain_code": "SEN-TAC-DLV",
+        "series": "Sensory Solutions",
+        "episode": 22,
+        "age_band": "2–10 years",
+        "setting": "Home + Public Settings",
+        "cluster_id": "DRESS-SENS-01",
+        "cluster_position": 22,
+        "materials_count": 9,
+        "total_cost_range": "₹0–2,500 per item"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#ChildTakesClothesOff",
+      "#SensoryProcessing",
+      "#TactileDefensiveness",
+      "#AutismParenting",
+      "#SensoryFriendly",
+      "#ClothingSensitivity",
+      "#OccupationalTherapy",
+      "#SensoryIntegration",
+      "#PinnacleBlooms",
+      "#SensoryKids",
+      "#ParentingTips",
+      "#ChildDevelopment",
+      "#SPD",
+      "#SensoryNeeds",
+      "#DailyLiving"
+    ],
+    "caption": "I dress him. I turn around. He's naked again. 🙈 If your child constantly takes off clothes – it's not defiance. For tactile-sensitive children, clothing can feel genuinely unbearable. Here are 9 materials that help: seamless clothing, compression layers, soft natural fabrics, tag removal, wide waistbands, modified clothing, minimal home clothing, sensory brushing protocol, and gradual tolerance building. Finding the right approach can transform the daily battle. Save for families who need this! 🔖 #ChildTakesClothesOff #SensoryProcessing #ClothingSensitivity #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "A-023",
+    "prevInSeries": "A-021",
+    "relatedTechniques": [
+      "A-023",
+      "A-024",
+      "A-021",
+      "A-019",
+      "A-025"
+    ],
+    "deepDives": [
+      "A-022-DD-01",
+      "A-022-DD-02",
+      "A-022-DD-03"
+    ],
+    "parentSupport": [
+      "K-891",
+      "K-902",
+      "K-910"
+    ]
+  }
+}

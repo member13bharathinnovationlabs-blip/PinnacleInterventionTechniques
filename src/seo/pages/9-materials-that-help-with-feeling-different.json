@@ -1,0 +1,1083 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different",
+    "title": "9 Materials That Help With Feeling Different | Pinnacle Blooms",
+    "description": "My child feels like they don't belong and wonders why they're different? Negative self-concept related to neurological difference and social otherness is neu...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-21",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "C-339",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Identity & Emotional Wellbeing",
+    "episodeInSeries": 339,
+    "domain": "Identity-Emotional",
+    "subDomain": "Self-Concept & Belonging",
+    "domainCode": "IDE-BEL",
+    "ageBand": "5–14 years",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "IDE-EMO-03",
+    "clusterName": "Identity & Emotional Wellbeing Series",
+    "clusterPosition": 339,
+    "totalInCluster": 400
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different",
+        "name": "9 Materials That Help With Feeling Different | Pinnacle Blooms",
+        "description": "My child feels like they don't belong and wonders why they're different? Negative self-concept related to neurological difference and social otherness is neu...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-21",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "autism positive identity",
+          "child asks why am I different",
+          "autism self esteem",
+          "neurodiversity children",
+          "autism masking child",
+          "child ashamed of autism",
+          "autism acceptance kids",
+          "building positive identity autism",
+          "autistic role models children",
+          "autistic child feels different"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Self-Concept & Belonging challenges",
+          "suggestedMinAge": 5,
+          "suggestedMaxAge": 14
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Identity-Emotional",
+            "item": "https://pinnacleblooms.org/intervention-techniques/identity-emotional"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Self-Concept & Belonging",
+            "item": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Feeling Different"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/C-339-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/C-339-hero.webp",
+        "caption": "Child standing slightly apart from a group of peers, looking uncertain with head tilted. Transformation visual: same child standing confidently with rainbow infinity symbol glowing softly, surrounded by symbols of their unique identity and strengths. Warm, affirming lighting.",
+        "description": "Child moving from isolation to confident self-acceptance, representing positive identity development",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#video",
+        "name": "9 Materials That Help With Feeling Different",
+        "description": "When your child looks at peers and feels like they don't belong, they need more than reassurance – they need tools to build a positive identity. Different doesn't mean less. Here are 9 materials that help children embrace who they are.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/C-339-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/C-339.mp4",
+        "embedUrl": "https://www.instagram.com/reel/C-339/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#FeelingDifferent",
+          "#AutismIdentity",
+          "#Neurodiversity",
+          "#DifferentNotLess",
+          "#AutismAcceptance",
+          "#PositiveIdentity",
+          "#AutismPride",
+          "#NeurodiversityAffirming",
+          "#AutismAwareness",
+          "#PinnacleBlooms",
+          "#SelfAcceptance",
+          "#AutismCommunity",
+          "#AutisticJoy",
+          "#IdentityDevelopment",
+          "#BelongingMatters"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Negative self-concept related to neurological difference and social otherness",
+          "alternateName": [
+            "autistic child feels different",
+            "child asks why am I different",
+            "autism self esteem child"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Feels Like They Don't Belong A",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "When your child looks at peers and feels like they don't belong, they need more than reassurance ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Autism Explanation Books for Children",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides accurate, positive information about autism in child-friendly terms – knowledge replaces..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Autistic Role Model Biographies and Stories",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Shows children that autistic people grow up to have successful, meaningful lives – proof that dif..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Neurodiversity Celebration Materials",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Reframes difference as natural human variation – different brains aren't broken brains, they're p..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Autistic Community Connection Resources",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Connects children to others who understand – finding 'your people' reduces loneliness and builds ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Fiction Featuring Autistic Characters",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Provides 'mirror' representation – seeing yourself in stories validates experience and shows auti..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Strengths and Superpowers Framing Materials",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Shifts focus from deficits to gifts – helping children identify unique strengths that come with t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Identity Development Journals and Workbooks",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Provides structured space for self-exploration – guided prompts help children understand and acce..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Masking Awareness and Authentic Self Materials",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Helps children understand the exhaustion of pretending and the freedom of authenticity – being re..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Belonging and Acceptance Affirmation Materials",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Provides repeated positive messaging that counters internalized negative beliefs – you belong exa..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child feels like they don't belong and wonders why they're different?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "NEGATIVE SELF-CONCEPT RELATED TO NEUROLOGICAL DIFFERENCE AND SOCIAL OTHERNESS! A pattern where children become aware that they are different from peers, experience confusion or shame about these differences, and may develop negative self-concept or engage in exhausting masking behaviors to hide their authentic selves. Without support, this awareness can lead to internalized stigma, anxiety, depression, and identity confusion. Per SPD Foundation and autism identity research: Children with sensory processing differences and autism often develop awareness of their differences during elementary school years. Without positive framing and support, this awareness can become internalized stigma. Research consistently shows that autistic individuals with positive autistic identity have significantly better mental health outcomes than those who view their autism negatively. Identity development is a process that requires accurate information, positive role models, community connection, and affirming environments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pattern where children become aware that they are different from peers, experience confusion or shame about these differences, and may develop negative self-concept or engage in exhausting masking behaviors to hide their authentic selves. Without support, this awareness can lead to internalized stigma, anxiety, depression, and identity confusion. Common signs include: Asks 'Why am I different?' or 'Why can't I be normal?', Expresses shame about needing therapy or accommodations, Tries to hide autistic traits at school (masking), Comes home exhausted from performing 'normal', Compares self negatively to peers."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Autism Explanation Books for Children help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides accurate, positive information about autism in child-friendly terms – knowledge replaces confusion and shame. Price: ₹300–800. DIY option: Create a personalized 'All About My Brain' book with photos and simple explanations tailored to your child. Safety: Match complexity to developmental level. Ensure positive, neurodiversity-affirming content. Follow child's lead on depth of discussion."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Autistic Role Model Biographies and Stories help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows children that autistic people grow up to have successful, meaningful lives – proof that different leads to success. Price: ₹250–600. DIY option: Create a 'role model board' with pictures and stories of autistic individuals in areas matching your child's interests. Safety: Choose diverse role models, not just 'genius' examples. Show 'ordinary' successful autistic adults too. Match to child's interests."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Neurodiversity Celebration Materials help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Reframes difference as natural human variation – different brains aren't broken brains, they're part of beautiful diversity. Price: ₹200–500. DIY option: Create a 'brain diversity' poster showing how all brains are different and all have strengths. Safety: Don't dismiss real challenges while celebrating difference. Balance celebration with practical support."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Autistic Community Connection Resources help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Connects children to others who understand – finding 'your people' reduces loneliness and builds belonging. Price: ₹0–500. DIY option: Research local autism-friendly social groups or camps. Facilitate connections with other autistic families. Safety: Ensure groups are neurodiversity-affirming, not compliance-focused. Monitor for safety. Respect child's social preferences."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Fiction Featuring Autistic Characters help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides 'mirror' representation – seeing yourself in stories validates experience and shows autistic kids as heroes. Price: ₹300–700. DIY option: Build a library of books with autistic representation. Seek #OwnVoices (autistic-authored) content when possible. Safety: Seek autistic-authored content when possible. Discuss authenticity of representation as child grows."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Strengths and Superpowers Framing Materials help with negative self-concept related to neurological difference and social otherness?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shifts focus from deficits to gifts – helping children identify unique strengths that come with their autistic brain. Price: ₹150–400. DIY option: Create a personal 'strengths profile' with your child. Celebrate strengths in daily life. Safety: Don't ignore real challenges. Avoid pressure to have 'superpowers.' Recognize strengths vary among individuals."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Persistent negative self-talk about being 'broken' or 'wrong'. Refusal to discuss autism or extreme avoidance of the topic. Signs of depression or anxiety related to identity. Extreme masking causing exhaustion and meltdowns. Self-harm related to identity distress. Complete social withdrawal. Consult psychologist or counselor if: child shows persistent depression or anxiety, masking is causing significant distress, child expresses self-harm thoughts related to identity, or identity distress is significantly impacting functioning."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#howto",
+        "name": "How to Help a Child with Negative Self Concept Related To Neurological Difference And Social Otherness",
+        "description": "A graded approach using evidence-based materials. Positive autistic identity is one of the strongest protectors of mental health. Build understanding, not shame.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1500,
+          "maxValue": 4500
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Autism Explanation Books for Children",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 800
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Autistic Role Model Biographies and Stories",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 250,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Neurodiversity Celebration Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A pattern where children become aware that they are different from peers, experience confusion or shame about these differences, and may develop negative self-concept or engage in exhausting masking behaviors to hide their authentic selves. Without support, this awareness can lead to internalized stigma, anxiety, depression, and identity confusion. Positive autistic identity is one of the strongest protectors of mental health. Build understanding, not shame."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Autism Explanation Books for Children, Autistic Role Model Biographies and Stories, Neurodiversity Celebration Materials."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Persistent negative self-talk about being 'broken' or 'wrong', Refusal to discuss autism or extreme avoidance of the topic, Signs of depression or anxiety related to identity."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult psychologist or counselor if: child shows persistent depression or anxiety, masking is causing significant distress, child expresses self-harm thoughts related to identity, or identity distress is significantly impacting functioning."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#medicalpage",
+        "name": "Negative self-concept related to neurological difference and social otherness Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Negative self-concept related to neurological difference and social otherness",
+          "alternateName": [
+            "autistic child feels different",
+            "child asks why am I different",
+            "autism self esteem child"
+          ],
+          "description": "A pattern where children become aware that they are different from peers, experience confusion or shame about these differences, and may develop negative self-concept or engage in exhausting masking behaviors to hide their authentic selves. Without support, this awareness can lead to internalized stigma, anxiety, depression, and identity confusion.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Asks 'Why am I different?' or 'Why can't I be normal?'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Expresses shame about needing therapy or accommodations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Tries to hide autistic traits at school (masking)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Comes home exhausted from performing 'normal'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Compares self negatively to peers"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Avoids discussing autism or diagnosis"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Expresses belief that something is 'wrong' with them"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Feels lonely even in groups"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-21"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#article",
+        "headline": "9 Materials That Help With Feeling Different",
+        "alternativeHeadline": "When your child wonders why they don't fit in",
+        "description": "My child feels like they don't belong and wonders why they're different? Negative self-concept related to neurological difference and social otherness is neu...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-21T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#primaryimage"
+        },
+        "articleSection": "Identity-Emotional",
+        "wordCount": 3500,
+        "keywords": [
+          "autism positive identity",
+          "child asks why am I different",
+          "autism self esteem",
+          "neurodiversity children",
+          "autism masking child"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Understanding sensory processing differences is key for supporting individuals and creating inclusive environments. Self-understanding and positive identity are foundational to wellbeing."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across developmental and emotional interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cage E & Troxell-Whitman Z",
+            "url": "",
+            "description": "Understanding the reasons, contexts and costs of camouflaging for autistic adults (2019). Journal of Autism and Developmental Disorders."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Cooper K et al.",
+            "url": "",
+            "description": "The relationship between autistic traits, the degree of autism identity, and psychological wellbeing (2017). Autism Research."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Botha M & Frost DM",
+            "url": "",
+            "description": "Extending the minority stress model to understand mental health problems experienced by the autistic population (2020). Society and Mental Health."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#healthcontent",
+        "name": "Negative self-concept related to neurological difference and social otherness Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Negative self-concept related to neurological difference and social otherness"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Self-Concept & Belonging challenges"
+        },
+        "keywords": [
+          "autism positive identity",
+          "child asks why am I different",
+          "autism self esteem",
+          "neurodiversity children",
+          "autism masking child"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#evidence",
+        "claimReviewed": "Positive autistic identity is one of the strongest protectors of mental health. Build understanding, not shame. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Negative Self Concept Related To Neurological Difference And Social Otherness Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging#collection",
+        "name": "Identity & Emotional Wellbeing Series",
+        "description": "Complete series of 400 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "C-336: Anxiety and Worry",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-337: Reciprocal Interaction",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-338: Self-Injurious Behaviors",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-339: Feeling Different (THIS REEL)",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "C-340: Difficulty With Change and Transitions",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 400,
+        "collectionSize": 400
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#materials",
+        "name": "9 Materials for Negative Self Concept Related To Neurological Difference And Social Otherness",
+        "description": "Evidence-based materials for ages 5–14 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Autism Explanation Books for Children",
+              "description": "Provides accurate, positive information about autism in child-friendly terms – knowledge replaces confusion and shame.",
+              "category": "Understanding",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a personalized 'All About My Brain' book with photos and simple explanations tailored to your child."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Match complexity to developmental level. Ensure positive, neurodiversity-affirming content. Follow child's lead on depth of discussion."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Autistic Role Model Biographies and Stories",
+              "description": "Shows children that autistic people grow up to have successful, meaningful lives – proof that different leads to success.",
+              "category": "Rolemodels",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a 'role model board' with pictures and stories of autistic individuals in areas matching your child's interests."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Choose diverse role models, not just 'genius' examples. Show 'ordinary' successful autistic adults too. Match to child's interests."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Neurodiversity Celebration Materials",
+              "description": "Reframes difference as natural human variation – different brains aren't broken brains, they're part of beautiful diversity.",
+              "category": "Understanding",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a 'brain diversity' poster showing how all brains are different and all have strengths."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't dismiss real challenges while celebrating difference. Balance celebration with practical support."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Autistic Community Connection Resources",
+              "description": "Connects children to others who understand – finding 'your people' reduces loneliness and builds belonging.",
+              "category": "Community",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Research local autism-friendly social groups or camps. Facilitate connections with other autistic families."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure groups are neurodiversity-affirming, not compliance-focused. Monitor for safety. Respect child's social preferences."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Fiction Featuring Autistic Characters",
+              "description": "Provides 'mirror' representation – seeing yourself in stories validates experience and shows autistic kids as heroes.",
+              "category": "Rolemodels",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Build a library of books with autistic representation. Seek #OwnVoices (autistic-authored) content when possible."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Seek autistic-authored content when possible. Discuss authenticity of representation as child grows."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Strengths and Superpowers Framing Materials",
+              "description": "Shifts focus from deficits to gifts – helping children identify unique strengths that come with their autistic brain.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a personal 'strengths profile' with your child. Celebrate strengths in daily life."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't ignore real challenges. Avoid pressure to have 'superpowers.' Recognize strengths vary among individuals."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Identity Development Journals and Workbooks",
+              "description": "Provides structured space for self-exploration – guided prompts help children understand and accept themselves.",
+              "category": "Selfexploration",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a personal 'All About Me' journal with prompts about preferences, strengths, challenges, and dreams."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Respect privacy – journal is child's space. Adapt for writing difficulties. Ensure neurodiversity-affirming content."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Masking Awareness and Authentic Self Materials",
+              "description": "Helps children understand the exhaustion of pretending and the freedom of authenticity – being real is better than performing.",
+              "category": "Authenticity",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–450"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create a 'safe spaces map' showing where child can be fully themselves versus where they might need to adjust."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't shame masking – it may be protective. Recognize context matters. Don't push unmasking faster than child is ready."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Belonging and Acceptance Affirmation Materials",
+              "description": "Provides repeated positive messaging that counters internalized negative beliefs – you belong exactly as you are.",
+              "category": "Affirmation",
+              "offers": {
+                "@type": "Offer",
+                "price": "100",
+                "priceCurrency": "INR",
+                "priceRange": "₹100–350"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create personalized affirmation cards addressing your child's specific concerns. Display in visible locations."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Affirmations supplement, not replace, genuine support. Ensure affirmations feel authentic, not hollow."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/identity-emotional/self-concept & belonging/9-materials-that-help-with-feeling-different#course",
+        "name": "Identity & Emotional Wellbeing",
+        "description": "Parent education video series on Identity-Emotional interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Feeling Different | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "autism positive identity, child asks why am I different, autism self esteem, neurodiversity children, autism masking child"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/C-339.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/C-339-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/C-339.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Feeling Different",
+      "content_category": "Intervention Techniques > Identity-Emotional > Self-Concept & Belonging",
+      "content_ids": [
+        "C-339"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "C-339",
+        "technique_theme": "9MAT",
+        "domain": "Identity-Emotional",
+        "sub_domain": "Self-Concept & Belonging",
+        "domain_code": "IDE-BEL",
+        "series": "Identity & Emotional Wellbeing",
+        "episode": 339,
+        "age_band": "5–14 years",
+        "setting": "Home",
+        "cluster_id": "IDE-EMO-03",
+        "cluster_position": 339,
+        "materials_count": 9,
+        "total_cost_range": "₹1,500–4,500 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#FeelingDifferent",
+      "#AutismIdentity",
+      "#Neurodiversity",
+      "#DifferentNotLess",
+      "#AutismAcceptance",
+      "#PositiveIdentity",
+      "#AutismPride",
+      "#NeurodiversityAffirming",
+      "#AutismAwareness",
+      "#PinnacleBlooms",
+      "#SelfAcceptance",
+      "#AutismCommunity",
+      "#AutisticJoy",
+      "#IdentityDevelopment",
+      "#BelongingMatters"
+    ],
+    "caption": "\"Why am I different? Why can't I just be normal?\" 💜 When your child struggles with feeling different, they need more than reassurance – they need tools to build positive identity. Research shows that autistic individuals with positive autistic identity have significantly better mental health. Here are 9 materials that help children understand, accept, and celebrate who they are. Different, not less. Save this! #FeelingDifferent #AutismIdentity #DifferentNotLess #Neurodiversity #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "C-340",
+    "prevInSeries": "C-338",
+    "relatedTechniques": [
+      "C-336",
+      "C-341",
+      "C-342",
+      "C-350",
+      "C-360"
+    ],
+    "deepDives": [
+      "C-339-DD-01",
+      "C-339-DD-02",
+      "C-339-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-890",
+      "K-920",
+      "K-950"
+    ]
+  }
+}

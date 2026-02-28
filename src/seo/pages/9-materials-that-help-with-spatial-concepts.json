@@ -1,0 +1,1035 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts",
+    "title": "9 Materials That Help With Spatial Concepts | Pinnacle Blooms",
+    "description": "My child can see where things are but can't understand or use spatial words like 'behind,' 'between,' or 'next to'? Spatial concept deficit / Positional lang...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-172",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Language & Communication Development Solutions",
+    "episodeInSeries": 172,
+    "domain": "Language & Communication",
+    "subDomain": "Spatial Concepts & Positional Language",
+    "domainCode": "LANG-SPAT",
+    "ageBand": "2–10 years",
+    "setting": "Home, School & Therapy",
+    "audience": "Parents",
+    "clusterId": "LANG-SPAT-01",
+    "clusterName": "Language & Communication Development Series",
+    "clusterPosition": 172,
+    "totalInCluster": 0
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts",
+        "name": "9 Materials That Help With Spatial Concepts | Pinnacle Blooms",
+        "description": "My child can see where things are but can't understand or use spatial words like 'behind,' 'between,' or 'next to'? Spatial concept deficit / Positional lang...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "spatial concepts autism",
+          "positional language autism",
+          "teaching prepositions autism",
+          "in on under behind autism",
+          "left right confusion autism",
+          "following spatial directions autism",
+          "spatial vocabulary autism",
+          "child doesn't understand prepositions autism"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Spatial Concepts & Positional Language challenges",
+          "suggestedMinAge": 2,
+          "suggestedMaxAge": 10
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Language & Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language & communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Spatial Concepts & Positional Language",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Spatial Concepts"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-172-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-172-hero.webp",
+        "caption": "Child looking confused at spatial direction—objects positioned in various locations with arrows and position markers showing in, on, under, behind, between relationships. Visual contrast showing transformation: same child confidently navigating spatial vocabulary.",
+        "description": "Child learning spatial concepts using barrier games and preposition materials",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#video",
+        "name": "9 Materials That Help With Spatial Concepts",
+        "description": "'Put it behind the box.' Behind from where you're standing or where I'm standing? Spatial language maps the physical world into words—and that mapping can be deeply confusing. Here are nine materials that build complete spatial understanding.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-172-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-172.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-172/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#SpatialConcepts",
+          "#PrepositionLanguage",
+          "#AutismTherapy",
+          "#FollowingDirections",
+          "#LanguageDevelopment",
+          "#InOnUnderBehind",
+          "#SpatialVocabulary",
+          "#AutismParenting",
+          "#SpecialNeedsTools",
+          "#PinnacleBlooms",
+          "#SpeechTherapy",
+          "#NavigationSkills",
+          "#PositionalLanguage",
+          "#DirectionalWords",
+          "#SpatialAwareness"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Spatial concept deficit / Positional language difficulty",
+          "alternateName": [
+            "child doesn't understand prepositions autism",
+            "spatial concepts autism",
+            "positional language autism"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Can See Where Things Are But C",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "'Put it behind the box.' Behind from where you're standing or where I'm standing? Spatial languag..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Barrier Games with Position Description",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Barrier games where one child describes location and another places objects without seeing. Pure ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Preposition Concept Cards with Manipulatives",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Concept cards with matching manipulatives making abstract prepositions concrete. The ball is IN t..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Directional Movement Games and Obstacle Courses",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Movement activities where children experience spatial concepts with their whole bodies. Go THROUG..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Grid-Based Position Games",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Grid games building coordinate thinking—understanding position through systematic location descri..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Perspective-Taking Spatial Materials",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Materials showing how spatial relationships look different from different viewpoints. 'Behind' fr..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Proximity and Distance Materials",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Materials practicing the vocabulary of distance—near or far, close or far away. Understanding how..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Map and Navigation Activities",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Navigation activities applying spatial concepts to real routes. Turn left, go straight, it's past..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Construction and Building Position Activities",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Construction activities requiring precise spatial language for building. Put the red block ON TOP..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Hide and Seek Object Games",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Hide and seek games requiring describing and finding hidden locations. Where is it hidden? Spatia..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child can see where things are but can't understand or use spatial words like 'behind,' 'between,' or 'next to'?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SPATIAL CONCEPT DEFICIT / POSITIONAL LANGUAGE DIFFICULTY! A language challenge where children struggle to understand and use language describing location, position, direction, and spatial relationships including prepositions (in, on, under, behind, between), directional terms (up, down, left, right), proximity terms (near, far), and the flexible application of spatial language across contexts. Per developmental research: Spatial understanding develops from infancy through school age. By age 2, children understand basic 'in' and 'on.' By 3-4, they grasp under, behind, next to. By 5-6, they understand between, left/right (with self as reference). School-age children master perspective-dependent spatial terms. Children with autism may show uneven development—strong visual-spatial skills but weak spatial language, or rigid interpretation of spatial terms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Spatial concept deficit / Positional language difficulty?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A language challenge where children struggle to understand and use language describing location, position, direction, and spatial relationships including prepositions (in, on, under, behind, between), directional terms (up, down, left, right), proximity terms (near, far), and the flexible application of spatial language across contexts. Common signs include: Confusion with basic prepositions (in, on, under), Difficulty with complex prepositions (between, behind, beside), Left/right confusion persisting beyond typical age, Can't follow multi-step spatial directions, Difficulty describing where objects are located."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Barrier Games with Position Description help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Barrier games where one child describes location and another places objects without seeing. Pure spatial communication practice—spatial language is the only tool for success. Price: ₹400–1,500. DIY option: Use a large book or folder as barrier between two players with matching materials. One arranges, then describes: 'Put the car IN the garage.' Partner follows. Compare scenes—celebrate matches, problem-solve mismatches. Switch roles. Safety: Match complexity to skill level. Start with high-contrast spatial relationships. Practice both roles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Preposition Concept Cards with Manipulatives help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Concept cards with matching manipulatives making abstract prepositions concrete. The ball is IN the box, ON the box, UNDER the box—see it, move it, say it. Price: ₹300–1,000. DIY option: Create cards showing positions (ball IN box, cat ON chair). Use matching objects to recreate positions. Practice: 'Show me ON.' Contrast similar prepositions: in vs. on, under vs. behind. Safety: Start with high-contrast prepositions (in vs. on). Use consistent objects. Practice receptive before expressive."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Directional Movement Games and Obstacle Courses help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Movement activities where children experience spatial concepts with their whole bodies. Go THROUGH the tunnel, AROUND the cone, OVER the beam—embodied spatial learning. Price: ₹500–2,000. DIY option: Create obstacle courses with household items: crawl UNDER table, step OVER pillows, walk AROUND chair, go THROUGH hula hoop. Give spatial directions. Have child describe movements: 'I went under the table.' Safety: Ensure physical safety. Focus on spatial language, not athletic performance. Connect movement to sedentary spatial tasks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Grid-Based Position Games help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Grid games building coordinate thinking—understanding position through systematic location description. Row two, column three! Precise location vocabulary. Price: ₹300–900. DIY option: Draw 3x3 grid. Practice describing positions: 'top row, middle.' Play hiding games: 'Find the hidden object—it's in the bottom row, left side.' Progress to larger grids and coordinate language. Safety: Start with small, simple grids. Use clear row/column language. Build gradually to complex grids."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Perspective-Taking Spatial Materials help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Materials showing how spatial relationships look different from different viewpoints. 'Behind' from my side might be 'in front' from your side—building perspective-awareness. Price: ₹400–1,200. DIY option: Walk around an object together, describing changing positions: 'Now the ball is behind the box. Walk here—now it's in front!' Practice giving directions from listener's perspective. Work on left/right from different viewpoints. Safety: This is cognitively challenging—build gradually. Use clear physical demonstrations first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Proximity and Distance Materials help with spatial concept deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Materials practicing the vocabulary of distance—near or far, close or far away. Understanding how close or far apart things are from each other. Price: ₹250–800. DIY option: Practice with toys: 'Put the car near the house. Now put it far from the house.' Contrast terms: close vs. far, near vs. away from. Apply to social: 'Stand close to your partner.' Connect to safety: 'Stay close to me.' Safety: Start with clear contrasts (very near vs. very far). Connect to meaningful situations like safety."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: No understanding of 'in' and 'on' by age 2-3. Confused by common prepositions by age 4. Persistent left/right confusion beyond age 7-8. Can't follow two-step spatial directions by age 5. Consult speech-language pathologist if spatial language difficulties significantly impact following directions and communication."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#howto",
+        "name": "How to Help a Child with Spatial Concept Deficit",
+        "description": "A graded approach using evidence-based materials. Spatial language translates visual-spatial perception into communicable words. Many children with autism have strong visual-spatial skills but weak spatial vocabulary—they see where things are but struggle to express or understand spatial descriptions in language.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 2750,
+          "maxValue": 9600
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Barrier Games with Position Description",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Preposition Concept Cards with Manipulatives",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 1000
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Directional Movement Games and Obstacle Courses",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 2000
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A language challenge where children struggle to understand and use language describing location, position, direction, and spatial relationships including prepositions (in, on, under, behind, between), directional terms (up, down, left, right), proximity terms (near, far), and the flexible application of spatial language across contexts. Spatial language translates visual-spatial perception into communicable words. Many children with autism have strong visual-spatial skills but weak spatial vocabulary—they see where things are but struggle to express or understand spatial descriptions in language."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Barrier Games with Position Description, Preposition Concept Cards with Manipulatives, Directional Movement Games and Obstacle Courses."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: No understanding of 'in' and 'on' by age 2-3, Confused by common prepositions by age 4, Persistent left/right confusion beyond age 7-8."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult speech-language pathologist if spatial language difficulties significantly impact following directions and communication."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#medicalpage",
+        "name": "Spatial concept deficit / Positional language difficulty Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Spatial concept deficit / Positional language difficulty",
+          "alternateName": [
+            "child doesn't understand prepositions autism",
+            "spatial concepts autism",
+            "positional language autism"
+          ],
+          "description": "A language challenge where children struggle to understand and use language describing location, position, direction, and spatial relationships including prepositions (in, on, under, behind, between), directional terms (up, down, left, right), proximity terms (near, far), and the flexible application of spatial language across contexts.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Confusion with basic prepositions (in, on, under)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty with complex prepositions (between, behind, beside)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Left/right confusion persisting beyond typical age"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Can't follow multi-step spatial directions"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Difficulty describing where objects are located"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't understand perspective-dependent terms (behind from whose view?)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Struggles with proximity vocabulary (near, far, close)"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Can't give navigation directions"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#article",
+        "headline": "9 Materials That Help With Spatial Concepts",
+        "alternativeHeadline": "When 'put it behind the box' creates confusion instead of clarity",
+        "description": "My child can see where things are but can't understand or use spatial words like 'behind,' 'between,' or 'next to'? Spatial concept deficit / Positional lang...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#primaryimage"
+        },
+        "articleSection": "Language & Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "spatial concepts autism",
+          "positional language autism",
+          "teaching prepositions autism",
+          "in on under behind autism",
+          "left right confusion autism"
+        ],
+        "citation": [],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#healthcontent",
+        "name": "Spatial concept deficit / Positional language difficulty Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Spatial concept deficit / Positional language difficulty"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Spatial Concepts & Positional Language challenges"
+        },
+        "keywords": [
+          "spatial concepts autism",
+          "positional language autism",
+          "teaching prepositions autism",
+          "in on under behind autism",
+          "left right confusion autism"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#evidence",
+        "claimReviewed": "Spatial language translates visual-spatial perception into communicable words. Many children with autism have strong visual-spatial skills but weak spatial vocabulary—they see where things are but struggle to express or understand spatial descriptions in language. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Spatial Concept Deficit Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language#collection",
+        "name": "Language & Communication Development Series",
+        "description": "Complete series of 0 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-170: Adjective Understanding",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-171: Quantity Concepts",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-172: Spatial Concepts (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-173: Temporal Concepts",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-174: Question Understanding",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 0,
+        "collectionSize": 0
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#materials",
+        "name": "9 Materials for Spatial Concept Deficit",
+        "description": "Evidence-based materials for ages 2–10 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Barrier Games with Position Description",
+              "description": "Barrier games where one child describes location and another places objects without seeing. Pure spatial communication practice—spatial language is the only tool for success.",
+              "category": "Functionalcommunication",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use a large book or folder as barrier between two players with matching materials. One arranges, then describes: 'Put the car IN the garage.' Partner follows. Compare scenes—celebrate matches, problem-solve mismatches. Switch roles."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Match complexity to skill level. Start with high-contrast spatial relationships. Practice both roles."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Preposition Concept Cards with Manipulatives",
+              "description": "Concept cards with matching manipulatives making abstract prepositions concrete. The ball is IN the box, ON the box, UNDER the box—see it, move it, say it.",
+              "category": "Prepositionfoundation",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards showing positions (ball IN box, cat ON chair). Use matching objects to recreate positions. Practice: 'Show me ON.' Contrast similar prepositions: in vs. on, under vs. behind."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with high-contrast prepositions (in vs. on). Use consistent objects. Practice receptive before expressive."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Directional Movement Games and Obstacle Courses",
+              "description": "Movement activities where children experience spatial concepts with their whole bodies. Go THROUGH the tunnel, AROUND the cone, OVER the beam—embodied spatial learning.",
+              "category": "Embodiedlearning",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create obstacle courses with household items: crawl UNDER table, step OVER pillows, walk AROUND chair, go THROUGH hula hoop. Give spatial directions. Have child describe movements: 'I went under the table.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure physical safety. Focus on spatial language, not athletic performance. Connect movement to sedentary spatial tasks."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Grid-Based Position Games",
+              "description": "Grid games building coordinate thinking—understanding position through systematic location description. Row two, column three! Precise location vocabulary.",
+              "category": "Systematicposition",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Draw 3x3 grid. Practice describing positions: 'top row, middle.' Play hiding games: 'Find the hidden object—it's in the bottom row, left side.' Progress to larger grids and coordinate language."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with small, simple grids. Use clear row/column language. Build gradually to complex grids."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Perspective-Taking Spatial Materials",
+              "description": "Materials showing how spatial relationships look different from different viewpoints. 'Behind' from my side might be 'in front' from your side—building perspective-awareness.",
+              "category": "Perspectiveawareness",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Walk around an object together, describing changing positions: 'Now the ball is behind the box. Walk here—now it's in front!' Practice giving directions from listener's perspective. Work on left/right from different viewpoints."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "This is cognitively challenging—build gradually. Use clear physical demonstrations first."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Proximity and Distance Materials",
+              "description": "Materials practicing the vocabulary of distance—near or far, close or far away. Understanding how close or far apart things are from each other.",
+              "category": "Distancevocabulary",
+              "offers": {
+                "@type": "Offer",
+                "price": "250",
+                "priceCurrency": "INR",
+                "priceRange": "₹250–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Practice with toys: 'Put the car near the house. Now put it far from the house.' Contrast terms: close vs. far, near vs. away from. Apply to social: 'Stand close to your partner.' Connect to safety: 'Stay close to me.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with clear contrasts (very near vs. very far). Connect to meaningful situations like safety."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Map and Navigation Activities",
+              "description": "Navigation activities applying spatial concepts to real routes. Turn left, go straight, it's past the library—functional spatial language for real-world wayfinding.",
+              "category": "Realworldapplication",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Draw simple maps of familiar spaces (bedroom, classroom). Practice following directions: 'Go straight, turn right at the bed, stop at the window.' Switch to giving directions. Use landmarks in descriptions."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with familiar, simple environments. Practice in safe contexts before independent navigation."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Construction and Building Position Activities",
+              "description": "Construction activities requiring precise spatial language for building. Put the red block ON TOP OF the blue one! Following and giving position directions.",
+              "category": "Precisedescription",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Build structures from verbal directions only (hide model). Practice giving directions: 'Put the red block on the blue one. Put the green block beside it.' Compare results—discuss what spatial words helped or confused."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Match complexity to skill level. Practice listening and describing separately before combining."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Hide and Seek Object Games",
+              "description": "Hide and seek games requiring describing and finding hidden locations. Where is it hidden? Spatial language with high motivation and natural practice.",
+              "category": "Motivatedpractice",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Hide objects while child covers eyes. Give spatial clues: 'It's under something soft.' 'It's near the door.' 'It's between two books.' Switch roles—child hides and gives clues. Play 'hot and cold' with proximity language."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Ensure finding success for motivation. Practice both giving and following clues. Maintain enjoyment."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/spatial concepts & positional language/9-materials-that-help-with-spatial-concepts#course",
+        "name": "Language & Communication Development Solutions",
+        "description": "Parent education video series on Language & Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Spatial Concepts | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "spatial concepts autism, positional language autism, teaching prepositions autism, in on under behind autism, left right confusion autism"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-172.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-172-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-172.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Spatial Concepts",
+      "content_category": "Intervention Techniques > Language & Communication > Spatial Concepts & Positional Language",
+      "content_ids": [
+        "B-172"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-172",
+        "technique_theme": "9MAT",
+        "domain": "Language & Communication",
+        "sub_domain": "Spatial Concepts & Positional Language",
+        "domain_code": "LANG-SPAT",
+        "series": "Language & Communication Development Solutions",
+        "episode": 172,
+        "age_band": "2–10 years",
+        "setting": "Home, School & Therapy",
+        "cluster_id": "LANG-SPAT-01",
+        "cluster_position": 172,
+        "materials_count": 9,
+        "total_cost_range": "₹2,750–9,600 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#SpatialConcepts",
+      "#PrepositionLanguage",
+      "#AutismTherapy",
+      "#FollowingDirections",
+      "#LanguageDevelopment",
+      "#InOnUnderBehind",
+      "#SpatialVocabulary",
+      "#AutismParenting",
+      "#SpecialNeedsTools",
+      "#PinnacleBlooms",
+      "#SpeechTherapy",
+      "#NavigationSkills",
+      "#PositionalLanguage",
+      "#DirectionalWords",
+      "#SpatialAwareness"
+    ],
+    "caption": "'Put it behind the box.' Behind from where? 📍 Spatial language maps the physical world into words—and that mapping can be deeply confusing. For children with autism, prepositions and directional terms require explicit teaching. Here are 9 materials that build complete spatial understanding. Save for navigation success! #SpatialConcepts #PrepositionLanguage #AutismTherapy #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-173",
+    "prevInSeries": "B-171",
+    "relatedTechniques": [],
+    "deepDives": [],
+    "parentSupport": []
+  }
+}

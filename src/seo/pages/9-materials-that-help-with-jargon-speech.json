@@ -1,0 +1,1082 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech",
+    "title": "9 Materials That Help With Jargon Speech | Pinnacle Blooms",
+    "description": "My child talks constantly but I can't understand any words? Persistent jargon speech with preserved prosody is neurological, not behavioral. 9 evidence-based...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-187",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Speech Solutions",
+    "episodeInSeries": 187,
+    "domain": "Speech",
+    "subDomain": "Expressive Language",
+    "domainCode": "SPE-EXP",
+    "ageBand": "12–36 months",
+    "setting": "Home",
+    "audience": "Parents",
+    "clusterId": "SPE-EXP-03",
+    "clusterName": "Speech Clarity & Intelligibility Series",
+    "clusterPosition": 187,
+    "totalInCluster": 250
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech",
+        "name": "9 Materials That Help With Jargon Speech | Pinnacle Blooms",
+        "description": "My child talks constantly but I can't understand any words? Persistent jargon speech with preserved prosody is neurological, not behavioral. 9 evidence-based...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "child speaks gibberish",
+          "baby talk won't stop",
+          "unintelligible toddler speech",
+          "child babbles no words",
+          "persistent jargon speech",
+          "toddler speech sounds like foreign language",
+          "speech therapy for jargon",
+          "first words development",
+          "late talker help",
+          "toddler jargon speech"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Expressive Language challenges",
+          "suggestedMinAge": 12,
+          "suggestedMaxAge": 36
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Speech",
+            "item": "https://pinnacleblooms.org/intervention-techniques/speech"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Expressive Language",
+            "item": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Jargon Speech"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-187-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-187-hero.webp",
+        "caption": "Toddler speaking animatedly with expressive gestures and adult-like intonation, speech bubbles showing squiggly lines representing unintelligible jargon. Parent leaning in, trying to understand. Warm home setting with natural lighting.",
+        "description": "Child producing jargon speech with expressive intonation but unintelligible words",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#video",
+        "name": "9 Materials That Help With Jargon Speech",
+        "description": "If your child speaks with beautiful expression but no clear words – they're not being silly. They've mastered the melody of language but need help mapping it to real words. Here are 9 materials that help transform jargon into clear, recognizable speech.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-187-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-187.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-187/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#JargonSpeech",
+          "#SpeechDevelopment",
+          "#SpeechTherapy",
+          "#ToddlerTalk",
+          "#LateToTalk",
+          "#SpeechDelay",
+          "#FirstWords",
+          "#LanguageDevelopment",
+          "#SpeechPathology",
+          "#PinnacleBlooms",
+          "#CommunicationSkills",
+          "#EarlyIntervention",
+          "#SLPLife",
+          "#ToddlerMom",
+          "#SpeechMaterials"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Persistent jargon speech with preserved prosody",
+          "alternateName": [
+            "child speaks gibberish",
+            "toddler jargon speech",
+            "baby talk won't stop"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Talks Constantly But I Can't U",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "If your child speaks with beautiful expression but no clear words – they're not being silly. They..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Core Vocabulary Picture Cards with Audio",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Provides intensive exposure to high-frequency functional words through clear auditory models pair..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Mirror and Video Feedback Systems",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Provides visual information about speech production, helping children see how mouth movements rel..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Cause-and-Effect Toys Paired with Words",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Creates powerful motivation for clear speech – real words make exciting things happen, jargon doe..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Repetitive Books with Key Words",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Provides massive exposure to target words in engaging, predictable contexts – repetition builds w..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Simple Sign Language for Core Words",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Provides visual-motor support for word meaning – signs bridge communication while speech develops."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Sound-Focused Toys and Games",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Builds phonological awareness – attention to speech sounds underlies clear word production."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Choice-Making Communication Boards",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Reduces communication pressure while providing clear word models for desired items."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Music and Song Activities with Key Words",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Melody provides additional retrieval cues for words – many children who struggle with speech can ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Speech Sound Development Apps with Visual Cues",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Combines auditory models, visual mouth movements, and engaging practice in one accessible format."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child talks constantly but i can't understand any words?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "PERSISTENT JARGON SPEECH WITH PRESERVED PROSODY! A developmental speech pattern where the child produces long strings of unintelligible syllables using adult-like intonation, stress, and rhythm patterns (prosody) without consistent, recognizable words. The child has mastered the melody of language but hasn't yet mapped those patterns onto stable, meaningful word forms. Per SPD Foundation and speech-language research: Jargon speech represents a mismatch between prosodic development (well-developed) and phonological/lexical development (delayed). The child has learned that speech has melody, rhythm, and turn-taking structure but hasn't yet established stable sound-meaning mappings for words. Jargon is developmentally typical around 12-18 months but concerning if persisting past 24 months or increasing rather than decreasing. This is a speech development pattern, not defiance or attention-seeking."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A developmental speech pattern where the child produces long strings of unintelligible syllables using adult-like intonation, stress, and rhythm patterns (prosody) without consistent, recognizable words. The child has mastered the melody of language but hasn't yet mapped those patterns onto stable, meaningful word forms. Common signs include: Long strings of babbling that sound like conversation, Adult-like intonation patterns in unintelligible speech, Clear communicative intent through gestures and eye contact, Occasional real words floating in sea of jargon, Sounds like speaking a foreign language."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Core Vocabulary Picture Cards with Audio help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides intensive exposure to high-frequency functional words through clear auditory models paired with visual referents. Price: ₹300–600. DIY option: Create cards with photos of favorite items/activities. Record clear audio of each word. Use phone voice memo app. Safety: Select words based on child's interests and needs. Accept approximations – don't demand perfection."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Mirror and Video Feedback Systems help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides visual information about speech production, helping children see how mouth movements relate to sounds. Price: ₹200–500. DIY option: Use bathroom mirror or handheld mirror. Record short videos on phone for playback comparison. Safety: Keep sessions short and positive. Focus on improvement, not errors. Never criticize attempts."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Cause-and-Effect Toys Paired with Words help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Creates powerful motivation for clear speech – real words make exciting things happen, jargon doesn't. Price: ₹400–1,000. DIY option: Use any highly motivating toy that requires activation. Pair with simple word: 'go,' 'push,' 'pop,' 'more.' Safety: Don't withhold frustratingly – keep it fun. Accept any approximation initially."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Repetitive Books with Key Words help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides massive exposure to target words in engaging, predictable contexts – repetition builds word forms. Price: ₹200–500. DIY option: Choose books with simple, repeated words. Read same favorites multiple times daily. Pause before key words. Safety: Keep reading enjoyable. Don't force production – create opportunities through pauses."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Simple Sign Language for Core Words help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Provides visual-motor support for word meaning – signs bridge communication while speech develops. Price: ₹150–400. DIY option: Learn 5-10 simple signs from YouTube tutorials. Always say word while signing. Never sign silently. Safety: Always pair sign with speech. Fade signs as spoken words become clear."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sound-Focused Toys and Games help with persistent jargon speech with preserved prosody?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Builds phonological awareness – attention to speech sounds underlies clear word production. Price: ₹300–700. DIY option: Use toy animals and vehicles. Model sounds clearly: 'The cow says moooo.' Practice sounds before words. Safety: Keep it playful. Accept approximations. Build from sounds to simple words naturally."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Jargon increasing rather than decreasing after 24 months. No real words emerging within jargon. Loss of previously clear words. Reduced communicative intent. Signs of hearing loss. Motor speech difficulties (groping, inconsistency on known words). Consult SLP if: jargon persists past 24 months, no words emerging after 3 months of intervention, hearing concerns, or motor speech symptoms present."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 70+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#howto",
+        "name": "How to Help a Child with Persistent Jargon Speech With Preserved Prosody",
+        "description": "A graded approach using evidence-based materials. Jargon isn't bad – it shows communicative intent. The goal is to shape it toward real words through intensive exposure and motivation.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 1900,
+          "maxValue": 4600
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Core Vocabulary Picture Cards with Audio",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 600
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Mirror and Video Feedback Systems",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 200,
+              "maxValue": 500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Cause-and-Effect Toys Paired with Words",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1000
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A developmental speech pattern where the child produces long strings of unintelligible syllables using adult-like intonation, stress, and rhythm patterns (prosody) without consistent, recognizable words. The child has mastered the melody of language but hasn't yet mapped those patterns onto stable, meaningful word forms. Jargon isn't bad – it shows communicative intent. The goal is to shape it toward real words through intensive exposure and motivation."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Core Vocabulary Picture Cards with Audio, Mirror and Video Feedback Systems, Cause-and-Effect Toys Paired with Words."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Jargon increasing rather than decreasing after 24 months, No real words emerging within jargon, Loss of previously clear words."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult SLP if: jargon persists past 24 months, no words emerging after 3 months of intervention, hearing concerns, or motor speech symptoms present."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#medicalpage",
+        "name": "Persistent jargon speech with preserved prosody Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Persistent jargon speech with preserved prosody",
+          "alternateName": [
+            "child speaks gibberish",
+            "toddler jargon speech",
+            "baby talk won't stop"
+          ],
+          "description": "A developmental speech pattern where the child produces long strings of unintelligible syllables using adult-like intonation, stress, and rhythm patterns (prosody) without consistent, recognizable words. The child has mastered the melody of language but hasn't yet mapped those patterns onto stable, meaningful word forms.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Long strings of babbling that sound like conversation"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Adult-like intonation patterns in unintelligible speech"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Clear communicative intent through gestures and eye contact"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Occasional real words floating in sea of jargon"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Sounds like speaking a foreign language"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Prosody matches questions, statements, exclamations"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Frustration when not understood"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Continues talking despite lack of comprehension"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#article",
+        "headline": "9 Materials That Help With Jargon Speech",
+        "alternativeHeadline": "When the melody is there but the words aren't",
+        "description": "My child talks constantly but I can't understand any words? Persistent jargon speech with preserved prosody is neurological, not behavioral. 9 evidence-based...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#primaryimage"
+        },
+        "articleSection": "Speech",
+        "wordCount": 3500,
+        "keywords": [
+          "child speaks gibberish",
+          "baby talk won't stop",
+          "unintelligible toddler speech",
+          "child babbles no words",
+          "persistent jargon speech"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Understanding sensory and developmental disorders requires evidence-based information and support resources."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across speech and language interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Stoel-Gammon C (2011)",
+            "url": "",
+            "description": "Relationships between lexical and phonological development in young children. Journal of Child Language."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Paul R & Norbury C (2012)",
+            "url": "",
+            "description": "Language Disorders from Infancy through Adolescence. Elsevier. Framework for understanding jargon and speech development."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "ASHA",
+            "url": "https://www.asha.org",
+            "description": "American Speech-Language-Hearing Association guidelines on speech-language development and intervention."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#healthcontent",
+        "name": "Persistent jargon speech with preserved prosody Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Persistent jargon speech with preserved prosody"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Expressive Language challenges"
+        },
+        "keywords": [
+          "child speaks gibberish",
+          "baby talk won't stop",
+          "unintelligible toddler speech",
+          "child babbles no words",
+          "persistent jargon speech"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#evidence",
+        "claimReviewed": "Jargon isn't bad – it shows communicative intent. The goal is to shape it toward real words through intensive exposure and motivation. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Persistent Jargon Speech With Preserved Prosody Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language#collection",
+        "name": "Speech Clarity & Intelligibility Series",
+        "description": "Complete series of 250 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-185: Limited Word Imitation",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-186: Can't Describe Events",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-187: Jargon Speech (THIS REEL)",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-188: Limited Pretend Play Skills",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-189: Word Finding Difficulties",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 250,
+        "collectionSize": 250
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#materials",
+        "name": "9 Materials for Persistent Jargon Speech With Preserved Prosody",
+        "description": "Evidence-based materials for ages 12–36 months",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Core Vocabulary Picture Cards with Audio",
+              "description": "Provides intensive exposure to high-frequency functional words through clear auditory models paired with visual referents.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create cards with photos of favorite items/activities. Record clear audio of each word. Use phone voice memo app."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Select words based on child's interests and needs. Accept approximations – don't demand perfection."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Mirror and Video Feedback Systems",
+              "description": "Provides visual information about speech production, helping children see how mouth movements relate to sounds.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use bathroom mirror or handheld mirror. Record short videos on phone for playback comparison."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep sessions short and positive. Focus on improvement, not errors. Never criticize attempts."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Cause-and-Effect Toys Paired with Words",
+              "description": "Creates powerful motivation for clear speech – real words make exciting things happen, jargon doesn't.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use any highly motivating toy that requires activation. Pair with simple word: 'go,' 'push,' 'pop,' 'more.'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't withhold frustratingly – keep it fun. Accept any approximation initially."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Repetitive Books with Key Words",
+              "description": "Provides massive exposure to target words in engaging, predictable contexts – repetition builds word forms.",
+              "category": "Intensiveexposure",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Choose books with simple, repeated words. Read same favorites multiple times daily. Pause before key words."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep reading enjoyable. Don't force production – create opportunities through pauses."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Simple Sign Language for Core Words",
+              "description": "Provides visual-motor support for word meaning – signs bridge communication while speech develops.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Learn 5-10 simple signs from YouTube tutorials. Always say word while signing. Never sign silently."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Always pair sign with speech. Fade signs as spoken words become clear."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Sound-Focused Toys and Games",
+              "description": "Builds phonological awareness – attention to speech sounds underlies clear word production.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–700"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use toy animals and vehicles. Model sounds clearly: 'The cow says moooo.' Practice sounds before words."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep it playful. Accept approximations. Build from sounds to simple words naturally."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Choice-Making Communication Boards",
+              "description": "Reduces communication pressure while providing clear word models for desired items.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create boards with photos of favorite foods, toys, activities. Laminate for durability. Use during mealtimes and play."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't require perfect speech for item access. Keep choices motivating. Update as interests change."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Music and Song Activities with Key Words",
+              "description": "Melody provides additional retrieval cues for words – many children who struggle with speech can sing words.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "150",
+                "priceCurrency": "INR",
+                "priceRange": "₹150–400"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Choose songs with simple, repeated words. Sing daily. Pause before key words to invite fill-in."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Keep singing fun. Don't demand perfection. Connect song words to spoken use."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Speech Sound Development Apps with Visual Cues",
+              "description": "Combines auditory models, visual mouth movements, and engaging practice in one accessible format.",
+              "category": "Therapeutic",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "priceRange": "₹0–500 (free to premium)"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Free apps available. Sit with child during use. Connect app practice to real-word production."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Supervise app use. Keep sessions short. Connect app sounds to functional communication."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/speech/expressive language/9-materials-that-help-with-jargon-speech#course",
+        "name": "Speech Solutions",
+        "description": "Parent education video series on Speech interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Jargon Speech | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "child speaks gibberish, baby talk won't stop, unintelligible toddler speech, child babbles no words, persistent jargon speech"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-187.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-187-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-187.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Jargon Speech",
+      "content_category": "Intervention Techniques > Speech > Expressive Language",
+      "content_ids": [
+        "B-187"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-187",
+        "technique_theme": "9MAT",
+        "domain": "Speech",
+        "sub_domain": "Expressive Language",
+        "domain_code": "SPE-EXP",
+        "series": "Speech Solutions",
+        "episode": 187,
+        "age_band": "12–36 months",
+        "setting": "Home",
+        "cluster_id": "SPE-EXP-03",
+        "cluster_position": 187,
+        "materials_count": 9,
+        "total_cost_range": "₹1,900–4,600 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#JargonSpeech",
+      "#SpeechDevelopment",
+      "#SpeechTherapy",
+      "#ToddlerTalk",
+      "#LateToTalk",
+      "#SpeechDelay",
+      "#FirstWords",
+      "#LanguageDevelopment",
+      "#SpeechPathology",
+      "#PinnacleBlooms",
+      "#CommunicationSkills",
+      "#EarlyIntervention",
+      "#SLPLife",
+      "#ToddlerMom",
+      "#SpeechMaterials"
+    ],
+    "caption": "Does your toddler talk and talk but you can't understand the words? 🗣️ That's jargon speech – they've mastered the melody of language but need help with the words. The communicative intent is there! Here are 9 materials that help transform jargon into clear, recognizable speech. The words are coming! Save this! #JargonSpeech #SpeechDevelopment #SpeechTherapy #LateToTalk #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-188",
+    "prevInSeries": "B-186",
+    "relatedTechniques": [
+      "B-185",
+      "B-186",
+      "B-188",
+      "B-190",
+      "B-192"
+    ],
+    "deepDives": [
+      "B-187-DD-01",
+      "B-187-DD-02",
+      "B-187-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-915"
+    ]
+  }
+}

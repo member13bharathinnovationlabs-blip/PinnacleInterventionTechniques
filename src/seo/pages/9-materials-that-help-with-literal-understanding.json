@@ -1,0 +1,1082 @@
+{
+  "pageInfo": {
+    "url": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding",
+    "title": "9 Materials That Help With Literal Understanding | Pinnacle Blooms",
+    "description": "My child takes everything literally and misses hidden meanings? Figurative language comprehension deficit / Literal interpretation pattern is neurological, n...",
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-20",
+    "language": "en-IN",
+    "type": "video",
+    "contentFormat": "Reel/Short-form Video"
+  },
+  "techniqueMetadata": {
+    "id": "B-157",
+    "theme": "9MAT",
+    "themeName": "9 Materials That Help With...",
+    "series": "Language & Communication Solutions",
+    "episodeInSeries": 157,
+    "domain": "Language & Communication",
+    "subDomain": "Figurative Language Comprehension",
+    "domainCode": "LANG-FIG",
+    "ageBand": "5–14 years",
+    "setting": "Home & School",
+    "audience": "Parents",
+    "clusterId": "LANG-COMP-03",
+    "clusterName": "Language Comprehension Series",
+    "clusterPosition": 157,
+    "totalInCluster": 200
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#webpage",
+        "url": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding",
+        "name": "9 Materials That Help With Literal Understanding | Pinnacle Blooms",
+        "description": "My child takes everything literally and misses hidden meanings? Figurative language comprehension deficit / Literal interpretation pattern is neurological, n...",
+        "isPartOf": {
+          "@id": "https://pinnacleblooms.org/#website"
+        },
+        "about": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#video"
+        },
+        "datePublished": "2025-01-01",
+        "dateModified": "2025-01-20",
+        "breadcrumb": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#breadcrumb"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#primaryimage"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "literal thinking autism",
+          "figurative language autism",
+          "teaching idioms autism",
+          "sarcasm detection autism",
+          "child doesn't understand expressions",
+          "autism metaphor understanding",
+          "literal interpretation child",
+          "idiom flashcards autism",
+          "social language autism",
+          "child takes language literally autism"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Figurative Language Comprehension challenges",
+          "suggestedMinAge": 5,
+          "suggestedMaxAge": 14
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pinnacleblooms.org"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Intervention Techniques",
+            "item": "https://pinnacleblooms.org/intervention-techniques"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Language & Communication",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language & communication"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Figurative Language Comprehension",
+            "item": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "9 Materials That Help With Literal Understanding"
+          }
+        ]
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#primaryimage",
+        "url": "https://pinnacleblooms.org/images/reels/B-157-hero.webp",
+        "contentUrl": "https://pinnacleblooms.org/images/reels/B-157-hero.webp",
+        "caption": "Young child looking confused at an adult speaking, with thought bubble showing literal interpretation of idiom (actual cats and dogs falling from sky) while adult clearly means heavy rain. Split visual showing the gap between words spoken and meaning intended.",
+        "description": "Child interpreting figurative language literally, showing confusion between words and intended meaning",
+        "width": 1080,
+        "height": 1920,
+        "representativeOfPage": true
+      },
+      {
+        "@type": "VideoObject",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#video",
+        "name": "9 Materials That Help With Literal Understanding",
+        "description": "'Break a leg!' she said before his performance. His face showed pure horror—why would anyone wish him injury? The words said one thing, but meant another entirely. Here are nine materials that help children find the meaning hiding beneath the words.",
+        "thumbnailUrl": "https://pinnacleblooms.org/images/reels/B-157-thumb.webp",
+        "uploadDate": "2025-01-01",
+        "duration": "PT75S",
+        "contentUrl": "https://pinnacleblooms.org/videos/reels/B-157.mp4",
+        "embedUrl": "https://www.instagram.com/reel/B-157/",
+        "interactionStatistic": {
+          "@type": "InteractionCounter",
+          "interactionType": {
+            "@type": "WatchAction"
+          },
+          "userInteractionCount": 0
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "creator": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "inLanguage": "en-IN",
+        "keywords": [
+          "#LiteralThinking",
+          "#FigurativeLanguage",
+          "#AutismLanguage",
+          "#IdiomTeaching",
+          "#SarcasmDetection",
+          "#LanguageComprehension",
+          "#SpeechTherapy",
+          "#AutismSupport",
+          "#SocialCommunication",
+          "#PinnacleBlooms",
+          "#MetaphorUnderstanding",
+          "#LanguageDevelopment",
+          "#HiddenMeanings",
+          "#AutismEducation",
+          "#PragmaticLanguage"
+        ],
+        "learningResourceType": "Educational Video",
+        "educationalLevel": "Parent Education",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Figurative language comprehension deficit / Literal interpretation pattern",
+          "alternateName": [
+            "child takes language literally",
+            "autism literal thinking",
+            "child doesn't understand idioms"
+          ]
+        },
+        "hasPart": [
+          {
+            "@type": "Clip",
+            "name": "Hook - Takes Everything Literally And",
+            "startOffset": 0,
+            "endOffset": 6,
+            "description": "'Break a leg!' she said before his performance. His face showed pure horror—why would anyone wish..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 1 - Visual Idiom Dictionary Cards",
+            "startOffset": 6,
+            "endOffset": 11,
+            "description": "Shows both the literal image and the real meaning—'spill the beans' shows beans spilling AND some..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 2 - Sarcasm Detection Training Materials",
+            "startOffset": 11,
+            "endOffset": 16,
+            "description": "Teaches the clues—the eye roll, the tone of voice, the context that doesn't match the words. When..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 3 - Multiple Meaning Word Resources",
+            "startOffset": 16,
+            "endOffset": 21,
+            "description": "Explores how 'bank' can be a river's edge or a place for money, how 'bat' can fly or hit a ball. ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 4 - Metaphor and Simile Teaching Kits",
+            "startOffset": 21,
+            "endOffset": 26,
+            "description": "Teaches how 'She's a night owl' doesn't mean she's an actual owl—it means she stays up late, like..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 5 - Expression Social Scripts",
+            "startOffset": 26,
+            "endOffset": 31,
+            "description": "Shows common expressions and their meanings in everyday situations—so when someone says 'hang on ..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 6 - Context Clue Detection Activities",
+            "startOffset": 31,
+            "endOffset": 36,
+            "description": "Teaches children to look at the whole picture—the setting, the expressions, the situation—to figu..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 7 - Literature-Based Figurative Language Resources",
+            "startOffset": 36,
+            "endOffset": 41,
+            "description": "Books and resources that highlight figurative language in stories—showing how authors use idioms,..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 8 - Figurative Language Video Modeling",
+            "startOffset": 41,
+            "endOffset": 46,
+            "description": "Videos show people using figurative language in real conversations—with explanations of what they..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Material 9 - Clarification Request Training Materials",
+            "startOffset": 46,
+            "endOffset": 51,
+            "description": "Teaches children to recognize when they might be taking something too literally—and to ask 'Do yo..."
+          },
+          {
+            "@type": "Clip",
+            "name": "Call to Action",
+            "startOffset": 51,
+            "endOffset": 55,
+            "description": "Save and follow for more"
+          },
+          {
+            "@type": "Clip",
+            "name": "Powered by GPT-OS®",
+            "startOffset": 55,
+            "endOffset": 61,
+            "description": "Powered by GPT-OS®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Real-World Evidence & Readiness",
+            "startOffset": 61,
+            "endOffset": 67,
+            "description": "Measured Outcomes. Readiness, Not Assumptions."
+          },
+          {
+            "@type": "Clip",
+            "name": "Pinnacle® Platform",
+            "startOffset": 67,
+            "endOffset": 73,
+            "description": "Pinnacle Blooms Network®"
+          },
+          {
+            "@type": "Clip",
+            "name": "Disclaimer",
+            "startOffset": 73,
+            "endOffset": 76,
+            "description": "Educational content disclaimer"
+          }
+        ],
+        "accessibilityFeature": [
+          "captions",
+          "audioDescription"
+        ],
+        "accessibilityHazard": "none"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Why does my child takes everything literally and misses hidden meanings?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "FIGURATIVE LANGUAGE COMPREHENSION DEFICIT / LITERAL INTERPRETATION PATTERN! A processing difference where children interpret language exactly as spoken, missing the layered meanings in idioms, metaphors, sarcasm, and implied messages. This reflects differences in how language is processed – decoding surface words accurately while missing the hidden meanings that others extract automatically. Per developmental research: Literal interpretation in autism reflects preference for concrete, explicit meaning over inferred meaning. This is not a deficit in intelligence but a difference in language processing. Neurotypical speakers constantly layer meaning beneath words through idioms, metaphors, sarcasm, and implication. Children with autism often decode only the surface level, requiring explicit teaching of figurative language rather than the implicit absorption that typically develops this skill."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Figurative language comprehension deficit / Literal interpretation pattern?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A processing difference where children interpret language exactly as spoken, missing the layered meanings in idioms, metaphors, sarcasm, and implied messages. This reflects differences in how language is processed – decoding surface words accurately while missing the hidden meanings that others extract automatically. Common signs include: Looks for actual cats and dogs when told 'it's raining cats and dogs', Becomes confused when told to 'hit the books', Misses sarcasm and takes ironic statements at face value, Doesn't understand common expressions and phrases, Takes jokes literally and doesn't see the humor."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Visual Idiom Dictionary Cards help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows both the literal image and the real meaning—'spill the beans' shows beans spilling AND someone sharing a secret. See both meanings, understand the real one. Price: ₹400–1,200. DIY option: Create flashcards with hand-drawn or printed images: literal interpretation on one side, actual meaning on other. Use magazine cutouts or simple drawings. Safety: Don't overwhelm with too many idioms at once—quality over quantity. Ensure literal illustration doesn't reinforce literal interpretation—always pair with meaning."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Sarcasm Detection Training Materials help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches the clues—the eye roll, the tone of voice, the context that doesn't match the words. When clues contradict words, sarcasm is likely. Price: ₹500–1,500. DIY option: Create video clips of family members demonstrating obvious sarcasm. Practice identifying clues together: 'What did their face say? What about their voice?' Safety: Sarcasm detection remains challenging even with training—set realistic expectations. Don't make child paranoid about hidden meanings—most communication is literal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Multiple Meaning Word Resources help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Explores how 'bank' can be a river's edge or a place for money, how 'bat' can fly or hit a ball. Context determines which meaning applies. Price: ₹300–800. DIY option: Create word cards with multiple images per word. Practice: 'Which meaning fits this sentence?' Use picture sorting for same word, different meanings. Safety: Focus on commonly confused words. Ensure child understands both/all meanings being taught before moving on."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Metaphor and Simile Teaching Kits help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches how 'She's a night owl' doesn't mean she's an actual owl—it means she stays up late, like an owl does. The comparison creates meaning. Price: ₹400–1,000. DIY option: Draw comparison diagrams: Person → shared quality ← animal/object. Create 'What quality is being shared?' worksheets with common metaphors. Safety: Start with similes—the explicit 'like' or 'as' makes comparison clearer. Progress to metaphors after similes are understood."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Expression Social Scripts help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Shows common expressions and their meanings in everyday situations—so when someone says 'hang on a second' or 'give me a hand,' the child knows the real meaning. Price: ₹300–900. DIY option: Create expression cards organized by situation: greetings, requests, goodbyes. Include 'What they say' and 'What they mean' columns. Safety: Scripts are tools, not rigid rules—expressions vary. Focus on commonly used expressions in child's environment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does a Context Clue Detection Activities help with figurative language comprehension deficit?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Teaches children to look at the whole picture—the setting, the expressions, the situation—to figure out what words really mean. Price: ₹400–1,200. DIY option: Use picture scenes from magazines or printed images. Ask: 'What's happening? What does the person look like? What would make sense here?' Add verbal statements to interpret. Safety: Context reading requires practice—develop gradually. Teach that literal interpretation is often correct—context helps with exceptions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are the warning signs that need professional help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "RED FLAGS requiring professional consultation: Complete lack of any figurative understanding despite age-appropriate exposure. Inability to learn any idioms even with explicit teaching. Extreme distress when literal interpretation doesn't match reality. Social isolation due to communication misunderstandings. Regression in previously understood expressions. Consult speech-language pathologist if: no progress with figurative language despite explicit teaching, literal interpretation causing significant social difficulties, or figurative language challenges are severely impacting academic comprehension."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What results can I expect?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "REAL WORLD EVIDENCE from Pinnacle Blooms Network: 20M+ Exclusive 1:1 Sessions. 97%+ Measured Improvement. 100+ Centers. "
+            }
+          }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#howto",
+        "name": "How to Help a Child with Figurative Language Comprehension Deficit",
+        "description": "A graded approach using evidence-based materials. Build explicit knowledge of figurative language patterns through systematic teaching—what others absorb implicitly must be taught explicitly.",
+        "totalTime": "PT8W",
+        "estimatedCost": {
+          "@type": "MonetaryAmount",
+          "currency": "INR",
+          "minValue": 3500,
+          "maxValue": 10000
+        },
+        "supply": [
+          {
+            "@type": "HowToSupply",
+            "name": "Visual Idiom Dictionary Cards",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 400,
+              "maxValue": 1200
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Sarcasm Detection Training Materials",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 500,
+              "maxValue": 1500
+            }
+          },
+          {
+            "@type": "HowToSupply",
+            "name": "Multiple Meaning Word Resources",
+            "estimatedCost": {
+              "@type": "MonetaryAmount",
+              "currency": "INR",
+              "minValue": 300,
+              "maxValue": 800
+            }
+          }
+        ],
+        "step": [
+          {
+            "@type": "HowToStep",
+            "position": 1,
+            "name": "Understand the Problem",
+            "text": "A processing difference where children interpret language exactly as spoken, missing the layered meanings in idioms, metaphors, sarcasm, and implied messages. This reflects differences in how language is processed – decoding surface words accurately while missing the hidden meanings that others extract automatically. Build explicit knowledge of figurative language patterns through systematic teaching—what others absorb implicitly must be taught explicitly."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "name": "Start with Foundation Materials",
+            "text": "Begin with: Visual Idiom Dictionary Cards, Sarcasm Detection Training Materials, Multiple Meaning Word Resources."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 3,
+            "name": "Address Environmental Factors",
+            "text": "Remove or modify triggers."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 4,
+            "name": "Introduce Therapeutic Materials",
+            "text": "Use recommended materials consistently."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 5,
+            "name": "Practice Consistently",
+            "text": "Daily consistent practice is key."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 6,
+            "name": "Monitor for Red Flags",
+            "text": "Watch for: Complete lack of any figurative understanding despite age-appropriate exposure, Inability to learn any idioms even with explicit teaching, Extreme distress when literal interpretation doesn't match reality."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 7,
+            "name": "Seek Professional Guidance",
+            "text": "Consult speech-language pathologist if: no progress with figurative language despite explicit teaching, literal interpretation causing significant social difficulties, or figurative language challenges are severely impacting academic comprehension."
+          }
+        ]
+      },
+      {
+        "@type": "MedicalWebPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#medicalpage",
+        "name": "Figurative language comprehension deficit / Literal interpretation pattern Intervention Guide",
+        "about": {
+          "@type": "MedicalCondition",
+          "name": "Figurative language comprehension deficit / Literal interpretation pattern",
+          "alternateName": [
+            "child takes language literally",
+            "autism literal thinking",
+            "child doesn't understand idioms"
+          ],
+          "description": "A processing difference where children interpret language exactly as spoken, missing the layered meanings in idioms, metaphors, sarcasm, and implied messages. This reflects differences in how language is processed – decoding surface words accurately while missing the hidden meanings that others extract automatically.",
+          "signOrSymptom": [
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Looks for actual cats and dogs when told 'it's raining cats and dogs'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Becomes confused when told to 'hit the books'"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Misses sarcasm and takes ironic statements at face value"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Doesn't understand common expressions and phrases"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Takes jokes literally and doesn't see the humor"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Becomes confused when reality doesn't match literal interpretation"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Struggles with metaphors in reading and conversation"
+            },
+            {
+              "@type": "MedicalSignOrSymptom",
+              "name": "Asks 'Why would someone break a leg?' when wished good luck"
+            }
+          ],
+          "possibleTreatment": {
+            "@type": "MedicalTherapy",
+            "name": "Sensory Integration Therapy",
+            "description": "Occupational therapy using graded sensory input"
+          }
+        },
+        "specialty": [
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Occupational Therapy"
+          },
+          {
+            "@type": "MedicalSpecialty",
+            "name": "Sensory Integration"
+          }
+        ],
+        "medicalAudience": {
+          "@type": "MedicalAudience",
+          "audienceType": "Parents, Caregivers, Occupational Therapists"
+        },
+        "lastReviewed": "2025-01-20"
+      },
+      {
+        "@type": "Article",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#article",
+        "headline": "9 Materials That Help With Literal Understanding",
+        "alternativeHeadline": "When words don't mean what they say",
+        "description": "My child takes everything literally and misses hidden meanings? Figurative language comprehension deficit / Literal interpretation pattern is neurological, n...",
+        "datePublished": "2025-01-01T00:00:00+05:30",
+        "dateModified": "2025-01-20T00:00:00+05:30",
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "publisher": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "image": {
+          "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#primaryimage"
+        },
+        "articleSection": "Language & Communication",
+        "wordCount": 3500,
+        "keywords": [
+          "literal thinking autism",
+          "figurative language autism",
+          "teaching idioms autism",
+          "sarcasm detection autism",
+          "child doesn't understand expressions"
+        ],
+        "citation": [
+          {
+            "@type": "CreativeWork",
+            "name": "SPD Foundation",
+            "url": "https://www.spdfoundation.net",
+            "description": "SPD Foundation: Provides accessible, evidence-based information about sensory and developmental processing differences, supporting understanding of how processing differences affect communication and social understanding."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Pinnacle Blooms Network® Clinical Data",
+            "url": "https://www.pinnacleblooms.org",
+            "description": "20M+ exclusive 1:1 therapy sessions with 97%+ measured improvement rate across language and communication interventions via GPT-OS® therapeutic system"
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Norbury CF",
+            "url": "",
+            "description": "The relationship between theory of mind and metaphor: Evidence from children with language impairment and autistic spectrum disorder (2005). Journal of Child Psychology and Psychiatry."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Happé FG",
+            "url": "",
+            "description": "Communicative competence and theory of mind in autism: A test of relevance theory (1993). Cognition."
+          },
+          {
+            "@type": "CreativeWork",
+            "name": "Persicke A et al.",
+            "url": "",
+            "description": "Teaching children with autism to detect and respond to sarcasm (2012). Research in Autism Spectrum Disorders."
+          }
+        ],
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".article-summary",
+            ".key-takeaways"
+          ]
+        }
+      },
+      {
+        "@type": "HealthTopicContent",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#healthcontent",
+        "name": "Figurative language comprehension deficit / Literal interpretation pattern Intervention",
+        "about": {
+          "@type": "MedicalTherapy",
+          "name": "Therapy for Figurative language comprehension deficit / Literal interpretation pattern"
+        },
+        "hasHealthAspect": [
+          "PreventionHealthAspect",
+          "TreatmentsHealthAspect",
+          "SymptomsHealthAspect",
+          "CausesHealthAspect"
+        ],
+        "audience": {
+          "@type": "PeopleAudience",
+          "audienceType": "Parents of children with Figurative Language Comprehension challenges"
+        },
+        "keywords": [
+          "literal thinking autism",
+          "figurative language autism",
+          "teaching idioms autism",
+          "sarcasm detection autism",
+          "child doesn't understand expressions"
+        ]
+      },
+      {
+        "@type": "ClaimReview",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#evidence",
+        "claimReviewed": "Build explicit knowledge of figurative language patterns through systematic teaching—what others absorb implicitly must be taught explicitly. Evidence shows significant improvement with proper intervention.",
+        "reviewBody": "Real World Evidence from Pinnacle Blooms Network: 97%+ Measured Improvement. ",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5,
+          "worstRating": 1,
+          "alternateName": "Strong Real World Evidence"
+        },
+        "itemReviewed": {
+          "@type": "MedicalTherapy",
+          "name": "Figurative Language Comprehension Deficit Intervention Protocol"
+        },
+        "author": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "reviewAspect": "Clinical Efficacy"
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension#collection",
+        "name": "Language Comprehension Series",
+        "description": "Complete series of 200 intervention techniques",
+        "hasPart": [
+          {
+            "@type": "WebPage",
+            "name": "B-153: Gesture-Dependent Comprehension Support",
+            "position": 1
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-154: Building Pretend Play",
+            "position": 2
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-155: Following Multi-Step Directions",
+            "position": 3
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-156: Two-Step Direction Difficulty",
+            "position": 4
+          },
+          {
+            "@type": "WebPage",
+            "name": "B-157: Literal Understanding (THIS REEL)",
+            "position": 5
+          }
+        ],
+        "numberOfItems": 200,
+        "collectionSize": 200
+      },
+      {
+        "@type": "SpecialAnnouncement",
+        "@id": "https://pinnacleblooms.org/#cta",
+        "name": "Free Assessment Available",
+        "text": "Concerned about your child? Book a FREE assessment at any of our 75+ Pinnacle Blooms centers across India. Call 9100 181 181.",
+        "url": "https://pinnacleblooms.org/assess",
+        "category": "https://www.wikidata.org/wiki/Q949699",
+        "datePosted": "2025-01-01",
+        "expires": "2025-12-31",
+        "spatialCoverage": {
+          "@type": "Country",
+          "name": "India"
+        }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#materials",
+        "name": "9 Materials for Figurative Language Comprehension Deficit",
+        "description": "Evidence-based materials for ages 5–14 years",
+        "numberOfItems": 9,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@type": "Product",
+              "name": "Visual Idiom Dictionary Cards",
+              "description": "Shows both the literal image and the real meaning—'spill the beans' shows beans spilling AND someone sharing a secret. See both meanings, understand the real one.",
+              "category": "Idiomteaching",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create flashcards with hand-drawn or printed images: literal interpretation on one side, actual meaning on other. Use magazine cutouts or simple drawings."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't overwhelm with too many idioms at once—quality over quantity. Ensure literal illustration doesn't reinforce literal interpretation—always pair with meaning."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@type": "Product",
+              "name": "Sarcasm Detection Training Materials",
+              "description": "Teaches the clues—the eye roll, the tone of voice, the context that doesn't match the words. When clues contradict words, sarcasm is likely.",
+              "category": "Sarcasmandtone",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create video clips of family members demonstrating obvious sarcasm. Practice identifying clues together: 'What did their face say? What about their voice?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Sarcasm detection remains challenging even with training—set realistic expectations. Don't make child paranoid about hidden meanings—most communication is literal."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@type": "Product",
+              "name": "Multiple Meaning Word Resources",
+              "description": "Explores how 'bank' can be a river's edge or a place for money, how 'bat' can fly or hit a ball. Context determines which meaning applies.",
+              "category": "Wordflexibility",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–800"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create word cards with multiple images per word. Practice: 'Which meaning fits this sentence?' Use picture sorting for same word, different meanings."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Focus on commonly confused words. Ensure child understands both/all meanings being taught before moving on."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@type": "Product",
+              "name": "Metaphor and Simile Teaching Kits",
+              "description": "Teaches how 'She's a night owl' doesn't mean she's an actual owl—it means she stays up late, like an owl does. The comparison creates meaning.",
+              "category": "Wordflexibility",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Draw comparison diagrams: Person → shared quality ← animal/object. Create 'What quality is being shared?' worksheets with common metaphors."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Start with similes—the explicit 'like' or 'as' makes comparison clearer. Progress to metaphors after similes are understood."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@type": "Product",
+              "name": "Expression Social Scripts",
+              "description": "Shows common expressions and their meanings in everyday situations—so when someone says 'hang on a second' or 'give me a hand,' the child knows the real meaning.",
+              "category": "Idiomteaching",
+              "offers": {
+                "@type": "Offer",
+                "price": "300",
+                "priceCurrency": "INR",
+                "priceRange": "₹300–900"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create expression cards organized by situation: greetings, requests, goodbyes. Include 'What they say' and 'What they mean' columns."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Scripts are tools, not rigid rules—expressions vary. Focus on commonly used expressions in child's environment."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@type": "Product",
+              "name": "Context Clue Detection Activities",
+              "description": "Teaches children to look at the whole picture—the setting, the expressions, the situation—to figure out what words really mean.",
+              "category": "Contextintegration",
+              "offers": {
+                "@type": "Offer",
+                "price": "400",
+                "priceCurrency": "INR",
+                "priceRange": "₹400–1,200"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Use picture scenes from magazines or printed images. Ask: 'What's happening? What does the person look like? What would make sense here?' Add verbal statements to interpret."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Context reading requires practice—develop gradually. Teach that literal interpretation is often correct—context helps with exceptions."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@type": "Product",
+              "name": "Literature-Based Figurative Language Resources",
+              "description": "Books and resources that highlight figurative language in stories—showing how authors use idioms, metaphors, and expressions, with explanations of what they really mean.",
+              "category": "Engagedlearning",
+              "offers": {
+                "@type": "Offer",
+                "price": "500",
+                "priceCurrency": "INR",
+                "priceRange": "₹500–1,500"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "While reading together, pause at figurative expressions. Keep a reading journal of expressions encountered with their meanings. Discuss: 'What does this really mean in the story?'"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Don't turn pleasurable reading into tedious analysis. Balance figurative language focus with story enjoyment."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@type": "Product",
+              "name": "Figurative Language Video Modeling",
+              "description": "Videos show people using figurative language in real conversations—with explanations of what they mean. Hearing and seeing expressions in use builds real-world understanding.",
+              "category": "Engagedlearning",
+              "offers": {
+                "@type": "Offer",
+                "price": "600",
+                "priceCurrency": "INR",
+                "priceRange": "₹600–2,000"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Record family members using common expressions naturally. Watch together, pausing to explain. Create a video library of expressions in use."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Video quality and naturalness matters—avoid stilted performances. Ensure videos represent diverse speakers and situations."
+                }
+              ]
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@type": "Product",
+              "name": "Clarification Request Training Materials",
+              "description": "Teaches children to recognize when they might be taking something too literally—and to ask 'Do you mean that literally?' It's okay not to know—it's smart to ask.",
+              "category": "Selfadvocacy",
+              "offers": {
+                "@type": "Offer",
+                "price": "200",
+                "priceCurrency": "INR",
+                "priceRange": "₹200–600"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "DIY Option",
+                  "value": "Create prompt cards with phrases: 'Do you mean that literally?' 'Is that an expression?' 'What do you mean by that?' Practice in role-play scenarios."
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Safety Note",
+                  "value": "Balance clarification asking with building figurative language knowledge. Normalize confusion: 'Everyone hears expressions they don't know—asking is smart.'"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Course",
+        "@id": "https://pinnacleblooms.org/intervention-techniques/language & communication/figurative language comprehension/9-materials-that-help-with-literal-understanding#course",
+        "name": "Language & Communication Solutions",
+        "description": "Parent education video series on Language & Communication interventions, powered by GPT-OS Therapy Intelligence",
+        "provider": {
+          "@id": "https://pinnacleblooms.org/#organization"
+        },
+        "educationalLevel": "Parent Education",
+        "audience": {
+          "@type": "EducationalAudience",
+          "educationalRole": "Parent/Caregiver"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "online",
+          "courseWorkload": "PT60S per episode"
+        },
+        "numberOfCredits": 0,
+        "isAccessibleForFree": true
+      }
+    ]
+  },
+  "meta": {
+    "dublinCore": [
+      {
+        "name": "DC.title",
+        "content": "9 Materials That Help With Literal Understanding | Pinnacle Blooms"
+      },
+      {
+        "name": "DC.subject",
+        "content": "literal thinking autism, figurative language autism, teaching idioms autism, sarcasm detection autism, child doesn't understand expressions"
+      },
+      {
+        "name": "DC.creator",
+        "content": "Pinnacle Blooms Network"
+      },
+      {
+        "name": "DC.type",
+        "content": "Video"
+      },
+      {
+        "name": "DC.format",
+        "content": "video/mp4"
+      }
+    ],
+    "openGraph": {
+      "og:type": "video.other",
+      "og:video": "https://pinnacleblooms.org/videos/reels/B-157.mp4",
+      "og:video:type": "video/mp4",
+      "og:video:width": "1080",
+      "og:video:height": "1920",
+      "og:image": "https://pinnacleblooms.org/images/reels/B-157-thumb.webp"
+    },
+    "twitter": {
+      "twitter:card": "player",
+      "twitter:player": "https://pinnacleblooms.org/videos/reels/B-157.mp4",
+      "twitter:player:width": "1080",
+      "twitter:player:height": "1920"
+    }
+  },
+  "tracking": {
+    "metaPixelViewContent": {
+      "content_name": "9 Materials That Help With Literal Understanding",
+      "content_category": "Intervention Techniques > Language & Communication > Figurative Language Comprehension",
+      "content_ids": [
+        "B-157"
+      ],
+      "content_type": "video",
+      "value": 0,
+      "currency": "INR"
+    },
+    "dataLayer": {
+      "customDimensions": {
+        "technique_id": "B-157",
+        "technique_theme": "9MAT",
+        "domain": "Language & Communication",
+        "sub_domain": "Figurative Language Comprehension",
+        "domain_code": "LANG-FIG",
+        "series": "Language & Communication Solutions",
+        "episode": 157,
+        "age_band": "5–14 years",
+        "setting": "Home & School",
+        "cluster_id": "LANG-COMP-03",
+        "cluster_position": 157,
+        "materials_count": 9,
+        "total_cost_range": "₹3,500–10,000 for comprehensive setup"
+      }
+    }
+  },
+  "socialMedia": {
+    "hashtags": [
+      "#LiteralThinking",
+      "#FigurativeLanguage",
+      "#AutismLanguage",
+      "#IdiomTeaching",
+      "#SarcasmDetection",
+      "#LanguageComprehension",
+      "#SpeechTherapy",
+      "#AutismSupport",
+      "#SocialCommunication",
+      "#PinnacleBlooms",
+      "#MetaphorUnderstanding",
+      "#LanguageDevelopment",
+      "#HiddenMeanings",
+      "#AutismEducation",
+      "#PragmaticLanguage"
+    ],
+    "caption": "Does your child take everything literally? 🤔 When 'break a leg' causes horror instead of confidence, language is hiding meanings they can't see. Literal interpretation isn't a lack of intelligence—it's a difference in how language is processed. Here are 9 materials that help children find the meaning behind the words. Save this to unlock hidden meanings! #LiteralThinking #FigurativeLanguage #AutismSupport #LanguageComprehension #PinnacleBlooms"
+  },
+  "relatedContent": {
+    "nextInSeries": "B-158",
+    "prevInSeries": "B-156",
+    "relatedTechniques": [
+      "B-155",
+      "B-158",
+      "B-162",
+      "B-165",
+      "B-170"
+    ],
+    "deepDives": [
+      "B-157-DD-01",
+      "B-157-DD-02",
+      "B-157-DD-03"
+    ],
+    "parentSupport": [
+      "K-881",
+      "K-903",
+      "K-925"
+    ]
+  }
+}
