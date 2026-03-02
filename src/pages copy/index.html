@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pinnacle Blooms® Interventions Library</title>
+  <meta name="material-id" content="">
+  <meta name="material-name" content="index">
+  <script>
+    // Redirect based on viewport
+    const isMobile = window.innerWidth <= 768 || /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    window.location.href = isMobile ? 'index.mobile.html' : 'index.desktop.html';
+  </script>
+  
+  <style>
+    body { font-family: system-ui, sans-serif; text-align: center; padding: 2rem; }
+  </style>
+</head>
+<body>
+  <p>Redirecting to index...</p>
+  <noscript>
+    <p><a href="index.desktop.html">View Desktop Version</a></p>
+    <p><a href="index.mobile.html">View Mobile Version</a></p>
+  </noscript>
+  <script>
+    
+const pbShare = {
+  config: {
+    url: window.location.href,
+    title: document.title,
+    description: 'Evidence-based therapeutic material from Pinnacle Blooms Network.',
+    image: '',
+    hashtags: 'Autism,TherapyMaterials,PinnacleBlooms',
+    via: 'PinnacleBlooms'
+  },
+
+  shareOn(platform) {
+    const { url, title, description, image, hashtags, via } = this.config;
+    const e = encodeURIComponent;
+
+    const urls = {
+      whatsapp: `https://api.whatsapp.com/send?text=${e(title)}%0A%0A${e(description)}%0A%0A${e(url)}`,
+      facebook: `https://www.facebook.com/sharer/sharer.php?u=${e(url)}`,
+      twitter: `https://twitter.com/intent/tweet?url=${e(url)}&text=${e(title)}&hashtags=${hashtags}&via=${via}`,
+      linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${e(url)}`,
+      telegram: `https://t.me/share/url?url=${e(url)}&text=${e(title)}`,
+      pinterest: `https://pinterest.com/pin/create/button/?url=${e(url)}&media=${e(image)}&description=${e(description)}`,
+      instagram: null,
+      email: `mailto:?subject=${e(title)}&body=${e(description)}%0A%0A${e(url)}`
+    };
+
+    if (platform === 'instagram') {
+      this.showToast('Copy link & share on Instagram!');
+      this.copyLink();
+      return;
+    }
+
+    if (urls[platform]) {
+      window.open(urls[platform], '_blank', 'width=600,height=400');
+    }
+  },
+
+  async nativeShare() {
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: this.config.title,
+          text: this.config.description,
+          url: this.config.url
+        });
+      } catch {}
+    }
+  },
+
+  async copyLink() {
+    try {
+      await navigator.clipboard.writeText(this.config.url);
+    } catch {
+      const t = document.createElement('textarea');
+      t.value = this.config.url;
+      t.style.position = 'fixed';
+      t.style.opacity = '0';
+      document.body.appendChild(t);
+      t.select();
+      document.execCommand('copy');
+      document.body.removeChild(t);
+    }
+    this.showToast('Link copied!');
+  },
+
+  showToast(msg) {
+    const toast = document.getElementById('pbToast');
+    if (!toast) return;
+    document.getElementById('pbToastMsg').textContent = msg;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 3000);
+  }
+};
+
+// 🔥 THIS WAS MISSING
+document.addEventListener('click', function (e) {
+  const btn = e.target.closest('[data-action]');
+  if (!btn) return;
+
+  const action = btn.dataset.action;
+  const block = btn.closest('.pb-share-block');
+  if (!block) return;
+
+  pbShare.config.url = block.dataset.url || window.location.href;
+  pbShare.config.title = block.dataset.title || document.title;
+
+  if (action === 'native') return pbShare.nativeShare();
+  if (action === 'copy') return pbShare.copyLink();
+  if (action === 'print') return window.print();
+
+  pbShare.shareOn(action);
+});
+
+  </script>
+</body>
+</html>
